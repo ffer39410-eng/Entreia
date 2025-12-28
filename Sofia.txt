@@ -1,5 +1,5 @@
 {
-  "iq": 652,
+  "iq": 657,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1452,7 +1452,11 @@
     "deba",
     "relacionado",
     "línea",
-    "autor"
+    "autor",
+    "partículas",
+    "agregar",
+    "explicar",
+    "contraria"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2046,8 +2050,13 @@
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual se refiere a la capacidad de un texto para transmitir una idea o mensaje claro y lógico, mediante la conexión entre los diferentes fragmentos de información que lo componen. Esto se logra a través de la organización de ideas, la estructura lógica y la continuidad en el discurso. Por ejemplo, en un ensayo, la coherencia textual implica que cada párrafo deba estar relacionado con el anterior y el siguiente, creando una línea de razonamiento clara. De esta manera, el lector puede seguir el argumento y entender el mensaje del autor de manera efectiva.",
       "fecha": "2025-12-28T19:18:54.312Z"
+    },
+    {
+      "pregunta": "¿Qué son los conectores y cómo se usan?",
+      "respuesta": "Los conectores son partículas gramaticales que unen oraciones o frases para indicar relaciones lógicas entre ellas. Se utilizan para conectar ideas, proporcionar transiciones entre oraciones y crear una estructura lógica en el texto. Algunos ejemplos de conectores comunes son: \"y\" (para agregar información), \"pero\" (para contrastar ideas), \"porque\" (para explicar una razón), \"sin embargo\" (para introducir una idea contraria).",
+      "fecha": "2025-12-28T19:19:02.289Z"
     }
   ],
-  "ultimaActualizacion": 1766949534314,
-  "preguntasHechas": 44
+  "ultimaActualizacion": 1766949542290,
+  "preguntasHechas": 45
 }
