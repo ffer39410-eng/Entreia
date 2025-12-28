@@ -1,5 +1,5 @@
 {
-  "iq": 1905,
+  "iq": 1910,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2543,16 +2543,17 @@
     "inicio",
     "nouns",
     "conjugaciones",
-    "excepciones"
+    "excepciones",
+    "sencillo",
+    "caloroso",
+    "demasiado",
+    "fría",
+    "record",
+    "resaltar"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué es la coherencia textual?",
-      "respuesta": "La coherencia textual se refiere a la capacidad de un texto para transmitir una idea o mensaje claro y lógico, gracias a la conexión entre las ideas, oraciones y palabras que lo componen. Esto implica que cada sección o idea del texto esté relacionada con las anteriores y las posteriores de manera natural y lógica. Por ejemplo, en un ensayo sobre la importancia de la educación, la coherencia textual se logra cuando cada oración o párrafo se enfoca en una idea relacionada con la educación, creando un flujo lógico y fácil de seguir.",
-      "fecha": "2025-12-28T20:06:28.150Z"
-    },
     {
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras que indican la relación entre un sustantivo o un pronombre y otros elementos en una oración, como lugares, momentos, direcciones o causas. Por ejemplo, en la frase \"El libro está sobre la mesa\", la preposición \"sobre\" indica la relación entre el libro y la mesa. Las preposiciones ayudan a clarificar la estructura y el significado de la oración, haciendo que sea más fácil de entender y de construir.",
@@ -3547,8 +3548,13 @@
       "pregunta": "¿Cuáles son las reglas de la gramática española?",
       "respuesta": "La gramática española se rige por una serie de reglas y principios que guían la construcción de las oraciones y la forma en que se expresan las ideas. Algunas de las reglas fundamentales incluyen:\n\n- El orden de las palabras: en español, el sujeto generalmente se coloca al inicio de la oración seguido por el verbo y luego los complementos.\n- El género y el número: los nouns y adjetivos en español tienen género (masculino o femenino) y número (singular o plural).\n- Los verbos: los verbos en español tienen diferentes conjugaciones según la persona, el tiempo y el modo en que se expresan.\n\nPor ejemplo: \"El (sujeto) come (verbo) una manzana (complemento)\".\nRecuerda que estas reglas son solo las más básicas, y hay muchas otras reglas y excepciones en",
       "fecha": "2025-12-28T21:11:07.849Z"
+    },
+    {
+      "pregunta": "¿Qué son los sinónimos y antónimos?",
+      "respuesta": "Los sinónimos son palabras que tienen el mismo significado o casi idéntico, como \"fácil\" y \"sencillo\". Por ejemplo: \"La prueba fue muy fácil, una cuestión de hacerlo con facilidad\".\n\nLos antónimos, por otro lado, son palabras que tienen un sentido opuesto, como \"muy frío\" y \"caloroso\". Por ejemplo: \"La habitación estaba demasiado fría, lo que me recordó el calor de la playa en verano\".\n\nEn resumen, los sinónimos se utilizan para expresar la misma idea, mientras que los antónimos se utilizan para resaltar la diferencia o la oposición.",
+      "fecha": "2025-12-28T21:11:15.963Z"
     }
   ],
-  "ultimaActualizacion": 1766956267850,
-  "preguntasHechas": 293
+  "ultimaActualizacion": 1766956275964,
+  "preguntasHechas": 294
 }
