@@ -1,5 +1,5 @@
 {
-  "iq": 2575,
+  "iq": 2582,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2938,16 +2938,16 @@
     "período",
     "vive",
     "invitado",
-    "cumpleaños"
+    "cumpleaños",
+    "causalidades",
+    "estudias",
+    "notas",
+    "obtienes",
+    "mejores"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué son los sinónimos y antónimos?",
-      "respuesta": "Los sinónimos son palabras que tienen el mismo significado que otra palabra, pero con una forma diferente. Por ejemplo, \"fuerte\" y \"potente\" son sinónimos. Los antónimos, por otro lado, son palabras que tienen significados opuestos. Por ejemplo, \"grande\" y \"pequeño\" son antónimos.\n\nEjemplo: Si alguien describe algo como \"fuerte\", podría también usar \"potente\" para describir lo mismo, pero \"fuerte\" y \"débil\" son antónimos porque tienen significados opuestos.",
-      "fecha": "2025-12-28T20:54:27.623Z"
-    },
     {
       "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
       "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de analizar información, establecer conexiones lógicas y llegar a conclusiones precisas. Esto implica identificar premisas, establecer relaciones lógicas y sacar conclusiones que se derivan razonablemente de ellas. Por ejemplo, si alguien dice \"Si llueve, no puedo jugar al fútbol fuera. Hoy llueve, entonces no puedo jugar al fútbol\". En este caso, la persona está utilizando un razonamiento lógico para llegar a una conclusión basada en premisas conocidas.",
@@ -3942,8 +3942,13 @@
       "pregunta": "¿Cómo se construyen oraciones complejas en español?",
       "respuesta": "Una oración compleja se construye combinando una oración simple con otra oración simple o con un período subordinado. Por ejemplo: \"Mi amiga, que vive en Madrid, me ha invitado a su cumpleaños\" donde \"que vive en Madrid\" es una oración subordinada y \"a su cumpleaños\" es un período subordinado.",
       "fecha": "2025-12-28T21:31:55.732Z"
+    },
+    {
+      "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
+      "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de analizar e evaluar información, utilizar premisas y llegar a conclusiones lógicas y racionales. Esto implica identificar patrones, relaciones y causalidades entre ideas, y utilizar reglas de inferencia para llegar a conclusiones coherentes. Por ejemplo, si alguien afirma que \"cuanto más estudias, mejor notas obtienes\", un razonamiento lógico implicaría preguntar \"¿qué define 'estudiar'?\" y \"¿qué define 'mejores notas'?\" para evaluar la validez de la afirmación.",
+      "fecha": "2025-12-28T21:32:03.715Z"
     }
   ],
-  "ultimaActualizacion": 1766957515734,
-  "preguntasHechas": 421
+  "ultimaActualizacion": 1766957523717,
+  "preguntasHechas": 422
 }
