@@ -1,5 +1,5 @@
 {
-  "iq": 174,
+  "iq": 178,
   "vocabulario": [
     "claro",
     "sofia",
@@ -453,7 +453,27 @@
     "miel",
     "gran",
     "teatro",
-    "teatral"
+    "teatral",
+    "coherencia",
+    "textual",
+    "transmitir",
+    "mensaje",
+    "consistente",
+    "través",
+    "introducción",
+    "cuerpo",
+    "cada",
+    "párrafo",
+    "contribuye",
+    "narrativa",
+    "coherente",
+    "saltos",
+    "contradicciones",
+    "ensayo",
+    "medio",
+    "ambiente",
+    "debe",
+    "estar"
   ],
   "lecciones": 14,
   "conversaciones": 1,
@@ -562,8 +582,13 @@
       "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
       "respuesta": "Las metáforas son una figura retórica que permite transferir un concepto o un sentimiento de un dominio a otro, creando una nueva representación de la realidad. Se utilizan para describir objetos, ideas o situaciones de manera creativa y evocadora, como en la famosa frase \"Ella es una estrella\" que compara a una persona con una estrella brillante. Algunos ejemplos de metáforas en el lenguaje incluyen \"Su voz es miela sobre un tazón de té\" (comparando la voz con miel) o \"El mundo es un gran teatro\" (comparando el mundo con un escenario teatral).",
       "fecha": "2025-12-28T19:01:56.351Z"
+    },
+    {
+      "pregunta": "¿Qué es la coherencia textual?",
+      "respuesta": "La coherencia textual se refiere a la capacidad de un texto para transmitir una idea o mensaje claro y consistente a través de sus diferentes partes, como la introducción, el cuerpo y la conclusión. Esto implica que cada oración o párrafo contribuye a una narrativa o argumentación coherente, sin saltos de tema o contradicciones. Por ejemplo, en un ensayo sobre la importancia del medio ambiente, cada oración debe estar relacionada con el tema principal y apoyar la argumentación.",
+      "fecha": "2025-12-28T19:02:04.208Z"
     }
   ],
-  "ultimaActualizacion": 1766948516356,
+  "ultimaActualizacion": 1766948524210,
   "preguntasHechas": null
 }
