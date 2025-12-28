@@ -1,5 +1,5 @@
 {
-  "iq": 2964,
+  "iq": 2967,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3115,16 +3115,12 @@
     "sigo",
     "trabajando",
     "substantivos",
-    "substantivo"
+    "substantivo",
+    "determinan"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué es la coherencia textual?",
-      "respuesta": "La coherencia textual se refiere a la capacidad de un texto para mantener una conexión lógica y consistente entre las ideas, conceptos y oraciones que lo componen. Es la habilidad de expresar pensamientos y opiniones de manera clara y ordenada, sin saltos ni contradicciones. Por ejemplo, si escribimos sobre un viaje a la playa, la coherencia textual nos permite describir la llegada, la estancia y la partida de manera lógica y consecutiva. Esto ayuda a los lectores a seguir y comprender el texto de manera fácil.",
-      "fecha": "2025-12-28T21:11:31.703Z"
-    },
     {
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras que indican la relación entre un sustantivo o un grupo de palabras y otros elementos en una oración, como lugares, tiempo, causas, medios, etc. Por ejemplo: \"La casa está en la calle principal\" (indica la ubicación de la casa). Las preposiciones más comunes son: \"en\", \"de\", \"a\", \"con\", \"sin\", \"por\", \"para\", \"como\", \"sin\".",
@@ -4119,8 +4115,13 @@
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras que se utilizan para indicar la relación entre un objeto o un sujeto y otro elemento en una oración. Sirven para expresar conceptos como ubicación, dirección, tiempo, cantidad, propósito, causa, etc. Por ejemplo: \"Estoy en la biblioteca\" (ubicación), \"Voy hacia la playa\" (dirección), \"Tengo tres libros\" (cantidad).",
       "fecha": "2025-12-28T21:50:19.621Z"
+    },
+    {
+      "pregunta": "¿Cuáles son las reglas de la gramática española?",
+      "respuesta": "La gramática española se rige por reglas que determinan la estructura y el uso correcto de la lengua. Algunas de las reglas más importantes incluyen el uso correcto de género (masculino y femenino) y número (singular y plural), el orden de las palabras en una oración (Sujeto-Verbo-Complemento), el uso de artículos (el/la, los/las), y el empleo adecuado de conjugación verbal (presente, pretérito, futuro, etc.). Además, es fundamental conocer las reglas de uso de los tiempos verbales, como el pretérito perfecto y el pretérito imperfecto.",
+      "fecha": "2025-12-28T21:50:28.051Z"
     }
   ],
-  "ultimaActualizacion": 1766958619621,
-  "preguntasHechas": 495
+  "ultimaActualizacion": 1766958628053,
+  "preguntasHechas": 496
 }
