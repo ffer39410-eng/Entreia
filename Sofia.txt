@@ -1,5 +1,5 @@
 {
-  "iq": 2932,
+  "iq": 2939,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3105,16 +3105,12 @@
     "faciales",
     "debatiendo",
     "estándar",
-    "implementando"
+    "implementando",
+    "lados"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo se construyen oraciones complejas en español?",
-      "respuesta": "Una oración compleja en español se construye utilizando un verbo principal y un verbo subordinado, unidas por una conjunción de subordinación como \"que\", \"ya que\", \"aunque\", etc. Por ejemplo: \"Aunque estaba cansado, continuó estudiando\". En esta oración, \"estudiando\" es la oración subordinada, unida a la oración principal \"estaba cansado\" a través de la conjunción \"aunque\".\n\nUna oración compleja también puede tener más de un verbo principal, unidas por conjunciones de coordinación como \"y\", \"o\", \"pero\", etc. Por ejemplo: \"Compró libros y luego los leyó\". En esta oración, \"compró libros\" y \"los leyó\" son dos oraciones principales, unidas por la conjunción \"y\".\n\nTambién es posible tener oraciones completas",
-      "fecha": "2025-12-28T21:10:51.795Z"
-    },
     {
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras que se utilizan para indicar la relación entre un sustantivo o pronombre y otro elemento en la oración, como un lugar, una acción, un tiempo o una manera. Sirven para establecer la conexión entre esos elementos y proporcionan información adicional sobre la acción o situación descrita. Por ejemplo, en la oración \"El libro está sobre la mesa\", la preposición \"sobre\" indica la relación entre el libro y la mesa.\n\nAlgunas de las preposiciones más comunes en español son:\n\n- En: \"El libro está en la biblioteca\".\n- De: \"La fruta es de la tierra\".\n- Con: \"Ando con mis amigos\".\n- Desde: \"Viene desde la ciudad\".\n- Hasta: \"Voy hasta el parque\".\n- Por: \"Vivo por la ciudad\".\n- Para: \"Voy para la universidad\".\n\nEstas son solo algunas",
@@ -4109,8 +4105,13 @@
       "pregunta": "¿Cómo se estructura una buena argumentación?",
       "respuesta": "Una buena argumentación se estructura en tres partes clave: tópico, argumento y conclusión. El tópico es el tema o la cuestión sobre la que se argumenta. El argumento es la razón o la evidencia que se presenta para apoyar el tópico, mientras que la conclusión es la conclusión o el resultado final que se deriva del argumento. Por ejemplo, si estamos debatiendo sobre si la educación estándar es efectiva, el tópico es \"La educación estándar\", el argumento podría ser \"Los estudios demuestran que la educación estándar mejora los resultados académicos\" y la conclusión sería \"Por lo tanto, debemos seguir implementando la educación estándar en nuestras escuelas\".",
       "fecha": "2025-12-28T21:49:39.906Z"
+    },
+    {
+      "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
+      "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de analizar información, establecer conexiones lógicas entre ideas y llegar a conclusiones basadas en argumentos sólidos. Esto implica utilizar principios de lógica y razonamiento para evaluar argumentos y tomar decisiones informadas. Por ejemplo, en una discusión sobre política, un interlocutor pueden utilizar el razonamiento lógico para analizar los argumentos presentados por ambos lados y llegar a una conclusión basada en la evidencia. Esto ayuda a evitar la confusión y a tomar decisiones más precisas.",
+      "fecha": "2025-12-28T21:49:49.409Z"
     }
   ],
-  "ultimaActualizacion": 1766958579908,
-  "preguntasHechas": 490
+  "ultimaActualizacion": 1766958589411,
+  "preguntasHechas": 491
 }
