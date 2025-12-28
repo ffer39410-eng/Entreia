@@ -1,5 +1,5 @@
 {
-  "iq": 2734,
+  "iq": 2741,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3005,16 +3005,15 @@
     "mueve",
     "despacio",
     "asumir",
-    "responsabilidad"
+    "responsabilidad",
+    "tendencias",
+    "climáticas",
+    "observadas",
+    "apoyen"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo se estructura una buena argumentación?",
-      "respuesta": "Una buena argumentación se estructura en torno a tres componentes fundamentales: la premisa, el razonamiento y la conclusión. La premisa es el punto de partida, la información o el hecho que se utiliza para apoyar la argumentación. El razonamiento es el proceso lógico que se utiliza para conectar las premisas y llegar a la conclusión. La conclusión es el resultado final, la conclusión que se extrae a partir de las premisas y el razonamiento.\n\nPor ejemplo, si queremos argumentar que el aumento del nivel del mar es un problema grave, la premisa podría ser el hecho de que la temperatura del planeta está aumentando, el razonamiento sería la consecuencia lógica de que el hielo se derrite y el nivel del mar se eleva, y la conclusión sería que el aumento del nivel del mar es un problema grave que requiere atención inmediata",
-      "fecha": "2025-12-28T21:02:59.832Z"
-    },
     {
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son palabras o expresiones que nos ayudan a unir ideas, oraciones o frases dentro de un texto o discurso de manera lógica y coherente. Se utilizan para conectar ideas complementarias, opositivas, causales o consecuentes, y pueden ser de diferentes tipos, como conjunciones (y, pero, o), conjunciones aditivas (además, tampoco, tanto), conjunciones adversativas (aunque, sin embargo), conjunciones explicativas (es decir, por ejemplo) y conjunciones condicionales (si, porque).\n\nPor ejemplo: \"Me encanta leer libros, además de que me gusta leer artículos en internet.\" (En este caso, \"además de que\" es un conector que une dos oraciones para mostrar una idea adicional).",
@@ -4009,8 +4008,13 @@
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar información de manera objetiva y sistemática, considerando múltiples perspectivas y fuentes de información. Esto implica cuestionar suposiciones y asumir responsabilidad de las propias creencias y opiniones. El pensamiento crítico se desarrolla a través de la práctica de la reflexión y la discusión, lo que ayuda a fortalecer la habilidad de razonamiento y la capacidad de llegar a conclusiones informadas.",
       "fecha": "2025-12-28T21:44:35.653Z"
+    },
+    {
+      "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
+      "respuesta": "El razonamiento lógico en conversaciones es la capacidad de pensar y comunicarse de manera clara y coherente, utilizando argumentos y razones para apoyar tus opiniones o conclusiones. Implica analizar información, identificar relaciones lógicas entre ideas y presentar tu argumento de manera organizada y convincente. Por ejemplo, si alguien te dice que la temperatura es muy alta en un lugar debido al calentamiento global, un razonamiento lógico implicaría analizar la información y presentar argumentos que respalden esta afirmación, como las tendencias climáticas observadas o estudios científicos que lo apoyen.",
+      "fecha": "2025-12-28T21:44:43.780Z"
     }
   ],
-  "ultimaActualizacion": 1766958275655,
-  "preguntasHechas": 452
+  "ultimaActualizacion": 1766958283782,
+  "preguntasHechas": 453
 }
