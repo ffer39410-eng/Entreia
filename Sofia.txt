@@ -1,5 +1,5 @@
 {
-  "iq": 1250,
+  "iq": 1257,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2059,16 +2059,13 @@
     "química",
     "caracteriza",
     "relacionado",
-    "relajada"
+    "relajada",
+    "reemplazarlas",
+    "veloz"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo funcionan los tiempos verbales?",
-      "respuesta": "Los tiempos verbales son fundamentalmente usados para indicar momentos en el tiempo, y se dividen en tres grandes categorías: pasado, presente y futuro. El pasado se utiliza para referirse a eventos o acciones que ya han ocurrido, como \"estudié\" o \"comí\". El presente se utiliza para describir acciones o estados que están ocurriendo en el momento actual, como \"estudio\" o \"como\". El futuro se utiliza para hablar sobre eventos o acciones que aún no han ocurrido, pero se espera que sucedan, como \"estudiaré\" o \"comeré\".",
-      "fecha": "2025-12-28T19:04:44.292Z"
-    },
     {
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras que se utilizan para indicar la relación entre un objeto o concepto y otro en una oración, como el lugar, la dirección, la cantidad, la relación, entre otros. Por ejemplo: \"El libro está en la mesa\" (la preposición \"en\" indica el lugar donde se encuentra el libro). Sirven para proporcionar información adicional sobre la relación entre los elementos de una oración, lo que mejora la comprensión del significado.",
@@ -3063,8 +3060,13 @@
       "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
       "respuesta": "El vocabulario técnico se refiere a las palabras y expresiones utilizadas en un campo específico, como la medicina, la tecnología o la química, y se caracteriza por ser preciso y objetivo. Por otro lado, el vocabulario coloquial está relacionado con la comunicación informal y cotidiana, y se utiliza para expresar ideas y sentimientos de manera más relajada y accesible. Por ejemplo, en medicina, \"cirugía\" es un término técnico, mientras que \"operación\" es un vocabulario coloquial.",
       "fecha": "2025-12-28T20:34:35.770Z"
+    },
+    {
+      "pregunta": "¿Qué son los sinónimos y antónimos?",
+      "respuesta": "Excelente pregunta. Los sinónimos son palabras o expresiones que tienen el mismo significado que otra palabra o expresión, lo que permite reemplazarlas en un texto sin cambiar su sentido. Por ejemplo, \"feliz\" y \"alegre\" son sinónimos. Los antónimos, por otro lado, son palabras o expresiones que tienen un sentido opuesto al de otra palabra o expresión. Por ejemplo, \"grande\" y \"pequeño\" son antónimos.\n\nAquí hay otro ejemplo con las palabras \"rápido\" y \"lento\", que son antónimos, y \"rápido\" y \"veloz\", que son sinónimos. \n\nTambién podemos observar que palabras como \"bueno\" y \"malo\" son antónimos.",
+      "fecha": "2025-12-28T20:34:43.751Z"
     }
   ],
-  "ultimaActualizacion": 1766954075772,
-  "preguntasHechas": 167
+  "ultimaActualizacion": 1766954083753,
+  "preguntasHechas": 168
 }
