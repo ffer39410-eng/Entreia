@@ -1,5 +1,5 @@
 {
-  "iq": 934,
+  "iq": 937,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1763,7 +1763,9 @@
     "dónde",
     "gustaría",
     "contigo",
-    "separa"
+    "separa",
+    "contradictorio",
+    "velocidades"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2652,8 +2654,13 @@
       "pregunta": "¿Cómo se usa la puntuación correctamente?",
       "respuesta": "La puntuación es un elemento fundamental en la escritura, ya que ayuda a estructurar y transmitir el significado de nuestra comunicación. Utilizamos signos de puntuación como comas, puntos, signos de interrogación y exclamación para separar ideas, indicar la finalización de oraciones y enfatizar la emoción o la pregunta. Un ejemplo de uso correcto de la puntuación es: \"¿Dónde vas hoy? Me gustaría ir contigo.\"\n\nDe manera que, la coma separa las oraciones independientes y el signo de interrogación indica que es una pregunta.",
       "fecha": "2025-12-28T20:11:15.952Z"
+    },
+    {
+      "pregunta": "¿Qué son los sinónimos y antónimos?",
+      "respuesta": "Los sinónimos son palabras o expresiones que tienen el mismo significado o connotación que otras palabras. Por ejemplo, \"gran\" y \"enorme\" son sinónimos porque se refieren a algo de gran tamaño. Otro ejemplo es \"feliz\" y \"alegre\", que se refieren a un estado emocional positivo.\n\nPor otro lado, los antónimos son palabras o expresiones que tienen un significado opuesto o contradictorio. Por ejemplo, \"rápido\" y \"lento\" son antónimos porque se refieren a velocidades opuestas. Otro ejemplo es \"grande\" y \"pequeño\", que se refieren a tamaños opuestos.",
+      "fecha": "2025-12-28T20:11:23.665Z"
     }
   ],
-  "ultimaActualizacion": 1766952675953,
-  "preguntasHechas": 103
+  "ultimaActualizacion": 1766952683666,
+  "preguntasHechas": 104
 }
