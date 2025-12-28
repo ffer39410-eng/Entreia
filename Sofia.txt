@@ -1,5 +1,5 @@
 {
-  "iq": 2075,
+  "iq": 2079,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2666,16 +2666,12 @@
     "buscaría",
     "deje",
     "llevar",
-    "fundamento"
+    "fundamento",
+    "obtiene"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué es la coherencia textual?",
-      "respuesta": "La coherencia textual se refiere a la propiedad de un texto que garantiza que las ideas y las frases se conecten de manera lógica y consistente entre sí, permitiendo que el lector siga fácilmente la secuencia de ideas y conceptos. Esto se logra mediante la utilización de conectores lingüísticos como \"además\", \"sin embargo\", \"porque\", etc. La coherencia textual es fundamental para expresar ideas complejas de manera clara y comprensible. Al ejemplo: \"Me levanté temprano, porque tenía que asistir a una reunión importante. Además, quería tener tiempo para desayunar antes de salir\".",
-      "fecha": "2025-12-28T20:16:19.797Z"
-    },
     {
       "pregunta": "¿Cómo se estructura una buena argumentación?",
       "respuesta": "Una buena argumentación se estructura a través de varias fases clave. Primero, se define el tema a debatir o el problema a resolver, seguido de una tesis clara y concisa que resume la posición del hablante. A continuación, se presentan pruebas y evidencias sólidas que respaldan la tesis, tales como datos, estadísticas o citas de expertos. Finalmente, se refutan posibles objeciones y contrapuntos para robustecer la argumentación y demostrar la solidez del razonamiento.",
@@ -3670,8 +3666,13 @@
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son palabras o expresiones que nos ayudan a enlazar ideas, oraciones o frases entre sí, creando una relación lógica y coherente en un texto o discurso. Algunos ejemplos de conectores son \"y\", \"pero\", \"aunque\", \"mientras\", \"ya que\", entre otros. Por ejemplo: \"Me gusta leer y escribir porque me ayuda a relajarme\". En este ejemplo, el conector \"y\" une dos ideas, mientras que \"porque\" establece una causa y efecto.",
       "fecha": "2025-12-28T21:15:31.889Z"
+    },
+    {
+      "pregunta": "¿Cómo se estructura una buena argumentación?",
+      "respuesta": "Una buena argumentación se estructura en cuatro componentes básicos: Tesis, Premisas, Inferencia y Conclusión. La tesis es el enunciado principal que se pretende demostrar o refutar. Las premisas son los hechos o ideas que se utilizan como base para apoyar la tesis. La inferencia es el proceso de razonamiento que se utiliza para conectar las premisas con la tesis. Finalmente, la conclusión es la respuesta final que se obtiene al combinar la tesis y las premisas.",
+      "fecha": "2025-12-28T21:15:39.833Z"
     }
   ],
-  "ultimaActualizacion": 1766956531889,
-  "preguntasHechas": 326
+  "ultimaActualizacion": 1766956539835,
+  "preguntasHechas": 327
 }
