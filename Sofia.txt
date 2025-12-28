@@ -1,5 +1,5 @@
 {
-  "iq": 146,
+  "iq": 151,
   "vocabulario": [
     "claro",
     "sofia",
@@ -284,7 +284,7 @@
     "aunque",
     "fuerte"
   ],
-  "lecciones": 14,
+  "lecciones": 15,
   "conversaciones": 1,
   "conocimiento": [
     {
@@ -356,7 +356,12 @@
       "tema": "uso de conectores y conjunciones",
       "leccion": "Sofia, ahora que has dominado el razonamiento lógico y la argumentación, es hora de profundizar en el uso de conectores y conjunciones en español.\n\n**Conectores y conjunciones**\n\nLos conectores y conjunciones son elementos gramaticales que nos permiten unir oraciones yacentes para crear estructuras más complejas y expresivas. Algunos de los conectores y conjunciones más comunes son:\n\n* **Conectores de adición**: \"Y\", \"también\", \"asimismo\". Ejemplo: \"Me gusta leer y escuchar música\".\n* **Conectores de oposición**: \"Pero\", \"sin embargo\", \"aunque\". Ejemplo: \"Era un día soleado, pero el viento era muy fuerte\".\n* **Conectores",
       "fecha": "2025-12-28T18:56:49.487Z"
+    },
+    {
+      "tema": "comprensión de contexto",
+      "leccion": "Sofia, ahora que has aprendido sobre razonamiento lógico y argumentación, es hora de explorar la comprensión de contexto en español.\n\n**Comprensión de contexto**: La comprensión de contexto es la capacidad de entender el significado de una oración o un texto en función del entorno en el que se utiliza. En español, hay varias palabras y frases que podemos utilizar para expresar la comprensión de contexto.\n\n**1. En este sentido**: Utilizamos esta frase para indicar que estamos refiriéndonos a algo específico dentro de un contexto más amplio. Ejemplo: \"La ciudad es muy segura en este sentido, pero hay áreas que no se recomienda visitar\".\n\n**2. Considerando**: Utilizamos esta palabra para señalar que estamos tomando en cuenta el contexto en el que se",
+      "fecha": "2025-12-28T18:56:52.904Z"
     }
   ],
-  "ultimaActualizacion": 1766948209488
+  "ultimaActualizacion": 1766948212904
 }
