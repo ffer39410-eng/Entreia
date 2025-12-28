@@ -1,5 +1,5 @@
 {
-  "iq": 2194,
+  "iq": 2198,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2731,16 +2731,12 @@
     "combina",
     "separan",
     "desayuno",
-    "necesit"
+    "necesit",
+    "consta"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué es la coherencia textual?",
-      "respuesta": "La coherencia textual se refiere a la capacidad del texto de transmitir una idea clara y cohesiva, mediante el uso de estructuras lógicas y conexiones entre las oraciones. Un texto coherente es aquel que tiene un hilo conductor claro, que permite al lector seguir fácilmente el razonamiento y la argumentación. Por ejemplo, si estamos leyendo un texto que describe cómo llegar a un lugar, la coherencia textual se reflejaría en la secuencia lógica de las instrucciones, desde la llegada al aeropuerto hasta el destino final.",
-      "fecha": "2025-12-28T20:32:19.687Z"
-    },
     {
       "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
       "respuesta": "El vocabulario técnico se refiere a las palabras y expresiones utilizadas en un campo específico de conocimiento o actividad, como la medicina, la informática o la ingeniería, y que requieren un conocimiento especializado para ser entendidas. Por otro lado, el vocabulario coloquial es el lenguaje informal y comúnmente utilizado en la vida diaria, que puede variar según la región y la cultura.\n\nUn ejemplo es la palabra \"disco duro\" en informática, que es un término técnico, mientras que en la vida cotidiana se utiliza el término \"disco\" de manera coloquial para referirse a un tipo de música.",
@@ -3735,8 +3731,13 @@
       "pregunta": "¿Cómo se construyen oraciones complejas en español?",
       "respuesta": "Una oración compleja en español se construye mediante la combinación de dos o más oraciones sencillas utilizando conectores o signos de puntuación. Por ejemplo:\n\n* Conectores: \"Yo he ido al supermercado porque necesitaba comprar leche.\" (Aquí se combina la oración sencilla \"Yo he ido al supermercado\" con la justificación \"porque necesitaba comprar leche\").\n* Signos de puntuación: \"Yo he ido al supermercado; necesitaba comprar leche.\" (Aquí se separan dos oraciones sencillas mediante un punto y coma).\n* Subordinadas: \"Yo he ido al supermercado porque necesitaba comprar leche para el desayuno.\" (Aquí se combina la oración sencilla \"Yo he ido al supermercado\" con la oración subordinada \"porque necesit",
       "fecha": "2025-12-28T21:18:35.966Z"
+    },
+    {
+      "pregunta": "¿Cuáles son las reglas de la gramática española?",
+      "respuesta": "La gramática española consta de varias reglas importantes, como el uso de los artículos (el, la, los, las), el género y número de los sustantivos (masculino y femenino, singular y plural), y la concordancia verbal (concordancia en tiempo, modo y número). También hay reglas para la formación de las oraciones (oraciones simples y compuestas) y la puntuación. Por ejemplo, \"El perro corre\" es una oración simple con un sujeto (el perro) y un verbo (corre).",
+      "fecha": "2025-12-28T21:18:43.806Z"
     }
   ],
-  "ultimaActualizacion": 1766956715969,
-  "preguntasHechas": 349
+  "ultimaActualizacion": 1766956723807,
+  "preguntasHechas": 350
 }
