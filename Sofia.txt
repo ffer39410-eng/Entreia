@@ -1,5 +1,5 @@
 {
-  "iq": 2394,
+  "iq": 2399,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2843,16 +2843,13 @@
     "soportar",
     "pensando",
     "confiables",
-    "engañosa"
+    "engañosa",
+    "jugaba",
+    "elaboradas"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué es la coherencia textual?",
-      "respuesta": "La coherencia textual se refiere a la capacidad de un texto para presentar una idea o mensaje claro y cohesionado, donde la estructura y los elementos lingüísticos trabajan juntos para transmitir un significado unificado. Esto se logra mediante la concordancia entre las ideas, la relación entre las oraciones y la utilización de conectores lingüísticos. Por ejemplo, en un texto, una idea se desarrolla lógicamente a partir de la anterior, creando una narrativa coherente.",
-      "fecha": "2025-12-28T20:41:31.646Z"
-    },
     {
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar información, argumentos y perspectivas de manera objetiva y lógica, identificando fortalezas y debilidades, y tomando decisiones informadas. Esto requiere la capacidad de cuestionar supuestos, considerar múltiples perspectivas y utilizar evidencia para apoyar conclusiones. El pensamiento crítico es esencial para tomar decisiones informadas, resolver problemas complejos y tomar posiciónes éticas. Por ejemplo, al evaluar un artículo de noticias, un estudiante con pensamiento crítico analizaría la fuente, el objetivo del artículo y la presentación de los datos para determinar su validez y relevancia.",
@@ -3847,8 +3844,13 @@
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "Los sinónimos son palabras o expresiones que tienen el mismo significado o referencia, pero pueden variar en su tono o estilo. Por ejemplo, las palabras \"largo\" y \"extenso\" son sinónimos porque se refieren a algo que tiene una gran cantidad de tiempo o espacio. \n\nLos antónimos, por otra parte, son palabras o expresiones que tienen significados opuestos. Por ejemplo, las palabras \"cálido\" y \"frío\" son antónimos porque se refieren a dos estados de temperatura diferentes.",
       "fecha": "2025-12-28T21:23:39.694Z"
+    },
+    {
+      "pregunta": "¿Cómo se construyen oraciones complejas en español?",
+      "respuesta": "Una oración compleja en español se construye mediante la combinación de una oración simple y otra oración independiente, utilizando conectivos como \"y\", \"o\", \"pero\", \"sin embargo\" o \"mientras que\". Por ejemplo:\n\n- \"Ella estudió para el examen, mientras que su amigo jugaba fútbol.\" (Aquí, \"Ella estudió para el examen\" es la oración simple y \"mientras que su amigo jugaba fútbol\" es la oración independiente que se une a la primera con el conectivo \"mientras que\".)\n- \"Hoy es jueves, pero mañana es viernes.\" (Aquí, \"Hoy es jueves\" y \"mañana es viernes\" son dos oraciones simples que se unen con el conectivo \"pero\".)\n\nEsto permite crear oraciones más complejas y expresar ideas más elaboradas.",
+      "fecha": "2025-12-28T21:23:47.788Z"
     }
   ],
-  "ultimaActualizacion": 1766957019695,
-  "preguntasHechas": 387
+  "ultimaActualizacion": 1766957027791,
+  "preguntasHechas": 388
 }
