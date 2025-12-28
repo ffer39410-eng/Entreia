@@ -1,5 +1,5 @@
 {
-  "iq": 674,
+  "iq": 677,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1481,7 +1481,11 @@
     "dialecto",
     "precisos",
     "malinterpretaciones",
-    "deducir"
+    "deducir",
+    "permitiendo",
+    "completas",
+    "servir",
+    "enumeración"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2100,8 +2104,13 @@
       "pregunta": "¿Cómo funciona la comprensión del contexto?",
       "respuesta": "La comprensión del contexto es un procesamiento mental que permite identificar y analizar la información relevante en un texto, habla o situación, considerando factores como el tono, el dialecto, la cultura y el objetivo. Esta habilidad implica reconocer la relación entre las palabras y conceptos, así como la intención detrás de la comunicación. Al comprender el contexto, podemos inferir significados más precisos y evitar malinterpretaciones.\n\nPor ejemplo, cuando alguien dice \"Hoy está muy frío\", se puede deducir que se refiere al clima, no a una persona.",
       "fecha": "2025-12-28T19:19:34.347Z"
+    },
+    {
+      "pregunta": "¿Qué son los conectores y cómo se usan?",
+      "respuesta": "Los conectores son palabras o expresiones que conectan ideas o oraciones en una oración, permitiendo la presentación de una secuencia lógica de pensamientos. Se utilizan para unir fragmentos de oraciones, como palabras, frases o oraciones completas, y pueden servir para indicar causa-efecto, tiempo, contraste, enumeración, etc. Por ejemplo, \"Sin embargo\", \"Por lo tanto\", \"Además\", \"Por ejemplo\" son algunos conectores comunes utilizados en la escritura y la conversación.",
+      "fecha": "2025-12-28T19:19:42.148Z"
     }
   ],
-  "ultimaActualizacion": 1766949574349,
-  "preguntasHechas": 49
+  "ultimaActualizacion": 1766949582149,
+  "preguntasHechas": 50
 }
