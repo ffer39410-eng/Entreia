@@ -1,5 +1,5 @@
 {
-  "iq": 1237,
+  "iq": 1240,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2040,16 +2040,20 @@
     "gato",
     "masc",
     "gata",
-    "operación"
+    "operación",
+    "enfada",
+    "reconociendo",
+    "dispuesto",
+    "sientes",
+    "causen",
+    "daño",
+    "idiota",
+    "calmar",
+    "abierto"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
-      "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de utilizar argumentos racionales y lógicos para llegar a una conclusión o tomar una decisión. Esto implica analizar información, identificar patrones y relaciones, y dar pasos lógicos para llegar a una respuesta o una solución. Por ejemplo, si tienes un amigo que te pregunta si vale la pena invertir en un seguro, tu razonamiento lógico podría comenzar analizando los pros y contras de invertir en el seguro, considerando factores como la posibilidad de pérdidas o ganancias, y llegando a una conclusión basada en esos análisis.\n\nEl razonamiento lógico implica:\n\n* Identificar premisas (información básica)\n* Utilizar reglas lógicas (como la contradicción o la simplificación)\n* Llegar a una conclusión lógica\n\nEl razonamiento",
-      "fecha": "2025-12-28T19:04:20.435Z"
-    },
     {
       "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
       "respuesta": "El vocabulario técnico está compuesto por palabras y expresiones utilizadas en un campo particular, como la medicina, la ingeniería o la ciencia, que requieren conocimientos específicos para ser comprendidos. Por ejemplo, en medicina, el término \"angioplastia\" se refiere a un procedimiento para ensanchar un vaso sanguíneo bloqueado. En cambio, el vocabulario coloquial es el que se utiliza en la vida diaria para comunicarse de manera informal, como el uso de expresiones como \"estoy harta\" para describir una situación desagradable.",
@@ -3044,8 +3048,13 @@
       "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
       "respuesta": "El vocabulario técnico se refiere a términos y expresiones utilizadas en un campo específico, como la medicina, la informática o la ingeniería, que requieren conocimientos especializados para ser comprendidos. \n\nPor otro lado, el vocabulario coloquial se refiere a la forma en que hablamos en la vida cotidiana, utilizando términos y expresiones informales y comunes en nuestra cultura. \n\nPor ejemplo, en medicina, \"cirugía\" es un término técnico, y en coloquial es \"operación\"",
       "fecha": "2025-12-28T20:34:11.717Z"
+    },
+    {
+      "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
+      "respuesta": "Para expresar emociones de forma efectiva, es importante ser auténtico y honesto en tus expresiones. Por ejemplo, en lugar de decir \"Me enfada\" cuando estás molesto, podrías decir \"Me siento frustrado porque...\". Esto muestra que estás reconociendo tus sentimientos y que estás dispuesto a explicar la razón por la que te sientes de esa manera.\n\nTambién es importante ser consciente de tus palabras y acciones para que no causen daño a los demás. Por ejemplo, si estás enojado con alguien, decir \"Me duele verte\" en lugar de \"Eres un idiota\" puede ayudar a calmar la situación y a expresar tus sentimientos de manera más constructiva.\n\nAdemás, es importante escuchar y respetar las emociones de los demás, ya que esto puede ayudar a crear un entorno seguro y abierto para la comunicación",
+      "fecha": "2025-12-28T20:34:19.811Z"
     }
   ],
-  "ultimaActualizacion": 1766954051719,
-  "preguntasHechas": 164
+  "ultimaActualizacion": 1766954059814,
+  "preguntasHechas": 165
 }
