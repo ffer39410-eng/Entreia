@@ -1,5 +1,5 @@
 {
-  "iq": 2526,
+  "iq": 2533,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2913,16 +2913,18 @@
     "fragmentos",
     "justificar",
     "insulina",
-    "hormona"
+    "hormona",
+    "puntuaciones",
+    "comillas",
+    "diálogo",
+    "ficción",
+    "favorito",
+    "señor",
+    "anillos"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
-      "respuesta": "El vocabulario técnico se refiere a palabras y expresiones específicas utilizadas en un campo o industria particular, como la medicina, la ingeniería o la tecnología, y son comprensibles solo por personas con conocimientos especializados en esa área. Por ejemplo, el término \"aneurisma abdominal\" es común en el ámbito médico pero no en el lenguaje coloquial.\n\nPor otro lado, el vocabulario coloquial se refiere a palabras y expresiones habituales en el lenguaje cotidiano y son comprensibles por la mayoría de la gente. Por ejemplo, expresiones como \"estar cansado\" o \"estar emocionado\" son comunes en el lenguaje coloquial pero pueden no ser tan precisas en un contexto técnico.\n\nEs importante destacar que, aunque el vocabulario técnico puede ser más preciso, el coloquialismo puede ser",
-      "fecha": "2025-12-28T20:53:15.670Z"
-    },
     {
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras que indican la relación entre un objeto o una persona y otro elemento en una oración. Su función es describir el lugar, la dirección, la cantidad, la manera, la compañía, la relación o la consecuencia de un evento. Por ejemplo, en la oración \"El libro está sobre la mesa\", la preposición \"sobre\" indica la relación entre el libro y la mesa.",
@@ -3917,8 +3919,13 @@
       "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
       "respuesta": "El vocabulario técnico se refiere a las palabras y expresiones utilizadas en un campo específico como la medicina, la ingeniería o la ciencia, que tienen un significado claro y preciso para los expertos en ese ámbito. Por otro lado, el vocabulario coloquial se utiliza en la comunicación informal y puede variar según la región o cultura, con un lenguaje más relajado y coloquial. Un ejemplo es la diferencia entre \"insulina\" (técnico) y \"hormona del azúcar\" (coloquial).",
       "fecha": "2025-12-28T21:28:19.772Z"
+    },
+    {
+      "pregunta": "¿Cómo se usa la puntuación correctamente?",
+      "respuesta": "La puntuación es fundamental en la escritura para comunicar ideas de manera clara y efectiva. Algunas puntuaciones clave son: el punto y coma (;), que separa dos oraciones o elementos en una lista, el signo de exclamación (!), que se utiliza para expresar énfasis o sorpresa, y la comillas (\"\"), que indican que una parte de la oración es una cita o un diálogo. Por ejemplo: \"Me encanta leer libros de ciencia ficción; mi favorito es 'El Señor de los Anillos'\".\n\nLa puntuación correcta también implica usar los signos de interrogación (?) para formar preguntas claras y precisas, como \"¿Te gusta leer?\". Asimismo, la puntuación correcta ayuda a transmitir la estructura y la lógica de una oración, y a evitar malentendidos.\n\nPor",
+      "fecha": "2025-12-28T21:28:27.856Z"
     }
   ],
-  "ultimaActualizacion": 1766957299774,
-  "preguntasHechas": 412
+  "ultimaActualizacion": 1766957307859,
+  "preguntasHechas": 413
 }
