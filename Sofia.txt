@@ -1,5 +1,5 @@
 {
-  "iq": 211,
+  "iq": 214,
   "vocabulario": [
     "claro",
     "sofia",
@@ -604,7 +604,18 @@
     "conectar",
     "consecuentemente",
     "organizar",
-    "facilita"
+    "facilita",
+    "deducciones",
+    "racionales",
+    "coherentes",
+    "aplicar",
+    "lógicos",
+    "resultado",
+    "llueve",
+    "calle",
+    "mojada",
+    "imposible",
+    "coche"
   ],
   "lecciones": 14,
   "conversaciones": 1,
@@ -753,8 +764,13 @@
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son palabras o expresiones que conectan ideas, oraciones o frases para crear una estructura lógica y clara en el discurso o la escritura. Se usan para mostrar relaciones entre ideas, como concordancia, oposición, causa-efecto, etc. Por ejemplo, \"Sin embargo\", \"Por tanto\", \"Aunque\", \"Además\" son conectores que permiten conectar ideas de manera lógica.\n\nAlgunos ejemplos de conectores:\n\n- Conectores de concordancia: \"También\", \"Además\", \"Sin embargo\".\n- Conectores de oposición: \"Sin embargo\", \"Aunque\", \"Pero\".\n- Conectores de causa-efecto: \"Porque\", \"Por lo tanto\", \"Consecuentemente\".\n\nLos conectores ayudan a organizar ideas de manera clara y lógica, lo que facilita la",
       "fecha": "2025-12-28T19:03:00.433Z"
+    },
+    {
+      "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
+      "respuesta": "El razonamiento lógico en conversaciones es la capacidad de utilizar argumentos y deducciones lógicas para llegar a conclusiones racionales y coherentes. Implica analizar información, identificar patrones y relaciones, y aplicar principios lógicos para llegar a un resultado. Por ejemplo, si alguien dice: \"Si llueve, la calle estará mojada. Y si la calle está mojada, es imposible ir en coche\", estás utilizando el razonamiento lógico para llegar a la conclusión de que es imposible ir en coche si llueve.",
+      "fecha": "2025-12-28T19:03:08.440Z"
     }
   ],
-  "ultimaActualizacion": 1766948580434,
+  "ultimaActualizacion": 1766948588440,
   "preguntasHechas": null
 }
