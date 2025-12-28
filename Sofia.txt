@@ -1,5 +1,5 @@
 {
-  "iq": 2216,
+  "iq": 2219,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2759,11 +2759,6 @@
   "conversaciones": 6,
   "conocimiento": [
     {
-      "pregunta": "¿Qué son los sinónimos y antónimos?",
-      "respuesta": "Excelente pregunta, estudiantes. Los sinónimos son palabras que tienen el mismo significado o una significación similar, como \"feliz\" y \"alegre\", o \"largo\" y \"extenso\". Por ejemplo, si decimos \"el día fue soleado\" y luego \"el día fue radiante\", ambos significados se refieren a un día con sol.\n\nPor otro lado, los antónimos son palabras que tienen significados opuestos, como \"largo\" y \"corto\", o \"rico\" y \"pobre\". Por ejemplo, si decimos \"la casa es grande\" y luego \"la casa es pequeña\", ambos significados se refieren a tamaños opuestos.",
-      "fecha": "2025-12-28T20:32:51.642Z"
-    },
-    {
       "pregunta": "¿Cómo se usa la puntuación correctamente?",
       "respuesta": "La puntuación es un elemento fundamental en la escritura para comunicar ideas de manera clara y precisa. Utiliza comas para separar oraciones independientes, puntos finales para indicar el final de una oración o un párrafo, comas para separar los elementos de una lista, y signos de interrogación y exclamación para indicar preguntas y exclamaciones, respectivamente. Por ejemplo: \"La casa es azul, tiene un jardín muy grande.\"\n\nRecuerda que cada puntuación tiene un propósito específico, por lo que es importante usarla de manera efectiva para evitar confusiones y mejorar la legibilidad de tu texto.",
       "fecha": "2025-12-28T20:32:59.729Z"
@@ -3757,8 +3752,13 @@
       "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
       "respuesta": "El vocabulario técnico se refiere a las palabras y expresiones específicas utilizadas en un determinado campo o disciplina, como la medicina, la informática o la ingeniería, que requieren conocimientos especializados para ser comprendidos plenamente. Por otro lado, el vocabulario coloquial se utiliza en la comunicación informal en el diario ajetreo de la vida, y normalmente no requiere una gran cantidad de conocimiento especializado para ser comprendido. Como ejemplo, en medicina, un médico puede utilizar el término \"fisioterapia\" para referirse a un tratamiento específico, mientras que en contexto coloquial, alguien podría decir \"me duele la espalda, voy a ir a hacer ejercicio para aliviarme\".",
       "fecha": "2025-12-28T21:19:08.118Z"
+    },
+    {
+      "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
+      "respuesta": "Expresar emociones de forma efectiva implica ser auténtico, claro y respetuoso. Por ejemplo, en lugar de decir \"Estoy enfadado contigo\", puedes decir \"Me siento frustrado con esta situación porque...\". Esto ayuda a comunicar tus sentimientos sin culpar a los demás. La expresión de emociones también puede incluir el lenguaje corporal, como el tono de voz y la postura, que deben reflejar la intensidad de la emoción. Por último, es importante escuchar y responder con empatía para crear un ambiente de comunicación efectiva.",
+      "fecha": "2025-12-28T21:19:15.676Z"
     }
   ],
-  "ultimaActualizacion": 1766956748120,
-  "preguntasHechas": 353
+  "ultimaActualizacion": 1766956755677,
+  "preguntasHechas": 354
 }
