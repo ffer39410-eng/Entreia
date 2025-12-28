@@ -1,5 +1,5 @@
 {
-  "iq": 2131,
+  "iq": 2138,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2694,16 +2694,16 @@
     "nico",
     "junto",
     "quien",
-    "duramente"
+    "duramente",
+    "leche",
+    "zoológico",
+    "leones",
+    "tigres",
+    "monos"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cuáles son las reglas de la gramática española?",
-      "respuesta": "La gramática española tiene varias reglas importantes, como el orden de las palabras en la oración, el uso de los géneros gramaticales y la concordancia de los adjetivos y sustantivos. Por ejemplo, en una oración simple, los sustantivos y adjetivos deben concordar en género y número. Además, se deben usar los artículos definidos (el, la, los, las) o indefinidos (un, una, unos, unas) según el contexto. Otro aspecto clave es el uso de los verbos en tiempo pasado, presente y futuro.",
-      "fecha": "2025-12-28T20:30:27.626Z"
-    },
     {
       "pregunta": "¿Cómo se estructura una buena argumentación?",
       "respuesta": "Una buena argumentación se estructura a través de cinco componentes clave: el establecimiento de un tema o problema, la presentación de una posición o tesis clara, la presentación de pruebas y razones que respaldan la tesis, la respuesta a posibles objeciones o contrapuestas, y la conclusión que resume y reafirma la tesis. Estos componentes trabajan en conjunto para construir una argumentación sólida y convincente.",
@@ -3698,8 +3698,13 @@
       "pregunta": "¿Cómo se construyen oraciones complejas en español?",
       "respuesta": "Una oración compleja se construye mediante la combinación de oraciones simples utilizando conectores como \"y\", \"pero\", \"o\", y \"porque\", junto con conjunciones subordinadas como \"que\", \"al que\", \"a quien\" para introducir oraciones subordinadas. Por ejemplo: \"Ella estudió duramente para la prueba porque quería aprobar.\"",
       "fecha": "2025-12-28T21:16:51.799Z"
+    },
+    {
+      "pregunta": "¿Cómo se usa la puntuación correctamente?",
+      "respuesta": "La puntuación es fundamental en la escritura para comunicar ideas de manera clara y precisa. Utiliza comas para separar ideas o para indicar pausas en la oración, como en el ejemplo: \"Voy al supermercado, a comprar leche y pan\". \n\nUtiliza puntos para indicar un fin de oración o para enumerar elementos, como en el ejemplo: \"Los animales del zoológico son: leones, tigres y monos\".\n\nUtiliza signos de interrogación para indicar una pregunta, como en el ejemplo: \"¿Dónde está la biblioteca?\".",
+      "fecha": "2025-12-28T21:17:00.183Z"
     }
   ],
-  "ultimaActualizacion": 1766956611800,
-  "preguntasHechas": 336
+  "ultimaActualizacion": 1766956620183,
+  "preguntasHechas": 337
 }
