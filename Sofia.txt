@@ -1,5 +1,5 @@
 {
-  "iq": 1476,
+  "iq": 1480,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2265,16 +2265,13 @@
     "darse",
     "reflexivas",
     "observación",
-    "resolución"
+    "resolución",
+    "sent",
+    "puntuada"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
-      "respuesta": "El vocabulario técnico se refiere a los términos y conceptos especializados utilizados en un campo determinado, como la medicina, la ingeniería o la economía, con precisión y claridad para comunicarse con otros expertos en el mismo área. Por otro lado, el vocabulario coloquial se refiere a las palabras y expresiones comunes utilizadas en la vida diaria, que pueden variar según la región o el país. Es decir, el vocabulario técnico es más formal y especializado, mientras que el coloquial es más informal y común.",
-      "fecha": "2025-12-28T19:14:30.213Z"
-    },
     {
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "El sistema de tiempos verbales es un aspecto fundamental de la gramática. Los tiempos verbales se usan para expresar cuando se realiza una acción, ya sea en el pasado, presente o futuro. Por ejemplo, la palabra \"hablar\" se puede conjugar en presente como \"hablo\", en pretérito como \"hablé\" y en futuro como \"hablaré\". De esta forma, podemos comunicar con precisión la relación entre el sujeto y el momento en el que se realiza la acción.",
@@ -3269,8 +3266,13 @@
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar información, ideas y argumentos para llegar a conclusiones informadas y reflexivas. Implica cuestionar suposiciones, identificar sesgos y considerar diferentes perspectivas para tomar decisiones efectivas. Esto requiere habilidades como la observación, la evaluación y la resolución de problemas, así como la capacidad de comunicar ideas de manera clara y concisa. Por ejemplo, cuando se analiza un artículo periodístico, el pensamiento crítico implica considerar la fuente, la metodología y los argumentos presentados para formar una opinión informada.",
       "fecha": "2025-12-28T20:45:39.741Z"
+    },
+    {
+      "pregunta": "¿Cómo se usa la puntuación correctamente?",
+      "respuesta": "La puntuación es fundamental en la escritura para comunicar ideas de manera clara y precisa. Utiliza signos de puntuación como comas (,) para separar ideas o elementos en una oración, puntos (.) para finalizar oraciones, signos de interrogación (?) para preguntas y signos de exclamación (!) para enfatizar emociones. Por ejemplo, \"Voy al parque, compré un helado y me senté en un banco\" es una oración clara y bien puntuada.",
+      "fecha": "2025-12-28T20:45:47.755Z"
     }
   ],
-  "ultimaActualizacion": 1766954739742,
-  "preguntasHechas": 210
+  "ultimaActualizacion": 1766954747756,
+  "preguntasHechas": 211
 }
