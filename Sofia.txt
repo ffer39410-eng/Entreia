@@ -1,5 +1,5 @@
 {
-  "iq": 2607,
+  "iq": 2614,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2956,16 +2956,12 @@
     "mayores",
     "años",
     "sombra",
-    "escuela"
+    "escuela",
+    "ampliar"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
-      "respuesta": "Para expresar emociones de forma efectiva, es importante ser auténtico y honesto. Puedes utilizar palabras y frases que describan cómo te sientes, como \"Me siento feliz\" o \"Estoy muy enojado\". También puedes utilizar lenguaje corporal que refleje tus emociones, como sonreír cuando estás contento o cruzar los brazos cuando estás incómodo. Además, es importante escuchar y validar las emociones de los demás, ya que esto ayuda a crear un ambiente más seguro y positivo.",
-      "fecha": "2025-12-28T20:56:43.595Z"
-    },
     {
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras gramaticales que se utilizan para indicar la relación entre un sustantivo o un pronombre y otro elemento en una oración. Sirven para describir la ubicación, el movimiento, la relación, la causa, el efecto, etc. de los elementos en una oración. Por ejemplo: \"Estoy bajo el árbol\" (indicando ubicación), \"La casa está detrás de la iglesia\" (indicando relación), \"Me voy hacia el parque\" (indicando movimiento).\n\nExisten muchas preposiciones en español, como: a, ante, bajo, con, de, desde, en, entre, hasta, por, desde, bajo, según, sin, etc.",
@@ -3960,8 +3956,13 @@
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras que se utilizan para indicar la relación entre un sustantivo o un grupo de palabras y otro sustantivo, un número o una acción. Sirven para establecer la ubicación, el movimiento, la dirección, la intensidad, el tiempo, la duración, la frecuencia, la causa, el destinatario, etc. Por ejemplo: \"Estoy bajo la sombra\" (indicando ubicación), \"Voy hacia la escuela\" (indicando dirección), \"Me duele la cabeza\" (indicando intensidad).",
       "fecha": "2025-12-28T21:35:49.018Z"
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
+      "respuesta": "El vocabulario técnico se refiere a las palabras y expresiones utilizadas en un campo específico de conocimiento, como la medicina, la ingeniería o la química, y que requieren una comprensión profunda del concepto o del proceso que se está describiendo. Por otro lado, el vocabulario coloquial se refiere a las palabras y expresiones utilizadas en la comunicación cotidiana, en un tono informal y accesible a todos.\n\nPor ejemplo, en la medicina, el término \"angioplastia\" es técnico y se refiere a un procedimiento médico para ampliar las arterias obstruidas. En cambio, en un contexto coloquial, alguien podría decir \"me hice un angioplastia\" para referirse a una cirugía que se le hizo.",
+      "fecha": "2025-12-28T21:35:55.874Z"
     }
   ],
-  "ultimaActualizacion": 1766957749021,
-  "preguntasHechas": 427
+  "ultimaActualizacion": 1766957755877,
+  "preguntasHechas": 428
 }
