@@ -1,5 +1,5 @@
 {
-  "iq": 2013,
+  "iq": 2018,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2638,16 +2638,12 @@
     "animado",
     "oscuro",
     "antón",
-    "adecuadas"
+    "adecuadas",
+    "comprometer"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo se usa la puntuación correctamente?",
-      "respuesta": "La puntuación es un elemento clave en la escritura y el lenguaje, ya que nos ayuda a expresar ideas de manera clara y concisa. Algunas de las reglas básicas de puntuación incluyen el uso de comas para separar ideas o elementos en una oración, los puntos suspensivos para indicar una pausa o una interrogación, y los signos de exclamación para expresar emociones.\n\nPor ejemplo, en la oración \"Me encanta leer libros de aventuras, especialmente los de Cervantes\", el uso de la coma separa las ideas de que me gusta leer libros de aventuras y que me encanta especialmente los de Cervantes.",
-      "fecha": "2025-12-28T20:12:59.727Z"
-    },
     {
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar información de manera objetiva y lógica, considerando múltiples perspectivas y fuentes para llegar a conclusiones informadas. Esto implica cuestionar suposiciones, identificar sesgos y equilibrar la evidencia con las opiniones personales. Por ejemplo, al leer un artículo que afirma que un producto es eficaz, un pensamiento crítico implicaría investigar la fuente, verificar las pruebas y considerar posibles sesgos de interés o perspectiva. De esta manera, se puede llegar a una comprensión más completa y precisa de la realidad.",
@@ -3642,8 +3638,13 @@
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual se refiere a la capacidad del texto de presentar un mensaje claro y lógico, donde las ideas se conectan de manera natural y sin contradicciones. Esto se logra mediante la estructura lógica de las ideas, la elección de palabras adecuadas y la claridad en la comunicación. Por ejemplo, en un ensayo, la idea principal se desarrolla con sub ideas que respaldan y conectan entre sí de manera lógica. De esta forma, el lector puede seguir fácilmente la línea de razonamiento del autor.",
       "fecha": "2025-12-28T21:14:03.751Z"
+    },
+    {
+      "pregunta": "¿Qué es el pensamiento crítico?",
+      "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar la información de manera objetiva, identificando fortalezas y debilidades, y considerando múltiples perspectivas. Permite evaluar críticamente ideas, argumentos y evidencia, sin comprometer la empatía ni la comprensión. Un ejemplo de pensamiento crítico es analizar el contenido de un artículo de periódico y cuestionar los supuestos y fuentes citadas. Esto permite formar opiniones informadas y tomar decisiones bien fundamentadas.",
+      "fecha": "2025-12-28T21:14:11.785Z"
     }
   ],
-  "ultimaActualizacion": 1766956443753,
-  "preguntasHechas": 315
+  "ultimaActualizacion": 1766956451786,
+  "preguntasHechas": 316
 }
