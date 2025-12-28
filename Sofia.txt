@@ -1,5 +1,5 @@
 {
-  "iq": 2219,
+  "iq": 2225,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2753,16 +2753,15 @@
     "tratamiento",
     "espalda",
     "ejercicio",
-    "aliviarme"
+    "aliviarme",
+    "campamento",
+    "sabe",
+    "refugio",
+    "militar"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo se usa la puntuación correctamente?",
-      "respuesta": "La puntuación es un elemento fundamental en la escritura para comunicar ideas de manera clara y precisa. Utiliza comas para separar oraciones independientes, puntos finales para indicar el final de una oración o un párrafo, comas para separar los elementos de una lista, y signos de interrogación y exclamación para indicar preguntas y exclamaciones, respectivamente. Por ejemplo: \"La casa es azul, tiene un jardín muy grande.\"\n\nRecuerda que cada puntuación tiene un propósito específico, por lo que es importante usarla de manera efectiva para evitar confusiones y mejorar la legibilidad de tu texto.",
-      "fecha": "2025-12-28T20:32:59.729Z"
-    },
     {
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales son fundamentales en la gramática y se refieren a la forma en que se expresan las acciones o estados en un momento determinado. Hay varios tiempos verbales, como el presente, pretérito, futuro, condicional, imperativo, subjuntivo y pluscuamperfecto, entre otros. Cada uno de ellos proporciona una información específica sobre la acción o estado, como su cumplimiento, duración o posibilidad.\n\nPor ejemplo, el verbo \"hablar\" en presente (hablo) indica que la acción está ocurriendo en el momento actual, mientras que en pretérito (hablé) se refiere a una acción pasada.",
@@ -3757,8 +3756,13 @@
       "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
       "respuesta": "Expresar emociones de forma efectiva implica ser auténtico, claro y respetuoso. Por ejemplo, en lugar de decir \"Estoy enfadado contigo\", puedes decir \"Me siento frustrado con esta situación porque...\". Esto ayuda a comunicar tus sentimientos sin culpar a los demás. La expresión de emociones también puede incluir el lenguaje corporal, como el tono de voz y la postura, que deben reflejar la intensidad de la emoción. Por último, es importante escuchar y responder con empatía para crear un ambiente de comunicación efectiva.",
       "fecha": "2025-12-28T21:19:15.676Z"
+    },
+    {
+      "pregunta": "¿Cómo funciona la comprensión del contexto?",
+      "respuesta": "La comprensión del contexto es el proceso mental que permite a las personas identificar y comprender el significado de palabras, frases o textos en función de la situación o entorno en el que se encuentran. Esto implica considerar factores como el tono, la intención, el propósito y las implicaciones de lo que se dice o se escribe. Por ejemplo, en un texto se puede leer \"La lluvia cayó sobre el campamento\", pero si se sabe que el campamento es un refugio militar, el contexto cambia y la interpretación de la frase también.",
+      "fecha": "2025-12-28T21:19:23.683Z"
     }
   ],
-  "ultimaActualizacion": 1766956755677,
-  "preguntasHechas": 354
+  "ultimaActualizacion": 1766956763684,
+  "preguntasHechas": 355
 }
