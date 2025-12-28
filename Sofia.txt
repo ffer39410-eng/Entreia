@@ -1,5 +1,5 @@
 {
-  "iq": 2511,
+  "iq": 2516,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2905,16 +2905,15 @@
     "interlocutor",
     "expuestas",
     "produciendo",
-    "dirigido"
+    "dirigido",
+    "ligera",
+    "alto",
+    "verde",
+    "compararlo"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué es el pensamiento crítico?",
-      "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar información, ideas y argumentos para llegar a conclusiones informadas y reflexivas. Implica cuestionar suposiciones, identificar sesgos y considerar diferentes perspectivas para tomar decisiones efectivas. Esto requiere habilidades como la observación, la evaluación y la resolución de problemas, así como la capacidad de comunicar ideas de manera clara y concisa. Por ejemplo, cuando se analiza un artículo periodístico, el pensamiento crítico implica considerar la fuente, la metodología y los argumentos presentados para formar una opinión informada.",
-      "fecha": "2025-12-28T20:45:39.741Z"
-    },
     {
       "pregunta": "¿Cómo se usa la puntuación correctamente?",
       "respuesta": "La puntuación es fundamental en la escritura para comunicar ideas de manera clara y precisa. Utiliza signos de puntuación como comas (,) para separar ideas o elementos en una oración, puntos (.) para finalizar oraciones, signos de interrogación (?) para preguntas y signos de exclamación (!) para enfatizar emociones. Por ejemplo, \"Voy al parque, compré un helado y me senté en un banco\" es una oración clara y bien puntuada.",
@@ -3909,8 +3908,13 @@
       "pregunta": "¿Cómo funciona la comprensión del contexto?",
       "respuesta": "La comprensión del contexto es un proceso psicológico que permite a las personas interpretar y dar sentido a la información a la que están expuestas. Implica considerar las circunstancias, el entorno y la situación en la que se están produciendo los eventos para lograr una comprensión más profunda y precisa de lo que está sucediendo. Por ejemplo, cuando se lee un texto, la comprensión del contexto implica considerar el tono, el propósito y el público al que va dirigido para entender el significado real de la información. De esta manera, la comprensión del contexto puede ayudar a evitar malentendidos y a tomar decisiones informadas.",
       "fecha": "2025-12-28T21:27:55.806Z"
+    },
+    {
+      "pregunta": "¿Qué son los sinónimos y antónimos?",
+      "respuesta": "Los sinónimos son palabras que tienen el mismo significado o una forma similar de expresar una idea, pero con una ligera diferencia en tono o connotación. Por ejemplo, \"feliz\" y \"contento\" son sinónimos, ya que ambos describen un estado de ánimo positivo. Otros ejemplos son \"gran\" y \"muy grande\", \"rápido\" y \"veloz\".\n\nPor otro lado, los antónimos son palabras que tienen significados opuestos. Por ejemplo, \"alto\" y \"bajo\", \"grande\" y \"pequeño\", \"verde\" y \"rojo\". Los antónimos pueden ayudarnos a precisar o enfatizar un concepto al compararlo con su opuesto.",
+      "fecha": "2025-12-28T21:28:03.798Z"
     }
   ],
-  "ultimaActualizacion": 1766957275807,
-  "preguntasHechas": 409
+  "ultimaActualizacion": 1766957283801,
+  "preguntasHechas": 410
 }
