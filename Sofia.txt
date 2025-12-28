@@ -1,5 +1,5 @@
 {
-  "iq": 2159,
+  "iq": 2163,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2714,16 +2714,12 @@
     "fruncir",
     "ceño",
     "enfado",
-    "sintiendo"
+    "sintiendo",
+    "negro"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
-      "respuesta": "El vocabulario técnico se refiere a las palabras y expresiones específicas utilizadas en un campo o industria particular, como la medicina, la ingeniería o la programación, que requieren una comprensión especializada para ser comprendidas. Por otro lado, el vocabulario coloquial se refiere a las palabras y expresiones usuales en la conversación cotidiana, que pueden variar según la región, la cultura y la edad de las personas.\n\nPor ejemplo, en medicina, \"trombosis\" es un vocabulario técnico que se refiere a la formación de coágulos de sangre en las venas, mientras que en el lenguaje coloquial, \"trombosis\" se usa en contextos como \"tengo trombosis en mi pierna\", pero esto es una simplificación.",
-      "fecha": "2025-12-28T20:31:24.630Z"
-    },
     {
       "pregunta": "¿Cómo se estructura una buena argumentación?",
       "respuesta": "Una buena argumentación se estructura de la siguiente manera: comienza con una afirmación o tesis clara y concisa, seguida de razones y pruebas que respaldan dicha afirmación. Luego, se presentan contrargumentos y respuestas a posibles objeciones, para refutarlas y fortalecer la argumentación. Finalmente, se concluye con una síntesis que resume los puntos clave y reafirma la tesis inicial.",
@@ -3718,8 +3714,13 @@
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras que indican la relación entre un objeto o un lugar y otro, generalmente un sujeto, un objeto o un lugar. Ejemplos de preposiciones son \"en\", \"en\", \"antes de\", \"debajo de\" y \"dentro de\". Funcionan como puentes entre los elementos de una oración, indicando la ubicación, el tiempo, la causa o el resultado de un evento. Por ejemplo, \"Estoy en la biblioteca\" (ubicación) o \"Ella corre por la playa\" (acción relacionada con un lugar).",
       "fecha": "2025-12-28T21:17:39.699Z"
+    },
+    {
+      "pregunta": "¿Cuáles son las reglas de la gramática española?",
+      "respuesta": "La gramática española se rige por varias reglas que ayudan a construir oraciones claras y coherentes. Algunas de las reglas más importantes incluyen la concordancia de género y número en los adjetivos y artículos, la forma de construir oraciones simples y compuestas, y la utilización de verbos en diferentes tiempos y modos. Por ejemplo, en la oración \"El gato es negro\", el adjetivo \"negro\" concuerda en género y número con el sustantivo \"gato\".",
+      "fecha": "2025-12-28T21:17:47.686Z"
     }
   ],
-  "ultimaActualizacion": 1766956659699,
-  "preguntasHechas": 342
+  "ultimaActualizacion": 1766956667689,
+  "preguntasHechas": 343
 }
