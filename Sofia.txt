@@ -1,5 +1,5 @@
 {
-  "iq": 971,
+  "iq": 978,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1799,7 +1799,16 @@
     "relatos",
     "aventuras",
     "cumplen",
-    "papel"
+    "papel",
+    "nombres",
+    "comparativo",
+    "superlativo",
+    "masculinos",
+    "femeninos",
+    "tercera",
+    "regulares",
+    "agregando",
+    "terminaciones"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2723,8 +2732,13 @@
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son palabras o expresiones que unen oraciones, frases o ideas para crear una relación lógica entre ellas. Pueden indicar la causalidad (porque, ya que), la comparación (como, de la misma forma que), la enumeración (primeramente, en segundo lugar, finalmente), la oposición (pero, sin embargo), la contraste (a diferencia de), entre otros. Por ejemplo: \"Me encanta leer libros porque me gustan los relatos de aventuras\".\n\nLos conectores cumplen un papel fundamental en la comunicación escrita y oral, ya que ayudan a organizar y estructurar la información de manera clara y coherente.",
       "fecha": "2025-12-28T20:12:11.782Z"
+    },
+    {
+      "pregunta": "¿Cuáles son las reglas de la gramática española?",
+      "respuesta": "La gramática española se basa en un conjunto de reglas que rigen la estructura y el uso de la lengua. Algunas de las reglas básicas incluyen la declinación de los artículos (el, la, los, las), la conjugación de los verbos (indicativo, subjuntivo, imperativo), la formación de los nombres y adjetivos (plural, positivo, comparativo, superlativo), y la utilización de las preposiciones (de, en, con, etc.).\n\nPor ejemplo, en la declinación de los artículos, el artículo \"el\" se utiliza para referirse a animales masculinos, mientras que \"la\" se utiliza para referirse a animales femeninos. En la conjugación de verbos, la tercera persona del presente de indicativo de los verbos regulares se forma agregando las terminaciones \"-o\", \"-as\", \"-a",
+      "fecha": "2025-12-28T20:12:21.855Z"
     }
   ],
-  "ultimaActualizacion": 1766952731784,
-  "preguntasHechas": 110
+  "ultimaActualizacion": 1766952743675,
+  "preguntasHechas": 111
 }
