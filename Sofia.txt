@@ -1,5 +1,5 @@
 {
-  "iq": 2552,
+  "iq": 2557,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2929,16 +2929,14 @@
     "visita",
     "agradable",
     "seis",
-    "estación"
+    "estación",
+    "conectado",
+    "posterior",
+    "pastel"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo funcionan los tiempos verbales?",
-      "respuesta": "Los tiempos verbales son una parte fundamental de la gramática española, y se utilizan para indicar el momento en el que se produce una acción o estado. Existen varios tiempos verbales, como el presente, pretérito, futuro, perfecto, pluscuamperfecto, futuro perfecto, etc. Por ejemplo, \"yo como\" (presente) indica una acción que se está realizando en el momento actual, mientras que \"yo comí\" (pretérito) indica una acción que ya terminó.",
-      "fecha": "2025-12-28T20:53:55.667Z"
-    },
     {
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual se refiere a la capacidad de un texto para transmitir ideas y pensamientos de manera lógica y continua, utilizando conectores lingüísticos para unir oraciones y párrafos de manera coherente. Esto implica establecer relaciones entre las ideas, utilizando conceptos como causa-efecto, consecuencia, comparación, oposición, etc. La coherencia textual ayuda a mantener la atención del lector y a transmitir la información de manera efectiva. Por ejemplo, en un texto sobre un viaje, se puede utilizar conectores como \"luego\" o \"mientras que\" para describir las actividades en orden cronológico.",
@@ -3933,8 +3931,13 @@
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar información, ideas y argumentos de manera objetiva y lógica, para llegar a una conclusión informada y bien fundamentada. Implica cuestionar suposiciones, identificar posibles sesgos y considerar múltiples perspectivas, con el objetivo de tomar decisiones informadas y éticas. Un ejemplo de pensamiento crítico es analizar una noticia en el periódico y evaluar la credibilidad de la fuente, verificar los hechos y considerar posibles sesgos al mismo tiempo.",
       "fecha": "2025-12-28T21:31:23.677Z"
+    },
+    {
+      "pregunta": "¿Qué es la coherencia textual?",
+      "respuesta": "La coherencia textual se refiere a la capacidad de una pieza de escritura, como un texto o un artículo, de mantener una relación lógica y clara entre las ideas y los conceptos presentados. Esto significa que cada oración o párrafo debe contribuir de manera significativa al desarrollo del tema principal y estar conectado con el contenido anterior y posterior. La coherencia textual ayuda a evitar confusiones y a mantener la atención del lector. Un ejemplo de coherencia textual es una redacción clara y concisa de un artículo que explica el proceso de cómo se hace un pastel.",
+      "fecha": "2025-12-28T21:31:31.976Z"
     }
   ],
-  "ultimaActualizacion": 1766957483679,
-  "preguntasHechas": 417
+  "ultimaActualizacion": 1766957491978,
+  "preguntasHechas": 418
 }
