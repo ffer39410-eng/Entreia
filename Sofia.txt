@@ -1,5 +1,5 @@
 {
-  "iq": 785,
+  "iq": 789,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1606,7 +1606,12 @@
     "ende",
     "películas",
     "contrastación",
-    "creatividad"
+    "creatividad",
+    "sonrisa",
+    "sentimos",
+    "abrumado",
+    "expresamos",
+    "permitimos"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2340,8 +2345,13 @@
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son palabras gramaticales que conectan ideas o frases entre sí, permitiendo expresar relaciones lógicas y semánticas en un texto. Hay varios tipos de conectores, como de coordinación (y, pero, o), de subordinación (porque, si, aunque), de adición (también, además, entre otros) y de conclusión (por lo tanto, en consecuencia, por ende).\n\nPor ejemplo: \"Me gusta leer libros (conector de adición), pero también ver películas (conector de contrastación), porque me permite expresar mi creatividad (conector de subordinación)\".\n\nAl usar conectores, puedes construir oraciones más complejas y claras, y expresar tus ideas de manera más efectiva.",
       "fecha": "2025-12-28T19:26:56.510Z"
+    },
+    {
+      "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
+      "respuesta": "Al expresar emociones de forma efectiva, podemos mejorar nuestras relaciones y comunicación con los demás. Para ello, es importante ser auténtico y genuino en nuestra expresión, utilizando idiomas corporales como la postura y la sonrisa, y también las palabras para describir cómo nos sentimos. Por ejemplo, en lugar de decir \"Estoy bien\", podríamos decir \"Me siento un poco abrumado hoy\". De esta manera, expresamos nuestra emoción y permitimos a los demás responder con empatía y apoyo.",
+      "fecha": "2025-12-28T19:27:06.298Z"
     }
   ],
-  "ultimaActualizacion": 1766950016512,
-  "preguntasHechas": 72
+  "ultimaActualizacion": 1766950026300,
+  "preguntasHechas": 73
 }
