@@ -1,5 +1,5 @@
 {
-  "iq": 2178,
+  "iq": 2182,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2724,16 +2724,14 @@
     "hizo",
     "prometi",
     "soluciones",
-    "pelota"
+    "pelota",
+    "verdadero",
+    "falso",
+    "confirmar"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
-      "respuesta": "Las preposiciones son palabras que se utilizan para indicar la relación entre un objeto (sujeto o complemento) y otro elemento, como un lugar, un tiempo, una manera o una cantidad. Estas palabras sirven para enlazar el nombre o el pronombre con otro elemento en la oración, proporcionando información adicional sobre la situación o el contexto. Por ejemplo, en la oración \"El libro está en la mesa\", la preposición \"en\" indica la relación entre el libro y la mesa.",
-      "fecha": "2025-12-28T20:31:55.782Z"
-    },
     {
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales son un aspecto fundamental de la gramática en español y otros idiomas. En resumen, cada tiempo verbal indica un momento en el pasado, presente o futuro en el que se desarrolla la acción descrita por el verbo. Por ejemplo, el presente indicativo describe una acción que se está realizando en el momento presente (como \"estudio\"), el pasado simple describe una acción que ya ha ocurrido (como \"estudié\") y el futuro simple describe una acción que ocurrirá en el futuro (como \"estudiaré\").\n\nA continuación se presentan los diferentes tiempos verbales y sus usos:\n\n- Presente: acción actual (estoy estudiando)\n- Pasado: acción pasada (estudié)\n- Futuro: acción futura (estudiaré)\n- Pretérito imperfecto: acción en curso en un momento pasado (estudiaba)\n- Pretérito perfecto",
@@ -3728,8 +3726,13 @@
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras que indican la relación entre un sustantivo y otro en una oración, mostrando la posición, el movimiento o la relación entre los elementos del texto. Algunas preposiciones comunes son \"en\", \"de\", \"con\", \"sin\", \"entre\", \"durante\" y \"por\", que se utilizan para expresar diferentes tipos de relaciones. Por ejemplo, \"La pelota está en el parque\" indica la posición de la pelota, mientras que \"Leí un libro con mi hermano\" muestra la relación entre dos acciones.",
       "fecha": "2025-12-28T21:18:11.794Z"
+    },
+    {
+      "pregunta": "¿Qué es el pensamiento crítico?",
+      "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar información, ideas y argumentos de manera objetiva y reflexiva. Implica cuestionar suposiciones, considerar múltiples perspectivas y buscar evidencia para apoyar o refutar conclusiones. Este tipo de pensamiento nos permite distinguir entre lo que es verdadero y lo que es falso, y tomar decisiones informadas en diferentes contextos. Por ejemplo, al analizar un artículo periodístico, un pensamiento crítico nos permitiría identificar posible sesgo, confirmar fuentes de información y evaluar la credibilidad de los argumentos presentados.",
+      "fecha": "2025-12-28T21:18:19.794Z"
     }
   ],
-  "ultimaActualizacion": 1766956691796,
-  "preguntasHechas": 346
+  "ultimaActualizacion": 1766956699796,
+  "preguntasHechas": 347
 }
