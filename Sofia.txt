@@ -1,5 +1,5 @@
 {
-  "iq": 666,
+  "iq": 671,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1474,7 +1474,8 @@
     "escrito",
     "estructurar",
     "gebruja",
-    "sumar"
+    "sumar",
+    "tempo"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2083,8 +2084,13 @@
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son palabras o expresiones que unen oraciones, ideas o conceptos dentro de un escrito o una conversación de manera lógica y clara. Son fundamentales para estructurar el contenido y transmitir ideas de manera eficaz. Por ejemplo, el conector \"y\" se gebruja para sumar ideas: \"Me gusta leer libros y escuchar música\".",
       "fecha": "2025-12-28T19:19:18.167Z"
+    },
+    {
+      "pregunta": "¿Cómo funcionan los tiempos verbales?",
+      "respuesta": "Los tiempos verbales son una parte fundamental de la gramática de una lengua, y se refieren a la forma en que se expresan las acciones o estados en el tiempo. Hay varios tiempos verbales, como el presente, el pasado, el futuro, entre otros, que se utilizan para describir cuando ocurren las acciones o eventos. Por ejemplo, \"Yo como\" es presente, \"Yo comí\" es pasado y \"Yo comeré\" es futuro. Cada tempo tiene diferentes formas para indicar la acción.",
+      "fecha": "2025-12-28T19:19:26.256Z"
     }
   ],
-  "ultimaActualizacion": 1766949558168,
-  "preguntasHechas": 47
+  "ultimaActualizacion": 1766949566257,
+  "preguntasHechas": 48
 }
