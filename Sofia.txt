@@ -1,5 +1,5 @@
 {
-  "iq": 250,
+  "iq": 253,
   "vocabulario": [
     "claro",
     "sofia",
@@ -705,7 +705,13 @@
     "escuchado",
     "atentamente",
     "responder",
-    "empática"
+    "empática",
+    "estudiantes",
+    "referencia",
+    "sonidos",
+    "compañero",
+    "frio",
+    "calor"
   ],
   "lecciones": 14,
   "conversaciones": 1,
@@ -894,8 +900,13 @@
       "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
       "respuesta": "Para expresar emociones de forma efectiva, es importante ser auténtico y genuino en tu comunicación. Esto significa reconocer y aceptar tus emociones, y luego exprésalar de manera clara y específica. Por ejemplo, en lugar de decir \"Me siento mal\", podrías decir \"Estoy molesto porque no me respetaron mis necesidades\". Esto ayuda a que los demás entiendan mejor tu punto de vista y te sientas escuchado. Además, es importante escuchar atentamente a los demás y responder de manera empática.",
       "fecha": "2025-12-28T19:04:04.251Z"
+    },
+    {
+      "pregunta": "¿Qué son los sinónimos y antónimos?",
+      "respuesta": "Excelente pregunta, estudiantes. Los sinónimos son palabras o expresiones que tienen el mismo significado o referencia, pero con diferentes sonidos o estructuras. Por ejemplo, \"amigo\" y \"compañero\" son sinónimos. \n\nPor otro lado, los antónimos son palabras o expresiones que tienen significados opuestos. Por ejemplo, \"frio\" y \"calor\" son antónimos.",
+      "fecha": "2025-12-28T19:04:12.238Z"
     }
   ],
-  "ultimaActualizacion": 1766948644251,
+  "ultimaActualizacion": 1766948652239,
   "preguntasHechas": null
 }
