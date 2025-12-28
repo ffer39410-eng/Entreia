@@ -1,5 +1,5 @@
 {
-  "iq": 590,
+  "iq": 597,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1390,7 +1390,11 @@
     "perspectiva",
     "expresas",
     "enfadado",
-    "enoj"
+    "enoj",
+    "representaciones",
+    "creativas",
+    "enriquecer",
+    "profundidad"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1929,8 +1933,13 @@
       "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
       "respuesta": "Para expresar emociones de forma efectiva, es importante ser auténtico y genuino en lo que expresas. Por ejemplo, si estás enfadado, en lugar de decir \"Me enojó mucho\", puedes decir \"Me siento frustrado porque...\". Esto ayuda a conectar con los demás y a comunicar mejor tus sentimientos.",
       "fecha": "2025-12-28T19:21:44.197Z"
+    },
+    {
+      "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
+      "respuesta": "Las metáforas son una figura retórica que consiste en comparar dos conceptos o ideas diferentes utilizando \"es\" para expresar una relación entre ellos. Por ejemplo, \"El mundo es un escenario\" o \"La vida es un viaje\". Esto permite crear imágenes y representaciones creativas que ayudan a comunicar ideas y emociones de manera más efectiva y evocadora. En el lenguaje, las metáforas se utilizan para enriquecer la expresión y dar profundidad a la comunicación.",
+      "fecha": "2025-12-28T19:21:52.257Z"
     }
   ],
-  "ultimaActualizacion": 1766949704198,
-  "preguntasHechas": 33
+  "ultimaActualizacion": 1766949712258,
+  "preguntasHechas": 34
 }
