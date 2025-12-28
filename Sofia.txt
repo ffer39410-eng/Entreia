@@ -1,5 +1,5 @@
 {
-  "iq": 704,
+  "iq": 711,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1529,7 +1529,14 @@
     "muestran",
     "desempeño",
     "académico",
-    "motivación"
+    "motivación",
+    "periodismo",
+    "crédito",
+    "presentada",
+    "busca",
+    "citadas",
+    "evalúa",
+    "objetividad"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2183,8 +2190,13 @@
       "pregunta": "¿Cómo se estructura una buena argumentación?",
       "respuesta": "Una buena argumentación se estructura en tres pasos clave: establecer un tema o problema, presentar pruebas o evidencia para apoyar la afirmación, y concluir con una respuesta clara y convincente.\n\nPor ejemplo, si queremos argumentar que \"el uso de la tecnología en la educación es beneficioso\", podríamos estructurar la argumentación de la siguiente manera:\n\n- Presentar el tema: \"El uso de la tecnología en la educación es un tema controvertido que ha generado debate en la comunidad educativa\".\n- Presentar pruebas: \"Según una investigación reciente, los estudiantes que utilizan tecnología en la educación muestran un mejor desempeño académico y una mayor motivación\".\n- Concluir: \"En conclusión, se puede argumentar que el uso de la tecnología en la educación es beneficioso debido a su capacidad para mejorar el desempeño",
       "fecha": "2025-12-28T19:24:48.404Z"
+    },
+    {
+      "pregunta": "¿Qué es el pensamiento crítico?",
+      "respuesta": "El pensamiento crítico es un proceso mental que implica analizar y evaluar información, ideas y argumentos de manera objetiva y sistemática, para llegar a conclusiones informadas y fundamentadas. Implica cuestionar suposiciones, verificar fuentes y considerar múltiples perspectivas para formar opiniones y tomar decisiones. Por ejemplo, al leer un artículo de periodismo, un estudiante con pensamiento crítico no solo le da crédito a la información presentada, sino que también busca verificar las fuentes citadas y evalúa la objetividad del autor. Al hacerlo, puede llegar a una comprensión más profunda del tema y tomar decisiones más informadas.",
+      "fecha": "2025-12-28T19:24:56.289Z"
     }
   ],
-  "ultimaActualizacion": 1766949888405,
-  "preguntasHechas": 56
+  "ultimaActualizacion": 1766949896290,
+  "preguntasHechas": 57
 }
