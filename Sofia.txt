@@ -1,5 +1,5 @@
 {
-  "iq": 2091,
+  "iq": 2096,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2671,16 +2671,17 @@
     "stica",
     "alterar",
     "luces",
-    "dormido"
+    "dormido",
+    "déjame",
+    "discoteca",
+    "pidiendo",
+    "muevas",
+    "oficina",
+    "grosero"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo funciona la comprensión del contexto?",
-      "respuesta": "La comprensión del contexto es el proceso mental que permite a las personas identificar y comprender la situación, el contexto y la intención detrás de las palabras o acciones de otra persona. Funciona mediante la consideración de elementos como el tono de voz, la entonación, el lenguaje no verbal, la información previa y la experiencia personal. Por ejemplo, al escuchar a alguien decir \"¿Qué pasa?\", es posible inferir si está realmente preocupado o solo interesado, dependiendo del tono de voz y del contexto.",
-      "fecha": "2025-12-28T20:16:43.746Z"
-    },
     {
       "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
       "respuesta": "El vocabulario técnico se refiere a las palabras y expresiones específicas utilizadas en un campo de conocimiento o profesión, como la medicina, la ingeniería o la economía. Por otro lado, el vocabulario coloquial es el lenguaje común y cotidiano que se utiliza en la comunicación informal con amigos, familiares o en la vida diaria.\n\nPor ejemplo, en la medicina, el término \"cirugía\" se utiliza para describir un procedimiento quirúrgico, mientras que en la vida cotidiana se puede referir a una reparación o una modificación en un objeto.",
@@ -3675,8 +3676,13 @@
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son palabras o expresiones que nos permiten unir oraciones, ideas o conceptos en un discurso o texto. Se utilizan para expresar relaciones entre ideas, como causalidad, consecuencia, comparación, oposición, contraste, enumeración, etc.\n\nPor ejemplo: \"Iba cansado porque no había dormido bien la noche anterior\" (conector \"porque\" indica causalidad).",
       "fecha": "2025-12-28T21:15:55.705Z"
+    },
+    {
+      "pregunta": "¿Cómo funciona la comprensión del contexto?",
+      "respuesta": "La comprensión del contexto es el proceso de analizar y comprender el significado de un texto o comunicación en relación con el contexto en el que se utiliza, incluyendo la situación, los hablantes involucrados, el propósito y el tema. Este proceso implica considerar la lengua, el tono, el entorno y las intenciones de los interlocutores.\n\nPor ejemplo, si se dice \"¡Eh, déjame pasar!\", en un contexto de una discoteca llena de gente, su significado es que alguien te está pidiendo que te muevas para que puedan pasar. Sin embargo, en un ambiente formal como una oficina, el mismo mensaje podría ser considerado grosero.",
+      "fecha": "2025-12-28T21:16:04.415Z"
     }
   ],
-  "ultimaActualizacion": 1766956555706,
-  "preguntasHechas": 329
+  "ultimaActualizacion": 1766956564417,
+  "preguntasHechas": 330
 }
