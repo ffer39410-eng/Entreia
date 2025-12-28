@@ -1,5 +1,5 @@
 {
-  "iq": 3046,
+  "iq": 3051,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3159,16 +3159,12 @@
     "oradores",
     "actuales",
     "sitúa",
-    "interpretes"
+    "interpretes",
+    "permitir"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo funcionan los tiempos verbales?",
-      "respuesta": "Los tiempos verbales son una parte fundamental de la gramática en español. Funcionan como una forma de indicar cuándo y cómo ocurren los eventos relacionados con el verbo principal en una oración. En español, existen varios tiempos verbales, como el presente, el pasado, el futuro, el condicional, el imperativo, entre otros.\n\nPor ejemplo, el verbo \"ir\" en el presente implica que la acción se está realizando en el momento de la conversación (Yo voy al parque), mientras que en el pasado implica que la acción ya se ha completado (Yo fui al parque). Esta misma lógica se aplica a otros tiempos verbales y verbes.",
-      "fecha": "2025-12-28T21:13:39.830Z"
-    },
     {
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual se refiere a la propiedad de un texto que permite comprender fácilmente la relación entre las diferentes ideas, frases y oraciones que lo componen. Esto se logra mediante la conexión lógica entre las ideas principales y la utilización de conectores, como \"además\", \"por otro lado\" o \"en consecuencia\". Por ejemplo, en un texto que explica los pasos para cocinar un plato, cada oración debe estar relacionada con la anterior y la siguiente para que el lector pueda seguir la receta de manera clara.",
@@ -4163,8 +4159,13 @@
       "pregunta": "¿Cómo funciona la comprensión del contexto?",
       "respuesta": "La comprensión del contexto es la capacidad de interpretar y analizar información en función del entorno, la situación y la intención en la que se presenta. Para lograr esto, se consideran factores como el tono, el lenguaje, la cultura y el conocimiento previo. Por ejemplo, cuando lees un texto con un título que dice \"El fin del mundo\", es probable que lo interpretes de manera diferente si el texto está en un periódico de noticias que en un libro de ficción.",
       "fecha": "2025-12-28T21:52:27.736Z"
+    },
+    {
+      "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
+      "respuesta": "La expresión de emociones es fundamental para comunicarse de manera auténtica y efectiva. Puedes expresar emociones de forma efectiva a través de la comunicación no verbal, como el lenguaje corporal (por ejemplo, una sonrisa o una postura abierta), y la comunicación verbal, como utilizar palabras y frases que describan tus sentimientos (por ejemplo, \"Me siento emocionado\" o \"Estoy muy feliz\"). También es importante ser consciente de tus emociones y reconocerlas, lo que te permitirá expresarlas de manera más auténtica y efectiva. Por ejemplo, si estás molesto, puedes decir \"Estoy un poco molesto con esto\" en lugar de simplemente gritar.",
+      "fecha": "2025-12-28T21:52:35.737Z"
     }
   ],
-  "ultimaActualizacion": 1766958747739,
-  "preguntasHechas": 511
+  "ultimaActualizacion": 1766958755739,
+  "preguntasHechas": 512
 }
