@@ -1,5 +1,5 @@
 {
-  "iq": 1914,
+  "iq": 1921,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2553,16 +2553,14 @@
     "fluya",
     "suavemente",
     "conecte",
-    "redacción"
+    "redacción",
+    "escribimos",
+    "estancia",
+    "consecutiva"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo funciona la comprensión del contexto?",
-      "respuesta": "La comprensión del contexto es el proceso de analizar el entorno social, cultural y situacional en el que se comunica un mensaje. Esto implica considerar factores como el idioma, las creencias, las normas y las expectativas de las personas involucradas. Al comprender el contexto, podemos interpretar de manera más precisa y efectiva el significado de las palabras, las acciones y las expresiones. Por ejemplo, en un entorno profesional, un comentario que podría ser considerado chiste en un ambiente casual podría ser mal interpretado en un foro de trabajo formal.",
-      "fecha": "2025-12-28T20:06:43.948Z"
-    },
     {
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es la habilidad de analizar información, evaluar evidencia y formar opiniones informadas basadas en argumentos sólidos. Implica cuestionar suposiciones, identificar sesgos y resolver dilemas complejos de manera independiente y autoconfiada. Por ejemplo, al leer un artículo, un pensador crítico no se limitaría a aceptar la información sin más, sino que analizaría las fuentes, la metodología y las conclusiones para determinar su validez. Esto requiere una mentalidad abierta y una actitud de búsqueda de la verdad.",
@@ -3557,8 +3555,13 @@
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual se refiere a la calidad de que el texto fluya suavemente, sin saltos ni contradicciones, y que cada idea se conecte lógicamente con las anteriores y siguientes. Un texto coherente tiene una estructura clara y un lenguaje consistente, lo que facilita la comprensión del lector. Por ejemplo, una redacción de un ensayo coherente podría describir el tema principal, luego presentar los argumentos y, finalmente, concluir con una reflexión. La coherencia textual es fundamental para comunicar ideas de manera efectiva.",
       "fecha": "2025-12-28T21:11:23.847Z"
+    },
+    {
+      "pregunta": "¿Qué es la coherencia textual?",
+      "respuesta": "La coherencia textual se refiere a la capacidad de un texto para mantener una conexión lógica y consistente entre las ideas, conceptos y oraciones que lo componen. Es la habilidad de expresar pensamientos y opiniones de manera clara y ordenada, sin saltos ni contradicciones. Por ejemplo, si escribimos sobre un viaje a la playa, la coherencia textual nos permite describir la llegada, la estancia y la partida de manera lógica y consecutiva. Esto ayuda a los lectores a seguir y comprender el texto de manera fácil.",
+      "fecha": "2025-12-28T21:11:31.703Z"
     }
   ],
-  "ultimaActualizacion": 1766956283848,
-  "preguntasHechas": 295
+  "ultimaActualizacion": 1766956291703,
+  "preguntasHechas": 296
 }
