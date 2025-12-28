@@ -1,5 +1,5 @@
 {
-  "iq": 2422,
+  "iq": 2428,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2864,16 +2864,18 @@
     "deporte",
     "relacione",
     "períodos",
-    "expresen"
+    "expresen",
+    "académicos",
+    "ciclotron",
+    "física",
+    "nuclear",
+    "máquina",
+    "acelera",
+    "partículas"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cuáles son las reglas de la gramática española?",
-      "respuesta": "La gramática española tiene reglas importantes para la formación de palabras, oraciones y estructuras sintácticas. Algunas de las reglas más fundamentales incluyen: \n\n- El orden de las palabras en una oración suele ser sujeto-verbo-objeto (SVO).\n- Los artículos \"el\", \"la\", \"los\" y \"las\" se utilizan para referirse a seres y objetos específicos o generales.\n- Los verbos en español tienen tres tiempos: presente, pasado y futuro, con variaciones para indicar aspectos como la modalidad, el condicional, entre otros.\n\nEstas reglas y otras muchas son fundamentales para comunicarse de manera efectiva en español.",
-      "fecha": "2025-12-28T20:43:35.050Z"
-    },
     {
       "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
       "respuesta": "El vocabulario técnico se refiere a las palabras y expresiones utilizadas en un campo específico de conocimiento o actividad, como la medicina, la tecnología o la ingeniería. Estas palabras suelen ser precisas y técnicamente correctas, pero pueden ser difíciles de entender para personas no relacionadas con ese campo.\n\nPor otro lado, el vocabulario coloquial se refiere a las palabras y expresiones comúnmente utilizadas en la conversación informal, en el lenguaje de la calle, como en la música, la televisión y la radio. Estas palabras suelen ser más fáciles de entender, pero pueden ser poco precisas o incorrectas en ciertos contextos.\n\nPor ejemplo, en medicina, \"cardiopatía\" es un término técnico que se refiere a un trastorno del corazón, mientras que en la conversación coloquial se puede referir a",
@@ -3868,8 +3870,13 @@
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales son una parte fundamental de la gramática que nos ayudan a expresar momentos y períodos en el tiempo. Hay varios tiempos verbales, como el presente, pasado, futuro, condicional, subjuntivo y imperativo, cada uno con sus características y usos específicos. Por ejemplo, el tiempo presente se utiliza para describir acciones que ocurren en el presente, como \"Ella come una manzana\", mientras que el tiempo pasado se utiliza para describir acciones que ya ocurrieron en el pasado, como \"Ella comió una manzana\".\n\nEn resumen, los tiempos verbales nos permiten crear oraciones que expresen diferentes momentos y períodos en el tiempo, lo que nos ayuda a comunicar ideas y relatos de manera más precisa y eficaz.",
       "fecha": "2025-12-28T21:24:27.844Z"
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
+      "respuesta": "El vocabulario técnico se refiere a palabras y expresiones utilizadas en contextos académicos, profesionales o especializados, como la medicina, la ingeniería o la ciencia. Por ejemplo, \"ciclotron\" se utiliza en física nuclear para describir una máquina que acelera partículas. En cambio, el vocabulario coloquial se refiere a palabras y expresiones utilizadas en la vida diaria, como \"estoy cansado\" o \"me duele la cabeza\".",
+      "fecha": "2025-12-28T21:24:35.693Z"
     }
   ],
-  "ultimaActualizacion": 1766957067845,
-  "preguntasHechas": 393
+  "ultimaActualizacion": 1766957075695,
+  "preguntasHechas": 394
 }
