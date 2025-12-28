@@ -1,5 +1,5 @@
 {
-  "iq": 1812,
+  "iq": 1819,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2502,16 +2502,13 @@
     "priorizarla",
     "congruente",
     "negarlos",
-    "fingir"
+    "fingir",
+    "idéntico",
+    "variada"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cuáles son las reglas de la gramática española?",
-      "respuesta": "La gramática española está regida por una serie de reglas que se aplican a la estructura y forma de las palabras, frases y oraciones. Algunas de las reglas más importantes incluyen la declinación de los artículos (el, la, los, las), la conjugación de los verbos (presente, pretérito, futuro, condicional, etc.), la formación de las oraciones (sujeto, predicado, complementos, etc.) y la reglas de acentuación, como la cesura y la sílaba tónica. Por ejemplo, en la oración \"El estudiante estudia en la biblioteca\", \"el\" es el artículo masculino determinado, \"estudiante\" es el sujeto y \"estudia\" es el verbo conjugado en el presente de indicativo.",
-      "fecha": "2025-12-28T19:40:51.930Z"
-    },
     {
       "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
       "respuesta": "El vocabulario técnico se refiere a palabras y expresiones utilizadas en contextos específicos, como la ciencia, la tecnología, la medicina o la ingeniería, que requieren conocimientos especializados para ser comprendidos. Por otro lado, el vocabulario coloquial se refiere a la forma informal de expresarse en la vida cotidiana, utilizando palabras y frases comunes en la conversación diaria. \n\nPor ejemplo, \"sistema operativo\" es un término técnico, mientras que \"computadora\" es un vocabulario coloquial.",
@@ -3506,8 +3503,13 @@
       "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
       "respuesta": "Para expresar emociones de forma efectiva, es importante ser congruente entre lo que sientes y lo que expresas. Esto significa que debes reconocer y aceptar tus sentimientos, en lugar de negarlos o fingir sentir algo que no sientes. Por ejemplo, en lugar de decir \"Estoy bien\" cuando en realidad estás enojado, podrías decir \"Estoy enojado porque...\" y explicar la razón detrás de tu emoción. De esta manera, puedes expresar tus sentimientos de manera clara y respetuosa.",
       "fecha": "2025-12-28T21:08:59.645Z"
+    },
+    {
+      "pregunta": "¿Qué son los sinónimos y antónimos?",
+      "respuesta": "Los sinónimos son palabras que tienen el mismo significado o casi idéntico, como \"feliz\" y \"alegre\". Por ejemplo: \"Estoy feliz con mi nueva casa\" es igual a \"Estoy alegre con mi nueva casa\".\n\nPor otro lado, los antónimos son palabras que tienen significados opuestos, como \"grande\" y \"pequeño\". Por ejemplo: \"La casa es grande\" es lo opuesto a \"La casa es pequeña\".\n\nEstos términos son fundamentales en la gramática y se utilizan comúnmente en la comunicación para expresar ideas de manera más clara y variada.",
+      "fecha": "2025-12-28T21:09:07.611Z"
     }
   ],
-  "ultimaActualizacion": 1766956139646,
-  "preguntasHechas": 277
+  "ultimaActualizacion": 1766956147613,
+  "preguntasHechas": 278
 }
