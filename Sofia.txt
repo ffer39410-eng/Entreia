@@ -1,5 +1,5 @@
 {
-  "iq": 2225,
+  "iq": 2231,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2757,16 +2757,12 @@
     "campamento",
     "sabe",
     "refugio",
-    "militar"
+    "militar",
+    "cantidades"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo funcionan los tiempos verbales?",
-      "respuesta": "Los tiempos verbales son fundamentales en la gramática y se refieren a la forma en que se expresan las acciones o estados en un momento determinado. Hay varios tiempos verbales, como el presente, pretérito, futuro, condicional, imperativo, subjuntivo y pluscuamperfecto, entre otros. Cada uno de ellos proporciona una información específica sobre la acción o estado, como su cumplimiento, duración o posibilidad.\n\nPor ejemplo, el verbo \"hablar\" en presente (hablo) indica que la acción está ocurriendo en el momento actual, mientras que en pretérito (hablé) se refiere a una acción pasada.",
-      "fecha": "2025-12-28T20:33:07.822Z"
-    },
     {
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son palabras o expresiones que se utilizan para unir ideas, oraciones o frases en un texto en forma lógica y coherente. Algunos ejemplos comunes de conectores son \"y\", \"pero\", \"sin embargo\", \"porque\" y \"además\". Estos conectores ayudan a establecer relaciones entre ideas y a crear un flujo lógico en el texto. Por ejemplo, \"Voy al parque porque el clima es soleado\" utiliza el conector \"porque\" para explicar la razón de una acción.",
@@ -3761,8 +3757,13 @@
       "pregunta": "¿Cómo funciona la comprensión del contexto?",
       "respuesta": "La comprensión del contexto es el proceso mental que permite a las personas identificar y comprender el significado de palabras, frases o textos en función de la situación o entorno en el que se encuentran. Esto implica considerar factores como el tono, la intención, el propósito y las implicaciones de lo que se dice o se escribe. Por ejemplo, en un texto se puede leer \"La lluvia cayó sobre el campamento\", pero si se sabe que el campamento es un refugio militar, el contexto cambia y la interpretación de la frase también.",
       "fecha": "2025-12-28T21:19:23.683Z"
+    },
+    {
+      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
+      "respuesta": "Las preposiciones son palabras que se utilizan para indicar la relación entre un sustantivo y otros elementos de la oración, como lugares, direcciones, tiempos, maneras, cantidades, etc. Ejemplos de preposiciones comunes son \"en\", \"de\", \"a\", \"con\", \"sin\", \"por\", \"entre\", \"bajo\", \"sobre\", entre otras.\n\nPor ejemplo: \"Estoy sentado en la mesa\", aquí la preposición \"en\" indica que estamos hablando de la relación entre el lugar donde nos encontramos (en la mesa) y el sustantivo \"mesa\".",
+      "fecha": "2025-12-28T21:19:31.776Z"
     }
   ],
-  "ultimaActualizacion": 1766956763684,
-  "preguntasHechas": 355
+  "ultimaActualizacion": 1766956771778,
+  "preguntasHechas": 356
 }
