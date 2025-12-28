@@ -1,5 +1,5 @@
 {
-  "iq": 603,
+  "iq": 607,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1406,7 +1406,17 @@
     "tiles",
     "eficaz",
     "interrogación",
-    "esperaba"
+    "esperaba",
+    "enlace",
+    "lectores",
+    "línea",
+    "selección",
+    "trabajen",
+    "juntas",
+    "cohesiva",
+    "lograrse",
+    "ling",
+    "sticos"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1960,8 +1970,13 @@
       "pregunta": "¿Cómo se usa la puntuación correctamente?",
       "respuesta": "La puntuación es un elemento fundamental en la escritura para comunicar ideas de manera clara y eficaz. Utiliza la puntuación para separar oraciones entre sí, como el punto (.), el signo de interrogación (?) y el signo de exclamación (!). También puedes usar comas (,) para separar ideas dentro de una oración, como en la frase \"Vine a la ciudad, donde me esperaba un amigo\".",
       "fecha": "2025-12-28T19:22:08.456Z"
+    },
+    {
+      "pregunta": "¿Qué es la coherencia textual?",
+      "respuesta": "La coherencia textual se refiere a la capacidad de un texto para mantener una estructura lógica y un enlace entre sus diferentes partes, lo que permite a los lectores seguir la línea de razonamiento y comprender el mensaje de manera efectiva. Una buena coherencia textual se logra a través de la selección de palabras y frases que trabajen juntas para crear una narrativa clara y cohesiva. Por ejemplo, en un texto científico, la coherencia textual puede lograrse al presentar información de manera sistemática y relacionada, utilizando transiciones y conectores lingüísticos para conectar ideas y conceptos.",
+      "fecha": "2025-12-28T19:22:16.447Z"
     }
   ],
-  "ultimaActualizacion": 1766949728457,
-  "preguntasHechas": 36
+  "ultimaActualizacion": 1766949736449,
+  "preguntasHechas": 37
 }
