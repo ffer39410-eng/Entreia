@@ -1,5 +1,5 @@
 {
-  "iq": 1750,
+  "iq": 1753,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2450,16 +2450,15 @@
     "memorables",
     "emotivos",
     "colina",
-    "subtiempos"
+    "subtiempos",
+    "racionalmente",
+    "europa",
+    "templado",
+    "probablemente"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué es la coherencia textual?",
-      "respuesta": "La coherencia textual se refiere a la capacidad de un texto para mantener una conexión lógica y clara entre las ideas y los conceptos presentados. Esto implica que el texto tiene una estructura lógica, con un comienzo, un desarrollo y un final coherentes. Por ejemplo, si un texto habla sobre la importancia de la educación, la coherencia textual implicaría que el texto explique cómo la educación es fundamental para mejorar la sociedad, y que los ejemplos y argumentos se relacionen de manera lógica con este tema.",
-      "fecha": "2025-12-28T19:26:00.265Z"
-    },
     {
       "pregunta": "¿Cuáles son las reglas de la gramática española?",
       "respuesta": "La gramática española se basa en reglas fundamentales que ayudan a construir oraciones coherentes y gramaticalmente correctas. Algunas de las reglas clave incluyen el uso de artículos definidos e indefinidos (el, la, los, las, un, una, unos, unas), el orden de los verbos (Sujeto + Verbo + Objeto) y el uso correcto de los géneros y números en la terminación de las palabras. Por ejemplo, \"la casa\" (feminino singular) vs. \"las casas\" (feminino plural).",
@@ -3454,8 +3453,13 @@
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales son una forma de describir el momento en que se realiza una acción o un estado de ser. Hay varios tiempos verbales, como el presente, pasado y futuro, que se pueden dividir en subtiempos específicos como el presente imperfecto, el pasado simple y el futuro perfecto. Por ejemplo, \"estoy estudiando\" es el presente imperfecto, mientras que \"estudié\" es el pasado simple.",
       "fecha": "2025-12-28T21:04:35.682Z"
+    },
+    {
+      "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
+      "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de pensar críticamente y racionalmente para llegar a conclusiones fundadas en argumentos y hechos. Implica analizar información, identificar patrones y relaciones lógicas, y hacer inferencias precisas. Por ejemplo, si alguien afirma que \"todos los países de Europa tienen un clima templado\", un razonamiento lógico podría ser: \"Si un país es de Europa, entonces probablemente tenga un clima templado, pero no todos los países de Europa tienen un clima templado\".",
+      "fecha": "2025-12-28T21:07:24.808Z"
     }
   ],
-  "ultimaActualizacion": 1766955875683,
-  "preguntasHechas": 264
+  "ultimaActualizacion": 1766956044810,
+  "preguntasHechas": 265
 }
