@@ -1,5 +1,5 @@
 {
-  "iq": 2030,
+  "iq": 2034,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2641,16 +2641,14 @@
     "adecuadas",
     "comprometer",
     "dotarle",
-    "cita"
+    "cita",
+    "pretende",
+    "anticipar",
+    "opositores"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué es el pensamiento crítico?",
-      "respuesta": "El pensamiento crítico es la habilidad de analizar y evaluar información, ideas y argumentos de manera objetiva y lógica, para llegar a conclusiones bien fundadas. Implica cuestionar suposiciones, identificar falacias y considerar múltiples perspectivas. Por ejemplo, al leer un artículo periodístico, un pensamiento crítico permitiría analizar los datos presentados, evaluar la credibilidad de las fuentes y considerar posibles sesgos o sesgos ideológicos. De esta manera, se puede llegar a una comprensión más profunda y completa de la información.",
-      "fecha": "2025-12-28T20:14:03.717Z"
-    },
     {
       "pregunta": "¿Cómo se usa la puntuación correctamente?",
       "respuesta": "La puntuación es fundamental para comunicar ideas de manera clara y efectiva en la escritura y la comunicación. Utiliza comas para separar ideas independientes dentro de una oración, puntos suspensivos para indicar una interrupción o una pausa en la narrativa, y signos de interrogación para expresar preguntas. Por ejemplo, \"¿Dónde está mi sombrero?\" es una pregunta clara y concisa que utiliza un signo de interrogación para mostrar la intención de preguntar.",
@@ -3645,8 +3643,13 @@
       "pregunta": "¿Cómo se usa la puntuación correctamente?",
       "respuesta": "La puntuación es fundamental para dotarle de claridad y coherencia a nuestro lenguaje escrito. Para usarla correctamente, debemos saber distinguir entre las diferentes signos de puntuación, como la coma (,), el punto (.), la interrogación (?), la exclamación (!), los signos de cita (\" \" o ‘‘ ‘ ‘), los dos puntos (:), el punto y coma (;), etc. Por ejemplo, para separar oraciones simples, se utilizan comas y puntos, mientras que para separar oraciones complejas, se usan dos puntos.",
       "fecha": "2025-12-28T21:14:28.328Z"
+    },
+    {
+      "pregunta": "¿Cómo se estructura una buena argumentación?",
+      "respuesta": "Una buena argumentación se estructura en tres partes fundamentales: presentación de la tesis, desarrollo del argumento y refutación de posibles objeciones. La tesis es la afirmación principal que se pretende demostrar, mientras que el desarrollo del argumento implica presentar evidencia y razonamientos que la apoyan. La refutación de posibles objeciones consiste en anticipar y responder a las críticas que podrían hacer los opositores. Esto proporciona una argumentación sólida y convincente.",
+      "fecha": "2025-12-28T21:14:35.731Z"
     }
   ],
-  "ultimaActualizacion": 1766956468333,
-  "preguntasHechas": 318
+  "ultimaActualizacion": 1766956475733,
+  "preguntasHechas": 319
 }
