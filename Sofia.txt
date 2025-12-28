@@ -1,5 +1,5 @@
 {
-  "iq": 2435,
+  "iq": 2441,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2873,16 +2873,14 @@
     "acelera",
     "partículas",
     "raciocinio",
-    "establecidas"
+    "establecidas",
+    "concatenación",
+    "abruptos",
+    "culmina"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo se construyen oraciones complejas en español?",
-      "respuesta": "Las oraciones complejas en español se construyen mediante la unión de dos o más oraciones simples, que pueden ser coordinadas o subordinadas. Una oración independiente puede ser subordinada a otra, creando una estructura de oraciones compleja. Por ejemplo, \"Mientras estudiaba para mis exámenes, mi amigo llamó\" es una oración compleja, donde \"mientras estudiaba para mis exámenes\" es una oración subordinada.",
-      "fecha": "2025-12-28T20:43:47.591Z"
-    },
     {
       "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
       "respuesta": "Expresar emociones de forma efectiva implica comunicar tus sentimientos de manera clara y respetuosa, sin dañar a los demás ni hacerte sentir mal. Puedes hacerlo mediante la comunicación verbal, como diciendo \"Me siento molesto\" o \"Me alegra que hayas ayudado\", o mediante la no verbal, como un gesto de agradecimiento o un abrazo. Lo importante es ser auténtico y evitar juzgar o culpar a los demás por tus emociones. Por ejemplo, en lugar de decir \"Eres muy insensible\", podrías decir \"Me hace sentir mal que no hayas considerado mi opinión\".",
@@ -3877,8 +3875,13 @@
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es la capacidad de analizar información, evaluar argumentos y tomar decisiones informadas con objetividad y raciocinio. Implica cuestionar suposiciones y creencias establecidas, considerar múltiples perspectivas y evidencia, y distinguir entre lo que es válido y lo que no. Por ejemplo, al leer un artículo periodístico, el pensamiento crítico te permite identificar posibles sesgos, verificar fuentes y evaluar la validez de las conclusiones.",
       "fecha": "2025-12-28T21:24:43.650Z"
+    },
+    {
+      "pregunta": "¿Qué es la coherencia textual?",
+      "respuesta": "La coherencia textual se refiere a la capacidad de una pieza de escritura de transmitir una idea o mensaje claro y lógico a través de la estructura y la concatenación de las ideas. Implica que cada oración se conecta con la siguiente de manera natural y sin saltos abruptos, permitiendo al lector seguir la línea de razonamiento con facilidad. Un buen ejemplo de coherencia textual es una redacción que presenta una idea principal, la desarrolla con detalles y ejemplos, y culmina con una conclusión lógica.",
+      "fecha": "2025-12-28T21:24:51.656Z"
     }
   ],
-  "ultimaActualizacion": 1766957083651,
-  "preguntasHechas": 395
+  "ultimaActualizacion": 1766957091657,
+  "preguntasHechas": 396
 }
