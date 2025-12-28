@@ -1,5 +1,5 @@
 {
-  "iq": 2415,
+  "iq": 2419,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2861,16 +2861,12 @@
     "llev",
     "encadenadas",
     "practicando",
-    "deporte"
+    "deporte",
+    "relacione"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
-      "respuesta": "Las preposiciones son palabras que indican la relación entre un sustantivo o pronombre y otros elementos en una oración, como lugares, direcciones, tiempos, maneras, etc. Ejemplos de preposiciones comunes son \"de\", \"en\", \"con\", \"por\", \"para\", \"entre\", \"sobre\", \"bajo\", etc. Sirven para proporcionar contexto y claridad a la oración, por ejemplo: \"Estoy sentado en la silla\" o \"Me gusta leer con mis amigos\".",
-      "fecha": "2025-12-28T20:42:03.699Z"
-    },
     {
       "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
       "respuesta": "Las metáforas son utilizadas para describir conceptos abstractos a través de imágenes o comparaciones que crean una conexión entre dos ideas aparentemente distintas. Por ejemplo, \"la vida es un viaje\" sugiere que la vida tiene un principio y un fin, y que se puede experimentar momentos de alegría o desafíos como se experimentarían mientras se viaja a un destino desconocido. Esto ayuda a los oyentes a entender y visualizar un concepto abstracto de una manera más accesible.",
@@ -3865,8 +3861,13 @@
       "pregunta": "¿Cómo se construyen oraciones complejas en español?",
       "respuesta": "Las oraciones complejas en español se construyen mediante la combinación de oraciones simples mediante conectores como \"y\", \"o\", \"pero\", \"porque\", \"ya que\", etc., o mediante la inclusión de subordinadas, es decir, oraciones que expresan una idea dependiente de otra oración. Por ejemplo: \"Mi amiga vino al partido y me llevó a casa\".\n\nTambién se pueden construir oraciones complejas mediante la inclusión de oraciones encadenadas, es decir, oraciones que se relacionan entre sí mediante conectores como \"antes de que\", \"después de que\", \"mientras que\", etc. Por ejemplo: \"Yo estaba estudiando para el examen mientras que mi hermano estaba practicando deporte\".\n\nEs importante destacar que las oraciones complejas pueden tener una estructura más compleja que las oraciones simples y pueden expresar ideas más complejas",
       "fecha": "2025-12-28T21:24:11.848Z"
+    },
+    {
+      "pregunta": "¿Qué es la coherencia textual?",
+      "respuesta": "La coherencia textual se refiere a la propiedad de un texto de ser lógico y consistente en cuanto a la conexión entre las ideas y las palabras que se utilizan. Un texto coherente mantiene una estructura lógica y una línea de razonamiento clara, permitiendo que el lector o el oyente pueda seguir fácilmente la argumentación o la narrativa. Por ejemplo, en un ensayo, la coherencia textual implica que cada idea se relacione con la anterior y la siguiente de manera natural y lógica. Esto puede lograrse mediante la utilización de conectores, transiciones y un flujo de ideas claro.",
+      "fecha": "2025-12-28T21:24:19.934Z"
     }
   ],
-  "ultimaActualizacion": 1766957051852,
-  "preguntasHechas": 391
+  "ultimaActualizacion": 1766957059936,
+  "preguntasHechas": 392
 }
