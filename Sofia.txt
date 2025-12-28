@@ -1,5 +1,5 @@
 {
-  "iq": 2262,
+  "iq": 2267,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2771,16 +2771,15 @@
     "empleabilidad",
     "reducción",
     "pobreza",
-    "desigualdad"
+    "desigualdad",
+    "expandir",
+    "obstruidas",
+    "humor",
+    "variado"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo se usa la puntuación correctamente?",
-      "respuesta": "La puntuación es un elemento fundamental en la escritura para expresar ideas y emociones de manera clara y efectiva. Algunas de las reglas básicas para usar la puntuación correctamente incluyen:\n\n- Utilizar la coma (\",\") para separar elementos en una lista o para introducir una explicación adicional.\n- Utilizar el punto (\".\") para finalizar una oración o para indicar un cambio de pensamiento.\n- Utilizar los signos de preguntas (\"?\", \"!\") para solicitar información o para expresar énfasis.\n- Utilizar los signos de exclamación para expresar sorpresa o emoción.\n\nPor ejemplo: \"Voy a la playa con mis amigos: Tomás, Sofía y Carlos. ¡Es mi primer viaje este año!\"",
-      "fecha": "2025-12-28T20:33:55.746Z"
-    },
     {
       "pregunta": "¿Cuáles son las reglas de la gramática española?",
       "respuesta": "La gramática española se rige por un conjunto de reglas y patrones que regulan la estructura y el uso de la lengua. Algunas de las reglas más importantes incluyen la declinación de los verbos, la concordancia de género y número de los adjetivos y sustantivos, y la utilización de las preposiciones y conjunciones.\n\nPor ejemplo, en español, el adjetivo debe concordar en género y número con el sustantivo al que modifica. Así, \"el gato\" (masc.) se conjuga con \"feliz\" (masc.), mientras que \"la gata\" (fem.) se conjuga con \"feliz\" (fem.).\n\nAdemás, la gramática española también regula la forma en que se construyen oraciones y frases, incluyendo la utilización de verbos en presente, pretérito y",
@@ -3775,8 +3774,13 @@
       "pregunta": "¿Cómo se estructura una buena argumentación?",
       "respuesta": "Una buena argumentación se estructura en tres etapas clave: tópico, desarrollo y conclusión. Primero, se presenta el tópico o la cuestión central sobre la que se va a argumentar. Luego, se desarrolla la argumentación mediante la presentación de pruebas, hechos y razones que respaldan la postura. Finalmente, se concluye con una síntesis de los argumentos presentados y se reafirma la posición inicial. Por ejemplo, si se argumenta a favor de la importancia de la educación, se podría estructurar así: \"La educación es fundamental para el desarrollo personal y social, ya que proporciona habilidades y conocimientos para la vida, mejora la empleabilidad y contribuye a la reducción de la pobreza y la desigualdad\".",
       "fecha": "2025-12-28T21:20:11.718Z"
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
+      "respuesta": "El vocabulario técnico se refiere a las palabras y expresiones utilizadas en un campo profesional o científico específico, como la medicina, la ingeniería o la informática, y que requieren conocimientos especializados para ser comprendidas. Por ejemplo, en medicina, el término \"angioplastia\" se refiere a un procedimiento quirúrgico para expandir las arterias obstruidas. En cambio, el vocabulario coloquial se refiere a las palabras y expresiones comúnmente utilizadas en la interacción social y la comunicación informal, como \"estar de mal humor\" o \"estar cansado\".\n\nEl vocabulario técnico es generalmente más formal y preciso, mientras que el coloquial es más relajado y variado.",
+      "fecha": "2025-12-28T21:20:19.907Z"
     }
   ],
-  "ultimaActualizacion": 1766956811721,
-  "preguntasHechas": 361
+  "ultimaActualizacion": 1766956819909,
+  "preguntasHechas": 362
 }
