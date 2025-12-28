@@ -1,5 +1,5 @@
 {
-  "iq": 404,
+  "iq": 408,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1086,7 +1086,21 @@
     "inferir",
     "realmente",
     "mucha",
-    "literalmente"
+    "literalmente",
+    "honesto",
+    "sonreír",
+    "importa",
+    "triste",
+    "poner",
+    "mano",
+    "hombro",
+    "darle",
+    "abrazo",
+    "apoyo",
+    "solidaridad",
+    "nimo",
+    "aliento",
+    "positivas"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1430,8 +1444,13 @@
       "pregunta": "¿Cómo funciona la comprensión del contexto?",
       "respuesta": "La comprensión del contexto es un proceso mental que permite al ser humano identificar y dar sentido a las palabras o expresiones en función del entorno en el que se utilizan. Esta habilidad se basa en la capacidad de analizar la situación, el tono y los sentimientos involucrados para entender el significado más adecuado de las palabras. Por ejemplo, cuando alguien dice \"Estoy muerto de hambre\", se puede inferir que lo que realmente quiere decir es que tiene mucha hambre, no que esté literalmente muerto.",
       "fecha": "2025-12-28T19:09:28.993Z"
+    },
+    {
+      "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
+      "respuesta": "Para expresar emociones de forma efectiva, es importante ser auténtico y honesto al mismo tiempo. Puedes utilizar gestos corporales como sonreír o mantener contacto visual para mostrar que te importa la otra persona. Por ejemplo, si alguien te cuenta algo triste, puedes poner una mano en el hombro o darle un abrazo para demostrar apoyo y solidaridad. Además, utilizar palabras de ánimo y aliento también puede ayudar a expresar emociones positivas.",
+      "fecha": "2025-12-28T19:09:37.069Z"
     }
   ],
-  "ultimaActualizacion": 1766948968994,
+  "ultimaActualizacion": 1766948977072,
   "preguntasHechas": null
 }
