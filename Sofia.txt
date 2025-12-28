@@ -1,5 +1,5 @@
 {
-  "iq": 1150,
+  "iq": 1156,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1966,16 +1966,14 @@
     "antónimas",
     "despidiéndose",
     "bromeando",
-    "irónico"
+    "irónico",
+    "enlazar",
+    "nombre",
+    "proporcionando"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
-      "respuesta": "Las metáforas son una figura retórica que permite transferir un concepto o un sentimiento de un dominio a otro, creando una nueva representación de la realidad. Se utilizan para describir objetos, ideas o situaciones de manera creativa y evocadora, como en la famosa frase \"Ella es una estrella\" que compara a una persona con una estrella brillante. Algunos ejemplos de metáforas en el lenguaje incluyen \"Su voz es miela sobre un tazón de té\" (comparando la voz con miel) o \"El mundo es un gran teatro\" (comparando el mundo con un escenario teatral).",
-      "fecha": "2025-12-28T19:01:56.351Z"
-    },
     {
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual se refiere a la capacidad de un texto para transmitir una idea o mensaje claro y consistente a través de sus diferentes partes, como la introducción, el cuerpo y la conclusión. Esto implica que cada oración o párrafo contribuye a una narrativa o argumentación coherente, sin saltos de tema o contradicciones. Por ejemplo, en un ensayo sobre la importancia del medio ambiente, cada oración debe estar relacionada con el tema principal y apoyar la argumentación.",
@@ -2970,8 +2968,13 @@
       "pregunta": "¿Cómo funciona la comprensión del contexto?",
       "respuesta": "La comprensión del contexto se refiere al proceso de identificar y analizar la información relevante que rodea un texto, una situación o una conversación. Esto implica considerar factores como el tono, el lenguaje, el propósito y la intención detrás de las palabras y acciones. Al entender el contexto, podemos mejorar nuestra comprensión de los mensajes y hacer inferencias más precisas. Por ejemplo, si alguien dice \"¡Hasta luego!\", es posible que esté despidiéndose, pero también es posible que esté bromeando o utilizando un tono irónico.",
       "fecha": "2025-12-28T20:31:47.823Z"
+    },
+    {
+      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
+      "respuesta": "Las preposiciones son palabras que se utilizan para indicar la relación entre un objeto (sujeto o complemento) y otro elemento, como un lugar, un tiempo, una manera o una cantidad. Estas palabras sirven para enlazar el nombre o el pronombre con otro elemento en la oración, proporcionando información adicional sobre la situación o el contexto. Por ejemplo, en la oración \"El libro está en la mesa\", la preposición \"en\" indica la relación entre el libro y la mesa.",
+      "fecha": "2025-12-28T20:31:55.782Z"
     }
   ],
-  "ultimaActualizacion": 1766953907825,
-  "preguntasHechas": 146
+  "ultimaActualizacion": 1766953915784,
+  "preguntasHechas": 147
 }
