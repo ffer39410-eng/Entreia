@@ -1,5 +1,5 @@
 {
-  "iq": 113,
+  "iq": 118,
   "vocabulario": [
     "claro",
     "sofia",
@@ -147,9 +147,33 @@
     "pareci",
     "excelente",
     "presentación",
-    "proyecto"
+    "proyecto",
+    "gramática",
+    "española",
+    "avanzada",
+    "este",
+    "nivel",
+    "estructura",
+    "practicar",
+    "subjuntivo",
+    "verbal",
+    "duda",
+    "incertidumbre",
+    "conjetura",
+    "forma",
+    "reemplazando",
+    "terminación",
+    "conjugación",
+    "regular",
+    "verbos",
+    "respectivamente",
+    "espero",
+    "llueva",
+    "presente",
+    "importante",
+    "estudiemos"
   ],
-  "lecciones": 4,
+  "lecciones": 5,
   "conversaciones": 1,
   "conocimiento": [
     {
@@ -171,7 +195,12 @@
       "tema": "pensamiento crítico expresado",
       "leccion": "Sofia, ahora vamos a aprender a expresar el pensamiento crítico en español. El pensamiento crítico es la capacidad de analizar información, evaluar evidencia y formar juicios informados. En español, hay varias palabras y frases que podemos utilizar para expresar el pensamiento crítico.\n\n**Palabras y frases para expresar pensamiento crítico**\n\n1. **Opinar significa \"expresar una opinión o juicio\"**: Por ejemplo, \"Opino que la nueva ley es justa\" o \"Mi opinión es que la película es muy divertida\".\n2. **Evaluar significa \"cualificar o juzgar algo\"**: Por ejemplo, \"Evalué la calidad del servicio en el restaurante y me pareció excelente\" o \"Evalué la presentación del proyecto y me pareció",
       "fecha": "2025-12-28T18:53:25.685Z"
+    },
+    {
+      "tema": "gramática española avanzada",
+      "leccion": "Sofia, ahora que has aprendido sobre metáforas y pensamiento crítico, vamos a explorar la gramática española avanzada. En este nivel, vamos a analizar la estructura de las oraciones y practicar la construcción de oraciones complejas.\n\n**Subjuntivo**: El subjuntivo es un modo verbal que se utiliza para expresar duda, incertidumbre o conjetura. Se forma reemplazando la terminación de la conjugación regular por \"re, ra, r, r, ro, ro, ra, n\" para los verbos en -ar, -er y -ir, respectivamente. Por ejemplo:\n\n * \"Espero que llueva\": aquí, \"espero\" es en presente de subjuntivo.\n * \"Es importante que estudiemos\": aquí,",
+      "fecha": "2025-12-28T18:53:34.014Z"
     }
   ],
-  "ultimaActualizacion": 1766948005685
+  "ultimaActualizacion": 1766948014015
 }
