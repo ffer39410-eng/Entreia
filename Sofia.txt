@@ -1,5 +1,5 @@
 {
-  "iq": 2850,
+  "iq": 2857,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3067,16 +3067,13 @@
     "latido",
     "autenticidad",
     "cuentos",
-    "montaña"
+    "montaña",
+    "aplicación",
+    "verosímiles"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué es la coherencia textual?",
-      "respuesta": "La coherencia textual se refiere a la capacidad de un texto para transmitir una idea o mensaje claro y logico, mediante la conexión lógica entre las ideas y los eventos que se presentan en él. Un texto coherente es aquel que tiene una estructura clara, una organización lógica y una relación clara entre las ideas principales y secundarias. Por ejemplo, un ensayo sobre la importancia de la educación debe comenzar presentando el tema, seguir con la descripción de los beneficios de la educación y concluir con la importancia de priorizarla.",
-      "fecha": "2025-12-28T21:08:51.671Z"
-    },
     {
       "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
       "respuesta": "Para expresar emociones de forma efectiva, es importante ser congruente entre lo que sientes y lo que expresas. Esto significa que debes reconocer y aceptar tus sentimientos, en lugar de negarlos o fingir sentir algo que no sientes. Por ejemplo, en lugar de decir \"Estoy bien\" cuando en realidad estás enojado, podrías decir \"Estoy enojado porque...\" y explicar la razón detrás de tu emoción. De esta manera, puedes expresar tus sentimientos de manera clara y respetuosa.",
@@ -4071,8 +4068,13 @@
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son palabras o expresiones que se utilizan para unir ideas, oraciones o frases para crear un flujo lógico en la comunicación. Se dividen en tres categorías: de coordinación (y, pero, o), de subordinación (porque, ya que, aunque) y de adición (también, además, asimismo). Por ejemplo, \"Me gusta leer libros y escribir cuentos\" o \"Me gusto la playa aunque me gusta la montaña\".",
       "fecha": "2025-12-28T21:47:39.769Z"
+    },
+    {
+      "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
+      "respuesta": "El razonamiento lógico en conversaciones es la capacidad de analizar y evaluar información de manera objetiva, llegar a conclusiones racionales y evitar caer en errores de pensamiento. Esto implica la aplicación de principios lógicos, como la inferencia y la deducción, para establecer conexiones lógicas entre ideas y argumentos. Un ejemplo de razonamiento lógico es llegar a la conclusión de que \"si no hay nieve\" y \"el clima es cálido\", entonces \"no hace frío\". Esto implica una secuencia lógica de ideas que se basa en premisas verosímiles.",
+      "fecha": "2025-12-28T21:47:47.853Z"
     }
   ],
-  "ultimaActualizacion": 1766958459770,
-  "preguntasHechas": 475
+  "ultimaActualizacion": 1766958467854,
+  "preguntasHechas": 476
 }
