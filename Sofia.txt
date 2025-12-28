@@ -1,5 +1,5 @@
 {
-  "iq": 263,
+  "iq": 269,
   "vocabulario": [
     "claro",
     "sofia",
@@ -772,7 +772,21 @@
     "intensas",
     "disruptivas",
     "puedes",
-    "mejorar"
+    "mejorar",
+    "fundamentalmente",
+    "usados",
+    "momentos",
+    "dividen",
+    "grandes",
+    "categorías",
+    "referirse",
+    "ocurrido",
+    "estudi",
+    "estados",
+    "ocurriendo",
+    "espera",
+    "sucedan",
+    "estudiar"
   ],
   "lecciones": 14,
   "conversaciones": 1,
@@ -981,8 +995,13 @@
       "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
       "respuesta": "Exprimir emociones de manera efectiva implica ser auténtico y consciente de tus sentimientos, así como de los de los demás. Un ejemplo de cómo hacer esto es mediante el lenguaje corporal, como mantener un contacto visual o utilizar gestos abiertos, lo que puede ayudar a crear una conexión con los demás. También es importante expresar tus emociones de manera constructiva, como hablar de ellas en un tono calmado y respetuoso, en lugar de dejar que se vuelvan intensas y disruptivas. Al expresar tus emociones de manera efectiva, puedes mejorar tus relaciones y comunicación con los demás.",
       "fecha": "2025-12-28T19:04:36.512Z"
+    },
+    {
+      "pregunta": "¿Cómo funcionan los tiempos verbales?",
+      "respuesta": "Los tiempos verbales son fundamentalmente usados para indicar momentos en el tiempo, y se dividen en tres grandes categorías: pasado, presente y futuro. El pasado se utiliza para referirse a eventos o acciones que ya han ocurrido, como \"estudié\" o \"comí\". El presente se utiliza para describir acciones o estados que están ocurriendo en el momento actual, como \"estudio\" o \"como\". El futuro se utiliza para hablar sobre eventos o acciones que aún no han ocurrido, pero se espera que sucedan, como \"estudiaré\" o \"comeré\".",
+      "fecha": "2025-12-28T19:04:44.292Z"
     }
   ],
-  "ultimaActualizacion": 1766948676513,
+  "ultimaActualizacion": 1766948684294,
   "preguntasHechas": null
 }
