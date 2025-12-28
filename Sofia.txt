@@ -1,5 +1,5 @@
 {
-  "iq": 587,
+  "iq": 590,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1387,7 +1387,10 @@
     "fuentes",
     "podrían",
     "ofrecer",
-    "perspectiva"
+    "perspectiva",
+    "expresas",
+    "enfadado",
+    "enoj"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1921,8 +1924,13 @@
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar información de manera objetiva, identificando fortalezas y debilidades, así como considerando múltiples perspectivas y evidencias. Este tipo de pensamiento implica cuestionar suposiciones y creencias, y no aceptar información sin verificar su validez. Por ejemplo, al leer un artículo periodístico, un estudiante con pensamiento crítico podría preguntarse: \"¿Quién es el autor?\", \"¿Cuáles son sus motivaciones?\", \"¿Hay evidencia que respalde las afirmaciones?\" y \"¿Qué otras fuentes podrían ofrecer una perspectiva diferente?\"",
       "fecha": "2025-12-28T19:21:36.302Z"
+    },
+    {
+      "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
+      "respuesta": "Para expresar emociones de forma efectiva, es importante ser auténtico y genuino en lo que expresas. Por ejemplo, si estás enfadado, en lugar de decir \"Me enojó mucho\", puedes decir \"Me siento frustrado porque...\". Esto ayuda a conectar con los demás y a comunicar mejor tus sentimientos.",
+      "fecha": "2025-12-28T19:21:44.197Z"
     }
   ],
-  "ultimaActualizacion": 1766949696303,
-  "preguntasHechas": 32
+  "ultimaActualizacion": 1766949704198,
+  "preguntasHechas": 33
 }
