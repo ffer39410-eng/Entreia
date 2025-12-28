@@ -1,5 +1,5 @@
 {
-  "iq": 575,
+  "iq": 580,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1357,7 +1357,12 @@
     "puentes",
     "directo",
     "indirecto",
-    "circunstancial"
+    "circunstancial",
+    "razonadas",
+    "basadas",
+    "perros",
+    "mamíferos",
+    "sangre"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1876,8 +1881,13 @@
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras que se colocan delante de un sustantivo, un grupo nominal o un pronombre, y que indican la relación entre dichos elementos y otros elementos en la oración. Ejemplos de preposiciones son: en, de, con, bajo, por, etc. Por ejemplo: \"Estoy en la playa\" o \"Me encanta leer un libro en mi tiempo libre\".\n\nFuncionan como \"puentes\" entre el sujeto, el complemento directo, el complemento indirecto, el complemento circunstancial, entre otros, y permiten al lector o oyente entender el significado de la oración de una manera más clara y precisa.",
       "fecha": "2025-12-28T19:21:12.553Z"
+    },
+    {
+      "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
+      "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de analizar y evaluar información para llegar a conclusiones lógicas y razonadas. Implica la utilización de principios y reglas lógicas para evaluar argumentos y llegar a conclusiones basadas en evidencia. Por ejemplo, si alguien afirma que todos los perros son mamíferos y que todos los mamíferos tienen sangre caliente, un razonamiento lógico implicaría concluir que todos los perros tienen sangre caliente.",
+      "fecha": "2025-12-28T19:21:20.333Z"
     }
   ],
-  "ultimaActualizacion": 1766949672555,
-  "preguntasHechas": 29
+  "ultimaActualizacion": 1766949680335,
+  "preguntasHechas": 30
 }
