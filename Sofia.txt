@@ -1,5 +1,5 @@
 {
-  "iq": 714,
+  "iq": 717,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1540,7 +1540,12 @@
     "incluso",
     "debates",
     "discusiones",
-    "apasionadas"
+    "apasionadas",
+    "malentendidos",
+    "escuchas",
+    "identificas",
+    "específicamente",
+    "comportamiento"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2194,8 +2199,13 @@
       "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
       "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de pensar y expresar ideas de manera clara, coherente y racional, evitando contradicciones y errores lógicos. Esto implica formular argumentos sólidos, utilizar ejemplos y pruebas para respaldar las afirmaciones, y responder a preguntas y objeciones de manera efectiva. Un buen razonamiento lógico ayuda a establecer credibilidad y confianza en la comunicación, incluso en debates y discusiones apasionadas.",
       "fecha": "2025-12-28T19:20:30.980Z"
+    },
+    {
+      "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
+      "respuesta": "Expresar emociones de forma efectiva es crucial para comunicarnos de manera clara y evitar malentendidos. Una forma efectiva de expresar emociones es hacerlo de manera específica y no general. Por ejemplo, en lugar de decir \"Estás siendo muy molesto\", di \"Me siento frustrado cuando no me escuchas en este momento\". Así, identificas específicamente la emoción y el comportamiento que te causa esa emoción.",
+      "fecha": "2025-12-28T19:20:38.964Z"
     }
   ],
-  "ultimaActualizacion": 1766949630981,
-  "preguntasHechas": 56
+  "ultimaActualizacion": 1766949638965,
+  "preguntasHechas": 57
 }
