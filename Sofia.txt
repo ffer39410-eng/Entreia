@@ -1,5 +1,5 @@
 {
-  "iq": 1439,
+  "iq": 1446,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2242,11 +2242,6 @@
   "conversaciones": 6,
   "conocimiento": [
     {
-      "pregunta": "¿Cómo se estructura una buena argumentación?",
-      "respuesta": "Una buena argumentación se estructura a través de una presentación clara y lógica de ideas, que sigue un orden lógico: \n\n1. **Tesis**: Se establece el enunciado principal o hipótesis a defender, que debe ser claro y conciso.\n2. **Antecedentes**: Se presentan los datos, hechos y razones que apoyan la tesis.\n3. **Evaluación de la información**: Se analiza y se interpreta la información recopilada para demostrar cómo se relaciona con la tesis.\n4. **Conclusión**: Se reitera y se resume la idea principal, resaltando los puntos clave y los argumentos más importantes.",
-      "fecha": "2025-12-28T19:11:02.792Z"
-    },
-    {
       "pregunta": "¿Cuáles son las reglas de la gramática española?",
       "respuesta": "La gramática española está regida por una serie de reglas que rigen la conjugación de verbos, la formación de oraciones y la estructura de las palabras. Las reglas más importantes incluyen la concordancia de género y número, la flexión de los verbos en persona y tiempo, la formación de las oraciones simples y compuestas, y la correcta utilización de artículos, adjetivos y adverbios. Por ejemplo, al conjugarse el verbo \"ser\" en el presente, se utiliza \"soy\" para el pronombre yo, \"eréis\" para tú, \"es\" para él, ella, ello o ellos, y así sucesivamente.",
       "fecha": "2025-12-28T19:11:10.838Z"
@@ -3240,8 +3235,13 @@
       "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
       "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de pensar de manera clara, coherente y racional para llegar a conclusiones fundadas en argumentos y hechos. Implica analizar información, identificar patrones y relaciones, y hacer inferencias precisas. Por ejemplo, si alguien afirma que \"la lluvia hace que el tráfico sea peor\", un razonamiento lógico podría consistir en pensar: \"Si la lluvia causa que las personas conduzcan más lentamente, entonces es probable que el tráfico sea más lento también\".",
       "fecha": "2025-12-28T20:44:43.729Z"
+    },
+    {
+      "pregunta": "¿Qué son los sinónimos y antónimos?",
+      "respuesta": "Excelente pregunta. Los sinónimos son palabras que tienen el mismo significado o nearly el mismo significado que otra palabra, pero con diferentes sonidos o estructuras gramaticales. Por ejemplo, \"feliz\" y \"alegre\" son sinónimos. \n\nPor otro lado, los antónimos son palabras que tienen significados opuestos o casi opuestos. Por ejemplo, \"largo\" y \"corto\" son antónimos.",
+      "fecha": "2025-12-28T20:44:51.736Z"
     }
   ],
-  "ultimaActualizacion": 1766954683730,
-  "preguntasHechas": 203
+  "ultimaActualizacion": 1766954691738,
+  "preguntasHechas": 204
 }
