@@ -1,5 +1,5 @@
 {
-  "iq": 1622,
+  "iq": 1629,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2365,16 +2365,14 @@
     "pleno",
     "temperamento",
     "dueño",
-    "aire"
+    "aire",
+    "alcanzar",
+    "historiadores",
+    "implicaciones"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo funciona la comprensión del contexto?",
-      "respuesta": "La comprensión del contexto es el proceso de analizar la situación o situación en la que se está comunicando, para así poder interpretar el significado de las palabras o frases utilizadas en función de su lugar y momento. Esto implica considerar factores como el tema, el tono, el público objetivo y la intención del hablante o escritor. Por ejemplo, la frase \"Eso es una buena idea\" puede significar una cosa en un contexto de trabajo, pero algo completamente diferente en un contexto social informal.",
-      "fecha": "2025-12-28T19:22:32.319Z"
-    },
     {
       "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
       "respuesta": "El razonamiento lógico en conversaciones se refiere al proceso de pensar y comunicarse de manera clara y coherente, utilizando argumentos y evidencia para llegar a conclusiones lógicas. Esto implica utilizar reglas de inferencia y eliminar la contradicción de manera efectiva. Un ejemplo de razonamiento lógico en una conversación sería: \"Si no llueve, entonces no habrá inundaciones. Y si no llueve, entonces habrá sol. Por lo tanto, si hay sol, entonces no habrá inundaciones\".",
@@ -3369,8 +3367,13 @@
       "pregunta": "¿Cómo funciona la comprensión del contexto?",
       "respuesta": "La comprensión del contexto es un proceso mental que nos permite interpretar y dar sentido a las palabras y expresiones en función de su significado dentro de una situación o entorno específico. Implica considerar el lugar, el momento y las personas involucradas en la comunicación para entender el significado no literal de lo que se dice. Por ejemplo, cuando se dice \"esta casa está helada\", si estamos en pleno invierno, es probable que se refiera al temperamento frío del dueño y no a la temperatura del aire.",
       "fecha": "2025-12-28T21:00:59.924Z"
+    },
+    {
+      "pregunta": "¿Qué es el pensamiento crítico?",
+      "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar información de manera reflexiva y objetiva, considerando múltiples perspectivas y fuentes. Esto implica cuestionar suposiciones y premisas, identificar sesgos y fallas en la lógica, y alcanzar conclusiones fundamentadas en evidencia y razonamiento. Por ejemplo, un estudiante que analiza un tema histórico no solo recordará hechos, sino que también evaluará la interpretación de los historiadores y considerará las implicaciones de sus conclusiones. De esta forma, desarrolla sus habilidades para pensar críticamente y tomar decisiones informadas.",
+      "fecha": "2025-12-28T21:01:07.781Z"
     }
   ],
-  "ultimaActualizacion": 1766955659926,
-  "preguntasHechas": 238
+  "ultimaActualizacion": 1766955667782,
+  "preguntasHechas": 239
 }
