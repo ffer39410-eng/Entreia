@@ -1,5 +1,5 @@
 {
-  "iq": 1417,
+  "iq": 1421,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2218,16 +2218,15 @@
     "gesto",
     "agradecimiento",
     "culpar",
-    "insensible"
+    "insensible",
+    "incluso",
+    "acumulación",
+    "adelante",
+    "ltimo"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo se construyen oraciones complejas en español?",
-      "respuesta": "Las oraciones complejas se construyen en español mediante la combinación de una oración principal (o \"oración independiente\") con una o varias oraciones subordinadas. Una oración subordinada es aquella que depende de la oración principal para comunicar un significado completo.\n\nPor ejemplo: \"La casa que compramos en verano es muy bonita\" es una oración compleja, donde \"es muy bonita\" es la oración principal y \"la casa que compramos en verano\" es la oración subordinada. Esta oración subordinada está introducida por el conjunción \"que\" y depende de la oración principal para tener sentido.\n\nOtro ejemplo: \"Me alegra que tú estés aquí\" es otra oración compleja, donde \"estoy aquí\" es la oración subordinada introducida por la conjunción \"que\" y depende de la oración principal",
-      "fecha": "2025-12-28T19:10:17.295Z"
-    },
     {
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son palabras que unen oraciones o frases para crear una estructura lógica y coherente en el discurso. Pueden indicar relaciones de causa y efecto, tiempo, lugar, comparación, contraste, etc. Por ejemplo, \"y\" (La playa es hermosa y tiene aguas cristalinas), \"pero\" (La playa es hermosa pero hay mucha gente), \"porque\" (Voy a la playa porque me gusta nadar).",
@@ -3222,8 +3221,13 @@
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales son una forma de expresar la duración o el momento en que ocurre una acción en la que se utiliza el verbo. Hay varios tiempos verbales, como el presente, pasado simple, pasado perfecto, futuro simple, etc. Por ejemplo, en la oración \"Yo estudio\" (presente), \"Yo estudié\" (pasado simple) y \"Yo estudiaré\" (futuro simple) se utilizan diferentes tiempos para expresar el momento en que ocurre la acción de estudiar.\n\nCada tiempo verbal tiene sus propias reglas de conjugación y uso, y es importante elegir el tiempo verbal adecuado para expresar la intención o el momento en que se produce la acción.",
       "fecha": "2025-12-28T20:44:11.681Z"
+    },
+    {
+      "pregunta": "¿Qué son los conectores y cómo se usan?",
+      "respuesta": "Los conectores son palabras o expresiones que unen oraciones o ideas para crear una secuencia lógica y coherente en un texto o discurso. Se usan para conectar ideas, ideas y detalles, ideas y oraciones, o incluso oraciones y oraciones.\n\nPor ejemplo, \"Sin embargo\", \"Aunque\", \"Pero\" son conectores de oposición, mientras que \"Y\", \"O\", \"También\" son conectores de acumulación, y \"Porque\", \"Ya que\", \"Pues\" son conectores de causalidad.\n\nAdemás, existen conectores de contrastación, como \"En lugar de\", \"En cambio\", y conectores de enumeración, como \"Luego\", \"Más adelante\", \"Por último\".",
+      "fecha": "2025-12-28T20:44:19.776Z"
     }
   ],
-  "ultimaActualizacion": 1766954651682,
-  "preguntasHechas": 199
+  "ultimaActualizacion": 1766954659777,
+  "preguntasHechas": 200
 }
