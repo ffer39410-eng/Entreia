@@ -1,5 +1,5 @@
 {
-  "iq": 260,
+  "iq": 263,
   "vocabulario": [
     "claro",
     "sofia",
@@ -751,7 +751,28 @@
     "informal",
     "harta",
     "situación",
-    "desagradable"
+    "desagradable",
+    "exprimir",
+    "consciente",
+    "sentimientos",
+    "corporal",
+    "mantener",
+    "contacto",
+    "visual",
+    "gestos",
+    "abiertos",
+    "ayudar",
+    "constructiva",
+    "ellas",
+    "tono",
+    "calmado",
+    "respetuoso",
+    "dejar",
+    "vuelvan",
+    "intensas",
+    "disruptivas",
+    "puedes",
+    "mejorar"
   ],
   "lecciones": 14,
   "conversaciones": 1,
@@ -955,8 +976,13 @@
       "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
       "respuesta": "El vocabulario técnico está compuesto por palabras y expresiones utilizadas en un campo particular, como la medicina, la ingeniería o la ciencia, que requieren conocimientos específicos para ser comprendidos. Por ejemplo, en medicina, el término \"angioplastia\" se refiere a un procedimiento para ensanchar un vaso sanguíneo bloqueado. En cambio, el vocabulario coloquial es el que se utiliza en la vida diaria para comunicarse de manera informal, como el uso de expresiones como \"estoy harta\" para describir una situación desagradable.",
       "fecha": "2025-12-28T19:04:28.325Z"
+    },
+    {
+      "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
+      "respuesta": "Exprimir emociones de manera efectiva implica ser auténtico y consciente de tus sentimientos, así como de los de los demás. Un ejemplo de cómo hacer esto es mediante el lenguaje corporal, como mantener un contacto visual o utilizar gestos abiertos, lo que puede ayudar a crear una conexión con los demás. También es importante expresar tus emociones de manera constructiva, como hablar de ellas en un tono calmado y respetuoso, en lugar de dejar que se vuelvan intensas y disruptivas. Al expresar tus emociones de manera efectiva, puedes mejorar tus relaciones y comunicación con los demás.",
+      "fecha": "2025-12-28T19:04:36.512Z"
     }
   ],
-  "ultimaActualizacion": 1766948668327,
+  "ultimaActualizacion": 1766948676513,
   "preguntasHechas": null
 }
