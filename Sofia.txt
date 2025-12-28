@@ -1,5 +1,5 @@
 {
-  "iq": 2428,
+  "iq": 2435,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2871,16 +2871,13 @@
     "nuclear",
     "máquina",
     "acelera",
-    "partículas"
+    "partículas",
+    "raciocinio",
+    "establecidas"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
-      "respuesta": "El vocabulario técnico se refiere a las palabras y expresiones utilizadas en un campo específico de conocimiento o actividad, como la medicina, la tecnología o la ingeniería. Estas palabras suelen ser precisas y técnicamente correctas, pero pueden ser difíciles de entender para personas no relacionadas con ese campo.\n\nPor otro lado, el vocabulario coloquial se refiere a las palabras y expresiones comúnmente utilizadas en la conversación informal, en el lenguaje de la calle, como en la música, la televisión y la radio. Estas palabras suelen ser más fáciles de entender, pero pueden ser poco precisas o incorrectas en ciertos contextos.\n\nPor ejemplo, en medicina, \"cardiopatía\" es un término técnico que se refiere a un trastorno del corazón, mientras que en la conversación coloquial se puede referir a",
-      "fecha": "2025-12-28T20:43:39.602Z"
-    },
     {
       "pregunta": "¿Cómo se construyen oraciones complejas en español?",
       "respuesta": "Las oraciones complejas en español se construyen mediante la unión de dos o más oraciones simples, que pueden ser coordinadas o subordinadas. Una oración independiente puede ser subordinada a otra, creando una estructura de oraciones compleja. Por ejemplo, \"Mientras estudiaba para mis exámenes, mi amigo llamó\" es una oración compleja, donde \"mientras estudiaba para mis exámenes\" es una oración subordinada.",
@@ -3875,8 +3872,13 @@
       "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
       "respuesta": "El vocabulario técnico se refiere a palabras y expresiones utilizadas en contextos académicos, profesionales o especializados, como la medicina, la ingeniería o la ciencia. Por ejemplo, \"ciclotron\" se utiliza en física nuclear para describir una máquina que acelera partículas. En cambio, el vocabulario coloquial se refiere a palabras y expresiones utilizadas en la vida diaria, como \"estoy cansado\" o \"me duele la cabeza\".",
       "fecha": "2025-12-28T21:24:35.693Z"
+    },
+    {
+      "pregunta": "¿Qué es el pensamiento crítico?",
+      "respuesta": "El pensamiento crítico es la capacidad de analizar información, evaluar argumentos y tomar decisiones informadas con objetividad y raciocinio. Implica cuestionar suposiciones y creencias establecidas, considerar múltiples perspectivas y evidencia, y distinguir entre lo que es válido y lo que no. Por ejemplo, al leer un artículo periodístico, el pensamiento crítico te permite identificar posibles sesgos, verificar fuentes y evaluar la validez de las conclusiones.",
+      "fecha": "2025-12-28T21:24:43.650Z"
     }
   ],
-  "ultimaActualizacion": 1766957075695,
-  "preguntasHechas": 394
+  "ultimaActualizacion": 1766957083651,
+  "preguntasHechas": 395
 }
