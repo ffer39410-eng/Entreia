@@ -1,5 +1,5 @@
 {
-  "iq": 2939,
+  "iq": 2946,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3106,16 +3106,13 @@
     "debatiendo",
     "estándar",
     "implementando",
-    "lados"
+    "lados",
+    "moneda",
+    "transfiere"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
-      "respuesta": "Las preposiciones son palabras que se utilizan para indicar la relación entre un sustantivo o pronombre y otro elemento en la oración, como un lugar, una acción, un tiempo o una manera. Sirven para establecer la conexión entre esos elementos y proporcionan información adicional sobre la acción o situación descrita. Por ejemplo, en la oración \"El libro está sobre la mesa\", la preposición \"sobre\" indica la relación entre el libro y la mesa.\n\nAlgunas de las preposiciones más comunes en español son:\n\n- En: \"El libro está en la biblioteca\".\n- De: \"La fruta es de la tierra\".\n- Con: \"Ando con mis amigos\".\n- Desde: \"Viene desde la ciudad\".\n- Hasta: \"Voy hasta el parque\".\n- Por: \"Vivo por la ciudad\".\n- Para: \"Voy para la universidad\".\n\nEstas son solo algunas",
-      "fecha": "2025-12-28T21:10:59.782Z"
-    },
     {
       "pregunta": "¿Cuáles son las reglas de la gramática española?",
       "respuesta": "La gramática española se rige por una serie de reglas y principios que guían la construcción de las oraciones y la forma en que se expresan las ideas. Algunas de las reglas fundamentales incluyen:\n\n- El orden de las palabras: en español, el sujeto generalmente se coloca al inicio de la oración seguido por el verbo y luego los complementos.\n- El género y el número: los nouns y adjetivos en español tienen género (masculino o femenino) y número (singular o plural).\n- Los verbos: los verbos en español tienen diferentes conjugaciones según la persona, el tiempo y el modo en que se expresan.\n\nPor ejemplo: \"El (sujeto) come (verbo) una manzana (complemento)\".\nRecuerda que estas reglas son solo las más básicas, y hay muchas otras reglas y excepciones en",
@@ -4110,8 +4107,13 @@
       "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
       "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de analizar información, establecer conexiones lógicas entre ideas y llegar a conclusiones basadas en argumentos sólidos. Esto implica utilizar principios de lógica y razonamiento para evaluar argumentos y tomar decisiones informadas. Por ejemplo, en una discusión sobre política, un interlocutor pueden utilizar el razonamiento lógico para analizar los argumentos presentados por ambos lados y llegar a una conclusión basada en la evidencia. Esto ayuda a evitar la confusión y a tomar decisiones más precisas.",
       "fecha": "2025-12-28T21:49:49.409Z"
+    },
+    {
+      "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
+      "respuesta": "Las metáforas son una figura retórica que consiste en comparar dos conceptos o ideas sin utilizar la palabra \"como\", creando así una conexión creativa entre ellos. Por ejemplo, \"El sol es una moneda de oro en el cielo\" no expresa una comparación literal, sino una descripción que transfiere la idea de valor y belleza del oro al sol. Las metáforas se utilizan para describir conceptos abstractos de manera más comprensible y emocional.",
+      "fecha": "2025-12-28T21:49:55.665Z"
     }
   ],
-  "ultimaActualizacion": 1766958589411,
-  "preguntasHechas": 491
+  "ultimaActualizacion": 1766958595666,
+  "preguntasHechas": 492
 }
