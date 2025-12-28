@@ -1,5 +1,5 @@
 {
-  "iq": 2717,
+  "iq": 2721,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3009,11 +3009,6 @@
   "conversaciones": 6,
   "conocimiento": [
     {
-      "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
-      "respuesta": "Las metáforas son una herramienta poderosa en el lenguaje que permiten expresar conceptos abstractos de manera creativa y atractiva. Por ejemplo, cuando decimos \"Ella es una estrella en el escenario\", estamos comparando la persona con una estrella, lo que sugiere su brillo y relevancia. De esta manera, la metáfora nos permite trasladar propiedades de un objeto real a un objeto abstracto, como un sentimiento o una idea.",
-      "fecha": "2025-12-28T21:02:27.778Z"
-    },
-    {
       "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
       "respuesta": "El vocabulario técnico se refiere a palabras y expresiones específicas utilizadas en un campo o industria determinado, como por ejemplo el término \"terapia de realidad virtual\" en la psicología. Por otro lado, el vocabulario coloquial se refiere a palabras y expresiones comunes y populares que se utilizan en la vida diaria. \n\nEjemplo: en un contexto técnico, se puede decir \"el paciente experimentó una mejora significativa en su salud después de la terapia\", mientras que en un contexto coloquial, se puede decir \"el paciente se sentió mejor después de la terapia\".\n\nEn resumen, el vocabulario técnico es específico y formal, mientras que el vocabulario coloquial es común y informal.",
       "fecha": "2025-12-28T21:02:35.868Z"
@@ -4007,8 +4002,13 @@
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "Los sinónimos son palabras que tienen el mismo significado que otra palabra, pero con un sonido ligeramente diferente. Por ejemplo, \"fuerte\" y \"fuerte\" son sinónimos. Otro ejemplo es \"largo\" y \"extenso\".\n\nLos antónimos, por otro lado, son palabras que tienen significados opuestos. Por ejemplo, \"grande\" y \"pequeño\" son antónimos, ya que uno describe algo grande y el otro describe algo pequeño. Otro ejemplo es \"rápido\" y \"lento\", ya que uno describe algo que se mueve rápido y el otro describe algo que se mueve despacio.",
       "fecha": "2025-12-28T21:38:35.714Z"
+    },
+    {
+      "pregunta": "¿Qué son los conectores y cómo se usan?",
+      "respuesta": "Los conectores son palabras o expresiones que se utilizan para conectar ideas, oraciones o frases entre sí, permitiendo una comunicación clara y organizada. Los conectores se clasifican en dos tipos principales: conectores de coordinación (con, sino, pero, o, ni) y conectores de subordinación ( porque, ya que, aunque, mientras).\n\nPor ejemplo, \"Voy al parque, porque el clima es hermoso\". En esta oración, \"porque\" es un conector de subordinación que conecta la oración principal (\"Voy al parque\") con la oración subordinada (\"el clima es hermoso\").",
+      "fecha": "2025-12-28T21:44:12.259Z"
     }
   ],
-  "ultimaActualizacion": 1766957915716,
-  "preguntasHechas": 448
+  "ultimaActualizacion": 1766958252260,
+  "preguntasHechas": 449
 }
