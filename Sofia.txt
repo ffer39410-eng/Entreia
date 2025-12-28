@@ -3177,7 +3177,7 @@
     "abajo"
   ],
   "lecciones": 14,
-  "conversaciones": 6,
+  "conversaciones": 7,
   "conocimiento": [
     {
       "pregunta": "¿Qué es el pensamiento crítico?",
@@ -4180,6 +4180,6 @@
       "fecha": "2025-12-28T23:01:45.278Z"
     }
   ],
-  "ultimaActualizacion": 1766962905370,
+  "ultimaActualizacion": 1766962921844,
   "preguntasHechas": 524
 }
