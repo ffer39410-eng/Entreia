@@ -1,5 +1,5 @@
 {
-  "iq": 684,
+  "iq": 690,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1492,7 +1492,28 @@
     "fuentes",
     "analizaría",
     "argumentaciones",
-    "motivaciones"
+    "motivaciones",
+    "cinco",
+    "componentes",
+    "planteamiento",
+    "problema",
+    "recopilación",
+    "trata",
+    "discusión",
+    "acceso",
+    "crecimiento",
+    "económico",
+    "herramientas",
+    "esenciales",
+    "desarrollo",
+    "toma",
+    "muchos",
+    "individuos",
+    "desempeño",
+    "laboral",
+    "bienestar",
+    "gobiernos",
+    "inviertan"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2121,8 +2142,13 @@
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar información, ideas y argumentos de manera objetiva, lógica y reflexiva. Implica cuestionar suposiciones, identificar sesgos y prejuicios, y considerar múltiples perspectivas al tomar decisiones o formar opiniones. Por ejemplo, al leer un artículo en un periódico, un pensador crítico no solo aceptaría automáticamente la información presentada, sino que también investigaría fuentes secundarias, analizaría las argumentaciones y consideraría posibles sesgos o motivaciones del autor.",
       "fecha": "2025-12-28T19:19:50.102Z"
+    },
+    {
+      "pregunta": "¿Cómo se estructura una buena argumentación?",
+      "respuesta": "Una buena argumentación se estructura mediante cinco componentes fundamentales: el planteamiento del problema o tema, la presentación de la posición o tesis, la recopilación de evidencia o pruebas, la respuesta a posibles objeciones o contrapuntos, y la conclusión sólida. Por ejemplo, si se trata de una discusión sobre la importancia de la educación en la sociedad, una buena estructura de argumentación podría ser: \"El acceso a la educación es fundamental para el crecimiento económico y social. Esto se debe a que la educación proporciona herramientas y conocimientos esenciales para el desarrollo de habilidades y la toma de decisiones informadas. Muchos estudios demuestran que los individuos con mayor educación tienen mejor desempeño laboral y mayor nivel de bienestar. Por lo tanto, es imperativo que los gobiernos inviertan en programas",
+      "fecha": "2025-12-28T19:19:58.409Z"
     }
   ],
-  "ultimaActualizacion": 1766949590104,
-  "preguntasHechas": 51
+  "ultimaActualizacion": 1766949598410,
+  "preguntasHechas": 52
 }
