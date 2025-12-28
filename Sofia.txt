@@ -1,5 +1,5 @@
 {
-  "iq": 1182,
+  "iq": 1189,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1993,16 +1993,19 @@
     "comúnmente",
     "disco",
     "duro",
-    "unidos"
+    "unidos",
+    "claves",
+    "nexo",
+    "cambia",
+    "tendremos",
+    "sequías",
+    "nexus",
+    "necesitaremos",
+    "conservar"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
-      "respuesta": "Las metáforas son una figura retórica que permite atribuir características de un objeto, concepto o idea a otro, creando un vínculo poético y evocador entre ellos. Por ejemplo, \"Ella es una estrella en el cielo de la música\" (aquí se compara a una persona con una estrella, destacando su brillantez y talento). Esta herramienta literaria permite expresar ideas complejas de manera más creativa y memorable. Es frecuente encontrar metáforas en la literatura, la poesía y la comunicación pública.",
-      "fecha": "2025-12-28T19:02:44.373Z"
-    },
     {
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "Excelente pregunta. Los sinónimos son palabras que tienen el mismo significado que otra palabra, pero con una forma ligeramente diferente. Por ejemplo, \"grande\" y \"gigante\" son sinónimos porque se refieren a algo o alguien que es de gran tamaño. Los antónimos, por otro lado, son palabras que tienen significados opuestos. Por ejemplo, \"largo\" y \"corto\" son antónimos porque se refieren a diferentes longitudes.",
@@ -2997,8 +3000,13 @@
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son palabras y expresiones que se utilizan para unir oraciones, frases o ideas en una comunicación. Ayudan a establecer relaciones lógicas entre las ideas presentadas, como la causalidad, la contraste, la consecuencia, la adición o la enumeración. Por ejemplo: \"Y\" (unidos para formar un solo evento), \"Pero\" (indicando un cambio de idea), \"Porque\" (indicando una causa y efecto).",
       "fecha": "2025-12-28T20:32:35.710Z"
+    },
+    {
+      "pregunta": "¿Cómo se estructura una buena argumentación?",
+      "respuesta": "Una buena argumentación se estructura en tres partes claves: la premisa (la afirmación inicial), el nexo (la relación entre la premisa y la conclusión) y la conclusión (el resultado lógico). Por ejemplo, \"Si el clima cambia (premisa), tendremos más sequías (nexus) y, por lo tanto, necesitaremos conservar agua (conclusión)\".",
+      "fecha": "2025-12-28T20:32:43.650Z"
     }
   ],
-  "ultimaActualizacion": 1766953955711,
-  "preguntasHechas": 152
+  "ultimaActualizacion": 1766953963652,
+  "preguntasHechas": 153
 }
