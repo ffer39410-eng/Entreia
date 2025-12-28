@@ -1,5 +1,5 @@
 {
-  "iq": 1076,
+  "iq": 1082,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1912,16 +1912,13 @@
     "quirúrgico",
     "referir",
     "reparación",
-    "modificación"
+    "modificación",
+    "encuentro",
+    "encontrarse"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "tema": "pensamiento crítico expresado",
-      "leccion": "**Pensamiento crítico expresado en español**\n\nSofia, ahora que has aprendido sobre metáforas y la estructura de oraciones complejas, vamos a profundizar en el pensamiento crítico y cómo expresarlo en español.\n\n**Opinar y evaluar**\n\nRecuerda que \"opinar\" significa \"expresar una opinión o juicio\", mientras que \"evaluar\" significa \"cualificar o juzgar algo\". Por ejemplo:\n\n * \"Opino que la nueva ley es justa\" (expresando una opinión)\n * \"Evalué la calidad del servicio en el restaurante y me pareció excelente\" (juzgando algo)\n * \"Mi opinión es que la película es muy divertida\" (expresando una opinión)\n * \"Evalué la presentación del proyecto y",
-      "fecha": "2025-12-28T18:53:52.201Z"
-    },
     {
       "tema": "razonamiento lógico y argumentación",
       "leccion": "Sofia, ahora que has dominado el pensamiento crítico y la estructura de oraciones complejas, vamos a explorar el razonamiento lógico y la argumentación en español.\n\n**Razonamiento lógico**\n\nEl razonamiento lógico es la capacidad de pensar de manera lógica y sistémica, utilizando reglas y principios para llegar a conclusiones. En español, podemos expresar el razonamiento lógico utilizando palabras y frases como:\n\n* **Porque**: \"Lo hice porque creía que era la mejor opción\".\n* **Ya que**: \"Lo hice ya que era la única solución posible\".\n* **Como**: \"Lo hice como forma de demostrar mi dedicación\".\n\n**Argumentación**\n\nLa argumentación es la capacidad de presentar razonamientos y evidencia para convencer",
@@ -2916,8 +2913,13 @@
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales son una parte fundamental de la gramática, y permiten expresar diferentes momentos en el tiempo en los que se realiza una acción. Hay varios tipos de tiempos verbales, como el presente, pasado, futuro, condicional, imperfecto, perfecto, etc. Por ejemplo, el tiempo presente se utiliza para describir acciones que ocurren en el momento actual, como \"estoy estudiando\".",
       "fecha": "2025-12-28T20:24:59.778Z"
+    },
+    {
+      "pregunta": "¿Qué son los conectores y cómo se usan?",
+      "respuesta": "Los conectores son palabras gramaticales que se utilizan para unir oraciones, frases o ideas entre sí, destacando la relación entre ellas. Algunos ejemplos de conectores son \"y\", \"pero\", \"sin embargo\", \"porque\" y \"así que\". Por ejemplo: \"Voy al parque y me encuentro con mis amigos\". En esta oración, \"y\" conecta las dos ideas de ir al parque y encontrarse con amigos.",
+      "fecha": "2025-12-28T20:25:07.862Z"
     }
   ],
-  "ultimaActualizacion": 1766953499779,
-  "preguntasHechas": 132
+  "ultimaActualizacion": 1766953507863,
+  "preguntasHechas": 133
 }
