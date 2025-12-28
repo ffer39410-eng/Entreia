@@ -1,5 +1,5 @@
 {
-  "iq": 2592,
+  "iq": 2596,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2956,11 +2956,6 @@
   "conversaciones": 6,
   "conocimiento": [
     {
-      "pregunta": "¿Cómo se usa la puntuación correctamente?",
-      "respuesta": "La puntuación es un elemento fundamental en la escritura y la comunicación efectiva. Usar la puntuación correctamente implica separar ideas y oraciones con signos de puntuación adecuados, como comas, puntos, signos de interrogación, exclamación, puntos suspensivos, etc. Por ejemplo, al separar ideas dentro de una oración, se pueden usar comas, como en \"Voy al supermercado, pero no tengo dinero\".\n\nAdemás, es importante utilizar la puntuación para indicar la separación entre oraciones, como con puntos, que se utilizan para indicar el final de una oración. Por ejemplo, \"Voy al supermercado. Necesito comprar comida para hoy\".\n\nEs importante recordar que la puntuación ayuda a enfatizar y clarificar el significado de un texto, por lo que es fundamental usarla correctamente para transmitir la idea de manera efectiva",
-      "fecha": "2025-12-28T20:54:51.791Z"
-    },
-    {
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "Los sinónimos son palabras que tienen el mismo significado o expresan una idea similar, aunque pueden tener ligeras diferencias en su tono o contexto. Por ejemplo, la palabra \"feliz\" es sinónimo de \"alegre\" o \"contento\". \n\nLos antónimos, por otro lado, son palabras que expresan ideas opuestas. Por ejemplo, \"rico\" y \"pobre\" son antónimos, ya que se refieren a situaciones financieras opuestas.",
       "fecha": "2025-12-28T20:55:00.114Z"
@@ -3954,8 +3949,13 @@
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es un proceso mental que implica analizar y evaluar información de manera objetiva, identificar los puntos fuertes y débiles, y tomar decisiones informadas. Implica cuestionar suposiciones y suplicaciones, buscar evidencia y considerar diferentes perspectivas para llegar a una conclusión bien fundamentada. Algunos ejemplos de pensamiento crítico incluyen analizar argumentos políticos, evaluar la credibilidad de fuentes de información y hacer diagnósticos médicos precisos. Esto requiere una mente abierta, curiosidad y habilidades de razonamiento lógico.",
       "fecha": "2025-12-28T21:32:20.002Z"
+    },
+    {
+      "pregunta": "¿Cómo se usa la puntuación correctamente?",
+      "respuesta": "La puntuación es fundamental para comunicar ideas de manera clara y precisa en la escritura. Se utiliza para separar oraciones, indicar pausas, enfatizar o mostrar relación entre ideas, según la regla de tres puntos, o bien para indicar fin de oración mediante un punto. Por ejemplo, \"La puntuación es fundamental para comunicar ideas de manera clara.\"",
+      "fecha": "2025-12-28T21:32:27.798Z"
     }
   ],
-  "ultimaActualizacion": 1766957540006,
-  "preguntasHechas": 424
+  "ultimaActualizacion": 1766957547799,
+  "preguntasHechas": 425
 }
