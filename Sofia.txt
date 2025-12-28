@@ -1,5 +1,5 @@
 {
-  "iq": 473,
+  "iq": 478,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1227,7 +1227,17 @@
     "robots",
     "inteligentes",
     "robot",
-    "concluir"
+    "concluir",
+    "especiales",
+    "determinada",
+    "finanza",
+    "catéterismo",
+    "cotidiana",
+    "mbito",
+    "enfermo",
+    "médica",
+    "formales",
+    "diarios"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1646,8 +1656,13 @@
       "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
       "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de pensar de manera sistemática y coherente al expresar ideas y argumentos. Implica establecer conexiones lógicas entre pensamientos, evitar contradicciones y utilizar evidencia para apoyar afirmaciones. Por ejemplo, cuando alguien dice \"Si todos los robots son inteligentes, y este robot es inteligente, entonces debemos concluir que es un robot\". Este tipo de razonamiento ayuda a evitar confusiones y a llegar a conclusiones precisas.",
       "fecha": "2025-12-28T19:14:21.206Z"
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
+      "respuesta": "El vocabulario técnico se refiere a términos y expresiones especiales utilizados en un campo o industria determinada, como la medicina, la ingeniería o la finanza. Por ejemplo, en la medicina, los términos \"angioplastia\" y \"catéterismo\" son parte del vocabulario técnico.\n\nPor otro lado, el lenguaje coloquial o informal se utiliza en la vida cotidiana para comunicarse con amigos, familiares o en contextos sociales. En este ámbito, se utilizan expresiones como \"estar enfermo\" en lugar de \"tener una condición médica\".\n\nLa clave está en que el vocabulario técnico se utiliza en contextos formales y especializados, mientras que el lenguaje coloquial se utiliza en contextos informales y diarios.",
+      "fecha": "2025-12-28T19:14:22.084Z"
     }
   ],
-  "ultimaActualizacion": 1766949261682,
-  "preguntasHechas": 9
+  "ultimaActualizacion": 1766949265282,
+  "preguntasHechas": 10
 }
