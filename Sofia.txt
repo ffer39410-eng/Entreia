@@ -1,5 +1,5 @@
 {
-  "iq": 616,
+  "iq": 621,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1408,7 +1408,18 @@
     "leyendo",
     "teléfono",
     "especialmente",
-    "adverbio"
+    "adverbio",
+    "justificación",
+    "convicción",
+    "declaración",
+    "creíble",
+    "deriva",
+    "refuerza",
+    "validez",
+    "argumentas",
+    "deporte",
+    "esencial",
+    "reduce"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1967,8 +1978,13 @@
       "pregunta": "¿Cómo se usa la puntuación correctamente?",
       "respuesta": "La puntuación es fundamental para comunicar ideas claras y evitar confusiones. A continuación, te presento algunos ejemplos de cómo usar la puntuación correctamente:\n\n* **Comas**: se utilizan para separar ideas o elementos en una oración. Ejemplo: \"Voy a la playa, me gusta nadar y leer un libro\".\n* **Puntos**: se usan para indicar el final de una oración o una idea. Ejemplo: \"Me encanta leer libros. Mi libro favorito es 'Don Quijote'\".\n* **Puntos suspensivos**: se utilizan para indicar una interrupción o un cambio de idea en una oración. Ejemplo: \"Estaba leyendo un libro... cuando sonó el teléfono\".\n* **Punto y coma**: se usan para separar ideas o elementos en una oración, especialmente cuando se utiliza un adverbio o una conjunción. Ej",
       "fecha": "2025-12-28T19:17:58.504Z"
+    },
+    {
+      "pregunta": "¿Cómo se estructura una buena argumentación?",
+      "respuesta": "Una buena argumentación se estructura en tres partes fundamentales: la afirmación o tesis, la justificación y la convicción. La primera consiste en presentar una declaración clara y concisa que resume la idea principal. La justificación proporciona evidencia y razones que respaldan la afirmación, lo que la hace más creíble. Finalmente, la convicción es la conclusión lógica que se deriva de la justificación, que refuerza la validez de la afirmación. Por ejemplo, si argumentas sobre la importancia del deporte para la salud, tu argumentación podría ser: \"El deporte es esencial para la salud (afirmación) porque reduce el riesgo de enfermedades crónicas (justificación) y mejora la calidad de vida (conclusión)\".",
+      "fecha": "2025-12-28T19:18:06.300Z"
     }
   ],
-  "ultimaActualizacion": 1766949478506,
-  "preguntasHechas": 37
+  "ultimaActualizacion": 1766949486302,
+  "preguntasHechas": 38
 }
