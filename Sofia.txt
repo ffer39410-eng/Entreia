@@ -1,5 +1,5 @@
 {
-  "iq": 1629,
+  "iq": 1635,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2368,16 +2368,12 @@
     "aire",
     "alcanzar",
     "historiadores",
-    "implicaciones"
+    "implicaciones",
+    "componente"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
-      "respuesta": "El razonamiento lógico en conversaciones se refiere al proceso de pensar y comunicarse de manera clara y coherente, utilizando argumentos y evidencia para llegar a conclusiones lógicas. Esto implica utilizar reglas de inferencia y eliminar la contradicción de manera efectiva. Un ejemplo de razonamiento lógico en una conversación sería: \"Si no llueve, entonces no habrá inundaciones. Y si no llueve, entonces habrá sol. Por lo tanto, si hay sol, entonces no habrá inundaciones\".",
-      "fecha": "2025-12-28T19:22:40.317Z"
-    },
     {
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales son una parte fundamental del lenguaje y se refieren a la forma en que se expresan las acciones en el tiempo. Hay diferentes tiempos verbales, como el presente, pasado, futuro, condicional, subjuntivo, imperativo, entre otros, cada uno con sus propias funciones y usos. Por ejemplo, \"Ella estudia\" es un tiempo verbal presente, mientras que \"Ella estudió\" es un tiempo verbal pasado.",
@@ -3372,8 +3368,13 @@
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar información de manera reflexiva y objetiva, considerando múltiples perspectivas y fuentes. Esto implica cuestionar suposiciones y premisas, identificar sesgos y fallas en la lógica, y alcanzar conclusiones fundamentadas en evidencia y razonamiento. Por ejemplo, un estudiante que analiza un tema histórico no solo recordará hechos, sino que también evaluará la interpretación de los historiadores y considerará las implicaciones de sus conclusiones. De esta forma, desarrolla sus habilidades para pensar críticamente y tomar decisiones informadas.",
       "fecha": "2025-12-28T21:01:07.781Z"
+    },
+    {
+      "pregunta": "¿Cómo se usa la puntuación correctamente?",
+      "respuesta": "La puntuación es un componente fundamental de la escritura y el lenguaje oral, ya que ayuda a comunicar ideas, enfatizar emociones y clarificar la estructura de un texto. Utilizar la puntuación correctamente es importante para evitar confusiones y transmitir un mensaje claro. Por ejemplo, un punto final (.) se utiliza al final de una oración para indicar que ha terminado, mientras que una coma (,) se utiliza para separar elementos en una lista o entre ideas relacionadas.",
+      "fecha": "2025-12-28T21:01:15.608Z"
     }
   ],
-  "ultimaActualizacion": 1766955667782,
-  "preguntasHechas": 239
+  "ultimaActualizacion": 1766955675609,
+  "preguntasHechas": 240
 }
