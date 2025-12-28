@@ -1,5 +1,5 @@
 {
-  "iq": 607,
+  "iq": 610,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1392,7 +1392,14 @@
     "consideraría",
     "implicaciones",
     "informada",
-    "reflexiva"
+    "reflexiva",
+    "sistematizada",
+    "existe",
+    "central",
+    "organizada",
+    "relacionar",
+    "xito",
+    "sociedad"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1941,8 +1948,13 @@
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar información de manera objetiva, considerando múltiples perspectivas y argumentos. Implica cuestionar y desafiar suposiciones, identificar sesgos y vacíos de información, y tomar decisiones informadas basadas en evidencia sólida. Por ejemplo, al leer un artículo en un periódico, un individuo con pensamiento crítico no solo aceptaría la información como verdadera, sino que también consideraría la fuente, la metodología utilizada y las posibles implicaciones de los resultados. Esto le permite tomar una decisión más informada y reflexiva.",
       "fecha": "2025-12-28T19:17:42.319Z"
+    },
+    {
+      "pregunta": "¿Qué es la coherencia textual?",
+      "respuesta": "La coherencia textual se refiere a la relación lógica y sistematizada que existe entre las ideas, los conceptos y las ideas que se expresan en un texto. Es la capacidad de un texto para transmitir una idea central o mensaje de manera clara y organizada. Por ejemplo, en un ensayo sobre la importancia de la educación, la coherencia textual se logra al relacionar ideas como \"la educación es la base para el conocimiento\", \"el conocimiento es la base para el éxito\" y \"el éxito es la base para mejorar la sociedad\".",
+      "fecha": "2025-12-28T19:17:50.312Z"
     }
   ],
-  "ultimaActualizacion": 1766949462320,
-  "preguntasHechas": 35
+  "ultimaActualizacion": 1766949470313,
+  "preguntasHechas": 36
 }
