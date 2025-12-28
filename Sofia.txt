@@ -1,5 +1,5 @@
 {
-  "iq": 2680,
+  "iq": 2686,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2988,16 +2988,12 @@
     "books",
     "watching",
     "movies",
-    "semanas"
+    "semanas",
+    "argumental"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
-      "respuesta": "Las preposiciones son palabras que indican la relación entre un objeto y otro elemento en una oración, como lugar, tiempo, movimiento, etc. Por ejemplo, \"en la biblioteca\" o \"debajo del escritorio\". Estas palabras sirven para indicar la ubicación, dirección o relación entre los elementos en una oración.\n\nAlgunas preposiciones comunes en español son \"en\", \"de\", \"con\", \"sin\", \"entre\", etc. Por ejemplo: \"Leo un libro en la cama\" (indicamos la ubicación donde se está realizando la acción de leer).\n\nLas preposiciones ayudan a crear oraciones claras y precisas, y son fundamentales para la construcción de la gramática en español.\n\nPor ejemplo: \"Estoy sentado en el sofá.\" (indicamos la ubicación de la persona)",
-      "fecha": "2025-12-28T21:01:24.198Z"
-    },
     {
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual se refiere a la calidad de un texto en términos de la relación lógica y coherente entre sus ideas, ideas o pasajes. Un texto coherente tiene un hilo conductor claro y una estructura lógica que permite al lector seguir y comprender fácilmente el mensaje. Por ejemplo, en un ensayo sobre la importancia de la educación, cada párrafo debe estar relacionado con el anterior para que el lector pueda seguir la línea de argumentación.",
@@ -3992,8 +3988,13 @@
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales son una forma de expresar cuando ocurre o ocurrirá una acción en el tiempo. Hay varios tiempos verbales, como el presente, pasado y futuro, que se utilizan para describir acciones que suceden en diferentes momentos.\n\nPor ejemplo, el verbo \"hablar\" en presente se utiliza para describir una acción que está sucediendo en el momento actual, como en \"Ella habla español\". En el pasado, el verbo se utiliza para describir una acción que ya ocurrió, como en \"Ella habló español\". En el futuro, el verbo se utiliza para describir una acción que aún no ha ocurrido, pero que ocurrirá en un momento futuro, como en \"Ella hablará español\".\n\nEs importante utilizar el tiempo verbal correcto para comunicar la información de manera clara y precisa.",
       "fecha": "2025-12-28T21:37:32.026Z"
+    },
+    {
+      "pregunta": "¿Qué es la coherencia textual?",
+      "respuesta": "La coherencia textual se refiere a la propiedad de un texto que permite que el lector o el oyente comprenda y siga el hilo argumental y la estructura lógica de la información presentada. Un texto coherente presenta ideas y conceptos relacionados entre sí de manera lógica y clara, ayudando al receptor a seguir el razonamiento y a entender el mensaje de manera efectiva. Por ejemplo, en un ensayo, la coherencia textual se logra al presentar ideas y argumentos en un orden lógico y bien conectado.",
+      "fecha": "2025-12-28T21:37:39.863Z"
     }
   ],
-  "ultimaActualizacion": 1766957852026,
-  "preguntasHechas": 440
+  "ultimaActualizacion": 1766957859864,
+  "preguntasHechas": 441
 }
