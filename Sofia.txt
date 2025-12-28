@@ -1,5 +1,5 @@
 {
-  "iq": 2373,
+  "iq": 2378,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2830,16 +2830,12 @@
     "pesar",
     "duerme",
     "electrocardiograma",
-    "pulso"
+    "pulso",
+    "recapitulación"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo se estructura una buena argumentación?",
-      "respuesta": "Una buena argumentación se estructura en cuatro pasos fundamentales: Tesis, argumentos, refutación y conclusión. La tesis es la declaración inicial que expresa la idea central del argumento, los argumentos son los datos, hechos o razones que apoyan la tesis, la refutación es la respuesta a las posibles objeciones o críticas a la tesis y la conclusión es la reiteración de la tesis y la síntesis de los argumentos presentados.",
-      "fecha": "2025-12-28T20:40:51.708Z"
-    },
     {
       "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
       "respuesta": "La expresión de emociones es fundamental para comunicarnos de manera efectiva. Puedes expresar tus emociones de forma clara al usar lenguaje corporal, como mantener contacto visual, sonreír o demostrar comprensión mediante gestos, y mediante palabras, utilizando verbos como \"me alegra\" o \"me siento ansioso\", para dar a entender tus sentimientos. Además, puedes utilizar técnicas de comunicación activa, como repetir y resumir, para asegurarte de que tus palabras sean entendidas y apreciadas por los demás. Por ejemplo, si alguien te dice que te sientes triste, puedes responder con \"Sí, me siento un poco triste hoy\" para mostrar que estás escuchando y que te importa cómo te sientes.",
@@ -3834,8 +3830,13 @@
       "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
       "respuesta": "El vocabulario técnico se refiere a palabras y expresiones utilizadas en un determinado campo o profesional, como la medicina, la ingeniería o la tecnología, y están diseñadas para transmitir información precisa y específica. Por otro lado, el vocabulario coloquial se refiere a las palabras y expresiones comúnmente utilizadas en la vida cotidiana, en la conversación informal y social.\n\nPor ejemplo, en medicina, un técnico utiliza términos como \"electrocardiograma\" (ECG) para describir un examen de corazón, mientras que en la vida cotidiana, uno podría decir \"tomar el pulso\" para describir la misma acción.\n\nEste tipo de vocabulario permite a los profesionales comunicarse de manera efectiva y precisa con sus colegas, mientras que el vocabulario coloquial se utiliza para comunicarse con la gente en general de manera más informal",
       "fecha": "2025-12-28T21:22:59.781Z"
+    },
+    {
+      "pregunta": "¿Cómo se estructura una buena argumentación?",
+      "respuesta": "Una buena argumentación se estructura en tres partes principales: la tesis, la prueba y la conclusión. La tesis es la afirmación central que se quiere demostrar, la prueba es la presentación de evidencia y razonamientos que apoyan la tesis, y la conclusión es la recapitulación de los argumentos presentados para demostrar la validez de la tesis.",
+      "fecha": "2025-12-28T21:23:07.867Z"
     }
   ],
-  "ultimaActualizacion": 1766956979783,
-  "preguntasHechas": 382
+  "ultimaActualizacion": 1766956987869,
+  "preguntasHechas": 383
 }
