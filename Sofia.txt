@@ -1,5 +1,5 @@
 {
-  "iq": 751,
+  "iq": 758,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1589,7 +1589,8 @@
     "géneros",
     "números",
     "feminino",
-    "casas"
+    "casas",
+    "esquina"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2293,8 +2294,13 @@
       "pregunta": "¿Cuáles son las reglas de la gramática española?",
       "respuesta": "La gramática española se basa en reglas fundamentales que ayudan a construir oraciones coherentes y gramaticalmente correctas. Algunas de las reglas clave incluyen el uso de artículos definidos e indefinidos (el, la, los, las, un, una, unos, unas), el orden de los verbos (Sujeto + Verbo + Objeto) y el uso correcto de los géneros y números en la terminación de las palabras. Por ejemplo, \"la casa\" (feminino singular) vs. \"las casas\" (feminino plural).",
       "fecha": "2025-12-28T19:26:08.287Z"
+    },
+    {
+      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
+      "respuesta": "Las preposiciones son palabras gramaticales que indican la relación entre un sustantivo o un grupo de palabras y otro sustantivo o grupo de palabras en una oración. Sirven para indicar la ubicación, la dirección, la cantidad, la relación entre personas o objetos, entre otros. Por ejemplo, en la frase \"La biblioteca está a la esquina\", la preposición \"a\" indica la ubicación de la biblioteca.",
+      "fecha": "2025-12-28T19:26:16.150Z"
     }
   ],
-  "ultimaActualizacion": 1766949968289,
-  "preguntasHechas": 66
+  "ultimaActualizacion": 1766949976151,
+  "preguntasHechas": 67
 }
