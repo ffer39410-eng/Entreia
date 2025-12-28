@@ -1,5 +1,5 @@
 {
-  "iq": 1824,
+  "iq": 1831,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2513,11 +2513,6 @@
   "conversaciones": 6,
   "conocimiento": [
     {
-      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
-      "respuesta": "Las preposiciones son palabras que se utilizan para indicar relación entre un sustantivo o pronombre y otros elementos en una oración, como lugar, dirección, tiempo, propósito, etc. Por ejemplo, en la oración \"La casa está en la calle principal\", la preposición \"en\" indica la relación entre la casa y la calle.\n\nLas preposiciones sirven para:\n\n- Indicar el lugar: \"La biblioteca está en la universidad\".\n- Indicar la dirección: \"Voy a mi casa a la playa\".\n- Indicar el tiempo: \"Me voy a la playa mañana\".\n- Indicar el propósito: \"Estoy estudiando para aprobar el examen\".\n\nEn resumen, las preposiciones ayudan a crear oraciones más precisas y claras al describir la relación entre diferentes elementos.",
-      "fecha": "2025-12-28T19:41:07.994Z"
-    },
-    {
       "pregunta": "¿Cuáles son las reglas de la gramática española?",
       "respuesta": "La gramática española tiene varias reglas que rigen la forma en que se construyen las oraciones. Algunas de las reglas más importantes incluyen:\n\n- La concordancia de género y número: los adjetivos, artículos y pronombres deben concordar en género y número con el sustantivo al que se refieren.\n- La formación de las oraciones: las oraciones pueden ser simples, compuestas o complejas, y deben seguir una estructura lógica y gramatical.\n- El uso de los verbos: los verbos deben ser conjugados según la persona, tiempo y modo en el que se utilicen.\n- La puntuación: la puntuación es fundamental para separar las ideas y la estructura de las oraciones.\n\nEstas reglas ayudan a mantener la coherencia y claridad en la comunicación escrita y oral en español.",
       "fecha": "2025-12-28T19:41:15.842Z"
@@ -3511,8 +3506,13 @@
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son palabras o expresiones que se utilizan para unir oraciones, frases o ideas entre sí, permitiendo crear enlaces claros y lógicos en la estructura de un texto o discurso. Algunos ejemplos de conectores son \"y\", \"pero\", \"sin embargo\", \"además\", \"por lo que\", entre otros.\n\nPor ejemplo, si queremos conectar dos oraciones sencillas, podemos usar \"y\" para indicar que se trata de ideas o acciones simultáneas: \"Voy al parque y corro un poco\".",
       "fecha": "2025-12-28T21:09:15.872Z"
+    },
+    {
+      "pregunta": "¿Cuáles son las reglas de la gramática española?",
+      "respuesta": "La gramática española es el conjunto de reglas que rigen la estructura y el uso del idioma español. Hay varias reglas importantes, como la concordancia de género y número en los artículos y adjetivos, la formación de las oraciones simples y compuestas, la utilización de los tiempos verbales y los modos verbales (indicativo, subjuntivo, imperativo, etc.). Por ejemplo, en español, un sustantivo masculino singular se concuerda con el artículo \"el\" y un sustantivo femenino singular se concuerda con el artículo \"la\", mientras que un sustantivo masculino plural se concuerda con el artículo \"los\" y un sustantivo femenino plural se concuerda con el artículo \"las\".",
+      "fecha": "2025-12-28T21:09:23.799Z"
     }
   ],
-  "ultimaActualizacion": 1766956155873,
-  "preguntasHechas": 279
+  "ultimaActualizacion": 1766956163800,
+  "preguntasHechas": 280
 }
