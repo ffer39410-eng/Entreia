@@ -1,5 +1,5 @@
 {
-  "iq": 1770,
+  "iq": 1775,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2465,16 +2465,25 @@
     "afecto",
     "negocios",
     "acuerdo",
-    "discusión"
+    "discusión",
+    "muchos",
+    "incluido",
+    "clasificación",
+    "grupos",
+    "compuestos",
+    "perfectos",
+    "comemos",
+    "haber",
+    "participio",
+    "comienzan",
+    "comido",
+    "comiendo",
+    "combinan",
+    "enfoque"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué son los conectores y cómo se usan?",
-      "respuesta": "Los conectores son palabras o expresiones que se utilizan para unir oraciones o ideas entre sí, logrando una conexión lógica y coherencia en el discurso. Pueden ser de tipo temporal (antes, después), causal (porque, ya que), aditivo (además, también), o contrastivo (sin embargo, en cambio), entre otros. Por ejemplo, \"Vine a clase temprano (antes) para poder estudiar (luego)\".",
-      "fecha": "2025-12-28T19:26:40.279Z"
-    },
     {
       "pregunta": "¿Cuáles son las reglas de la gramática española?",
       "respuesta": "La gramática española se basa en varias reglas que rigen la estructura y el uso de la lengua. Algunas de las reglas más importantes incluyen la declinación de los artículos (el, la, los, las), el uso de los verbos en tiempo pasado e imperfecto, y la construcción de oraciones con sujetos y verbos. Por ejemplo, en español, se utiliza el artículo \"el\" para referirse a un objeto masculino singular y \"la\" para referirse a un objeto femenino singular. Además, los verbos en tiempo pasado se conjugan con la forma \"é\", \"aste\", \"ó\" en primer persona singular.",
@@ -3469,8 +3478,13 @@
       "pregunta": "¿Cómo funciona la comprensión del contexto?",
       "respuesta": "La comprensión del contexto es la capacidad de analizar y evaluar la situación en la que se encuentra un texto, un discurso o una situación para entender su significado y contenido. Implica considerar factores como la intención del hablante o escritor, el público objetivo, el entorno y las circunstancias en las que se está comunicando. Por ejemplo, en una reunión de negocios, es importante comprender el contexto para saber si se está hablando de un acuerdo formal o de una discusión informal.",
       "fecha": "2025-12-28T21:07:55.665Z"
+    },
+    {
+      "pregunta": "¿Cómo funcionan los tiempos verbales?",
+      "respuesta": "Los tiempos verbales son una parte fundamental de la gramática en muchos idiomas, incluido el español. Se refieren al momento en que se produce la acción o el estado descrito por el verbo. La principal clasificación es en tres grupos: tiempos simples, tiempos compuestos y tiempos compuestos perfectos.\n\n- Los tiempos simples describen las acciones en un momento específico, como el presente \"comemos\", el pasado \"comí\" o el futuro \"comeré\".\n\n- Los tiempos compuestos se forman con el auxiliar \"haber\" o \"ser\" y un participio, para describir acciones que comienzan antes de la acción principal. Ejemplos son \"he comido\" o \"estaba comiendo\".\n\n- Los tiempos compuestos perfectos también combinan un auxiliar con un participio, pero con un enfoque en el momento de la acción final",
+      "fecha": "2025-12-28T21:08:03.785Z"
     }
   ],
-  "ultimaActualizacion": 1766956075667,
-  "preguntasHechas": 269
+  "ultimaActualizacion": 1766956083788,
+  "preguntasHechas": 270
 }
