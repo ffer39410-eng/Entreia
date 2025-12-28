@@ -1,5 +1,5 @@
 {
-  "iq": 850,
+  "iq": 856,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1665,7 +1665,13 @@
     "explora",
     "observar",
     "forman",
-    "convierte"
+    "convierte",
+    "realizan",
+    "descritas",
+    "radicalmente",
+    "elegir",
+    "adapte",
+    "escribiendo"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2464,8 +2470,13 @@
       "pregunta": "¿Cuáles son las reglas de la gramática española?",
       "respuesta": "La gramática española se divide en varias partes principales: ortografía, morfología, sintaxis y semántica. La ortografía se refiere a la forma en que se escriben las palabras, la morfología estudia la formación de palabras, la sintaxis analiza la estructura de las oraciones y la semántica explora el significado de las palabras y oraciones. \n\nPor ejemplo, en la morfología, podemos observar cómo se forman los verbos en pasado: el verbo \"hablar\" se convierte en \"hablé\" en singular, \"hablamos\" en plural, \"habló\" en singular del pretérito perfecto simple, y así sucesivamente.",
       "fecha": "2025-12-28T19:59:07.587Z"
+    },
+    {
+      "pregunta": "¿Cómo funcionan los tiempos verbales?",
+      "respuesta": "Los tiempos verbales son una parte fundamental de la gramática, y se refieren a los diferentes momentos en que se realizan las acciones descritas por el verbo. Hay varios tiempos verbales, como el presente, el pasado, el futuro, el condicional, el subjuntivo, etc. Por ejemplo, en la oración \"Yo como una manzana\", el verbo \"como\" se encuentra en el tiempo presente, lo que indica que la acción está sucediendo en el momento actual.\n\nEn cambio, en la oración \"Yo comí una manzana\", el verbo \"comí\" se encuentra en el tiempo pasado, lo que indica que la acción ya ha sucedido. Los tiempos verbales pueden cambiar significado radicalmente dependiendo de su uso, por lo que es importante elegir el tiempo que mejor se adapte al contexto en el que se está escribiendo o hablando.\n\nLa ele",
+      "fecha": "2025-12-28T19:59:15.813Z"
     }
   ],
-  "ultimaActualizacion": 1766951947591,
-  "preguntasHechas": 85
+  "ultimaActualizacion": 1766951955815,
+  "preguntasHechas": 86
 }
