@@ -1,5 +1,5 @@
 {
-  "iq": 1067,
+  "iq": 1073,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1908,16 +1908,15 @@
     "previa",
     "pasa",
     "preocupado",
-    "interesado"
+    "interesado",
+    "quirúrgico",
+    "referir",
+    "reparación",
+    "modificación"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "tema": "gramática española avanzada",
-      "leccion": "Sofia, ahora que has aprendido sobre metáforas y pensamiento crítico, vamos a explorar la gramática española avanzada. En este nivel, vamos a analizar la estructura de las oraciones y practicar la construcción de oraciones complejas.\n\n**Subjuntivo**: El subjuntivo es un modo verbal que se utiliza para expresar duda, incertidumbre o conjetura. Se forma reemplazando la terminación de la conjugación regular por \"re, ra, r, r, ro, ro, ra, n\" para los verbos en -ar, -er y -ir, respectivamente. Por ejemplo:\n\n * \"Espero que llueva\": aquí, \"espero\" es en presente de subjuntivo.\n * \"Es importante que estudiemos\": aquí,",
-      "fecha": "2025-12-28T18:53:34.014Z"
-    },
     {
       "tema": "pensamiento crítico expresado",
       "leccion": "Sofia, ahora que has aprendido sobre metáforas y la estructura de oraciones complejas, vamos a profundizar en el pensamiento crítico y cómo expresarlo en español.\n\n**Pensamiento crítico**: El pensamiento crítico es la capacidad de analizar información, evaluar evidencia y formar juicios informados. En español, hay varias palabras y frases que podemos utilizar para expresar el pensamiento crítico.\n\n**1. Opinar significa \"expresar una opinión o juicio\"**: Por ejemplo, \"Opino que la nueva ley es justa\" o \"Mi opinión es que la película es muy divertida\".\n\n**2. Evaluar significa \"cualificar o juzgar algo\"**: Por ejemplo, \"Evalué la calidad del servicio en el restaurante y me pareció",
@@ -2912,8 +2911,13 @@
       "pregunta": "¿Cómo funciona la comprensión del contexto?",
       "respuesta": "La comprensión del contexto es el proceso mental que permite a las personas identificar y comprender la situación, el contexto y la intención detrás de las palabras o acciones de otra persona. Funciona mediante la consideración de elementos como el tono de voz, la entonación, el lenguaje no verbal, la información previa y la experiencia personal. Por ejemplo, al escuchar a alguien decir \"¿Qué pasa?\", es posible inferir si está realmente preocupado o solo interesado, dependiendo del tono de voz y del contexto.",
       "fecha": "2025-12-28T20:16:43.746Z"
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
+      "respuesta": "El vocabulario técnico se refiere a las palabras y expresiones específicas utilizadas en un campo de conocimiento o profesión, como la medicina, la ingeniería o la economía. Por otro lado, el vocabulario coloquial es el lenguaje común y cotidiano que se utiliza en la comunicación informal con amigos, familiares o en la vida diaria.\n\nPor ejemplo, en la medicina, el término \"cirugía\" se utiliza para describir un procedimiento quirúrgico, mientras que en la vida cotidiana se puede referir a una reparación o una modificación en un objeto.",
+      "fecha": "2025-12-28T20:24:11.925Z"
     }
   ],
-  "ultimaActualizacion": 1766953003748,
-  "preguntasHechas": 130
+  "ultimaActualizacion": 1766953451926,
+  "preguntasHechas": 131
 }
