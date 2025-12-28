@@ -1,5 +1,5 @@
 {
-  "iq": 2929,
+  "iq": 2932,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3102,16 +3102,14 @@
     "mismos",
     "enfadados",
     "insultar",
-    "faciales"
+    "faciales",
+    "debatiendo",
+    "estándar",
+    "implementando"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo funciona la comprensión del contexto?",
-      "respuesta": "La comprensión del contexto es la capacidad de interpretar y relacionar un mensaje, una oración o una situación con el entorno en el que se encuentra. Implica considerar factores como la cultura, la posición social, la intención del hablante o escritor, y la situación en la que se produce el mensaje. Por ejemplo, cuando se le dice a alguien \"echa una mano\", en un contexto de ayuda en una emergencia, pero en un contexto de trabajo, puede significar ayuda extra.",
-      "fecha": "2025-12-28T21:10:43.615Z"
-    },
     {
       "pregunta": "¿Cómo se construyen oraciones complejas en español?",
       "respuesta": "Una oración compleja en español se construye utilizando un verbo principal y un verbo subordinado, unidas por una conjunción de subordinación como \"que\", \"ya que\", \"aunque\", etc. Por ejemplo: \"Aunque estaba cansado, continuó estudiando\". En esta oración, \"estudiando\" es la oración subordinada, unida a la oración principal \"estaba cansado\" a través de la conjunción \"aunque\".\n\nUna oración compleja también puede tener más de un verbo principal, unidas por conjunciones de coordinación como \"y\", \"o\", \"pero\", etc. Por ejemplo: \"Compró libros y luego los leyó\". En esta oración, \"compró libros\" y \"los leyó\" son dos oraciones principales, unidas por la conjunción \"y\".\n\nTambién es posible tener oraciones completas",
@@ -4106,8 +4104,13 @@
       "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
       "respuesta": "La expresión de emociones de forma efectiva es fundamental para comunicarnos de manera auténtica y evitar malentendidos. Para lograr esto, es importante ser consciente de nuestras emociones y aprender a reconocerlas en nosotros mismos y en los demás. Por ejemplo, si estamos enfadados, podemos expresar nuestra ira de manera constructiva mediante un lenguaje claro y conciso, evitando agredir o insultar. Además, podemos utilizar expresiones faciales y corporales para reflejar nuestras emociones y conectar con los demás.",
       "fecha": "2025-12-28T21:49:31.656Z"
+    },
+    {
+      "pregunta": "¿Cómo se estructura una buena argumentación?",
+      "respuesta": "Una buena argumentación se estructura en tres partes clave: tópico, argumento y conclusión. El tópico es el tema o la cuestión sobre la que se argumenta. El argumento es la razón o la evidencia que se presenta para apoyar el tópico, mientras que la conclusión es la conclusión o el resultado final que se deriva del argumento. Por ejemplo, si estamos debatiendo sobre si la educación estándar es efectiva, el tópico es \"La educación estándar\", el argumento podría ser \"Los estudios demuestran que la educación estándar mejora los resultados académicos\" y la conclusión sería \"Por lo tanto, debemos seguir implementando la educación estándar en nuestras escuelas\".",
+      "fecha": "2025-12-28T21:49:39.906Z"
     }
   ],
-  "ultimaActualizacion": 1766958571659,
-  "preguntasHechas": 489
+  "ultimaActualizacion": 1766958579908,
+  "preguntasHechas": 490
 }
