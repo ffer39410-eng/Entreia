@@ -1,5 +1,5 @@
 {
-  "iq": 3009,
+  "iq": 3012,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3134,16 +3134,14 @@
     "revisaría",
     "verificaría",
     "agendas",
-    "ocultas"
+    "ocultas",
+    "externos",
+    "previos",
+    "ayudaría"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué son los sinónimos y antónimos?",
-      "respuesta": "Los sinónimos son palabras que tienen el mismo significado, pero diferentes formas de expresar una idea. Por ejemplo, \"largo\" y \"extenso\" son sinónimos, ya que ambos describen algo que tiene una gran longitud.\n\nPor otro lado, los antónimos son palabras que tienen significados opuestos. Por ejemplo, \"calor\" y \"frío\" son antónimos, ya que uno describe una temperatura alta y el otro una temperatura baja.\n\nEs importante destacar que no siempre hay palabras exactas que sean sinónimos o antónimos perfectos, pero generalmente se consideran palabras que pueden ser utilizadas en lugar de otra sin cambiar el significado principal.",
-      "fecha": "2025-12-28T21:12:43.746Z"
-    },
     {
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales se utilizan para expresar momentos pasados, presentes o futuros en un lenguaje. Existen varios tiempos verbales, como el presente simple, el presente continuo, el pasado simple y el futuro simple, entre otros. Por ejemplo, la oración \"Yo como\" es en presente simple, mientras que \"Yo comía\" es en pasado simple.",
@@ -4138,8 +4136,13 @@
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar información de manera objetiva y lógica, considerando múltiples perspectivas y fuentes. Se trata de cuestionar asunciones y suposiciones, identificar patrones y relaciones, y tomar decisiones informadas. Por ejemplo, cuando se lee un artículo periodístico, un pensador crítico no se limitaría a aceptar la información a ciegas, sino que revisaría la fuente, verificaría los hechos y consideraría posibles sesgos o agendas ocultas.",
       "fecha": "2025-12-28T21:51:31.663Z"
+    },
+    {
+      "pregunta": "¿Cómo funciona la comprensión del contexto?",
+      "respuesta": "La comprensión de contexto es un proceso mental que permite al lector o oyente entender el significado de un texto o una conversación considerando el entorno en el que se produce. Esto implica tomar en cuenta datos externos como el lugar, el momento, las personas involucradas y los temas previos. Por ejemplo, si alguien dice \"El tren se retrasó\", el contexto ayudaría a entender que es un tren que se está refiriendo y no un avión.",
+      "fecha": "2025-12-28T21:51:39.692Z"
     }
   ],
-  "ultimaActualizacion": 1766958691666,
-  "preguntasHechas": 504
+  "ultimaActualizacion": 1766958699693,
+  "preguntasHechas": 505
 }
