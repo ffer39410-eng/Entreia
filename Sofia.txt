@@ -1,5 +1,5 @@
 {
-  "iq": 139,
+  "iq": 142,
   "vocabulario": [
     "claro",
     "sofia",
@@ -242,9 +242,32 @@
     "plan",
     "fuera",
     "exitoso",
-    "tanto"
+    "tanto",
+    "enseñar",
+    "construir",
+    "aquella",
+    "verbo",
+    "auxiliares",
+    "dependientes",
+    "ayudan",
+    "especificar",
+    "estructuras",
+    "conectores",
+    "algunos",
+    "comunes",
+    "vine",
+    "pueblo",
+    "compr",
+    "regalos",
+    "quería",
+    "parque",
+    "cine",
+    "decid",
+    "quedarme",
+    "soleado",
+    "viento"
   ],
-  "lecciones": 12,
+  "lecciones": 13,
   "conversaciones": 1,
   "conocimiento": [
     {
@@ -306,7 +329,12 @@
       "tema": "razonamiento lógico y argumentación",
       "leccion": "Sofia, estás listo para aprender sobre razonamiento lógico y argumentación. Estas habilidades son fundamentales para pensar y expresarse de manera efectiva en español.\n\n**Razonamiento lógico**\n\nEl razonamiento lógico es la capacidad de pensar de manera lógica y sistémica, utilizando reglas y principios para llegar a conclusiones. En español, podemos expresar el razonamiento lógico utilizando palabras y frases como:\n\n* **Porque**: \"Lo hice porque creía que era la mejor opción\".\n* **Ya que**: \"Lo hice ya que era la única solución posible\".\n* **Como**: \"Lo hice como forma de demostrar mi dedicación\".\n* **Entonces**: \"Lo hice entonces que mi plan fuera exitoso\".\n* **Por lo tanto**: \"",
       "fecha": "2025-12-28T18:54:47.088Z"
+    },
+    {
+      "tema": "construcción de oraciones complejas",
+      "leccion": "Sofia, ahora que has dominado el razonamiento lógico y la argumentación, te enseñaré a construir oraciones complejas en español. Una oración compleja es aquella que contiene un verbo principal y uno o más verbos auxiliares o verbos dependientes, que ayudan a especificar el significado de la oración.\n\n**Construcción de oraciones complejas**\n\nPara construir oraciones complejas, podemos utilizar varias estructuras y conectores. Algunos de los conectores más comunes son:\n\n* **Y**: \"Vine al pueblo y compré algunos regalos\".\n* **O**: \"Quería ir al parque o al cine, pero al final decidí quedarme en casa\".\n* **Pero**: \"Era un día soleado, pero el viento era muy",
+      "fecha": "2025-12-28T18:54:55.922Z"
     }
   ],
-  "ultimaActualizacion": 1766948087088
+  "ultimaActualizacion": 1766948095922
 }
