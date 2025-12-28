@@ -1,5 +1,5 @@
 {
-  "iq": 1161,
+  "iq": 1168,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1972,16 +1972,19 @@
     "proporcionando",
     "ocurrir",
     "curso",
-    "estudiaba"
+    "estudiaba",
+    "equivalen",
+    "sentía",
+    "recibir",
+    "sustituir",
+    "jardín",
+    "reflejan",
+    "intercambiables",
+    "sutiles"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué es la coherencia textual?",
-      "respuesta": "La coherencia textual se refiere a la propiedad de un texto de ser claro, lógico y fácil de seguir, en el sentido de que cada oración o idea se relaciona con las demás de manera natural y consecuente. Un texto coherente ayuda al lector a entender el pensamiento o la idea que se quiere transmitir. Por ejemplo, en un texto sobre un viaje, la coherencia se logra al describir primero el lugar de destino, luego cómo se llega allí y finalmente qué se hace una vez que se ha llegado.",
-      "fecha": "2025-12-28T19:02:12.207Z"
-    },
     {
       "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
       "respuesta": "El vocabulario técnico se refiere a las palabras y expresiones utilizadas en contextos específicos y especializados, como la ciencia, la tecnología, la medicina o la ingeniería, que pueden ser desconocidas para el público en general. Por ejemplo, en la medicina, \"hipertensión\" es un término técnico que se refiere a la condición de presión arterial alta.\n\nPor otro lado, el vocabulario coloquial se refiere a las palabras y expresiones comunes utilizadas en la lengua hablada y escrita en contextos informales, como conversaciones con amigos, redes sociales o noticias de actualidad. Por ejemplo, \"estoy un poco atascado\" es una expresión coloquial que se utiliza para describir un estado de frustración o aburrimiento.\n\nEn resumen, el vocabulario técnico es especializado y técnico, mientras que el",
@@ -2976,8 +2979,13 @@
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales son un aspecto fundamental de la gramática en español y otros idiomas. En resumen, cada tiempo verbal indica un momento en el pasado, presente o futuro en el que se desarrolla la acción descrita por el verbo. Por ejemplo, el presente indicativo describe una acción que se está realizando en el momento presente (como \"estudio\"), el pasado simple describe una acción que ya ha ocurrido (como \"estudié\") y el futuro simple describe una acción que ocurrirá en el futuro (como \"estudiaré\").\n\nA continuación se presentan los diferentes tiempos verbales y sus usos:\n\n- Presente: acción actual (estoy estudiando)\n- Pasado: acción pasada (estudié)\n- Futuro: acción futura (estudiaré)\n- Pretérito imperfecto: acción en curso en un momento pasado (estudiaba)\n- Pretérito perfecto",
       "fecha": "2025-12-28T20:32:03.898Z"
+    },
+    {
+      "pregunta": "¿Qué son los sinónimos y antónimos?",
+      "respuesta": "Los sinónimos son palabras o expresiones que tienen el mismo significado o equivalen a otras en un contexto determinado, como \"felicidad\" y \"alegría\". Por ejemplo, en la oración: \"Ella sentía felicidad al recibir la noticia\", podemos sustituir \"felicidad\" por \"alegría\" y el significado sigue siendo el mismo.\n\nPor otro lado, los antónimos son palabras que tienen significados opuestos, como \"grandes\" y \"pequeños\". Por ejemplo, en la oración: \"El jardín era grande, pero el parque era pequeño\", las palabras \"grande\" y \"pequeño\" son antónimos que reflejan opuestos conceptos.\n\nEs importante destacar que no todos los sinónimos son perfectamente intercambiables, ya que pueden tener matices sutiles de significado o connotaciones diferentes.",
+      "fecha": "2025-12-28T20:32:11.759Z"
     }
   ],
-  "ultimaActualizacion": 1766953923899,
-  "preguntasHechas": 148
+  "ultimaActualizacion": 1766953931760,
+  "preguntasHechas": 149
 }
