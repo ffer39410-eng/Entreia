@@ -1,5 +1,5 @@
 {
-  "iq": 528,
+  "iq": 533,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1296,7 +1296,8 @@
     "ambig",
     "edad",
     "interpretación",
-    "precisa"
+    "precisa",
+    "causalidad"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1770,8 +1771,13 @@
       "pregunta": "¿Cómo funciona la comprensión del contexto?",
       "respuesta": "La comprensión del contexto es un proceso mental que permite a las personas interpretar y dar sentido a la información que reciben, teniendo en cuenta el marco en el que se produce. Esto implica considerar elementos como el lenguaje, la cultura, la situación y la intención de la comunicación. Por ejemplo, cuando se nos dice \"¡Cuidado con la puerta!\", podemos entender que se refiere a una puerta que se abre o se cierra rápidamente, y no a una puerta en general. La comprensión del contexto nos permite eliminar la ambigüedad y obtener una interpretación más precisa.",
       "fecha": "2025-12-28T19:15:42.220Z"
+    },
+    {
+      "pregunta": "¿Qué son los conectores y cómo se usan?",
+      "respuesta": "Los conectores son palabras o frases que unen ideas o oraciones para crear una estructura lógica y coherente en el discurso. Se usan para mostrar relaciones entre ideas, como causalidad, oposición, comparación, causalidad, tiempo o adición. Por ejemplo: \"Sin embargo\" (oposición), \"Además\" (adición), \"Porque\" (causalidad), \"Pero\" (oposición).",
+      "fecha": "2025-12-28T19:15:50.123Z"
     }
   ],
-  "ultimaActualizacion": 1766949342221,
-  "preguntasHechas": 20
+  "ultimaActualizacion": 1766949350124,
+  "preguntasHechas": 21
 }
