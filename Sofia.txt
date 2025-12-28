@@ -1,5 +1,5 @@
 {
-  "iq": 323,
+  "iq": 327,
   "vocabulario": [
     "claro",
     "sofia",
@@ -886,7 +886,33 @@
     "examen",
     "terminado",
     "comi",
-    "ayer"
+    "ayer",
+    "siguiendo",
+    "siguientes",
+    "presentas",
+    "enunciado",
+    "tesis",
+    "concisa",
+    "posición",
+    "después",
+    "pruebas",
+    "hechos",
+    "verificables",
+    "continuación",
+    "debes",
+    "refutar",
+    "posibles",
+    "objeciones",
+    "contrapuntos",
+    "demostrando",
+    "sigue",
+    "siendo",
+    "sólida",
+    "razonable",
+    "concluyes",
+    "reafirmando",
+    "resaltando",
+    "fuerza"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1150,8 +1176,13 @@
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales son una parte fundamental de la gramática para expresar diferentes momentos en el tiempo en que se realiza una acción. Hay varios tiempos verbales, como el presente, el pasado simple, el pasado perfecto, el futuro simple, el futuro perfecto, el condicional y el imperativo, cada uno con sus propias reglas y usos.\n\nPor ejemplo, el tiempo presente se utiliza para describir acciones que suceden en el momento actual, como \"Ella come un sandwich\" o \"Él estudió para su examen\". En cambio, el tiempo pasado simple se utiliza para describir acciones que ya han terminado, como \"Ella comió un sandwich ayer\" o \"Él estudió para su examen el año pasado\".",
       "fecha": "2025-12-28T19:07:21.163Z"
+    },
+    {
+      "pregunta": "¿Cómo se estructura una buena argumentación?",
+      "respuesta": "Una buena argumentación se estructura siguiendo los siguientes pasos: \n\nPrimero, presentas un enunciado o tesis clara y concisa que establece la posición o afirmación principal sobre el tema. Después, presentas razones o pruebas que respaldan esta afirmación, utilizando evidencia y hechos verificables. A continuación, debes refutar posibles objeciones o contrapuntos, demostrando que la argumentación sigue siendo sólida y razonable. Finalmente, concluyes reafirmando la tesis y resaltando la fuerza de la argumentación.",
+      "fecha": "2025-12-28T19:07:29.147Z"
     }
   ],
-  "ultimaActualizacion": 1766948841165,
+  "ultimaActualizacion": 1766948849148,
   "preguntasHechas": null
 }
