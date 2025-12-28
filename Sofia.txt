@@ -1,5 +1,5 @@
 {
-  "iq": 2306,
+  "iq": 2311,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2798,16 +2798,16 @@
     "menciona",
     "siglo",
     "necesario",
-    "contextualizarla"
+    "contextualizarla",
+    "divert",
+    "conoc",
+    "suspendidos",
+    "indicate",
+    "encant"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo se usa la puntuación correctamente?",
-      "respuesta": "La puntuación es fundamental en la escritura para comunicar ideas de manera clara y precisa. Utiliza signos de puntuación como comas, puntos y coma, dos puntos, etc., para separar ideas, enfatizar información o indicar pausas en la lectura. Por ejemplo: \"Vine a la tierra en busca de aventuras, pero lo que encontré fue una experiencia que cambió mi vida para siempre.\"\n\nAdemás, la puntuación también ayuda a evitar la ambigüedad en la escritura, como cuando usamos signos de puntuación para distinguir entre oraciones independientes y dependientes. Por ejemplo: \"¿Quieres ir al cine? Si, me encantaría!\"",
-      "fecha": "2025-12-28T20:35:07.817Z"
-    },
     {
       "pregunta": "¿Cómo se usa la puntuación correctamente?",
       "respuesta": "La puntuación es fundamental en la escritura para transmitir ideas de manera clara y precisa. Una coma (,) se utiliza para separar dos oraciones independientes que están relacionadas, como en \"Voy al supermercado, porque necesito comprar algo\". Un punto (.) se utiliza al final de una oración para indicar su finalización, como en \"Me encanta leer libros\". Un signo de exclamación (!) se utiliza para expresar énfasis o sorpresa, como en \"¡Estoy emocionado!\". Un signo de interrogación (?) se utiliza para formular una pregunta, como en \"¿Qué hora es?\".",
@@ -3802,8 +3802,13 @@
       "pregunta": "¿Cómo funciona la comprensión del contexto?",
       "respuesta": "La comprensión del contexto es la habilidad de analizar y entender el significado de un texto, imagen o situación en función del entorno en el que se encuentra. Implica considerar factores como el momento histórico, la cultura, el idioma y la información previa para interpretar el mensaje de manera precisa. Por ejemplo, si se lee una oración en la que se menciona un evento histórico en el siglo XIX, es necesario contextualizarla para comprender su importancia y significado en ese momento específico.",
       "fecha": "2025-12-28T21:21:23.704Z"
+    },
+    {
+      "pregunta": "¿Cómo se usa la puntuación correctamente?",
+      "respuesta": "La puntuación es fundamental en la escritura para comunicar ideas y transmitir un mensaje claro. Utiliza comas para separar ideas o elementos en una oración, como en el caso de \"Vine a la fiesta, me divertí mucho y conocí a muchos amigos\". Los puntos suspendidos se utilizan para indicate una pausa o una interrupción en la oración, como en \"Vine a la fiesta... y me divertí mucho\". Los signos de admiración se utilizan para enfatizar o señalar algo, como en \"Vine a la fiesta y ¡me encantó!\".",
+      "fecha": "2025-12-28T21:21:31.676Z"
     }
   ],
-  "ultimaActualizacion": 1766956883705,
-  "preguntasHechas": 370
+  "ultimaActualizacion": 1766956891679,
+  "preguntasHechas": 371
 }
