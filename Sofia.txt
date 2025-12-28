@@ -1,5 +1,5 @@
 {
-  "iq": 930,
+  "iq": 934,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1758,7 +1758,12 @@
     "cadena",
     "conectadas",
     "pieza",
-    "encaja"
+    "encaja",
+    "finalización",
+    "dónde",
+    "gustaría",
+    "contigo",
+    "separa"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2642,8 +2647,13 @@
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual se refiere a la capacidad de un texto para mantener una conexión lógica y clara entre sus diferentes partes, asegurando que el mensaje sea fácil de seguir y comprender. Esto incluye la transición entre ideas, la continuidad del tema y la precisión en la comunicación. Un texto coherente es como una cadena de ideas bien conectadas, donde cada pieza encaja en su lugar adecuado. La coherencia es fundamental para transmitir una idea claro y convincente.",
       "fecha": "2025-12-28T20:11:07.670Z"
+    },
+    {
+      "pregunta": "¿Cómo se usa la puntuación correctamente?",
+      "respuesta": "La puntuación es un elemento fundamental en la escritura, ya que ayuda a estructurar y transmitir el significado de nuestra comunicación. Utilizamos signos de puntuación como comas, puntos, signos de interrogación y exclamación para separar ideas, indicar la finalización de oraciones y enfatizar la emoción o la pregunta. Un ejemplo de uso correcto de la puntuación es: \"¿Dónde vas hoy? Me gustaría ir contigo.\"\n\nDe manera que, la coma separa las oraciones independientes y el signo de interrogación indica que es una pregunta.",
+      "fecha": "2025-12-28T20:11:15.952Z"
     }
   ],
-  "ultimaActualizacion": 1766952667671,
-  "preguntasHechas": 102
+  "ultimaActualizacion": 1766952675953,
+  "preguntasHechas": 103
 }
