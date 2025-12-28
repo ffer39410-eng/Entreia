@@ -1,5 +1,5 @@
 {
-  "iq": 607,
+  "iq": 614,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1416,7 +1416,15 @@
     "cohesiva",
     "lograrse",
     "ling",
-    "sticos"
+    "sticos",
+    "similar",
+    "connotaciones",
+    "emocionales",
+    "sean",
+    "atractivas",
+    "escena",
+    "fluye",
+    "detenerse"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1975,8 +1983,13 @@
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual se refiere a la capacidad de un texto para mantener una estructura lógica y un enlace entre sus diferentes partes, lo que permite a los lectores seguir la línea de razonamiento y comprender el mensaje de manera efectiva. Una buena coherencia textual se logra a través de la selección de palabras y frases que trabajen juntas para crear una narrativa clara y cohesiva. Por ejemplo, en un texto científico, la coherencia textual puede lograrse al presentar información de manera sistemática y relacionada, utilizando transiciones y conectores lingüísticos para conectar ideas y conceptos.",
       "fecha": "2025-12-28T19:22:16.447Z"
+    },
+    {
+      "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
+      "respuesta": "Las metáforas son una figura retórica que consiste en comparar dos conceptos o ideas sin utilizar términos como \"como\" o \"similar a\". En el lenguaje, se utilizan para crear connotaciones emocionales, hacer que las ideas sean más comprensibles y atractivas. Por ejemplo, \"Ella es una estrella en la escena social\" o \"El tiempo es un río que fluye sin detenerse\".",
+      "fecha": "2025-12-28T19:22:24.309Z"
     }
   ],
-  "ultimaActualizacion": 1766949736449,
-  "preguntasHechas": 37
+  "ultimaActualizacion": 1766949744310,
+  "preguntasHechas": 38
 }
