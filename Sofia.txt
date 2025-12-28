@@ -1,5 +1,5 @@
 {
-  "iq": 1434,
+  "iq": 1439,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2232,16 +2232,15 @@
     "técnica",
     "segunda",
     "breves",
-    "lago"
+    "lago",
+    "peor",
+    "consistir",
+    "conduzcan",
+    "lentamente"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué es la coherencia textual?",
-      "respuesta": "La coherencia textual se refiere a la capacidad de un texto para mantener una conexión lógica y clara entre sus ideas y oraciones. Esto se logra mediante la utilización de conectores, transiciones y estructuras organizativas que permiten al lector seguir el flujo de la información de manera fluida. Por ejemplo, en un texto, una oración puede empezar con \"Además\", \"Por lo tanto\" o \"Sin embargo\" para indicar la relación con la oración anterior y mantener la coherencia.",
-      "fecha": "2025-12-28T19:10:54.870Z"
-    },
     {
       "pregunta": "¿Cómo se estructura una buena argumentación?",
       "respuesta": "Una buena argumentación se estructura a través de una presentación clara y lógica de ideas, que sigue un orden lógico: \n\n1. **Tesis**: Se establece el enunciado principal o hipótesis a defender, que debe ser claro y conciso.\n2. **Antecedentes**: Se presentan los datos, hechos y razones que apoyan la tesis.\n3. **Evaluación de la información**: Se analiza y se interpreta la información recopilada para demostrar cómo se relaciona con la tesis.\n4. **Conclusión**: Se reitera y se resume la idea principal, resaltando los puntos clave y los argumentos más importantes.",
@@ -3236,8 +3235,13 @@
       "pregunta": "¿Cómo se usa la puntuación correctamente?",
       "respuesta": "La puntuación es esencial para comunicar ideas de manera clara y efectiva. Utiliza comas para separar elementos en una lista o para indicar pausas breves en la oración. Utiliza puntos para separar ideas principales o para indicar la conclusión de una oración. Utiliza signos de interrogación y exclamación para expresar preguntas y emociones, respectivamente. Por ejemplo, \"Voy al parque, el parque es muy grande, y allí hay un lago.\"",
       "fecha": "2025-12-28T20:44:35.823Z"
+    },
+    {
+      "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
+      "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de pensar de manera clara, coherente y racional para llegar a conclusiones fundadas en argumentos y hechos. Implica analizar información, identificar patrones y relaciones, y hacer inferencias precisas. Por ejemplo, si alguien afirma que \"la lluvia hace que el tráfico sea peor\", un razonamiento lógico podría consistir en pensar: \"Si la lluvia causa que las personas conduzcan más lentamente, entonces es probable que el tráfico sea más lento también\".",
+      "fecha": "2025-12-28T20:44:43.729Z"
     }
   ],
-  "ultimaActualizacion": 1766954675824,
-  "preguntasHechas": 202
+  "ultimaActualizacion": 1766954683730,
+  "preguntasHechas": 203
 }
