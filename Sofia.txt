@@ -1,5 +1,5 @@
 {
-  "iq": 866,
+  "iq": 871,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1685,7 +1685,13 @@
     "tendr",
     "desarrollan",
     "haciéndolo",
-    "atención"
+    "atención",
+    "dificultades",
+    "informativo",
+    "lograría",
+    "presentaran",
+    "acontecimientos",
+    "cronológica"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2499,8 +2505,13 @@
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual se refiere a la forma en que las ideas, los conceptos y los mensajes se unen y se relacionan entre sí en un texto para crear un sentido lógico y claro. En otras palabras, es la capacidad del autor de comunicar sus ideas de manera organizada y consecuente. Por ejemplo, un artículo bien escrito sobre un tema específico tendrá una coherencia textual cuando los párrafos se conectan y se desarrollan de manera lógica, haciéndolo fácil de seguir para el lector. La coherencia textual es fundamental para mantener la atención y la comprensión del destinatario.",
       "fecha": "2025-12-28T19:59:31.624Z"
+    },
+    {
+      "pregunta": "¿Qué es la coherencia textual?",
+      "respuesta": "La coherencia textual se refiere a la propiedad de un texto de ser lógico, claro y fácil de seguir. Implica que las ideas y oraciones están relacionadas entre sí de manera natural y consecuente, permitiendo al lector entender el contenido sin dificultades. Por ejemplo, en un texto informativo sobre la historia de una ciudad, la coherencia textual se lograría si se presentaran los acontecimientos de manera cronológica y lógica. De esta manera, el lector puede seguir fácilmente la secuencia de los acontecimientos.",
+      "fecha": "2025-12-28T19:59:39.740Z"
     }
   ],
-  "ultimaActualizacion": 1766951971625,
-  "preguntasHechas": 88
+  "ultimaActualizacion": 1766951979741,
+  "preguntasHechas": 89
 }
