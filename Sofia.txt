@@ -1,5 +1,5 @@
 {
-  "iq": 813,
+  "iq": 818,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1639,7 +1639,9 @@
     "cesura",
     "sílaba",
     "tónica",
-    "conjugado"
+    "conjugado",
+    "operativo",
+    "computadora"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2403,8 +2405,13 @@
       "pregunta": "¿Cuáles son las reglas de la gramática española?",
       "respuesta": "La gramática española está regida por una serie de reglas que se aplican a la estructura y forma de las palabras, frases y oraciones. Algunas de las reglas más importantes incluyen la declinación de los artículos (el, la, los, las), la conjugación de los verbos (presente, pretérito, futuro, condicional, etc.), la formación de las oraciones (sujeto, predicado, complementos, etc.) y la reglas de acentuación, como la cesura y la sílaba tónica. Por ejemplo, en la oración \"El estudiante estudia en la biblioteca\", \"el\" es el artículo masculino determinado, \"estudiante\" es el sujeto y \"estudia\" es el verbo conjugado en el presente de indicativo.",
       "fecha": "2025-12-28T19:40:51.930Z"
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
+      "respuesta": "El vocabulario técnico se refiere a palabras y expresiones utilizadas en contextos específicos, como la ciencia, la tecnología, la medicina o la ingeniería, que requieren conocimientos especializados para ser comprendidos. Por otro lado, el vocabulario coloquial se refiere a la forma informal de expresarse en la vida cotidiana, utilizando palabras y frases comunes en la conversación diaria. \n\nPor ejemplo, \"sistema operativo\" es un término técnico, mientras que \"computadora\" es un vocabulario coloquial.",
+      "fecha": "2025-12-28T19:40:59.752Z"
     }
   ],
-  "ultimaActualizacion": 1766950851932,
-  "preguntasHechas": 78
+  "ultimaActualizacion": 1766950859753,
+  "preguntasHechas": 79
 }
