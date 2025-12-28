@@ -1,5 +1,5 @@
 {
-  "iq": 1710,
+  "iq": 1713,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2429,16 +2429,13 @@
     "explicativas",
     "internet",
     "humana",
-    "miradas"
+    "miradas",
+    "residencia",
+    "sentidos"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo se estructura una buena argumentación?",
-      "respuesta": "Una buena argumentación se estructura en tres pasos clave: establecer un tema o problema, presentar pruebas o evidencia para apoyar la afirmación, y concluir con una respuesta clara y convincente.\n\nPor ejemplo, si queremos argumentar que \"el uso de la tecnología en la educación es beneficioso\", podríamos estructurar la argumentación de la siguiente manera:\n\n- Presentar el tema: \"El uso de la tecnología en la educación es un tema controvertido que ha generado debate en la comunidad educativa\".\n- Presentar pruebas: \"Según una investigación reciente, los estudiantes que utilizan tecnología en la educación muestran un mejor desempeño académico y una mayor motivación\".\n- Concluir: \"En conclusión, se puede argumentar que el uso de la tecnología en la educación es beneficioso debido a su capacidad para mejorar el desempeño",
-      "fecha": "2025-12-28T19:24:48.404Z"
-    },
     {
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es un proceso mental que implica analizar y evaluar información, ideas y argumentos de manera objetiva y sistemática, para llegar a conclusiones informadas y fundamentadas. Implica cuestionar suposiciones, verificar fuentes y considerar múltiples perspectivas para formar opiniones y tomar decisiones. Por ejemplo, al leer un artículo de periodismo, un estudiante con pensamiento crítico no solo le da crédito a la información presentada, sino que también busca verificar las fuentes citadas y evalúa la objetividad del autor. Al hacerlo, puede llegar a una comprensión más profunda del tema y tomar decisiones más informadas.",
@@ -3433,8 +3430,13 @@
       "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
       "respuesta": "Las emociones son una parte natural de la comunicación humana, y expresarlas de manera efectiva es crucial para conectar con los demás. Puedes expresar emociones de forma efectiva al ser auténtico y genuino en tus comunicaciones, utilizando lenguaje corporal como miradas y gestos, y expresando tus sentimientos de manera clara y respetuosa. Por ejemplo, en lugar de decir \"Me enojé contigo\", podrías decir \"Me siento frustrado cuando...\".",
       "fecha": "2025-12-28T21:03:15.624Z"
+    },
+    {
+      "pregunta": "¿Qué son los sinónimos y antónimos?",
+      "respuesta": "Excelente pregunta para empezar un viaje por el mundo de la lengua. Los sinónimos son palabras que tienen el mismo significado o nearly el mismo significado. Por ejemplo, \"la casa\" y \"la residencia\" son sinónimos. \n\nPor otro lado, los antónimos son palabras que tienen sentidos opuestos. Por ejemplo, \"feliz\" y \"triste\" son antónimos. Los antónimos se utilizan para enfatizar un concepto o idea en contraste con otro.",
+      "fecha": "2025-12-28T21:03:23.794Z"
     }
   ],
-  "ultimaActualizacion": 1766955795625,
-  "preguntasHechas": 255
+  "ultimaActualizacion": 1766955803796,
+  "preguntasHechas": 256
 }
