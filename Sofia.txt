@@ -1,5 +1,5 @@
 {
-  "iq": 1288,
+  "iq": 1295,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2091,16 +2091,19 @@
     "sopesar",
     "rechazar",
     "receptiva",
-    "nuevas"
+    "nuevas",
+    "leería",
+    "señales",
+    "sesgo",
+    "parcialidad",
+    "toma",
+    "precipitada",
+    "adoptar",
+    "informada"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué son los conectores y cómo se usan?",
-      "respuesta": "Los conectores son palabras o expresiones que se utilizan para unir ideas, oraciones o frases en la lengua española. Se pueden clasificar en diferentes tipos, como conjunciones (y, pero, o, ni), conjunciones adverbiales (entonces, por tanto, sin embargo), conjunciones subordinadas (que, porque, si) y conjunciones coordinadas (tanto... como, más... que). Por ejemplo: \"Voy al parque, y me reuniré con amigos\" (usando una conjunción coordinada), \"Me duele la cabeza porque no dormí bien\" (usando una conjunción subordinada).",
-      "fecha": "2025-12-28T19:06:57.409Z"
-    },
     {
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son palabras o expresiones que se utilizan para unir frases, oraciones o ideas en una estructura lógica y coherente. Algunos ejemplos de conectores son \"y\", \"pero\", \"sin embargo\", \"porque\", \"asi que\", etc. Estos conectores nos ayudan a mostrar las relaciones entre las ideas y a crear textos más claros y concisos. Por ejemplo, la oración \"Me gusta leer y escribir\" utiliza el conector \"y\" para unir dos acciones relacionadas.",
@@ -3095,8 +3098,13 @@
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es la habilidad de analizar información, evaluar evidencia y tomar decisiones informadas de manera objetiva y reflexiva. Implica cuestionar suposiciones y perspectivas, sopesar argumentos y considerar múltiples perspectivas para llegar a una conclusión bien fundamentada. Por ejemplo, al leer un artículo periodístico, un pensador crítico evaluaría la credibilidad de la fuente, la calidad de la evidencia presentada y la lógica del argumento antes de aceptar o rechazar la información presentada. Esto requiere una actitud abierta y receptiva a nuevas ideas y la capacidad de defender sus propias opiniones con argumentos sólidos.",
       "fecha": "2025-12-28T20:35:31.793Z"
+    },
+    {
+      "pregunta": "¿Qué es el pensamiento crítico?",
+      "respuesta": "El pensamiento crítico es la habilidad de analizar información, evaluar evidencia y tomar decisiones informadas de manera objetiva. Implica cuestionar suposiciones, reconocer sesgos y considerar múltiples perspectivas para llegar a conclusiones bien fundadas. Por ejemplo, al leer un artículo de noticias, un pensador crítico no solo leería la información, sino que también analizaría la fuente, buscando señales de sesgo o parcialidad, y evaluaría la evidencia presentada para verificar su validez. Este proceso de pensamiento ayuda a evitar la toma de decisiones precipitada y a adoptar una postura más informada y reflexiva.",
+      "fecha": "2025-12-28T20:35:39.678Z"
     }
   ],
-  "ultimaActualizacion": 1766954131795,
-  "preguntasHechas": 174
+  "ultimaActualizacion": 1766954139681,
+  "preguntasHechas": 175
 }
