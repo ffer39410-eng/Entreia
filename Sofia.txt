@@ -1,5 +1,5 @@
 {
-  "iq": 1208,
+  "iq": 1213,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2010,16 +2010,19 @@
     "usarla",
     "legibilidad",
     "pluscuamperfecto",
-    "cumplimiento"
+    "cumplimiento",
+    "histórico",
+    "lees",
+    "sabes",
+    "fantasía",
+    "mágicos",
+    "malentendidos",
+    "asegurarnos",
+    "entendemos"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo funciona la comprensión del contexto?",
-      "respuesta": "La comprensión del contexto es un proceso mental que permite a las personas interpretar significados y relaciones entre palabras, eventos y situaciones. Funciona al tomar en cuenta el contexto en el que se producen estas palabras o acciones, ya sea el entorno físico, la cultura, la historia, entre otros. Por ejemplo, cuando se dice \"El perro está muerto\", en un contexto en el que se esté hablando de un perro que ha sido sacrificado para salvar vidas, es muy diferente a cuando se esté hablando de un perro que ha fallecido de enfermedad.",
-      "fecha": "2025-12-28T19:03:24.319Z"
-    },
     {
       "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
       "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de utilizar argumentos y conclusiones lógicas para comunicarse de manera efectiva y convincente. Implica analizar información, identificar patrones y relaciones, y llegar a conclusiones precisas y justificadas. Por ejemplo, si alguien dice \"El sol sale al este y se pone al oeste\", un razonamiento lógico podría ser \"Por lo tanto, el planeta debe estar girando alrededor del sol\".",
@@ -3014,8 +3017,13 @@
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son palabras o expresiones que se utilizan para unir ideas, oraciones o frases en un texto en forma lógica y coherente. Algunos ejemplos comunes de conectores son \"y\", \"pero\", \"sin embargo\", \"porque\" y \"además\". Estos conectores ayudan a establecer relaciones entre ideas y a crear un flujo lógico en el texto. Por ejemplo, \"Voy al parque porque el clima es soleado\" utiliza el conector \"porque\" para explicar la razón de una acción.",
       "fecha": "2025-12-28T20:33:15.809Z"
+    },
+    {
+      "pregunta": "¿Cómo funciona la comprensión del contexto?",
+      "respuesta": "La comprensión del contexto es el proceso de identificar y analizar la información relevante que rodea un texto, oración o situación para entender su significado y propósito. Esto implica considerar el contexto social, cultural, histórico y emocional en el que se produce la comunicación. Por ejemplo, si lees una oración que dice \"La casa es azul\", sin contexto, podrías interpretar que la casa es literalmente azul. Sin embargo, si sabes que la oración forma parte de una historia de fantasía donde las casas pueden tener colores mágicos, entonces el contexto cambia y la interpretación también.\n\nLa comprensión del contexto es fundamental en la comunicación para evitar malentendidos y asegurarnos de que entendemos la información de manera precisa.",
+      "fecha": "2025-12-28T20:33:23.792Z"
     }
   ],
-  "ultimaActualizacion": 1766953995810,
-  "preguntasHechas": 157
+  "ultimaActualizacion": 1766954003795,
+  "preguntasHechas": 158
 }
