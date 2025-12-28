@@ -1,5 +1,5 @@
 {
-  "iq": 2974,
+  "iq": 2979,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3117,16 +3117,12 @@
     "substantivos",
     "substantivo",
     "determinan",
-    "distinción"
+    "distinción",
+    "cabo"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué son los conectores y cómo se usan?",
-      "respuesta": "Los conectores son palabras o expresiones que unen ideas, oraciones o frases en una oración para mostrar la relación entre ellas. Por ejemplo, los conectores de coordinación como \"y\" o \"pero\" se usan para unir oraciones semejantes, como en \"Voy al parque y paseo con mis amigos\".\n\nLos conectores de subordinación, como \"porque\" o \"aunque\", se usan para unir oraciones de diferente naturaleza, como en \"Me alegra que vengas porque te extrañé\". Los conectores de adición como \"además\" o \"también\" se emplean para añadir más información, como en \"Me encanta leer libros, además me gusta la música\".\n\nEn resumen, los conectores son fundamentales en la construcción de oraciones complejas y claras, permitiendo al hablante expresar ideas más ricas",
-      "fecha": "2025-12-28T21:11:47.909Z"
-    },
     {
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales son una parte fundamental de la gramática en las lenguas, y se utilizan para indicar el momento en el que se desarrolla una acción. En español, hay varios tiempos verbales, como el presente, pasado, futuro, condicional, subjuntivo, etc. Por ejemplo, el verbo \"hablar\" en el presente se utiliza para describir una acción que se está realizando en ese momento, como \"hablo español\".\n\nEl verbo \"hablar\" en el pasado, por ejemplo, se utiliza para describir una acción que se completó en el pasado, como \"hablaba español en mi adolescencia\". Cada tiempo verbal tiene su propia forma y significado específico, lo que permite a los hablantes expresar ideas y eventos de manera clara y precisa.\n\nAdemás, los tiempos verbales pueden variar dependiendo del contexto en el que se utilicen,",
@@ -4121,8 +4117,13 @@
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "Excelente pregunta, estudiantes. Los sinónimos son palabras o expresiones que tienen el mismo significado o connotación que otra palabra o expresión, por ejemplo: \"feliz\" y \"alegre\" son sinónimos. Los antónimos, por otro lado, son palabras o expresiones que tienen un significado opuesto al de otra palabra o expresión, por ejemplo: \"grande\" y \"pequeño\" son antónimos. Esta distinción es fundamental en el lenguaje y la comunicación efectiva.",
       "fecha": "2025-12-28T21:50:35.781Z"
+    },
+    {
+      "pregunta": "¿Cómo funcionan los tiempos verbales?",
+      "respuesta": "Los tiempos verbales son una parte fundamental de la gramática y nos permiten expresar diferentes momentos en el tiempo, como el pasado, el presente y el futuro. Por ejemplo, el tiempo presente utilizado en frases como \"comeré un sandwich\" indica una acción que se realizará en un momento futuro, mientras que la frase \"comí un sandwich\" en tiempo pasado indica que la acción ya se llevó a cabo.\n\nAquí tienes algunos ejemplos de tiempos verbales comunes:\n\n- Presente: Estudio español (acción que se está realizando)\n- Pretérito perfecto simple: He estudiado español (acción que se completó en un momento pasado)\n- Pretérito perfecto compuesto: He estado estudiando español (acción que se completó en un momento pasado y que tiene una conexión con el presente)\n- Pretérito imperfecto: Estudiaba español (acción que se estaba realizando en un momento",
+      "fecha": "2025-12-28T21:50:43.790Z"
     }
   ],
-  "ultimaActualizacion": 1766958635786,
-  "preguntasHechas": 497
+  "ultimaActualizacion": 1766958643791,
+  "preguntasHechas": 498
 }
