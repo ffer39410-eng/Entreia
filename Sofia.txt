@@ -1,5 +1,5 @@
 {
-  "iq": 1949,
+  "iq": 1954,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2583,16 +2583,12 @@
     "respondas",
     "sediento",
     "cerca",
-    "permiti"
+    "permiti",
+    "march"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué es la coherencia textual?",
-      "respuesta": "La coherencia textual se refiere a la capacidad de un texto para mantener una conexión lógica y clara entre sus diferentes partes, asegurando que el mensaje sea fácil de seguir y comprender. Esto incluye la transición entre ideas, la continuidad del tema y la precisión en la comunicación. Un texto coherente es como una cadena de ideas bien conectadas, donde cada pieza encaja en su lugar adecuado. La coherencia es fundamental para transmitir una idea claro y convincente.",
-      "fecha": "2025-12-28T20:11:07.670Z"
-    },
     {
       "pregunta": "¿Cómo se usa la puntuación correctamente?",
       "respuesta": "La puntuación es un elemento fundamental en la escritura, ya que ayuda a estructurar y transmitir el significado de nuestra comunicación. Utilizamos signos de puntuación como comas, puntos, signos de interrogación y exclamación para separar ideas, indicar la finalización de oraciones y enfatizar la emoción o la pregunta. Un ejemplo de uso correcto de la puntuación es: \"¿Dónde vas hoy? Me gustaría ir contigo.\"\n\nDe manera que, la coma separa las oraciones independientes y el signo de interrogación indica que es una pregunta.",
@@ -3587,8 +3583,13 @@
       "pregunta": "¿Cómo funciona la comprensión del contexto?",
       "respuesta": "La comprensión del contexto es un proceso psicológico que permite a las personas percibir, procesar y utilizar la información que se encuentra en el entorno a fin de comprender el significado de un mensaje. Esto se logra gracias a la interacción entre la información ambiental, la memoria y la experiencia personal. Por ejemplo, si alguien te dice \"¿Quieres un vaso de agua?\", es probable que respondas \"Sí, por favor\" si estás sediento y hay un vaso de agua cerca. La comprensión del contexto te permitió percibir el entorno y utilizar la información para responder adecuadamente.",
       "fecha": "2025-12-28T21:12:11.770Z"
+    },
+    {
+      "pregunta": "¿Cómo se usa la puntuación correctamente?",
+      "respuesta": "La puntuación es fundamental en la escritura para comunicar ideas de manera clara y eficaz. Utilizar puntos y comas correctamente podemos indicar pausas, separar oraciones y enfatizar palabras clave, como en el ejemplo: \"Vine a la fiesta, pero me marché temprano.\" En este caso, el punto al final de \"fiesta\" indica que es la oración principal, mientras que la coma después de \"vine\" separa las dos ideas.",
+      "fecha": "2025-12-28T21:12:19.756Z"
     }
   ],
-  "ultimaActualizacion": 1766956331772,
-  "preguntasHechas": 301
+  "ultimaActualizacion": 1766956339757,
+  "preguntasHechas": 302
 }
