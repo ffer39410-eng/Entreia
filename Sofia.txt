@@ -1,5 +1,5 @@
 {
-  "iq": 594,
+  "iq": 601,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1377,7 +1377,11 @@
     "continúa",
     "signos",
     "interrogación",
-    "preguntas"
+    "preguntas",
+    "conectivo",
+    "similar",
+    "curso",
+    "profunda"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1916,8 +1920,13 @@
       "pregunta": "¿Cómo se usa la puntuación correctamente?",
       "respuesta": "La puntuación es fundamental para comunicar ideas de manera clara y efectiva en la escritura. Se utiliza para separar oraciones, indicar pausas y enfatizar el significado de las palabras. Por ejemplo, los puntos suspensivos (...) se utilizan para indicar una pausa o una idea que continúa en la siguiente oración, mientras que los signos de interrogación (?) se utilizan para formar preguntas. La coma (,) se utiliza para separar elementos en una oración.",
       "fecha": "2025-12-28T19:17:26.249Z"
+    },
+    {
+      "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
+      "respuesta": "Las metáforas son un tipo de figura retórica que consiste en comparar dos conceptos o ideas sin utilizar el conectivo \"como\" o \"similar a\". Por ejemplo, la metáfora \"la vida es un viaje\" no es una comparación literal, sino una representación de la idea de que la vida tiene un curso y un destino, como un viaje. Esta metáfora nos permite comprender la vida de manera más profunda y visual.",
+      "fecha": "2025-12-28T19:17:34.201Z"
     }
   ],
-  "ultimaActualizacion": 1766949446251,
-  "preguntasHechas": 33
+  "ultimaActualizacion": 1766949454202,
+  "preguntasHechas": 34
 }
