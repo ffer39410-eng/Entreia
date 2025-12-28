@@ -1,5 +1,5 @@
 {
-  "iq": 2950,
+  "iq": 2957,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3113,16 +3113,13 @@
     "coordinador",
     "igualdad",
     "sigo",
-    "trabajando"
+    "trabajando",
+    "substantivos",
+    "substantivo"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué son los sinónimos y antónimos?",
-      "respuesta": "Los sinónimos son palabras que tienen el mismo significado o casi idéntico, como \"fácil\" y \"sencillo\". Por ejemplo: \"La prueba fue muy fácil, una cuestión de hacerlo con facilidad\".\n\nLos antónimos, por otro lado, son palabras que tienen un sentido opuesto, como \"muy frío\" y \"caloroso\". Por ejemplo: \"La habitación estaba demasiado fría, lo que me recordó el calor de la playa en verano\".\n\nEn resumen, los sinónimos se utilizan para expresar la misma idea, mientras que los antónimos se utilizan para resaltar la diferencia o la oposición.",
-      "fecha": "2025-12-28T21:11:15.963Z"
-    },
     {
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual se refiere a la calidad de que el texto fluya suavemente, sin saltos ni contradicciones, y que cada idea se conecte lógicamente con las anteriores y siguientes. Un texto coherente tiene una estructura clara y un lenguaje consistente, lo que facilita la comprensión del lector. Por ejemplo, una redacción de un ensayo coherente podría describir el tema principal, luego presentar los argumentos y, finalmente, concluir con una reflexión. La coherencia textual es fundamental para comunicar ideas de manera efectiva.",
@@ -4117,8 +4114,13 @@
       "pregunta": "¿Cómo se construyen oraciones complejas en español?",
       "respuesta": "Las oraciones complejas en español se construyen con la ayuda de conectores y coordinadores para unir dos o más oraciones simples o oraciones independientes. Un conector es una palabra como \"aunque\", \"pues\", \"porque\" que une dos oraciones para mostrar la relación entre ellas, mientras que un coordinador es una palabra como \"y\", \"o\", \"pero\" que las une para mostrar una relación de igualdad entre ellas. Por ejemplo: \"Estoy cansado, pero sigo trabajando porque es importante\".",
       "fecha": "2025-12-28T21:50:03.892Z"
+    },
+    {
+      "pregunta": "¿Cuáles son las reglas de la gramática española?",
+      "respuesta": "La gramática española es un conjunto de reglas que rigen la estructura y el uso de la lengua. Algunas de las reglas más importantes incluyen la declinación de los substantivos, los adjetivos y los verbos, así como las reglas de concordancia y de concordancia de género y número. Por ejemplo, el substantivo \"la casa\" es femenino, por lo que se concuerda con el artículo \"la\", mientras que el substantivo \"el libro\" es masculino, por lo que se concuerda con el artículo \"el\".",
+      "fecha": "2025-12-28T21:50:11.771Z"
     }
   ],
-  "ultimaActualizacion": 1766958603895,
-  "preguntasHechas": 493
+  "ultimaActualizacion": 1766958611774,
+  "preguntasHechas": 494
 }
