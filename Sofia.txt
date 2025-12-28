@@ -1,5 +1,5 @@
 {
-  "iq": 2764,
+  "iq": 2769,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3021,16 +3021,14 @@
     "quedarse",
     "afirmo",
     "informe",
-    "recordaría"
+    "recordaría",
+    "segun",
+    "modifican",
+    "femenina"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cuáles son las reglas de la gramática española?",
-      "respuesta": "La gramática española es rica y compleja, pero aquí te presento algunas de las reglas básicas:\n\nLa gramática española se basa en los principios de la sintaxis, que se refiere a la estructura y organización de las oraciones. Una oración debe tener un sujeto (la persona o cosa que realiza la acción) y un verbo (la acción que se realiza). Por ejemplo, en la oración \"El perro corre\", \"El perro\" es el sujeto y \"corre\" es el verbo.\n\nTambién es importante recordar las reglas de concordancia, que se refieren a la forma en que los sustantivos y adjetivos se concuerdan con el verbo y con otros sustantivos en la oración. Por ejemplo, en la oración \"El perro es feliz\", el sustantivo \"perro\" es masculino singular y se",
-      "fecha": "2025-12-28T21:03:55.746Z"
-    },
     {
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "Excelente pregunta, estudiantes. Los sinónimos son palabras que tienen el mismo significado que otra palabra, pero se expresan de manera diferente. Por ejemplo, \"feliz\" y \"alegre\" son sinónimos porque describen la misma emoción. \n\nPor otro lado, los antónimos son palabras que se refieren a conceptos opuestos entre sí. Por ejemplo, \"gran\" y \"pequeño\" son antónimos porque se contradicen. \n\nEn resumen, los sinónimos se utilizan para variar la forma de expresar una idea, mientras que los antónimos se utilizan para contrastar conceptos opuestos.",
@@ -4025,8 +4023,13 @@
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es la capacidad de analizar, evaluar e interpretar información de manera objetiva y sistemática, identificando fortalezas y debilidades, preguntando por la base de las conclusiones y considerando múltiples perspectivas. Este tipo de pensamiento implica cuestionar suposiciones y creencias, así como evaluar la calidad de la evidencia y los argumentos. Por ejemplo, al leer un artículo o un informe, un persona con pensamiento crítico no solo recordaría los hechos, sino que también analizaría la fuente de la información, la metodología utilizada y las posibles sesgos.",
       "fecha": "2025-12-28T21:45:23.764Z"
+    },
+    {
+      "pregunta": "¿Cuáles son las reglas de la gramática española?",
+      "respuesta": "La gramática española se rige por varias reglas fundamentales que ayudan a construir oraciones y expresiones coherentes. Algunas de las principales reglas incluyen el uso correcto de los tiempos verbales (presente, pretérito, futuro, condicional, etc.), el género y número de los sustantivos, la conjugación de los adjetivos y los verbos segun el género y número de los sustantivos que modifican, y el uso de los pronombres personales y posesivos. \n\nPor ejemplo, en la oración \"Ella come una manzana\", \"ella\" es un pronombre personal femenino que se utiliza para referirse a una persona femenina, mientras que \"una manzana\" es un singular femenino. En cambio, en la oración \"Él come una manzana\", \"él\" es un pronombre personal masculino",
+      "fecha": "2025-12-28T21:45:31.878Z"
     }
   ],
-  "ultimaActualizacion": 1766958323766,
-  "preguntasHechas": 458
+  "ultimaActualizacion": 1766958331881,
+  "preguntasHechas": 459
 }
