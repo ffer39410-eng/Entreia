@@ -1,5 +1,5 @@
 {
-  "iq": 196,
+  "iq": 201,
   "vocabulario": [
     "claro",
     "sofia",
@@ -566,7 +566,18 @@
     "sustantivo",
     "sujeto",
     "estudio",
-    "primer"
+    "primer",
+    "atribuir",
+    "características",
+    "objeto",
+    "vínculo",
+    "poético",
+    "ellos",
+    "brillantez",
+    "literaria",
+    "frecuente",
+    "comunicación",
+    "pública"
   ],
   "lecciones": 14,
   "conversaciones": 1,
@@ -700,8 +711,13 @@
       "pregunta": "¿Cuáles son las reglas de la gramática española?",
       "respuesta": "La gramática española tiene reglas importantes para la construcción de oraciones y la formación de palabras. Una de estas reglas es la concordancia de género y número, que establece que los artículos, adjetivos y sustantivos deben concordar en género y número. Por ejemplo, en la oración \"El estudiante es inteligente\", el artículo \"el\" es masculino singular y concuerda con el sustantivo \"estudiante\". Otro ejemplo es la concordancia de persona, que establece que los verbos deben concordar con el sujeto en número y persona. Por ejemplo, en la oración \"Yo estudio español\", el verbo \"estudio\" es en primer persona singular y concuerda con el sujeto \"yo\".",
       "fecha": "2025-12-28T19:02:36.278Z"
+    },
+    {
+      "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
+      "respuesta": "Las metáforas son una figura retórica que permite atribuir características de un objeto, concepto o idea a otro, creando un vínculo poético y evocador entre ellos. Por ejemplo, \"Ella es una estrella en el cielo de la música\" (aquí se compara a una persona con una estrella, destacando su brillantez y talento). Esta herramienta literaria permite expresar ideas complejas de manera más creativa y memorable. Es frecuente encontrar metáforas en la literatura, la poesía y la comunicación pública.",
+      "fecha": "2025-12-28T19:02:44.373Z"
     }
   ],
-  "ultimaActualizacion": 1766948556279,
+  "ultimaActualizacion": 1766948564374,
   "preguntasHechas": null
 }
