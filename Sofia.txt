@@ -1,5 +1,5 @@
 {
-  "iq": 533,
+  "iq": 540,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1297,7 +1297,16 @@
     "edad",
     "interpretación",
     "precisa",
-    "causalidad"
+    "causalidad",
+    "básicas",
+    "definitivos",
+    "indefinidos",
+    "unos",
+    "unas",
+    "cambian",
+    "pronombres",
+    "personales",
+    "reemplazar"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1776,8 +1785,13 @@
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son palabras o frases que unen ideas o oraciones para crear una estructura lógica y coherente en el discurso. Se usan para mostrar relaciones entre ideas, como causalidad, oposición, comparación, causalidad, tiempo o adición. Por ejemplo: \"Sin embargo\" (oposición), \"Además\" (adición), \"Porque\" (causalidad), \"Pero\" (oposición).",
       "fecha": "2025-12-28T19:15:50.123Z"
+    },
+    {
+      "pregunta": "¿Cuáles son las reglas de la gramática española?",
+      "respuesta": "La gramática española es compleja y rica en reglas, pero algunas de las más básicas son:\n\n- Los artículos se clasifican en definitivos (el, los, la, las) y indefinidos (un, una, unos, unas).\n- Los verbos cambian de conjugación según la persona (yo, tú, él/ella, nosotros/as, vosotros/as, ellos/as) y el tiempo (presente, pretérito, futuro).\n- Los pronombres personales se utilizan para reemplazar a los sustantivos en la oración.\n- La concordancia de género y número entre el sujeto y el verbo es fundamental en la oración.\n\nPor ejemplo, en la oración \"Ella come una manzana\", el artículo \"una\" concuerda en género y número con el sustantivo \"manzana\".",
+      "fecha": "2025-12-28T19:15:58.383Z"
     }
   ],
-  "ultimaActualizacion": 1766949350124,
-  "preguntasHechas": 21
+  "ultimaActualizacion": 1766949358384,
+  "preguntasHechas": 22
 }
