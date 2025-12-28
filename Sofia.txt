@@ -1,5 +1,5 @@
 {
-  "iq": 2786,
+  "iq": 2792,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3035,16 +3035,13 @@
     "organizan",
     "típica",
     "anécdotas",
-    "atractivo"
+    "atractivo",
+    "limitaciones",
+    "confiable"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
-      "respuesta": "Las preposiciones son palabras que indican la relación entre un sustantivo o pronombre y otros elementos en la oración, como lugares, acciones o conceptos. Sirven para especificar la ubicación, el tiempo, la causa, el modo o la compañía de algo. Por ejemplo, en la oración \"La casa está sobre la colina\", la preposición \"sobre\" indica la ubicación de la casa en relación con la colina.",
-      "fecha": "2025-12-28T21:04:27.694Z"
-    },
     {
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales son una forma de describir el momento en que se realiza una acción o un estado de ser. Hay varios tiempos verbales, como el presente, pasado y futuro, que se pueden dividir en subtiempos específicos como el presente imperfecto, el pasado simple y el futuro perfecto. Por ejemplo, \"estoy estudiando\" es el presente imperfecto, mientras que \"estudié\" es el pasado simple.",
@@ -4039,8 +4036,13 @@
       "pregunta": "¿Cómo se estructura una buena argumentación?",
       "respuesta": "Una buena argumentación se estructura de manera clara y lógica, a través de la presentación de una afirmación central (tesis) que se sustenta con razones y pruebas convincentes. Estas razones se organizan en una estructura típica que incluye una introducción, un desarrollo del argumento y una conclusión. El uso de ejemplos y anécdotas puede hacer que el argumento sea más atractivo y fácil de entender, pero siempre debe estar al servicio de reforzar la validez del argumento central.",
       "fecha": "2025-12-28T21:45:55.739Z"
+    },
+    {
+      "pregunta": "¿Qué es el pensamiento crítico?",
+      "respuesta": "El pensamiento crítico es la capacidad de analizar información, evaluar evidencia y formar opiniones informadas, tomando en cuenta múltiples perspectivas y considerando las posibles consecuencias de diferentes decisiones. Esto implica cuestionar ideas y suposiciones, buscar evidencia y argumentos sólidos, y ser consciente de las propias limitaciones y sesgos. Un ejemplo de pensamiento crítico en la vida diaria es cuando un estudiante evalúa información en línea para determinar si es confiable o no.",
+      "fecha": "2025-12-28T21:46:03.775Z"
     }
   ],
-  "ultimaActualizacion": 1766958355741,
-  "preguntasHechas": 462
+  "ultimaActualizacion": 1766958363777,
+  "preguntasHechas": 463
 }
