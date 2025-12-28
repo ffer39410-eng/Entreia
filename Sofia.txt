@@ -1,5 +1,5 @@
 {
-  "iq": 1927,
+  "iq": 1933,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2556,16 +2556,15 @@
     "redacción",
     "escribimos",
     "estancia",
-    "consecutiva"
+    "consecutiva",
+    "semejantes",
+    "paseo",
+    "vengas",
+    "añadir"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cuáles son las reglas de la gramática española?",
-      "respuesta": "La gramática española se rige por una serie de reglas básicas que se aplican en el idioma, como la concordancia de género y número, la flexión de género y número en adjetivos y sustantivos, la concordancia de persona y número en verbos, y la formación de oraciones simples y compuestas. Por ejemplo, en la oración \"El perro es peligroso\", el adjetivo \"peligroso\" concuerda en género y número con el sustantivo \"perro\", que es masculino y singular.",
-      "fecha": "2025-12-28T20:10:47.503Z"
-    },
     {
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "Los sinónimos son palabras que tienen el mismo significado o una acepción similar. Por ejemplo, \"luz\" y \"iluminación\" se refieren a la misma cosa, pero con diferentes matices. Otros ejemplos de sinónimos son \"feliz\" y \"alegre\", o \"grande\" y \"enorme\".\n\nPor otro lado, los antónimos son palabras que tienen un significado contrario. Por ejemplo, \"cálido\" y \"frío\" son antónimos, ya que describen temperaturas opuestas. Otros ejemplos de antónimos son \"rápido\" y \"lento\", o \"rico\" y \"pobre\".",
@@ -3560,8 +3559,13 @@
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras que indican la relación entre un sustantivo o un grupo de palabras y otros elementos en una oración, como lugares, tiempo, causas, medios, etc. Por ejemplo: \"La casa está en la calle principal\" (indica la ubicación de la casa). Las preposiciones más comunes son: \"en\", \"de\", \"a\", \"con\", \"sin\", \"por\", \"para\", \"como\", \"sin\".",
       "fecha": "2025-12-28T21:11:39.718Z"
+    },
+    {
+      "pregunta": "¿Qué son los conectores y cómo se usan?",
+      "respuesta": "Los conectores son palabras o expresiones que unen ideas, oraciones o frases en una oración para mostrar la relación entre ellas. Por ejemplo, los conectores de coordinación como \"y\" o \"pero\" se usan para unir oraciones semejantes, como en \"Voy al parque y paseo con mis amigos\".\n\nLos conectores de subordinación, como \"porque\" o \"aunque\", se usan para unir oraciones de diferente naturaleza, como en \"Me alegra que vengas porque te extrañé\". Los conectores de adición como \"además\" o \"también\" se emplean para añadir más información, como en \"Me encanta leer libros, además me gusta la música\".\n\nEn resumen, los conectores son fundamentales en la construcción de oraciones complejas y claras, permitiendo al hablante expresar ideas más ricas",
+      "fecha": "2025-12-28T21:11:47.909Z"
     }
   ],
-  "ultimaActualizacion": 1766956299720,
-  "preguntasHechas": 297
+  "ultimaActualizacion": 1766956307910,
+  "preguntasHechas": 298
 }
