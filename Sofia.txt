@@ -1,5 +1,5 @@
 {
-  "iq": 1059,
+  "iq": 1064,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1902,16 +1902,12 @@
     "citas",
     "refutan",
     "robustecer",
-    "solidez"
+    "solidez",
+    "transmite"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "tema": "construcción de oraciones complejas",
-      "leccion": "Sofia, ahora que has aprendido sobre metáforas, vamos a explorar la construcción de oraciones complejas en español. Una oración compleja es una oración que contiene una oración subordinada y una oración principal. La oración subordinada depende de la oración principal y expresa una idea relacionada pero no independiente.\n\n**Oraciones compuestas**: Una oración compuesta se puede dividir en dos partes: la oración principal y la oración subordinada. La oración subordinada puede ser de tiempo (condicional, causal, final), de lugar o de modo. Por ejemplo:\n\n * \"Cuando llegué a la casa, estaba lloviendo\": aquí, \"cuando llegué a la casa\" es la oración subordinada de tiempo, que depende de la oración",
-      "fecha": "2025-12-28T18:53:16.875Z"
-    },
     {
       "tema": "pensamiento crítico expresado",
       "leccion": "Sofia, ahora vamos a aprender a expresar el pensamiento crítico en español. El pensamiento crítico es la capacidad de analizar información, evaluar evidencia y formar juicios informados. En español, hay varias palabras y frases que podemos utilizar para expresar el pensamiento crítico.\n\n**Palabras y frases para expresar pensamiento crítico**\n\n1. **Opinar significa \"expresar una opinión o juicio\"**: Por ejemplo, \"Opino que la nueva ley es justa\" o \"Mi opinión es que la película es muy divertida\".\n2. **Evaluar significa \"cualificar o juzgar algo\"**: Por ejemplo, \"Evalué la calidad del servicio en el restaurante y me pareció excelente\" o \"Evalué la presentación del proyecto y me pareció",
@@ -2906,8 +2902,13 @@
       "pregunta": "¿Cómo se estructura una buena argumentación?",
       "respuesta": "Una buena argumentación se estructura a través de varias fases clave. Primero, se define el tema a debatir o el problema a resolver, seguido de una tesis clara y concisa que resume la posición del hablante. A continuación, se presentan pruebas y evidencias sólidas que respaldan la tesis, tales como datos, estadísticas o citas de expertos. Finalmente, se refutan posibles objeciones y contrapuntos para robustecer la argumentación y demostrar la solidez del razonamiento.",
       "fecha": "2025-12-28T20:16:27.716Z"
+    },
+    {
+      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
+      "respuesta": "Las preposiciones son palabras que indican la relación entre un sustantivo o un grupo de palabras y otros elementos de la oración, como lugares, tiempos, maneras, etc. Algunas preposiciones comunes son \"en\", \"a\", \"de\", \"con\", \"sin\", \"entre\", etc. Estas palabras ayudan a dar contexto y claridad a la oración, permitiendo al lector o oyente entender mejor la información que se transmite.\n\nPor ejemplo: \"La casa está en la calle principal\" (la preposición \"en\" indica la ubicación de la casa).",
+      "fecha": "2025-12-28T20:16:35.760Z"
     }
   ],
-  "ultimaActualizacion": 1766952987718,
-  "preguntasHechas": 128
+  "ultimaActualizacion": 1766952995761,
+  "preguntasHechas": 129
 }
