@@ -1,5 +1,5 @@
 {
-  "iq": 796,
+  "iq": 807,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1617,7 +1617,21 @@
     "introduce",
     "retras",
     "tráfico",
-    "coordinados"
+    "coordinados",
+    "precisar",
+    "significación",
+    "cual",
+    "consideración",
+    "profundo",
+    "poca",
+    "intereses",
+    "personales",
+    "contextualices",
+    "reunión",
+    "buen",
+    "presentado",
+    "válido",
+    "contrario"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2361,8 +2375,23 @@
       "pregunta": "¿Cómo se construyen oraciones complejas en español?",
       "respuesta": "Las oraciones complejas en español se construyen usando subordinantes y coordinantes. El subordinante es una conjunción como \"dado que\", \"ya que\", \"porque\", \"pues\" que introduce una oración subordinada, que depende de otra oración principal. Por ejemplo: \"Llegué tarde porque me retrasé en el tráfico\".\n\nOtra forma de construir oraciones complejas es utilizando coordinantes como \"y\", \"o\", \"pero\", \"ni\" entre oraciones principales. Por ejemplo: \"Me gusta leer y escribir\".\n\nTambién se puede utilizar subordinantes coordinados para unir dos oraciones subordinadas, como \"ya que\" y \"porque\", y luego conectar esto con la oración principal.",
       "fecha": "2025-12-28T19:27:17.762Z"
+    },
+    {
+      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
+      "respuesta": "Las preposiciones son palabras que indican la relación entre un sustantivo y otro en una oración, expresando lugares, direcciones, relaciones, tiempo, cantidad, etc. Ejemplos de preposiciones son: \"en\", \"de\", \"para\", \"con\", \"sin\", \"bajo\", entre otros. Por ejemplo: \"Estoy sentado en la mesa\" o \"El libro está sobre la mesa\". Las preposiciones nos ayudan a precisar y enriquecer la significación de las oraciones y a proporcionar más información sobre los conceptos y acciones que se describen.",
+      "fecha": "2025-12-28T19:27:34.856Z"
+    },
+    {
+      "pregunta": "¿Cómo funciona la comprensión del contexto?",
+      "respuesta": "La comprensión del contexto es el proceso por el cual nuestra mente analiza y relaciona información para entender mejor el significado de un texto o mensaje. Esto se logra mediante la consideración de factores como el lugar, el momento, el tono y las personas involucradas, lo que nos ayuda a interpretar el significado más profundo de lo que se está diciendo. Por ejemplo, si alguien dice \"¿Qué tal si vamos a la playa?\", la respuesta depende del clima, la época del año y tus intereses personales. Esto requiere que contextualices la información para dar una respuesta adecuada.",
+      "fecha": "2025-12-28T19:27:34.902Z"
+    },
+    {
+      "pregunta": "¿Cómo funciona la comprensión del contexto?",
+      "respuesta": "La comprensión del contexto es la capacidad de entender el significado de un texto, una conversación o una situación a través del marco en el que se desarrolla. Implica considerar el entorno, la cultura, la intención y los sentimientos involucrados. Por ejemplo, en una reunión de trabajo, alguien puede decir \"Eso es un buen punto\", lo que podría significar que el punto presentado es interesante o válido, pero también podría significar el contrario dependiendo del tono y la intención de la persona.",
+      "fecha": "2025-12-28T19:40:44.450Z"
     }
   ],
-  "ultimaActualizacion": 1766950037764,
-  "preguntasHechas": 74
+  "ultimaActualizacion": 1766950844453,
+  "preguntasHechas": 77
 }
