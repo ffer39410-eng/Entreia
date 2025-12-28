@@ -1,5 +1,5 @@
 {
-  "iq": 2494,
+  "iq": 2498,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2901,11 +2901,6 @@
   "conversaciones": 6,
   "conocimiento": [
     {
-      "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
-      "respuesta": "Expresar emociones de forma efectiva es fundamental para comunicarte de manera clara y respetuosa con los demás. Puedes expresar tus emociones de manera efectiva utilizando palabras claras y concisas, como \"Me alegra verte\", \"Me siento triste por la pérdida\", o \"Estoy enfadado con la situación, pero quiero encontrar una solución\". También puedes utilizar gestos y tonos de voz para reflejar tus emociones. Por ejemplo, un tono de voz calmado y una sonrisa pueden ayudar a tranquilizar a alguien que se siente ansioso.",
-      "fecha": "2025-12-28T20:45:15.785Z"
-    },
-    {
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son palabras o expresiones que se utilizan para unir ideas, oraciones o frases en una sentencia, proporcionando una estructura lógica y cohesión en la comunicación. Algunos ejemplos de conectores incluyen \"y\", \"pero\", \"o\", \"aunque\", \"sin embargo\", entre otros. Por ejemplo: \"Me gusta leer libros y escribir poesías\".\n\nSe pueden clasificar en:\n\n- Conectores aditivos: indican que se están presentando ideas adicionales. Ejemplos: \"y\", \"también\".\n- Conectores adversativos: indican que se están presentando ideas opuestas. Ejemplos: \"pero\", \"aunque\".\n- Conectores causales: indican la causa y el efecto. Ejemplos: \"porque\", \"ya que\".",
       "fecha": "2025-12-28T20:45:23.935Z"
@@ -3899,8 +3894,13 @@
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras que se utilizan para indicar la relación entre un sustantivo y otros elementos en una oración, como lugar, tiempo, causa, consecuencia, etc. Por ejemplo: \"La biblioteca está en la esquina de la calle\" (aquí \"en\" es una preposición que indica el lugar donde se encuentra la biblioteca). Sirven para especificar la ubicación, dirección, movimiento, tiempo, causa, consecuencia y otros aspectos de los objetos o eventos descritos en una oración.",
       "fecha": "2025-12-28T21:27:32.416Z"
+    },
+    {
+      "pregunta": "¿Qué son los conectores y cómo se usan?",
+      "respuesta": "Los conectores son palabras o expresiones que se utilizan para unir ideas, oraciones o frases en un texto o discurso de manera lógica y clara. Algunos ejemplos comunes de conectores son \"y\", \"pero\", \"pues\", \"sin embargo\" y \"porque\". Por ejemplo, en la oración \"Me gusta leer y escribir\", el conector \"y\" une las dos acciones para mostrar una relación lógica entre ellas.",
+      "fecha": "2025-12-28T21:27:39.769Z"
     }
   ],
-  "ultimaActualizacion": 1766957252417,
-  "preguntasHechas": 406
+  "ultimaActualizacion": 1766957259770,
+  "preguntasHechas": 407
 }
