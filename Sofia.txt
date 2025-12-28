@@ -1,5 +1,5 @@
 {
-  "iq": 1203,
+  "iq": 1208,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2016,11 +2016,6 @@
   "conversaciones": 6,
   "conocimiento": [
     {
-      "pregunta": "¿Cuáles son las reglas de la gramática española?",
-      "respuesta": "La gramática española es un conjunto de reglas y pautas que rigen la estructura y el uso correcto de la lengua. Algunas de las reglas más importantes incluyen: \n\n- La conjugación de verbos, que varía dependiendo de la persona (yo, tú, él/ella, nosotros/as, vosotros/as, ellos/as) y el tiempo (presente, pasado, futuro).\n- La declinación de los sustantivos, que varía dependiendo de su género (masculino o femenino) y número (singular o plural).\n- El uso del artículo (el, la, los, las), que determina si un sustantivo es común o específico.\n- La formación de las oraciones complejas, que pueden incluir varios verbos y oraciones subordinadas.\n\nEstas reglas ayudan a crear oraciones claras y coherentes en la lengua",
-      "fecha": "2025-12-28T19:03:16.392Z"
-    },
-    {
       "pregunta": "¿Cómo funciona la comprensión del contexto?",
       "respuesta": "La comprensión del contexto es un proceso mental que permite a las personas interpretar significados y relaciones entre palabras, eventos y situaciones. Funciona al tomar en cuenta el contexto en el que se producen estas palabras o acciones, ya sea el entorno físico, la cultura, la historia, entre otros. Por ejemplo, cuando se dice \"El perro está muerto\", en un contexto en el que se esté hablando de un perro que ha sido sacrificado para salvar vidas, es muy diferente a cuando se esté hablando de un perro que ha fallecido de enfermedad.",
       "fecha": "2025-12-28T19:03:24.319Z"
@@ -3014,8 +3009,13 @@
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales son fundamentales en la gramática y se refieren a la forma en que se expresan las acciones o estados en un momento determinado. Hay varios tiempos verbales, como el presente, pretérito, futuro, condicional, imperativo, subjuntivo y pluscuamperfecto, entre otros. Cada uno de ellos proporciona una información específica sobre la acción o estado, como su cumplimiento, duración o posibilidad.\n\nPor ejemplo, el verbo \"hablar\" en presente (hablo) indica que la acción está ocurriendo en el momento actual, mientras que en pretérito (hablé) se refiere a una acción pasada.",
       "fecha": "2025-12-28T20:33:07.822Z"
+    },
+    {
+      "pregunta": "¿Qué son los conectores y cómo se usan?",
+      "respuesta": "Los conectores son palabras o expresiones que se utilizan para unir ideas, oraciones o frases en un texto en forma lógica y coherente. Algunos ejemplos comunes de conectores son \"y\", \"pero\", \"sin embargo\", \"porque\" y \"además\". Estos conectores ayudan a establecer relaciones entre ideas y a crear un flujo lógico en el texto. Por ejemplo, \"Voy al parque porque el clima es soleado\" utiliza el conector \"porque\" para explicar la razón de una acción.",
+      "fecha": "2025-12-28T20:33:15.809Z"
     }
   ],
-  "ultimaActualizacion": 1766953987824,
-  "preguntasHechas": 156
+  "ultimaActualizacion": 1766953995810,
+  "preguntasHechas": 157
 }
