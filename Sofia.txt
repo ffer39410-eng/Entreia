@@ -1,5 +1,5 @@
 {
-  "iq": 580,
+  "iq": 583,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1362,7 +1362,21 @@
     "basadas",
     "perros",
     "mamíferos",
-    "sangre"
+    "sangre",
+    "comas",
+    "lista",
+    "colores",
+    "bandera",
+    "rojo",
+    "azul",
+    "suspensivos",
+    "incompletas",
+    "preguntando",
+    "debo",
+    "signos",
+    "emplean",
+    "emocionado",
+    "llegue"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1886,8 +1900,13 @@
       "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
       "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de analizar y evaluar información para llegar a conclusiones lógicas y razonadas. Implica la utilización de principios y reglas lógicas para evaluar argumentos y llegar a conclusiones basadas en evidencia. Por ejemplo, si alguien afirma que todos los perros son mamíferos y que todos los mamíferos tienen sangre caliente, un razonamiento lógico implicaría concluir que todos los perros tienen sangre caliente.",
       "fecha": "2025-12-28T19:21:20.333Z"
+    },
+    {
+      "pregunta": "¿Cómo se usa la puntuación correctamente?",
+      "respuesta": "La puntuación es fundamental para comunicar con claridad y precisión en la escritura. Utiliza comas para separar elementos en una lista, como en \"Los colores de la bandera son rojo, blanco y azul\". Los puntos suspensivos se utilizan para separar frases o ideas incompletas, como en \"Me estoy preguntando... ¿qué debo hacer?\". Los signos de admiración se emplean para enfatizar o expresar sorpresa, como en \"¡Estoy emocionado de que llegue el verano!\".",
+      "fecha": "2025-12-28T19:21:28.321Z"
     }
   ],
-  "ultimaActualizacion": 1766949680335,
-  "preguntasHechas": 30
+  "ultimaActualizacion": 1766949688325,
+  "preguntasHechas": 31
 }
