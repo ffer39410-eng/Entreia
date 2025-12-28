@@ -1,5 +1,5 @@
 {
-  "iq": 2820,
+  "iq": 2826,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3058,16 +3058,13 @@
     "flexibilidad",
     "variabilidad",
     "fiebre",
-    "elevada"
+    "elevada",
+    "potenciales",
+    "reiterar"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo funcionan los tiempos verbales?",
-      "respuesta": "Los tiempos verbales son una parte fundamental de la gramática en muchos idiomas, incluido el español. Se refieren al momento en que se produce la acción o el estado descrito por el verbo. La principal clasificación es en tres grupos: tiempos simples, tiempos compuestos y tiempos compuestos perfectos.\n\n- Los tiempos simples describen las acciones en un momento específico, como el presente \"comemos\", el pasado \"comí\" o el futuro \"comeré\".\n\n- Los tiempos compuestos se forman con el auxiliar \"haber\" o \"ser\" y un participio, para describir acciones que comienzan antes de la acción principal. Ejemplos son \"he comido\" o \"estaba comiendo\".\n\n- Los tiempos compuestos perfectos también combinan un auxiliar con un participio, pero con un enfoque en el momento de la acción final",
-      "fecha": "2025-12-28T21:08:03.785Z"
-    },
     {
       "pregunta": "¿Cómo se construyen oraciones complejas en español?",
       "respuesta": "Las oraciones complejas en español se construyen utilizando conectivos como \"y\", \"pero\", \"y aunque\", \"aunque\", \"sin embargo\", que unen dos o más oraciones simples o compuestas. Por ejemplo: \"Mi hermano es ingeniero y aunque no quiere trabajar en un despacho, prefiere trabajar en una empresa de tecnología\".\n\nPara formar una oración compleja, debes identificar el verbo principal y el verbo subordinado, y asegurarte de que el verbo subordinado no repita la acción del verbo principal. En el ejemplo anterior, \"prefiere trabajar\" es el verbo subordinado y \"ser ingeniero\" es el verbo principal.",
@@ -4062,8 +4059,13 @@
       "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
       "respuesta": "El vocabulario técnico se refiere a las palabras y expresiones utilizadas en contextos profesionales específicos, como la medicina, la ingeniería o la economía, donde cada término tiene un significado preciso y bien definido. Por otro lado, el vocabulario coloquial se utiliza en la conversación informal y se caracteriza por ser más flexibilidad y variabilidad en el lenguaje. Por ejemplo, en medicina, \"fiebre\" es un término técnico que se utiliza para describir una temperatura corporal elevada, mientras que en la conversación coloquial, alguien podría decir \"tengo fiebre\" para referirse a un estado general de mal humor.",
       "fecha": "2025-12-28T21:46:51.842Z"
+    },
+    {
+      "pregunta": "¿Cómo se estructura una buena argumentación?",
+      "respuesta": "Una buena argumentación se estructura en cuatro etapas clave: presentación del tema, establecimiento del caso, refutación de la oposición y conclusión. La presentación del tema debe ser clara y concisa, mientras que el establecimiento del caso debe proporcionar evidencia y justificación para la afirmación. La refutación de la oposición debe considerar y responder a las objeciones potenciales para fortalecer la argumentación. Finalmente, la conclusión debe resumir los puntos principales y reiterar la validez del argumento.",
+      "fecha": "2025-12-28T21:46:59.738Z"
     }
   ],
-  "ultimaActualizacion": 1766958411843,
-  "preguntasHechas": 469
+  "ultimaActualizacion": 1766958419740,
+  "preguntasHechas": 470
 }
