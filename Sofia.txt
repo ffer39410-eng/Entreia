@@ -1,5 +1,5 @@
 {
-  "iq": 401,
+  "iq": 404,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1077,7 +1077,16 @@
     "menos",
     "complemento",
     "relativa",
-    "considera"
+    "considera",
+    "humano",
+    "basa",
+    "involucrados",
+    "adecuado",
+    "hambre",
+    "inferir",
+    "realmente",
+    "mucha",
+    "literalmente"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1416,8 +1425,13 @@
       "pregunta": "¿Cómo se construyen oraciones complejas en español?",
       "respuesta": "Excelente pregunta. Una oración compleja en español se construye mediante la combinación de dos o más oraciones sencillas utilizando conectores como \"y\" (coordinación), \"pero\" (contraposición) o \"porque\" (subordinación). Por ejemplo: \"Voy al parque porque hace un día hermoso\" (oración compleja con subordinación) o \"Voy al parque y juego con amigos\" (oración compleja con coordinación).\n\nCualquier frase principal con al menos un complemento, una oración subordinada o una oración relativa se considera una oración compleja.",
       "fecha": "2025-12-28T19:09:21.068Z"
+    },
+    {
+      "pregunta": "¿Cómo funciona la comprensión del contexto?",
+      "respuesta": "La comprensión del contexto es un proceso mental que permite al ser humano identificar y dar sentido a las palabras o expresiones en función del entorno en el que se utilizan. Esta habilidad se basa en la capacidad de analizar la situación, el tono y los sentimientos involucrados para entender el significado más adecuado de las palabras. Por ejemplo, cuando alguien dice \"Estoy muerto de hambre\", se puede inferir que lo que realmente quiere decir es que tiene mucha hambre, no que esté literalmente muerto.",
+      "fecha": "2025-12-28T19:09:28.993Z"
     }
   ],
-  "ultimaActualizacion": 1766948961069,
+  "ultimaActualizacion": 1766948968994,
   "preguntasHechas": null
 }
