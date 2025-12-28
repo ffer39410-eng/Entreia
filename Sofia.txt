@@ -1,5 +1,5 @@
 {
-  "iq": 105,
+  "iq": 108,
   "vocabulario": [
     "claro",
     "sofia",
@@ -52,16 +52,54 @@
     "oferta",
     "médico",
     "resultados",
-    "prueba"
+    "prueba",
+    "ahora",
+    "sobre",
+    "tema",
+    "interesante",
+    "metáforas",
+    "lenguaje",
+    "figurado",
+    "metáfora",
+    "figura",
+    "compara",
+    "cosas",
+    "utilizar",
+    "como",
+    "utiliza",
+    "imagen",
+    "poderosa",
+    "evocadora",
+    "mente",
+    "oyente",
+    "sugiriendo",
+    "poder",
+    "majestuosidad",
+    "vida",
+    "viaje",
+    "naturaleza",
+    "dinámica",
+    "emocionante",
+    "ejemplos",
+    "tiempo",
+    "ladrón",
+    "roba",
+    "nuestra",
+    "juvent"
   ],
-  "lecciones": 1,
+  "lecciones": 2,
   "conversaciones": 1,
   "conocimiento": [
     {
       "tema": "vocabulario técnico y coloquial",
       "leccion": "¡Claro que sí! Sofia, hoy vamos a aprender algunas palabras técnicas y coloquiales en español que te ayudarán a expresarte con más claridad y precisión.\n\n**Vocabulario técnico**\n\n1. **Sintetizar significa \"combinar elementos para crear algo nuevo\"**: Por ejemplo, \"El artista sintetizó diferentes estilos para crear una obra única\". En un contexto más científico, \"El equipo de investigación sintetizó una nueva fórmula para crear un material más resistente\".\n2. **Análisis significa \"examinar algo de manera detallada\"**: Por ejemplo, \"El análisis de mercado reveló que la demanda de celulares es mucho mayor que la oferta\". En un contexto médico, \"El análisis de los resultados de la prueba reveló que",
       "fecha": "2025-12-28T18:52:57.938Z"
+    },
+    {
+      "tema": "metáforas y lenguaje figurado",
+      "leccion": "Sofia, ahora vamos a aprender sobre un tema muy interesante: las metáforas y el lenguaje figurado.\n\n**Metáforas**: Una metáfora es una figura de lenguaje que compara dos cosas sin utilizar \"como\" o \"es\". Se utiliza para crear una imagen poderosa y evocadora en la mente del oyente. Por ejemplo:\n\n * \"El sol es un rey\" (aquí se compara al sol con un rey, sugiriendo su poder y majestuosidad).\n * \"La vida es un viaje\" (acá se compara la vida con un viaje, sugiriendo su naturaleza dinámica y emocionante).\n\n**Ejemplos de metáforas en español**:\n\n + El tiempo es un ladrón que roba nuestra juvent",
+      "fecha": "2025-12-28T18:53:07.042Z"
     }
   ],
-  "ultimaActualizacion": 1766947977939
+  "ultimaActualizacion": 1766947987043
 }
