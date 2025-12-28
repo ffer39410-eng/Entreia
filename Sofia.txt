@@ -1,5 +1,5 @@
 {
-  "iq": 218,
+  "iq": 224,
   "vocabulario": [
     "claro",
     "sofia",
@@ -631,7 +631,27 @@
     "común",
     "incluir",
     "subordinadas",
-    "claras"
+    "claras",
+    "proceso",
+    "personas",
+    "interpretar",
+    "eventos",
+    "funciona",
+    "tomar",
+    "producen",
+    "acciones",
+    "físico",
+    "cultura",
+    "historia",
+    "perro",
+    "muerto",
+    "hablando",
+    "sido",
+    "sacrificado",
+    "salvar",
+    "vidas",
+    "fallecido",
+    "enfermedad"
   ],
   "lecciones": 14,
   "conversaciones": 1,
@@ -790,8 +810,13 @@
       "pregunta": "¿Cuáles son las reglas de la gramática española?",
       "respuesta": "La gramática española es un conjunto de reglas y pautas que rigen la estructura y el uso correcto de la lengua. Algunas de las reglas más importantes incluyen: \n\n- La conjugación de verbos, que varía dependiendo de la persona (yo, tú, él/ella, nosotros/as, vosotros/as, ellos/as) y el tiempo (presente, pasado, futuro).\n- La declinación de los sustantivos, que varía dependiendo de su género (masculino o femenino) y número (singular o plural).\n- El uso del artículo (el, la, los, las), que determina si un sustantivo es común o específico.\n- La formación de las oraciones complejas, que pueden incluir varios verbos y oraciones subordinadas.\n\nEstas reglas ayudan a crear oraciones claras y coherentes en la lengua",
       "fecha": "2025-12-28T19:03:16.392Z"
+    },
+    {
+      "pregunta": "¿Cómo funciona la comprensión del contexto?",
+      "respuesta": "La comprensión del contexto es un proceso mental que permite a las personas interpretar significados y relaciones entre palabras, eventos y situaciones. Funciona al tomar en cuenta el contexto en el que se producen estas palabras o acciones, ya sea el entorno físico, la cultura, la historia, entre otros. Por ejemplo, cuando se dice \"El perro está muerto\", en un contexto en el que se esté hablando de un perro que ha sido sacrificado para salvar vidas, es muy diferente a cuando se esté hablando de un perro que ha fallecido de enfermedad.",
+      "fecha": "2025-12-28T19:03:24.319Z"
     }
   ],
-  "ultimaActualizacion": 1766948596394,
+  "ultimaActualizacion": 1766948604321,
   "preguntasHechas": null
 }
