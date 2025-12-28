@@ -1,5 +1,5 @@
 {
-  "iq": 2689,
+  "iq": 2693,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2997,11 +2997,6 @@
   "conversaciones": 6,
   "conocimiento": [
     {
-      "pregunta": "¿Qué es la coherencia textual?",
-      "respuesta": "La coherencia textual se refiere a la capacidad de un texto para transmitir una idea o mensaje claro y consistente a través de toda su estructura. Esto significa que el lector puede seguir con facilidad la línea de razonamiento o la conexión lógica entre las ideas presentadas en el texto, sin sufrir cambios bruscos o inesperados en la narrativa. Por ejemplo, en un ensayo, la coherencia textual se logra cuando el autor conecta sus ideas con frases de transición y utiliza conceptos relacionados para mantener la lógica del texto.",
-      "fecha": "2025-12-28T21:01:39.843Z"
-    },
-    {
       "pregunta": "¿Cómo funciona la comprensión del contexto?",
       "respuesta": "La comprensión del contexto implica analizar el lenguaje y la información proporcionada para determinar su significado y relevancia en un contexto específico. Esto requiere considerar el tema, el tono, el objetivo y el público destinatario del mensaje. Por ejemplo, si se lee una oración que dice \"La reunión se canceló\", en un contexto laboral, se puede inferir que la reunión se canceló debido a circunstancias imprevistas, mientras que en un contexto familiar, podría ser debido a problemas personales. La comprensión del contexto ayuda a descubrir detalles importantes que no se explicitan en el texto.",
       "fecha": "2025-12-28T21:01:47.913Z"
@@ -3995,8 +3990,13 @@
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es la capacidad de analizar información, evaluar evidencia y formar conclusiones informadas y objetivas. Esto implica cuestionar asunciones, identificar parcialidades y considerar múltiples perspectivas. Un ejemplo de pensamiento crítico es cuando se analiza un anuncio publicitario, identificando el propósito detrás del mensaje y considerando si la información presentada es precisa o engañosa.",
       "fecha": "2025-12-28T21:37:47.609Z"
+    },
+    {
+      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
+      "respuesta": "Las preposiciones son palabras que se usan para indicar la relación entre un sujeto y un objeto o un lugar, y sirven para proporcionar contexto y precisión en la oración. Algunas preposiciones comunes son \"en\", \"de\", \"con\", \"sin\", \"entre\" y \"bajo\". Por ejemplo, en la oración \"El libro está en la mesa\", la preposición \"en\" indica la ubicación del libro.",
+      "fecha": "2025-12-28T21:37:55.569Z"
     }
   ],
-  "ultimaActualizacion": 1766957867610,
-  "preguntasHechas": 442
+  "ultimaActualizacion": 1766957875570,
+  "preguntasHechas": 443
 }
