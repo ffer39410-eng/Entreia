@@ -1,5 +1,5 @@
 {
-  "iq": 2721,
+  "iq": 2727,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3009,11 +3009,6 @@
   "conversaciones": 6,
   "conocimiento": [
     {
-      "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
-      "respuesta": "El vocabulario técnico se refiere a palabras y expresiones específicas utilizadas en un campo o industria determinado, como por ejemplo el término \"terapia de realidad virtual\" en la psicología. Por otro lado, el vocabulario coloquial se refiere a palabras y expresiones comunes y populares que se utilizan en la vida diaria. \n\nEjemplo: en un contexto técnico, se puede decir \"el paciente experimentó una mejora significativa en su salud después de la terapia\", mientras que en un contexto coloquial, se puede decir \"el paciente se sentió mejor después de la terapia\".\n\nEn resumen, el vocabulario técnico es específico y formal, mientras que el vocabulario coloquial es común y informal.",
-      "fecha": "2025-12-28T21:02:35.868Z"
-    },
-    {
       "pregunta": "¿Cuáles son las reglas de la gramática española?",
       "respuesta": "La gramática española se rige por una serie de reglas y principios que regulan la forma correcta de construir oraciones y expresar ideas en la lengua. Algunas de las reglas básicas incluyen la concordancia de género y número, la utilización del artículo determinado e indeterminado, la flexión de los verbos en personas y tiempos, y la construcción de oraciones simples y compuestas. Por ejemplo, la concordancia de género se aplica cuando se utiliza el adjetivo para describir un sustantivo, como \"el libro grande\" o \"la casa vieja\".",
       "fecha": "2025-12-28T21:02:43.872Z"
@@ -4007,8 +4002,13 @@
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son palabras o expresiones que se utilizan para conectar ideas, oraciones o frases entre sí, permitiendo una comunicación clara y organizada. Los conectores se clasifican en dos tipos principales: conectores de coordinación (con, sino, pero, o, ni) y conectores de subordinación ( porque, ya que, aunque, mientras).\n\nPor ejemplo, \"Voy al parque, porque el clima es hermoso\". En esta oración, \"porque\" es un conector de subordinación que conecta la oración principal (\"Voy al parque\") con la oración subordinada (\"el clima es hermoso\").",
       "fecha": "2025-12-28T21:44:12.259Z"
+    },
+    {
+      "pregunta": "¿Cómo se usa la puntuación correctamente?",
+      "respuesta": "La puntuación es fundamental para comunicar ideas de manera clara y efectiva en la escritura y la comunicación. Utiliza signos de puntuación como los puntos (.), comas (,), signos de interrogación (?) y signos de exclamación (!) para separar ideas y enfatizar el énfasis en tus textos. Por ejemplo, \"La puntuación es importante\" (punto final) vs. \"¿Dónde está la biblioteca?\" (signo de interrogación).",
+      "fecha": "2025-12-28T21:44:19.796Z"
     }
   ],
-  "ultimaActualizacion": 1766958252260,
-  "preguntasHechas": 449
+  "ultimaActualizacion": 1766958259797,
+  "preguntasHechas": 450
 }
