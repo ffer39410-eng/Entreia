@@ -1,5 +1,5 @@
 {
-  "iq": 122,
+  "iq": 126,
   "vocabulario": [
     "claro",
     "sofia",
@@ -174,9 +174,14 @@
     "estudiemos",
     "profundizar",
     "cómo",
-    "expresarlo"
+    "expresarlo",
+    "expresado",
+    "recuerda",
+    "mientras",
+    "expresando",
+    "juzgando"
   ],
-  "lecciones": 6,
+  "lecciones": 7,
   "conversaciones": 1,
   "conocimiento": [
     {
@@ -208,7 +213,12 @@
       "tema": "pensamiento crítico expresado",
       "leccion": "Sofia, ahora que has aprendido sobre metáforas y la estructura de oraciones complejas, vamos a profundizar en el pensamiento crítico y cómo expresarlo en español.\n\n**Pensamiento crítico**: El pensamiento crítico es la capacidad de analizar información, evaluar evidencia y formar juicios informados. En español, hay varias palabras y frases que podemos utilizar para expresar el pensamiento crítico.\n\n**1. Opinar significa \"expresar una opinión o juicio\"**: Por ejemplo, \"Opino que la nueva ley es justa\" o \"Mi opinión es que la película es muy divertida\".\n\n**2. Evaluar significa \"cualificar o juzgar algo\"**: Por ejemplo, \"Evalué la calidad del servicio en el restaurante y me pareció",
       "fecha": "2025-12-28T18:53:43.195Z"
+    },
+    {
+      "tema": "pensamiento crítico expresado",
+      "leccion": "**Pensamiento crítico expresado en español**\n\nSofia, ahora que has aprendido sobre metáforas y la estructura de oraciones complejas, vamos a profundizar en el pensamiento crítico y cómo expresarlo en español.\n\n**Opinar y evaluar**\n\nRecuerda que \"opinar\" significa \"expresar una opinión o juicio\", mientras que \"evaluar\" significa \"cualificar o juzgar algo\". Por ejemplo:\n\n * \"Opino que la nueva ley es justa\" (expresando una opinión)\n * \"Evalué la calidad del servicio en el restaurante y me pareció excelente\" (juzgando algo)\n * \"Mi opinión es que la película es muy divertida\" (expresando una opinión)\n * \"Evalué la presentación del proyecto y",
+      "fecha": "2025-12-28T18:53:52.201Z"
     }
   ],
-  "ultimaActualizacion": 1766948023195
+  "ultimaActualizacion": 1766948032201
 }
