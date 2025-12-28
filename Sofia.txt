@@ -1,5 +1,5 @@
 {
-  "iq": 108,
+  "iq": 111,
   "vocabulario": [
     "claro",
     "sofia",
@@ -85,9 +85,40 @@
     "ladrón",
     "roba",
     "nuestra",
-    "juvent"
+    "juvent",
+    "aprendido",
+    "explorar",
+    "construcción",
+    "oraciones",
+    "complejas",
+    "oración",
+    "compleja",
+    "contiene",
+    "subordinada",
+    "principal",
+    "depende",
+    "expresa",
+    "idea",
+    "relacionada",
+    "pero",
+    "independiente",
+    "compuestas",
+    "compuesta",
+    "puede",
+    "dividir",
+    "partes",
+    "condicional",
+    "causal",
+    "final",
+    "lugar",
+    "modo",
+    "cuando",
+    "llegu",
+    "casa",
+    "estaba",
+    "lloviendo"
   ],
-  "lecciones": 2,
+  "lecciones": 3,
   "conversaciones": 1,
   "conocimiento": [
     {
@@ -99,7 +130,12 @@
       "tema": "metáforas y lenguaje figurado",
       "leccion": "Sofia, ahora vamos a aprender sobre un tema muy interesante: las metáforas y el lenguaje figurado.\n\n**Metáforas**: Una metáfora es una figura de lenguaje que compara dos cosas sin utilizar \"como\" o \"es\". Se utiliza para crear una imagen poderosa y evocadora en la mente del oyente. Por ejemplo:\n\n * \"El sol es un rey\" (aquí se compara al sol con un rey, sugiriendo su poder y majestuosidad).\n * \"La vida es un viaje\" (acá se compara la vida con un viaje, sugiriendo su naturaleza dinámica y emocionante).\n\n**Ejemplos de metáforas en español**:\n\n + El tiempo es un ladrón que roba nuestra juvent",
       "fecha": "2025-12-28T18:53:07.042Z"
+    },
+    {
+      "tema": "construcción de oraciones complejas",
+      "leccion": "Sofia, ahora que has aprendido sobre metáforas, vamos a explorar la construcción de oraciones complejas en español. Una oración compleja es una oración que contiene una oración subordinada y una oración principal. La oración subordinada depende de la oración principal y expresa una idea relacionada pero no independiente.\n\n**Oraciones compuestas**: Una oración compuesta se puede dividir en dos partes: la oración principal y la oración subordinada. La oración subordinada puede ser de tiempo (condicional, causal, final), de lugar o de modo. Por ejemplo:\n\n * \"Cuando llegué a la casa, estaba lloviendo\": aquí, \"cuando llegué a la casa\" es la oración subordinada de tiempo, que depende de la oración",
+      "fecha": "2025-12-28T18:53:16.875Z"
     }
   ],
-  "ultimaActualizacion": 1766947987043
+  "ultimaActualizacion": 1766947996876
 }
