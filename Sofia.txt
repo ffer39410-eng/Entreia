@@ -1,5 +1,5 @@
 {
-  "iq": 2557,
+  "iq": 2564,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2932,16 +2932,12 @@
     "estación",
     "conectado",
     "posterior",
-    "pastel"
+    "pastel",
+    "locura"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué es la coherencia textual?",
-      "respuesta": "La coherencia textual se refiere a la capacidad de un texto para transmitir ideas y pensamientos de manera lógica y continua, utilizando conectores lingüísticos para unir oraciones y párrafos de manera coherente. Esto implica establecer relaciones entre las ideas, utilizando conceptos como causa-efecto, consecuencia, comparación, oposición, etc. La coherencia textual ayuda a mantener la atención del lector y a transmitir la información de manera efectiva. Por ejemplo, en un texto sobre un viaje, se puede utilizar conectores como \"luego\" o \"mientras que\" para describir las actividades en orden cronológico.",
-      "fecha": "2025-12-28T20:54:03.695Z"
-    },
     {
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual se refiere a la capacidad de un texto para transmitir una idea o un mensaje claro y lógico, sin contradicciones ni saltos de pensamiento. Un texto coherente mantiene una conexión lógica entre las ideas y las frases, utilizando conectores, transiciones y estructuras de oración para asegurar una narrativa fluida y fácil de seguir.\n\nPor ejemplo, en un texto de argumentación, la coherencia es fundamental para presentar ideas claras y lógicas, utilizando pruebas y argumentos que se apeguen a una conclusión lógica. Un texto coherente también ayuda a mantener la atención del lector y a evitar la confusión.\n\nAlgunos ejemplos de coherencia textual incluyen el uso de conectores para unir ideas, como \"además\", \"por ejemplo\" o \"sin embargo\", y la descripción detallada de pasos",
@@ -3936,8 +3932,13 @@
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual se refiere a la capacidad de una pieza de escritura, como un texto o un artículo, de mantener una relación lógica y clara entre las ideas y los conceptos presentados. Esto significa que cada oración o párrafo debe contribuir de manera significativa al desarrollo del tema principal y estar conectado con el contenido anterior y posterior. La coherencia textual ayuda a evitar confusiones y a mantener la atención del lector. Un ejemplo de coherencia textual es una redacción clara y concisa de un artículo que explica el proceso de cómo se hace un pastel.",
       "fecha": "2025-12-28T21:31:31.976Z"
+    },
+    {
+      "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
+      "respuesta": "Para expresar emociones de forma efectiva, debes ser auténtico y honesto. Utiliza palabras y tonos corporales que reflejen tus sentimientos, como por ejemplo, decir \"Me siento frustrado\" en lugar de \"Eso es una locura\". También es importante escuchar activamente a los demás y validar sus emociones, lo que ayuda a crear un ambiente de comunicación positiva. Por ejemplo, si alguien se siente triste, puedes decir \"Entiendo que te sientas triste\" en lugar de \"No hay razón para estar triste\".",
+      "fecha": "2025-12-28T21:31:39.755Z"
     }
   ],
-  "ultimaActualizacion": 1766957491978,
-  "preguntasHechas": 418
+  "ultimaActualizacion": 1766957499758,
+  "preguntasHechas": 419
 }
