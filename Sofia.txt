@@ -1,5 +1,5 @@
 {
-  "iq": 697,
+  "iq": 704,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1515,7 +1515,21 @@
     "llover",
     "solear",
     "malo",
-    "lento"
+    "lento",
+    "problema",
+    "queremos",
+    "beneficioso",
+    "podríamos",
+    "estructurar",
+    "controvertido",
+    "generado",
+    "debate",
+    "comunidad",
+    "educativa",
+    "muestran",
+    "desempeño",
+    "académico",
+    "motivación"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2164,8 +2178,13 @@
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "Los sinónimos son palabras o expresiones que tienen el mismo significado o connotación que otra palabra o expresión, pero con una forma diferente. Por ejemplo: \"luna\" y \"lunache\" son sinónimos. Otros ejemplos son: \"grande\" y \"mayor\", \"bueno\" y \"excelente\".\n\nPor otro lado, los antónimos son palabras o expresiones que tienen un significado opuesto. Por ejemplo: \"llover\" y \"solear\" son antónimos. Otros ejemplos son: \"bueno\" y \"malo\", \"rápido\" y \"lento\".",
       "fecha": "2025-12-28T19:24:40.340Z"
+    },
+    {
+      "pregunta": "¿Cómo se estructura una buena argumentación?",
+      "respuesta": "Una buena argumentación se estructura en tres pasos clave: establecer un tema o problema, presentar pruebas o evidencia para apoyar la afirmación, y concluir con una respuesta clara y convincente.\n\nPor ejemplo, si queremos argumentar que \"el uso de la tecnología en la educación es beneficioso\", podríamos estructurar la argumentación de la siguiente manera:\n\n- Presentar el tema: \"El uso de la tecnología en la educación es un tema controvertido que ha generado debate en la comunidad educativa\".\n- Presentar pruebas: \"Según una investigación reciente, los estudiantes que utilizan tecnología en la educación muestran un mejor desempeño académico y una mayor motivación\".\n- Concluir: \"En conclusión, se puede argumentar que el uso de la tecnología en la educación es beneficioso debido a su capacidad para mejorar el desempeño",
+      "fecha": "2025-12-28T19:24:48.404Z"
     }
   ],
-  "ultimaActualizacion": 1766949880341,
-  "preguntasHechas": 55
+  "ultimaActualizacion": 1766949888405,
+  "preguntasHechas": 56
 }
