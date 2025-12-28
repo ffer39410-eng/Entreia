@@ -1,5 +1,5 @@
 {
-  "iq": 610,
+  "iq": 616,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1399,7 +1399,16 @@
     "organizada",
     "relacionar",
     "xito",
-    "sociedad"
+    "sociedad",
+    "presento",
+    "comas",
+    "favorito",
+    "quijote",
+    "interrupción",
+    "leyendo",
+    "teléfono",
+    "especialmente",
+    "adverbio"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1953,8 +1962,13 @@
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual se refiere a la relación lógica y sistematizada que existe entre las ideas, los conceptos y las ideas que se expresan en un texto. Es la capacidad de un texto para transmitir una idea central o mensaje de manera clara y organizada. Por ejemplo, en un ensayo sobre la importancia de la educación, la coherencia textual se logra al relacionar ideas como \"la educación es la base para el conocimiento\", \"el conocimiento es la base para el éxito\" y \"el éxito es la base para mejorar la sociedad\".",
       "fecha": "2025-12-28T19:17:50.312Z"
+    },
+    {
+      "pregunta": "¿Cómo se usa la puntuación correctamente?",
+      "respuesta": "La puntuación es fundamental para comunicar ideas claras y evitar confusiones. A continuación, te presento algunos ejemplos de cómo usar la puntuación correctamente:\n\n* **Comas**: se utilizan para separar ideas o elementos en una oración. Ejemplo: \"Voy a la playa, me gusta nadar y leer un libro\".\n* **Puntos**: se usan para indicar el final de una oración o una idea. Ejemplo: \"Me encanta leer libros. Mi libro favorito es 'Don Quijote'\".\n* **Puntos suspensivos**: se utilizan para indicar una interrupción o un cambio de idea en una oración. Ejemplo: \"Estaba leyendo un libro... cuando sonó el teléfono\".\n* **Punto y coma**: se usan para separar ideas o elementos en una oración, especialmente cuando se utiliza un adverbio o una conjunción. Ej",
+      "fecha": "2025-12-28T19:17:58.504Z"
     }
   ],
-  "ultimaActualizacion": 1766949470313,
-  "preguntasHechas": 36
+  "ultimaActualizacion": 1766949478506,
+  "preguntasHechas": 37
 }
