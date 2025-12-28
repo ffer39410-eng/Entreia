@@ -1,5 +1,5 @@
 {
-  "iq": 201,
+  "iq": 205,
   "vocabulario": [
     "claro",
     "sofia",
@@ -577,7 +577,23 @@
     "literaria",
     "frecuente",
     "comunicación",
-    "pública"
+    "pública",
+    "pregunta",
+    "sinónimos",
+    "tienen",
+    "mismo",
+    "ligeramente",
+    "diferente",
+    "grande",
+    "gigante",
+    "refieren",
+    "tamaño",
+    "antónimos",
+    "significados",
+    "opuestos",
+    "largo",
+    "corto",
+    "longitudes"
   ],
   "lecciones": 14,
   "conversaciones": 1,
@@ -716,8 +732,13 @@
       "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
       "respuesta": "Las metáforas son una figura retórica que permite atribuir características de un objeto, concepto o idea a otro, creando un vínculo poético y evocador entre ellos. Por ejemplo, \"Ella es una estrella en el cielo de la música\" (aquí se compara a una persona con una estrella, destacando su brillantez y talento). Esta herramienta literaria permite expresar ideas complejas de manera más creativa y memorable. Es frecuente encontrar metáforas en la literatura, la poesía y la comunicación pública.",
       "fecha": "2025-12-28T19:02:44.373Z"
+    },
+    {
+      "pregunta": "¿Qué son los sinónimos y antónimos?",
+      "respuesta": "Excelente pregunta. Los sinónimos son palabras que tienen el mismo significado que otra palabra, pero con una forma ligeramente diferente. Por ejemplo, \"grande\" y \"gigante\" son sinónimos porque se refieren a algo o alguien que es de gran tamaño. Los antónimos, por otro lado, son palabras que tienen significados opuestos. Por ejemplo, \"largo\" y \"corto\" son antónimos porque se refieren a diferentes longitudes.",
+      "fecha": "2025-12-28T19:02:52.259Z"
     }
   ],
-  "ultimaActualizacion": 1766948564374,
+  "ultimaActualizacion": 1766948572260,
   "preguntasHechas": null
 }
