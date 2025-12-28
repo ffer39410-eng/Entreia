@@ -1,5 +1,5 @@
 {
-  "iq": 2674,
+  "iq": 2680,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2994,11 +2994,6 @@
   "conversaciones": 6,
   "conocimiento": [
     {
-      "pregunta": "¿Cómo se usa la puntuación correctamente?",
-      "respuesta": "La puntuación es un componente fundamental de la escritura y el lenguaje oral, ya que ayuda a comunicar ideas, enfatizar emociones y clarificar la estructura de un texto. Utilizar la puntuación correctamente es importante para evitar confusiones y transmitir un mensaje claro. Por ejemplo, un punto final (.) se utiliza al final de una oración para indicar que ha terminado, mientras que una coma (,) se utiliza para separar elementos en una lista o entre ideas relacionadas.",
-      "fecha": "2025-12-28T21:01:15.608Z"
-    },
-    {
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras que indican la relación entre un objeto y otro elemento en una oración, como lugar, tiempo, movimiento, etc. Por ejemplo, \"en la biblioteca\" o \"debajo del escritorio\". Estas palabras sirven para indicar la ubicación, dirección o relación entre los elementos en una oración.\n\nAlgunas preposiciones comunes en español son \"en\", \"de\", \"con\", \"sin\", \"entre\", etc. Por ejemplo: \"Leo un libro en la cama\" (indicamos la ubicación donde se está realizando la acción de leer).\n\nLas preposiciones ayudan a crear oraciones claras y precisas, y son fundamentales para la construcción de la gramática en español.\n\nPor ejemplo: \"Estoy sentado en el sofá.\" (indicamos la ubicación de la persona)",
       "fecha": "2025-12-28T21:01:24.198Z"
@@ -3992,8 +3987,13 @@
       "pregunta": "¿Cómo se construyen oraciones complejas en español?",
       "respuesta": "Las oraciones complejas se construyen en español mediante la combinación de cláusulas simples o compuestas, utilizando conectivos como \"y\", \"o\", \"pero\", \"sin embargo\", \"porque\", \"ya que\", entre otros. Por ejemplo: \"Mientras estudiaba para el examen, llamó el amigo para preguntar sobre la tarea\" o \"Hice la tarea porque no quería quedarme sin tiempo para el estudio\".\n\nLas cláusulas simples se pueden combinar con cláusulas subordinadas, que indican una relación de causa, consecuencia, tiempo, etc. entre las ideas principales. Por ejemplo: \"Quise ir al cine porque no había ido en semanas\".\n\nEl uso de subordinadas y conjunciones es fundamental para crear oraciones complejas y expresar ideas más complejas en español.",
       "fecha": "2025-12-28T21:37:23.967Z"
+    },
+    {
+      "pregunta": "¿Cómo funcionan los tiempos verbales?",
+      "respuesta": "Los tiempos verbales son una forma de expresar cuando ocurre o ocurrirá una acción en el tiempo. Hay varios tiempos verbales, como el presente, pasado y futuro, que se utilizan para describir acciones que suceden en diferentes momentos.\n\nPor ejemplo, el verbo \"hablar\" en presente se utiliza para describir una acción que está sucediendo en el momento actual, como en \"Ella habla español\". En el pasado, el verbo se utiliza para describir una acción que ya ocurrió, como en \"Ella habló español\". En el futuro, el verbo se utiliza para describir una acción que aún no ha ocurrido, pero que ocurrirá en un momento futuro, como en \"Ella hablará español\".\n\nEs importante utilizar el tiempo verbal correcto para comunicar la información de manera clara y precisa.",
+      "fecha": "2025-12-28T21:37:32.026Z"
     }
   ],
-  "ultimaActualizacion": 1766957843968,
-  "preguntasHechas": 439
+  "ultimaActualizacion": 1766957852026,
+  "preguntasHechas": 440
 }
