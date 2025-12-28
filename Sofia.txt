@@ -1,5 +1,5 @@
 {
-  "iq": 1377,
+  "iq": 1388,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2186,21 +2186,27 @@
     "nervioso",
     "vulnerable",
     "compartir",
-    "activamente"
+    "activamente",
+    "crean",
+    "aparentemente",
+    "distintas",
+    "principio",
+    "experimentar",
+    "experimentarían",
+    "viaja",
+    "desconocido",
+    "oyentes",
+    "abstracto",
+    "sintácticas",
+    "suele",
+    "generales",
+    "variaciones",
+    "modalidad",
+    "muchas"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo se construyen oraciones complejas en español?",
-      "respuesta": "Excelente pregunta. Una oración compleja en español se construye mediante la combinación de dos o más oraciones sencillas utilizando conectores como \"y\" (coordinación), \"pero\" (contraposición) o \"porque\" (subordinación). Por ejemplo: \"Voy al parque porque hace un día hermoso\" (oración compleja con subordinación) o \"Voy al parque y juego con amigos\" (oración compleja con coordinación).\n\nCualquier frase principal con al menos un complemento, una oración subordinada o una oración relativa se considera una oración compleja.",
-      "fecha": "2025-12-28T19:09:21.068Z"
-    },
-    {
-      "pregunta": "¿Cómo funciona la comprensión del contexto?",
-      "respuesta": "La comprensión del contexto es un proceso mental que permite al ser humano identificar y dar sentido a las palabras o expresiones en función del entorno en el que se utilizan. Esta habilidad se basa en la capacidad de analizar la situación, el tono y los sentimientos involucrados para entender el significado más adecuado de las palabras. Por ejemplo, cuando alguien dice \"Estoy muerto de hambre\", se puede inferir que lo que realmente quiere decir es que tiene mucha hambre, no que esté literalmente muerto.",
-      "fecha": "2025-12-28T19:09:28.993Z"
-    },
     {
       "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
       "respuesta": "Para expresar emociones de forma efectiva, es importante ser auténtico y honesto al mismo tiempo. Puedes utilizar gestos corporales como sonreír o mantener contacto visual para mostrar que te importa la otra persona. Por ejemplo, si alguien te cuenta algo triste, puedes poner una mano en el hombro o darle un abrazo para demostrar apoyo y solidaridad. Además, utilizar palabras de ánimo y aliento también puede ayudar a expresar emociones positivas.",
@@ -3190,8 +3196,18 @@
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras que indican la relación entre un sustantivo o pronombre y otros elementos en una oración, como lugares, direcciones, tiempos, maneras, etc. Ejemplos de preposiciones comunes son \"de\", \"en\", \"con\", \"por\", \"para\", \"entre\", \"sobre\", \"bajo\", etc. Sirven para proporcionar contexto y claridad a la oración, por ejemplo: \"Estoy sentado en la silla\" o \"Me gusta leer con mis amigos\".",
       "fecha": "2025-12-28T20:42:03.699Z"
+    },
+    {
+      "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
+      "respuesta": "Las metáforas son utilizadas para describir conceptos abstractos a través de imágenes o comparaciones que crean una conexión entre dos ideas aparentemente distintas. Por ejemplo, \"la vida es un viaje\" sugiere que la vida tiene un principio y un fin, y que se puede experimentar momentos de alegría o desafíos como se experimentarían mientras se viaja a un destino desconocido. Esto ayuda a los oyentes a entender y visualizar un concepto abstracto de una manera más accesible.",
+      "fecha": "2025-12-28T20:42:11.797Z"
+    },
+    {
+      "pregunta": "¿Cuáles son las reglas de la gramática española?",
+      "respuesta": "La gramática española tiene reglas importantes para la formación de palabras, oraciones y estructuras sintácticas. Algunas de las reglas más fundamentales incluyen: \n\n- El orden de las palabras en una oración suele ser sujeto-verbo-objeto (SVO).\n- Los artículos \"el\", \"la\", \"los\" y \"las\" se utilizan para referirse a seres y objetos específicos o generales.\n- Los verbos en español tienen tres tiempos: presente, pasado y futuro, con variaciones para indicar aspectos como la modalidad, el condicional, entre otros.\n\nEstas reglas y otras muchas son fundamentales para comunicarse de manera efectiva en español.",
+      "fecha": "2025-12-28T20:43:35.050Z"
     }
   ],
-  "ultimaActualizacion": 1766954523699,
-  "preguntasHechas": 192
+  "ultimaActualizacion": 1766954615051,
+  "preguntasHechas": 194
 }
