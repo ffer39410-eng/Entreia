@@ -1,5 +1,5 @@
 {
-  "iq": 2283,
+  "iq": 2287,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2783,11 +2783,6 @@
   "conversaciones": 6,
   "conocimiento": [
     {
-      "pregunta": "¿Cómo funciona la comprensión del contexto?",
-      "respuesta": "La comprensión del contexto es un proceso mental que nos permite relacionar las palabras que escuchamos o leemos con el entorno y la situación en la que se utilizan. Implica considerar el significado de las palabras en función de la información disponible, como el tono de voz, el lenguaje corporal, la situación y el contexto verbal. Por ejemplo, si alguien dice \"La casa está caliente\", si estamos en invierno, es probable que se esté refiriendo a la temperatura, pero si estamos en verano, podría estar hablando de la decoración de la casa.",
-      "fecha": "2025-12-28T20:34:27.653Z"
-    },
-    {
       "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
       "respuesta": "El vocabulario técnico se refiere a las palabras y expresiones utilizadas en un campo específico, como la medicina, la tecnología o la química, y se caracteriza por ser preciso y objetivo. Por otro lado, el vocabulario coloquial está relacionado con la comunicación informal y cotidiana, y se utiliza para expresar ideas y sentimientos de manera más relajada y accesible. Por ejemplo, en medicina, \"cirugía\" es un término técnico, mientras que \"operación\" es un vocabulario coloquial.",
       "fecha": "2025-12-28T20:34:35.770Z"
@@ -3781,8 +3776,13 @@
       "pregunta": "¿Cómo se usa la puntuación correctamente?",
       "respuesta": "La puntuación es fundamental en la escritura para comunicar ideas y expresiones de manera clara y precisa. Se utiliza para separar ideas, enfatizar ciertas partes del texto y crear un ritmo adecuado para la lectura. Por ejemplo, un punto y coma (;) se utiliza para separar dos oraciones independientes que están relacionadas entre sí, mientras que un punto (.) se utiliza para finalizar una oración.",
       "fecha": "2025-12-28T21:20:43.599Z"
+    },
+    {
+      "pregunta": "¿Qué es el pensamiento crítico?",
+      "respuesta": "El pensamiento crítico es el proceso de analizar y evaluar información, ideas y conceptos de manera objetiva y sistemática. Implica cuestionar suposiciones, identificar prejuicios y considerar múltiples perspectivas para llegar a conclusiones informadas. Es una habilidad que nos permite distinguir entre lo que es verdadero y lo que es falso, y tomar decisiones informadas en la vida diaria. Por ejemplo, al analizar un artículo de noticias, el pensamiento crítico nos permite identificar las fuentes y la información que se presenta, y llegar a una conclusión propia sobre la veracidad de la información.",
+      "fecha": "2025-12-28T21:20:51.852Z"
     }
   ],
-  "ultimaActualizacion": 1766956843599,
-  "preguntasHechas": 365
+  "ultimaActualizacion": 1766956851854,
+  "preguntasHechas": 366
 }
