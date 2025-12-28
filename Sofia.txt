@@ -1,5 +1,5 @@
 {
-  "iq": 995,
+  "iq": 998,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1825,7 +1825,11 @@
     "probar",
     "extrae",
     "modos",
-    "definido"
+    "definido",
+    "encuentran",
+    "incluyendo",
+    "intenciones",
+    "harto"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2769,8 +2773,13 @@
       "pregunta": "¿Cuáles son las reglas de la gramática española?",
       "respuesta": "La gramática española se basa en una serie de reglas y estructuras que rigen la formación de las palabras y la construcción de las oraciones. Algunas de las reglas fundamentales incluyen la flexión de los sustantivos, adjetivos y verbos, así como la conjugación de los verbos en diferentes tiempos y modos. Además, hay reglas para la formación de las oraciones simples y compuestas, como la utilización de conjunciones y preposiciones. Por ejemplo, en español, el artículo definido se utiliza en singular (el, la, los, las) y en plural (los, las).",
       "fecha": "2025-12-28T20:12:44.026Z"
+    },
+    {
+      "pregunta": "¿Cómo funciona la comprensión del contexto?",
+      "respuesta": "La comprensión del contexto es un proceso mental que nos permite comprender el significado de las palabras y frases en función de la situación en la que se encuentran. Implica considerar el contexto en el que se está comunicando, incluyendo la situación, los sentimientos y las intenciones de las personas involucradas. Por ejemplo, si alguien dice \"Estoy harto\", el contexto puede determinar si se refiere a estar cansado o frustrado.",
+      "fecha": "2025-12-28T20:12:51.704Z"
     }
   ],
-  "ultimaActualizacion": 1766952764027,
-  "preguntasHechas": 114
+  "ultimaActualizacion": 1766952771705,
+  "preguntasHechas": 115
 }
