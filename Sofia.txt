@@ -1,5 +1,5 @@
 {
-  "iq": 355,
+  "iq": 362,
   "vocabulario": [
     "claro",
     "sofia",
@@ -974,7 +974,10 @@
     "lugares",
     "direcciones",
     "maneras",
-    "bajo"
+    "bajo",
+    "expresan",
+    "formas",
+    "ocurre"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1268,8 +1271,13 @@
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras que indican la relación entre un objeto, lugar o tiempo y otro elemento en una oración. A modo de ejemplo, \"en la playa\" o \"con mi amigo\" son expresiones que utilizan la preposición \"en\" y \"con\" para indicar la relación entre el objeto o lugar y el resto de la oración.\n\nLas preposiciones sirven para proporcionar contexto y claridad a las oraciones, y pueden indicar lugares, direcciones, tiempo, maneras de hacer algo, etc. Algunas preposiciones comunes son \"en\", \"de\", \"con\", \"sin\", \"bajo\", etc.",
       "fecha": "2025-12-28T19:08:09.292Z"
+    },
+    {
+      "pregunta": "¿Cómo funcionan los tiempos verbales?",
+      "respuesta": "Los tiempos verbales son palabras que expresan el momento en que se realiza la acción descrita por el verbo. Hay varios tiempos verbales, como el presente, pasado y futuro, que se pueden utilizar de varias formas para indicar el momento en que ocurre la acción. Por ejemplo, \"yo como una manzana\" (presente), \"yo comí una manzana\" (pasado) y \"yo comeré una manzana\" (futuro). Cada tiempo verbal tiene sus propias reglas y formas de conjugación.",
+      "fecha": "2025-12-28T19:08:17.074Z"
     }
   ],
-  "ultimaActualizacion": 1766948889293,
+  "ultimaActualizacion": 1766948897075,
   "preguntasHechas": null
 }
