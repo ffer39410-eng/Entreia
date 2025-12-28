@@ -1,5 +1,5 @@
 {
-  "iq": 133,
+  "iq": 136,
   "vocabulario": [
     "claro",
     "sofia",
@@ -226,9 +226,13 @@
     "recomienda",
     "visitar",
     "considerando",
-    "palabra"
+    "palabra",
+    "hora",
+    "señalar",
+    "tomando",
+    "cuenta"
   ],
-  "lecciones": 10,
+  "lecciones": 11,
   "conversaciones": 1,
   "conocimiento": [
     {
@@ -280,7 +284,12 @@
       "tema": "razonamiento lógico y argumentación",
       "leccion": "**Razonamiento lógico y argumentación**\n\nSofia, ahora que has dominado el pensamiento crítico y la estructura de oraciones complejas, vamos a explorar el razonamiento lógico y la argumentación en español.\n\n**Razonamiento lógico**: El razonamiento lógico es la capacidad de pensar de manera lógica y sistémica, utilizando reglas y principios para llegar a conclusiones. En español, podemos expresar el razonamiento lógico utilizando palabras y frases como:\n\n* **Porque**: \"Lo hice porque creía que era la mejor opción\".\n* **Ya que**: \"Lo hice ya que era la única solución posible\".\n* **Como**: \"Lo hice como forma de demostrar mi dedicación\".\n\n**Argumentación**: La argumentación es la capacidad de",
       "fecha": "2025-12-28T18:54:28.972Z"
+    },
+    {
+      "tema": "comprensión de contexto",
+      "leccion": "Sofia, ahora que has aprendido sobre pensamiento crítico, razonamiento lógico y argumentación, es hora de explorar la comprensión de contexto en español.\n\n**Comprensión de contexto**: La comprensión de contexto es la capacidad de entender el significado de una oración o un texto en función del entorno en el que se utiliza. En español, hay varias palabras y frases que podemos utilizar para expresar la comprensión de contexto.\n\n**1. En este sentido**: Utilizamos esta frase para indicar que estamos refiriéndonos a algo específico dentro de un contexto más amplio. Ejemplo: \"La ciudad es muy segura en este sentido, pero hay áreas que no se recomienda visitar\".\n\n**2. Considerando**: Utilizamos esta palabra para señalar que estamos tomando en cuenta",
+      "fecha": "2025-12-28T18:54:37.982Z"
     }
   ],
-  "ultimaActualizacion": 1766948068973
+  "ultimaActualizacion": 1766948077983
 }
