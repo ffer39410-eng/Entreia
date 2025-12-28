@@ -1,5 +1,5 @@
 {
-  "iq": 964,
+  "iq": 971,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1791,7 +1791,15 @@
     "viajar",
     "madrid",
     "próximo",
-    "tiempoprogressivo"
+    "tiempoprogressivo",
+    "enumeración",
+    "primeramente",
+    "segundo",
+    "gustan",
+    "relatos",
+    "aventuras",
+    "cumplen",
+    "papel"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2710,8 +2718,13 @@
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales son un sistema fundamental en la gramática que permite expresar diferentes momentos en el tiempo, como el presente, el pasado o el futuro. Por ejemplo, el verbo \"hablar\" puede usarse en diferentes tiempos, como \"hablo\" (presente), \"hablé\" (pretérito perfecto simple), \"hablaré\" (futuro simple) o \"había hablado\" (pretérito imperfecto).\n\nExisten diferentes tiempos verbales, como:\n\n- Tiempo presente: Describe acciones que ocurren en el momento actual (Me gusta leer).\n- Tiempo pretérito: Describe acciones que ocurrieron en el pasado (Hablé con mi amigo ayer).\n- Tiempo futuro: Describe acciones que ocurrirán en el futuro (Voy a viajar a Madrid el próximo año).\n- Tiempoprogressivo: Describe acciones que están sucediendo en un",
       "fecha": "2025-12-28T20:12:03.807Z"
+    },
+    {
+      "pregunta": "¿Qué son los conectores y cómo se usan?",
+      "respuesta": "Los conectores son palabras o expresiones que unen oraciones, frases o ideas para crear una relación lógica entre ellas. Pueden indicar la causalidad (porque, ya que), la comparación (como, de la misma forma que), la enumeración (primeramente, en segundo lugar, finalmente), la oposición (pero, sin embargo), la contraste (a diferencia de), entre otros. Por ejemplo: \"Me encanta leer libros porque me gustan los relatos de aventuras\".\n\nLos conectores cumplen un papel fundamental en la comunicación escrita y oral, ya que ayudan a organizar y estructurar la información de manera clara y coherente.",
+      "fecha": "2025-12-28T20:12:11.782Z"
     }
   ],
-  "ultimaActualizacion": 1766952723809,
-  "preguntasHechas": 109
+  "ultimaActualizacion": 1766952731784,
+  "preguntasHechas": 110
 }
