@@ -1,5 +1,5 @@
 {
-  "iq": 983,
+  "iq": 988,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1814,7 +1814,16 @@
     "garantiza",
     "desarrollado",
     "orgánica",
-    "todo"
+    "todo",
+    "torno",
+    "componentes",
+    "núcleo",
+    "partida",
+    "inicial",
+    "nudo",
+    "intenta",
+    "probar",
+    "extrae"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2748,8 +2757,13 @@
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual se refiere a la capacidad de un texto para mantener una relación lógica y clara entre sus ideas y conceptos, asegurando que el lector pueda seguir el hilo de la argumentación o relato de manera fluida y sin confusiones. Esto implica una estructura clara, una transición lógica entre las oraciones y un lenguaje preciso. Por ejemplo, en un ensayo, la coherencia textual garantiza que el tema principal sea desarrollado de manera orgánica y coherente a lo largo de todo el texto.",
       "fecha": "2025-12-28T20:12:32.254Z"
+    },
+    {
+      "pregunta": "¿Cómo se estructura una buena argumentación?",
+      "respuesta": "Una buena argumentación se estructura en torno a tres componentes clave: la premisa, el núcleo y la conclusión. La premisa es el punto de partida, la información o el enunciado inicial que se utiliza para apoyar la argumentación. El núcleo es el nudo central de la argumentación, la idea o el razonamiento que se intenta probar o demostrar. La conclusión es el resultado final, la conclusión lógica que se extrae de la premisa y el núcleo.",
+      "fecha": "2025-12-28T20:12:35.461Z"
     }
   ],
-  "ultimaActualizacion": 1766952752255,
-  "preguntasHechas": 112
+  "ultimaActualizacion": 1766952756228,
+  "preguntasHechas": 113
 }
