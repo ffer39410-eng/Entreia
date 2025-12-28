@@ -1,5 +1,5 @@
 {
-  "iq": 164,
+  "iq": 168,
   "vocabulario": [
     "claro",
     "sofia",
@@ -402,7 +402,23 @@
     "estadísticos",
     "testimonios",
     "expertos",
-    "respaldan"
+    "respaldan",
+    "conexiones",
+    "significativas",
+    "utilizan",
+    "cosa",
+    "términos",
+    "otra",
+    "creando",
+    "mental",
+    "rica",
+    "solo",
+    "describe",
+    "talento",
+    "evoke",
+    "sensación",
+    "brillo",
+    "admiración"
   ],
   "lecciones": 14,
   "conversaciones": 1,
@@ -496,8 +512,13 @@
       "pregunta": "¿Cómo se estructura una buena argumentación?",
       "respuesta": "Una buena argumentación se estructura en tres partes fundamentales: la afirmación, la razón y la evidencia. La afirmación es la conclusión que se quiere obtener, la razón es el razonamiento detrás de la afirmación y la evidencia es el soporte que se proporciona para respaldar la razón. Por ejemplo, si alguien argumenta que la educación es gratuita en un país, la afirmación es \"La educación es gratuita\", la razón es \"Porque el gobierno invierte en programas y recursos para laeducación\" y la evidencia son datos estadísticos o testimonios de expertos que respaldan ese razonamiento.",
       "fecha": "2025-12-28T19:01:32.384Z"
+    },
+    {
+      "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
+      "respuesta": "Las metáforas son una herramienta poderosa del lenguaje que permiten crear conexiones significativas entre conceptos y emociones. Se utilizan para describir una cosa en términos de otra, creando una imagen mental rica y evocadora. Por ejemplo, \"Ella es una estrella\" no solo describe su talento, sino que evoke una sensación de brillo y admiración.",
+      "fecha": "2025-12-28T19:01:40.233Z"
     }
   ],
-  "ultimaActualizacion": 1766948492385,
+  "ultimaActualizacion": 1766948500234,
   "preguntasHechas": null
 }
