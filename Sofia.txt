@@ -1,5 +1,5 @@
 {
-  "iq": 1222,
+  "iq": 1225,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2027,16 +2027,19 @@
     "comunicaciones",
     "escrit",
     "disfruto",
-    "historias"
+    "historias",
+    "correctamente",
+    "introducir",
+    "finalizar",
+    "solicitar",
+    "nfasis",
+    "tomás",
+    "sofía",
+    "carlos"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
-      "respuesta": "Las preposiciones son palabras que indican la relación entre un sustantivo (el objeto) y otro sustantivo, un verbo o una acción en una oración. Funcionan como conectores y ayudan a establecer la ubicación, la duración, la cantidad, la causa o la consecuencia de un evento. Por ejemplo, en la oración \"La biblioteca está en la calle principal\", la preposición \"en\" indica la ubicación de la biblioteca.",
-      "fecha": "2025-12-28T19:03:56.361Z"
-    },
     {
       "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
       "respuesta": "Para expresar emociones de forma efectiva, es importante ser auténtico y genuino en tu comunicación. Esto significa reconocer y aceptar tus emociones, y luego exprésalar de manera clara y específica. Por ejemplo, en lugar de decir \"Me siento mal\", podrías decir \"Estoy molesto porque no me respetaron mis necesidades\". Esto ayuda a que los demás entiendan mejor tu punto de vista y te sientas escuchado. Además, es importante escuchar atentamente a los demás y responder de manera empática.",
@@ -3031,8 +3034,13 @@
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras que se utilizan para indicar la relación entre un sustantivo o un grupo de palabras y otros elementos en una oración. Por ejemplo, palabras como \"en\", \"de\", \"con\", \"sin\", \"entre\" y \"dentro de\" son preposiciones. Sirven para explicar dónde, cuándo, cómo o a quién se encuentra la acción o el sustantivo. Por ejemplo: \"Estoy sentado en la silla\" (indicando el lugar) o \"Me encanta leer con mis amigos\" (indicando la compañía).",
       "fecha": "2025-12-28T20:33:47.753Z"
+    },
+    {
+      "pregunta": "¿Cómo se usa la puntuación correctamente?",
+      "respuesta": "La puntuación es un elemento fundamental en la escritura para expresar ideas y emociones de manera clara y efectiva. Algunas de las reglas básicas para usar la puntuación correctamente incluyen:\n\n- Utilizar la coma (\",\") para separar elementos en una lista o para introducir una explicación adicional.\n- Utilizar el punto (\".\") para finalizar una oración o para indicar un cambio de pensamiento.\n- Utilizar los signos de preguntas (\"?\", \"!\") para solicitar información o para expresar énfasis.\n- Utilizar los signos de exclamación para expresar sorpresa o emoción.\n\nPor ejemplo: \"Voy a la playa con mis amigos: Tomás, Sofía y Carlos. ¡Es mi primer viaje este año!\"",
+      "fecha": "2025-12-28T20:33:55.746Z"
     }
   ],
-  "ultimaActualizacion": 1766954027755,
-  "preguntasHechas": 161
+  "ultimaActualizacion": 1766954035749,
+  "preguntasHechas": 162
 }
