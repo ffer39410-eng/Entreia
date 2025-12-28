@@ -1,5 +1,5 @@
 {
-  "iq": 1584,
+  "iq": 1589,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2331,16 +2331,17 @@
     "analizas",
     "fuertes",
     "débiles",
-    "resumiendo"
+    "resumiendo",
+    "habitual",
+    "básico",
+    "coger",
+    "castellano",
+    "coge",
+    "autobús"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo se usa la puntuación correctamente?",
-      "respuesta": "La puntuación es fundamental para comunicar con claridad y precisión en la escritura. Utiliza comas para separar elementos en una lista, como en \"Los colores de la bandera son rojo, blanco y azul\". Los puntos suspensivos se utilizan para separar frases o ideas incompletas, como en \"Me estoy preguntando... ¿qué debo hacer?\". Los signos de admiración se emplean para enfatizar o expresar sorpresa, como en \"¡Estoy emocionado de que llegue el verano!\".",
-      "fecha": "2025-12-28T19:21:28.321Z"
-    },
     {
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar información de manera objetiva, identificando fortalezas y debilidades, así como considerando múltiples perspectivas y evidencias. Este tipo de pensamiento implica cuestionar suposiciones y creencias, y no aceptar información sin verificar su validez. Por ejemplo, al leer un artículo periodístico, un estudiante con pensamiento crítico podría preguntarse: \"¿Quién es el autor?\", \"¿Cuáles son sus motivaciones?\", \"¿Hay evidencia que respalde las afirmaciones?\" y \"¿Qué otras fuentes podrían ofrecer una perspectiva diferente?\"",
@@ -3335,8 +3336,13 @@
       "pregunta": "¿Cómo se estructura una buena argumentación?",
       "respuesta": "Una buena argumentación se estructura en cuatro pasos clave: definir el tema, presentar evidencia, analizar la evidencia y concluir. Primero, debes definir claramente el tema en cuestión, para que la audiencia comprenda de inmediato a qué se refiere tu argumentación. Luego, presentas evidencia sólida y relevante para apoyar tu punto de vista. A continuación, analizas críticamente esa evidencia, destacando sus puntos fuertes y débiles. Finalmente, concluyes reafirmando tu argumento inicial y resumiendo los principales puntos presentados.",
       "fecha": "2025-12-28T20:56:59.900Z"
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
+      "respuesta": "El vocabulario técnico se refiere a las palabras y expresiones utilizadas en un campo específico como la medicina, la informática o la ingeniería, que requieren conocimientos especializados para comprender su significado. Por otro lado, el vocabulario coloquial es el lenguaje habitual y cotidiano que se utiliza en la comunicación informal entre amigos, familiares o en la calle.\n\nPor ejemplo, una persona con un conocimiento básico de medicina puede entender el término \"angioplastia\" en un contexto técnico, pero podría no saber qué significa en una conversación con un amigo que la ha pasado por su experiencia personal.\n\nEn cambio, la palabra \"coger\" en castellano tiene un significado coloquial cuando se usa en frases como \"coge el autobús\", pero se utiliza de manera técnica en el lenguaje científico cuando se habla de \"coger datos\"",
+      "fecha": "2025-12-28T20:57:08.096Z"
     }
   ],
-  "ultimaActualizacion": 1766955419902,
-  "preguntasHechas": 230
+  "ultimaActualizacion": 1766955428098,
+  "preguntasHechas": 231
 }
