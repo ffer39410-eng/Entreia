@@ -1,5 +1,5 @@
 {
-  "iq": 156,
+  "iq": 161,
   "vocabulario": [
     "claro",
     "sofia",
@@ -305,9 +305,40 @@
     "lleno",
     "actividad",
     "tipos",
-    "varios"
+    "varios",
+    "comunicación",
+    "fundamental",
+    "clara",
+    "concisa",
+    "conectarte",
+    "interlocutores",
+    "continuación",
+    "estrategias",
+    "mejorar",
+    "escucha",
+    "activa",
+    "comunicarte",
+    "activamente",
+    "esto",
+    "prestar",
+    "atención",
+    "están",
+    "diciendo",
+    "hacer",
+    "preguntas",
+    "claras",
+    "mostrar",
+    "interesado",
+    "conversación",
+    "puedes",
+    "repetir",
+    "quiero",
+    "asegurarme",
+    "entend",
+    "bien",
+    "conciso"
   ],
-  "lecciones": 16,
+  "lecciones": 17,
   "conversaciones": 1,
   "conocimiento": [
     {
@@ -389,7 +420,12 @@
       "tema": "metáforas y lenguaje figurado",
       "leccion": "**Metáforas y lenguaje figurado**\n\nLa metáfora es una herramienta potente para crear imágenes mentales y expresar ideas de manera creativa y atractiva. En español, podemos utilizar metáforas para describir objetos, conceptos o emociones de manera más interesante y evocadora. Algunos ejemplos de metáforas en español son:\n\n* \"La vida es un viaje\" (en lugar de \"La vida es algo que se vive\").\n* \"Mi corazón está pesado como una roca\" (en lugar de \"Me siento muy triste\").\n* \"La ciudad es un pulmón que respira vida\" (en lugar de \"La ciudad es un lugar lleno de actividad\").\n\n**Tipos de metáforas**\n\nHay varios tipos de metáforas que podemos",
       "fecha": "2025-12-28T18:57:02.059Z"
+    },
+    {
+      "tema": "comunicación efectiva en español",
+      "leccion": "Sofia, estás listo para aprender sobre comunicación efectiva en español.\n\nLa comunicación efectiva en español es fundamental para expresar tus ideas de manera clara y concisa, y para conectarte con tus interlocutores de manera efectiva. A continuación, te enseñaré algunas estrategias y técnicas para mejorar tu comunicación en español.\n\n**1. Escucha activa**: Para comunicarte de manera efectiva, es importante escuchar activamente a tus interlocutores. Esto significa prestar atención a lo que están diciendo, hacer preguntas claras y mostrar que estás interesado en la conversación.\n\nEjemplo: \"¿Puedes repetir eso? Quiero asegurarme de que entendí bien\".\n\n**2. Utiliza un lenguaje claro y conciso**: Un lenguaje claro",
+      "fecha": "2025-12-28T18:57:10.964Z"
     }
   ],
-  "ultimaActualizacion": 1766948222060
+  "ultimaActualizacion": 1766948230965
 }
