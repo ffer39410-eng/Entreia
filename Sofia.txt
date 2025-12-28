@@ -1,5 +1,5 @@
 {
-  "iq": 919,
+  "iq": 926,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1741,7 +1741,17 @@
     "opuestas",
     "rico",
     "pobre",
-    "realiz"
+    "realiz",
+    "circunstancias",
+    "rodean",
+    "captar",
+    "comprenderla",
+    "título",
+    "subtítulos",
+    "fechas",
+    "distinguir",
+    "relevante",
+    "irrelevante"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2615,8 +2625,13 @@
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales son fundamentales en la gramática española y ayudan a determinar el momento en que se realiza la acción descrita por el verbo. Hay varios tiempos verbales, como el presente, pasado simple, pasado perfecto, futuro simple, futuro perfecto, condicional, imperfecto y más.\n\nPor ejemplo, el verbo \"hablar\" en presente se utiliza para describir una acción que se realiza en el momento del habla, como \"ella habla español\". En cambio, el verbo \"hablar\" en pasado simple se utiliza para describir una acción que se realizó en un momento anterior, como \"ella habló ayer\".",
       "fecha": "2025-12-28T20:10:52.171Z"
+    },
+    {
+      "pregunta": "¿Cómo funciona la comprensión del contexto?",
+      "respuesta": "La comprensión del contexto es un proceso mental que implica analizar y evaluar las circunstancias y detalles que rodean una situación o un mensaje. Esto nos permite captar la intención, el sentido y la relevancia de la información, y así poder comprenderla de manera efectiva. Por ejemplo, al leer una noticia, podemos considerar el título, los subtítulos, las fechas y los detalles específicos para comprender el contexto de la historia. De esta manera, podemos distinguir entre información relevante e irrelevante y obtener una comprensión clara del tema.",
+      "fecha": "2025-12-28T20:10:59.773Z"
     }
   ],
-  "ultimaActualizacion": 1766952653943,
-  "preguntasHechas": 100
+  "ultimaActualizacion": 1766952659774,
+  "preguntasHechas": 101
 }
