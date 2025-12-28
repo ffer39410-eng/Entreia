@@ -1,5 +1,5 @@
 {
-  "iq": 1295,
+  "iq": 1301,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2099,16 +2099,16 @@
     "toma",
     "precipitada",
     "adoptar",
-    "informada"
+    "informada",
+    "preparar",
+    "plato",
+    "comida",
+    "paso",
+    "facilidad"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué son los conectores y cómo se usan?",
-      "respuesta": "Los conectores son palabras o expresiones que se utilizan para unir frases, oraciones o ideas en una estructura lógica y coherente. Algunos ejemplos de conectores son \"y\", \"pero\", \"sin embargo\", \"porque\", \"asi que\", etc. Estos conectores nos ayudan a mostrar las relaciones entre las ideas y a crear textos más claros y concisos. Por ejemplo, la oración \"Me gusta leer y escribir\" utiliza el conector \"y\" para unir dos acciones relacionadas.",
-      "fecha": "2025-12-28T19:07:05.185Z"
-    },
     {
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es la capacidad de analizar información, evaluar argumentos y tomar decisiones informadas considerando múltiples perspectivas y evidencia. Implica cuestionar suposiciones, identificar fallas lógicas y considerar contextos culturales y sociales. El pensamiento crítico también implica ser consciente de sesgos y prejuicios propios, así como ser capaz de adaptarse y aprender de errores. Por ejemplo, al leer un artículo periodístico, el pensamiento crítico te permite evaluar la credibilidad de la fuente, identificar sesgos y considerar argumentos alternativos.",
@@ -3103,8 +3103,13 @@
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es la habilidad de analizar información, evaluar evidencia y tomar decisiones informadas de manera objetiva. Implica cuestionar suposiciones, reconocer sesgos y considerar múltiples perspectivas para llegar a conclusiones bien fundadas. Por ejemplo, al leer un artículo de noticias, un pensador crítico no solo leería la información, sino que también analizaría la fuente, buscando señales de sesgo o parcialidad, y evaluaría la evidencia presentada para verificar su validez. Este proceso de pensamiento ayuda a evitar la toma de decisiones precipitada y a adoptar una postura más informada y reflexiva.",
       "fecha": "2025-12-28T20:35:39.678Z"
+    },
+    {
+      "pregunta": "¿Qué es la coherencia textual?",
+      "respuesta": "La coherencia textual es una propiedad de la escritura que se refiere a la conexión lógica entre las ideas y oraciones que se presentan en un texto. Un texto coherente debe tener una estructura clara y una secuencia de ideas que se relacionan entre sí de manera lógica. Por ejemplo, cuando se describe un proceso, como cómo preparar un plato de comida, la coherencia textual implica que cada paso esté relacionado con el anterior y que el lector pueda seguir con facilidad la secuencia de acciones.",
+      "fecha": "2025-12-28T20:35:48.074Z"
     }
   ],
-  "ultimaActualizacion": 1766954139681,
-  "preguntasHechas": 175
+  "ultimaActualizacion": 1766954148076,
+  "preguntasHechas": 176
 }
