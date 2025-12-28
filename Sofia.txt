@@ -1,5 +1,5 @@
 {
-  "iq": 2362,
+  "iq": 2369,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2827,16 +2827,12 @@
     "respiro",
     "respaldadas",
     "proposiciones",
-    "pesar"
+    "pesar",
+    "duerme"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
-      "respuesta": "Las metáforas son figuras literarias que permiten crear conexiones innovadoras entre conceptos y experiencias diferentes, permitiendo expresar ideas complejas de manera más clara y vívida. Se usan para describir objetos, sentimientos o ideas de manera creativa, como en la metáfora \"el amor es un incendio\" que sugiere una pasión intensa y ardiente. Las metáforas pueden ser verbales o visuales, y se encuentran en la literatura, la poesía y el lenguaje cotidiano. Al usar metáforas, se pueden crear descripciones más ricas y significativas, como en la frase \"la vida es un viaje\".",
-      "fecha": "2025-12-28T20:40:36.899Z"
-    },
     {
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "Excelente pregunta. Los sinónimos son palabras que tienen el mismo significado o casi el mismo significado que otra palabra, pero con un tono o connotación ligeramente diferente. Por ejemplo, \"frio\" y \"helado\" son sinónimos porque se refieren a la misma temperatura. Los antónimos, por otro lado, son palabras que tienen un significado opuesto. Por ejemplo, \"grande\" y \"pequeño\" son antónimos porque se refieren a tamaños opuestos.\n\nEjemplo: \n\"Estoy muy enfadado\" (enfadado es un sinónimo de iracundo o enojado), \n\"Estoy enfadado pero mi amigo está contento\" (enfadado y contento son antónimos).\n\nLos sinónimos y antónimos son herramientas útiles para enriquecer nuestra expresión y comunicación, ya que nos permiten describir",
@@ -3831,8 +3827,13 @@
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son palabras o expresiones que se utilizan para unir oraciones, ideas o proposiciones entre sí. Se dividen en varias categorías, como las de coordinación (y, pero, o, ni), subordinación (que, porque, cuando), adición (además, tampoco, asimismo), causal (porque, ya que), consecuente (por lo tanto, por eso) y de oposición (aunque, a pesar de que). Por ejemplo: \"Voy a la playa, pero no me gusta nadar\".",
       "fecha": "2025-12-28T21:22:43.645Z"
+    },
+    {
+      "pregunta": "¿Cómo se construyen oraciones complejas en español?",
+      "respuesta": "Una oración compleja en español se construye combinando una oración simple con una subordinada, mediante un conjunción de coordinación o subordinación. Por ejemplo: \"Mientras leo un libro, mi hermano duerme\". En esta oración, \"Mientras leo un libro\" es una oración subordinada, que funciona como complemento de la oración principal \"mi hermano duerme\". Otra forma es usar conjunciones de coordinación, como \"y\" o \"pero\", para unir oraciones simples que expresan ideas relacionadas, pero diferentes.",
+      "fecha": "2025-12-28T21:22:51.667Z"
     }
   ],
-  "ultimaActualizacion": 1766956963646,
-  "preguntasHechas": 380
+  "ultimaActualizacion": 1766956971669,
+  "preguntasHechas": 381
 }
