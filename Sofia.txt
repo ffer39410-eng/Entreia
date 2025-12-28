@@ -1,5 +1,5 @@
 {
-  "iq": 2301,
+  "iq": 2306,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2794,16 +2794,15 @@
     "ring",
     "lloviera",
     "estaría",
-    "debi"
+    "debi",
+    "menciona",
+    "siglo",
+    "necesario",
+    "contextualizarla"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo se usa la puntuación correctamente?",
-      "respuesta": "La puntuación es una herramienta fundamental para comunicar ideas de manera clara y precisa. Utilizarla correctamente implica separar las ideas con comas, puntos suspensivos, semicolones, signos de interrogación y exclamación, y puntos, entre otros. Por ejemplo, en una oración, un punto separa dos oraciones independientes: \"Estoy cansado. Me voy a dormir\".",
-      "fecha": "2025-12-28T20:34:59.709Z"
-    },
     {
       "pregunta": "¿Cómo se usa la puntuación correctamente?",
       "respuesta": "La puntuación es fundamental en la escritura para comunicar ideas de manera clara y precisa. Utiliza signos de puntuación como comas, puntos y coma, dos puntos, etc., para separar ideas, enfatizar información o indicar pausas en la lectura. Por ejemplo: \"Vine a la tierra en busca de aventuras, pero lo que encontré fue una experiencia que cambió mi vida para siempre.\"\n\nAdemás, la puntuación también ayuda a evitar la ambigüedad en la escritura, como cuando usamos signos de puntuación para distinguir entre oraciones independientes y dependientes. Por ejemplo: \"¿Quieres ir al cine? Si, me encantaría!\"",
@@ -3798,8 +3797,13 @@
       "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
       "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de analizar y evaluar información de manera crítica y sistemática para llegar a conclusiones lógicas y coherentes. Implica utilizar principios y reglas de lógica para estructurar argumentos y tomar decisiones informadas. Por ejemplo, si alguien afirma que \"si lloviera, la calle estaría mojada\", un razonamiento lógico podría ser \"entonces, si la calle está mojada, significa que debió llover\". Esto requiere utilizar reglas de inferencia para pasar de una premisa a una conclusión lógica.",
       "fecha": "2025-12-28T21:21:15.917Z"
+    },
+    {
+      "pregunta": "¿Cómo funciona la comprensión del contexto?",
+      "respuesta": "La comprensión del contexto es la habilidad de analizar y entender el significado de un texto, imagen o situación en función del entorno en el que se encuentra. Implica considerar factores como el momento histórico, la cultura, el idioma y la información previa para interpretar el mensaje de manera precisa. Por ejemplo, si se lee una oración en la que se menciona un evento histórico en el siglo XIX, es necesario contextualizarla para comprender su importancia y significado en ese momento específico.",
+      "fecha": "2025-12-28T21:21:23.704Z"
     }
   ],
-  "ultimaActualizacion": 1766956875920,
-  "preguntasHechas": 369
+  "ultimaActualizacion": 1766956883705,
+  "preguntasHechas": 370
 }
