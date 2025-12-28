@@ -1,5 +1,5 @@
 {
-  "iq": 601,
+  "iq": 607,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1381,7 +1381,18 @@
     "conectivo",
     "similar",
     "curso",
-    "profunda"
+    "profunda",
+    "desafiar",
+    "vacíos",
+    "basadas",
+    "periódico",
+    "individuo",
+    "aceptaría",
+    "verdadera",
+    "consideraría",
+    "implicaciones",
+    "informada",
+    "reflexiva"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1925,8 +1936,13 @@
       "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
       "respuesta": "Las metáforas son un tipo de figura retórica que consiste en comparar dos conceptos o ideas sin utilizar el conectivo \"como\" o \"similar a\". Por ejemplo, la metáfora \"la vida es un viaje\" no es una comparación literal, sino una representación de la idea de que la vida tiene un curso y un destino, como un viaje. Esta metáfora nos permite comprender la vida de manera más profunda y visual.",
       "fecha": "2025-12-28T19:17:34.201Z"
+    },
+    {
+      "pregunta": "¿Qué es el pensamiento crítico?",
+      "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar información de manera objetiva, considerando múltiples perspectivas y argumentos. Implica cuestionar y desafiar suposiciones, identificar sesgos y vacíos de información, y tomar decisiones informadas basadas en evidencia sólida. Por ejemplo, al leer un artículo en un periódico, un individuo con pensamiento crítico no solo aceptaría la información como verdadera, sino que también consideraría la fuente, la metodología utilizada y las posibles implicaciones de los resultados. Esto le permite tomar una decisión más informada y reflexiva.",
+      "fecha": "2025-12-28T19:17:42.319Z"
     }
   ],
-  "ultimaActualizacion": 1766949454202,
-  "preguntasHechas": 34
+  "ultimaActualizacion": 1766949462320,
+  "preguntasHechas": 35
 }
