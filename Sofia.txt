@@ -1,5 +1,5 @@
 {
-  "iq": 789,
+  "iq": 796,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1611,7 +1611,13 @@
     "sentimos",
     "abrumado",
     "expresamos",
-    "permitimos"
+    "permitimos",
+    "subordinante",
+    "dado",
+    "introduce",
+    "retras",
+    "tráfico",
+    "coordinados"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2350,8 +2356,13 @@
       "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
       "respuesta": "Al expresar emociones de forma efectiva, podemos mejorar nuestras relaciones y comunicación con los demás. Para ello, es importante ser auténtico y genuino en nuestra expresión, utilizando idiomas corporales como la postura y la sonrisa, y también las palabras para describir cómo nos sentimos. Por ejemplo, en lugar de decir \"Estoy bien\", podríamos decir \"Me siento un poco abrumado hoy\". De esta manera, expresamos nuestra emoción y permitimos a los demás responder con empatía y apoyo.",
       "fecha": "2025-12-28T19:27:06.298Z"
+    },
+    {
+      "pregunta": "¿Cómo se construyen oraciones complejas en español?",
+      "respuesta": "Las oraciones complejas en español se construyen usando subordinantes y coordinantes. El subordinante es una conjunción como \"dado que\", \"ya que\", \"porque\", \"pues\" que introduce una oración subordinada, que depende de otra oración principal. Por ejemplo: \"Llegué tarde porque me retrasé en el tráfico\".\n\nOtra forma de construir oraciones complejas es utilizando coordinantes como \"y\", \"o\", \"pero\", \"ni\" entre oraciones principales. Por ejemplo: \"Me gusta leer y escribir\".\n\nTambién se puede utilizar subordinantes coordinados para unir dos oraciones subordinadas, como \"ya que\" y \"porque\", y luego conectar esto con la oración principal.",
+      "fecha": "2025-12-28T19:27:17.762Z"
     }
   ],
-  "ultimaActualizacion": 1766950026300,
-  "preguntasHechas": 73
+  "ultimaActualizacion": 1766950037764,
+  "preguntasHechas": 74
 }
