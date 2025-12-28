@@ -1,5 +1,5 @@
 {
-  "iq": 2758,
+  "iq": 2764,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3019,16 +3019,13 @@
     "irnos",
     "refiriéndose",
     "quedarse",
-    "afirmo"
+    "afirmo",
+    "informe",
+    "recordaría"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
-      "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de analizar información, identificar relaciones lógicas y llegar a conclusiones razonables y coherentes. Esto implica utilizar reglas lógicas, como el uso de premisas verdaderas para llegar a conclusiones verdaderas, y evitar falacias lógicas, como pasar de lo particular a lo general sin evidencia. Por ejemplo, si alguien dice \"Juan comió un sandwich y luego se sintió mal\", un razonamiento lógico podría ser \"Es posible que el sandwich fuese la causa de su malestar\".",
-      "fecha": "2025-12-28T21:03:47.753Z"
-    },
     {
       "pregunta": "¿Cuáles son las reglas de la gramática española?",
       "respuesta": "La gramática española es rica y compleja, pero aquí te presento algunas de las reglas básicas:\n\nLa gramática española se basa en los principios de la sintaxis, que se refiere a la estructura y organización de las oraciones. Una oración debe tener un sujeto (la persona o cosa que realiza la acción) y un verbo (la acción que se realiza). Por ejemplo, en la oración \"El perro corre\", \"El perro\" es el sujeto y \"corre\" es el verbo.\n\nTambién es importante recordar las reglas de concordancia, que se refieren a la forma en que los sustantivos y adjetivos se concuerdan con el verbo y con otros sustantivos en la oración. Por ejemplo, en la oración \"El perro es feliz\", el sustantivo \"perro\" es masculino singular y se",
@@ -4023,8 +4020,13 @@
       "pregunta": "¿Cómo se estructura una buena argumentación?",
       "respuesta": "Una buena argumentación se estructura en tres partes fundamentales: la afirmación, la prueba y la conclusión. La afirmación es la proposición que se quiere demostrar o defender, la prueba es la presentación de evidencia o razonamientos que apoyan la afirmación y la conclusión es la conclusión lógica que se deriva del análisis de la prueba. Por ejemplo, si afirmo que \"el ejercicio regular mejora la salud\", la prueba sería presentar estudios científicos que muestran la relación entre el ejercicio y la salud, y la conclusión sería que \"el ejercicio regular es beneficioso para la salud\".",
       "fecha": "2025-12-28T21:45:15.685Z"
+    },
+    {
+      "pregunta": "¿Qué es el pensamiento crítico?",
+      "respuesta": "El pensamiento crítico es la capacidad de analizar, evaluar e interpretar información de manera objetiva y sistemática, identificando fortalezas y debilidades, preguntando por la base de las conclusiones y considerando múltiples perspectivas. Este tipo de pensamiento implica cuestionar suposiciones y creencias, así como evaluar la calidad de la evidencia y los argumentos. Por ejemplo, al leer un artículo o un informe, un persona con pensamiento crítico no solo recordaría los hechos, sino que también analizaría la fuente de la información, la metodología utilizada y las posibles sesgos.",
+      "fecha": "2025-12-28T21:45:23.764Z"
     }
   ],
-  "ultimaActualizacion": 1766958315686,
-  "preguntasHechas": 457
+  "ultimaActualizacion": 1766958323766,
+  "preguntasHechas": 458
 }
