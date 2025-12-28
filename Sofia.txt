@@ -1,5 +1,5 @@
 {
-  "iq": 1807,
+  "iq": 1812,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2499,16 +2499,14 @@
     "parís",
     "torre",
     "eiffel",
-    "priorizarla"
+    "priorizarla",
+    "congruente",
+    "negarlos",
+    "fingir"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo funciona la comprensión del contexto?",
-      "respuesta": "La comprensión del contexto es la capacidad de entender el significado de un texto, una conversación o una situación a través del marco en el que se desarrolla. Implica considerar el entorno, la cultura, la intención y los sentimientos involucrados. Por ejemplo, en una reunión de trabajo, alguien puede decir \"Eso es un buen punto\", lo que podría significar que el punto presentado es interesante o válido, pero también podría significar el contrario dependiendo del tono y la intención de la persona.",
-      "fecha": "2025-12-28T19:40:44.450Z"
-    },
     {
       "pregunta": "¿Cuáles son las reglas de la gramática española?",
       "respuesta": "La gramática española está regida por una serie de reglas que se aplican a la estructura y forma de las palabras, frases y oraciones. Algunas de las reglas más importantes incluyen la declinación de los artículos (el, la, los, las), la conjugación de los verbos (presente, pretérito, futuro, condicional, etc.), la formación de las oraciones (sujeto, predicado, complementos, etc.) y la reglas de acentuación, como la cesura y la sílaba tónica. Por ejemplo, en la oración \"El estudiante estudia en la biblioteca\", \"el\" es el artículo masculino determinado, \"estudiante\" es el sujeto y \"estudia\" es el verbo conjugado en el presente de indicativo.",
@@ -3503,8 +3501,13 @@
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual se refiere a la capacidad de un texto para transmitir una idea o mensaje claro y logico, mediante la conexión lógica entre las ideas y los eventos que se presentan en él. Un texto coherente es aquel que tiene una estructura clara, una organización lógica y una relación clara entre las ideas principales y secundarias. Por ejemplo, un ensayo sobre la importancia de la educación debe comenzar presentando el tema, seguir con la descripción de los beneficios de la educación y concluir con la importancia de priorizarla.",
       "fecha": "2025-12-28T21:08:51.671Z"
+    },
+    {
+      "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
+      "respuesta": "Para expresar emociones de forma efectiva, es importante ser congruente entre lo que sientes y lo que expresas. Esto significa que debes reconocer y aceptar tus sentimientos, en lugar de negarlos o fingir sentir algo que no sientes. Por ejemplo, en lugar de decir \"Estoy bien\" cuando en realidad estás enojado, podrías decir \"Estoy enojado porque...\" y explicar la razón detrás de tu emoción. De esta manera, puedes expresar tus sentimientos de manera clara y respetuosa.",
+      "fecha": "2025-12-28T21:08:59.645Z"
     }
   ],
-  "ultimaActualizacion": 1766956131672,
-  "preguntasHechas": 276
+  "ultimaActualizacion": 1766956139646,
+  "preguntasHechas": 277
 }
