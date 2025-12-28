@@ -1,5 +1,5 @@
 {
-  "iq": 724,
+  "iq": 727,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1549,7 +1549,17 @@
     "comprador",
     "remodel",
     "gusto",
-    "modifica"
+    "modifica",
+    "auténtica",
+    "reflejen",
+    "agredir",
+    "acusar",
+    "eres",
+    "cruel",
+    "hables",
+    "tratar",
+    "amable",
+    "juntos"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2223,8 +2233,13 @@
       "pregunta": "¿Cómo se construyen oraciones complejas en español?",
       "respuesta": "Para construir oraciones complejas en español, debemos utilizar conectores y modificadores que permitan expresar ideas o eventos relacionados entre sí. Un ejemplo de oración compleja es: \"La casa, que estaba vacía, se vendió a un comprador que la remodeló con gusto\".\n\nEsta oración es compleja porque contiene una oración subordinada (que estaba vacía) que modifica a la oración principal (se vendió a un comprador). El conector \"que\" permite conectar las dos ideas.",
       "fecha": "2025-12-28T19:25:20.427Z"
+    },
+    {
+      "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
+      "respuesta": "Expresar emociones de manera efectiva implica comunicar de manera clara, respetuosa y auténtica tus sentimientos y necesidades. Para ello, es importante ser consciente de tus emociones y utilizar palabras y acciones que reflejen tus sentimientos de manera directa, sin agredir o acusar a los demás. Por ejemplo, en lugar de decir \"Eres muy cruel\", podrías decir \"Me duele que me hables de esa manera, ¿puedes tratar de ser más amable?\" o \"Me siento frustrado con la situación, ¿podemos encontrar una solución juntos?\".",
+      "fecha": "2025-12-28T19:25:28.311Z"
     }
   ],
-  "ultimaActualizacion": 1766949920428,
-  "preguntasHechas": 60
+  "ultimaActualizacion": 1766949928312,
+  "preguntasHechas": 61
 }
