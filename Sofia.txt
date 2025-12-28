@@ -1,5 +1,5 @@
 {
-  "iq": 1005,
+  "iq": 1009,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1837,7 +1837,19 @@
     "producto",
     "investigar",
     "interés",
-    "completa"
+    "completa",
+    "comunicativa",
+    "percepción",
+    "visualizar",
+    "existencia",
+    "aventura",
+    "altibajos",
+    "cesar",
+    "miedo",
+    "peso",
+    "oprimir",
+    "enriquecen",
+    "expresarnos"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2796,8 +2808,13 @@
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar información de manera objetiva y lógica, considerando múltiples perspectivas y fuentes para llegar a conclusiones informadas. Esto implica cuestionar suposiciones, identificar sesgos y equilibrar la evidencia con las opiniones personales. Por ejemplo, al leer un artículo que afirma que un producto es eficaz, un pensamiento crítico implicaría investigar la fuente, verificar las pruebas y considerar posibles sesgos de interés o perspectiva. De esta manera, se puede llegar a una comprensión más completa y precisa de la realidad.",
       "fecha": "2025-12-28T20:13:49.561Z"
+    },
+    {
+      "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
+      "respuesta": "Las metáforas son una herramienta literaria y comunicativa que consiste en comparar dos conceptos o ideas que no están relacionados de manera directa, para crear una nueva percepción o entender mejor una idea compleja. Por ejemplo, la metáfora \"Vida es un viaje\" nos ayuda a visualizar la existencia como una aventura con sus altibajos y desafíos. Algunas otras metáforas comunes son \"el tiempo es un río\" (que fluye sin cesar) o \"el miedo es un peso\" (que puede oprimir). Estas metáforas enriquecen nuestra forma de expresarnos y de entender el mundo que nos rodea.",
+      "fecha": "2025-12-28T20:13:56.718Z"
     }
   ],
-  "ultimaActualizacion": 1766952829562,
-  "preguntasHechas": 117
+  "ultimaActualizacion": 1766952843527,
+  "preguntasHechas": 118
 }
