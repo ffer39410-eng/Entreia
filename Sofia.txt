@@ -1,5 +1,5 @@
 {
-  "iq": 464,
+  "iq": 468,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1213,7 +1213,15 @@
     "vino",
     "hago",
     "comprensibles",
-    "pensamientos"
+    "pensamientos",
+    "intención",
+    "feliz",
+    "alegre",
+    "describen",
+    "emoción",
+    "positiva",
+    "pequeño",
+    "tamaños"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1622,8 +1630,13 @@
       "pregunta": "¿Cuáles son las reglas de la gramática española?",
       "respuesta": "La gramática española es la base del lenguaje y se compone de varias reglas que rigen la estructura y el uso de las palabras. Algunas de las reglas más importantes incluyen:\n\n- El uso de los artículos (el, la, los, las) antes de los sustantivos.\n- La concordancia de género y número entre el sustantivo y la adjetivación.\n- El uso de los verbos en pasado (fue, vino) y en presente (soy, hago).\n\nEstas reglas ayudan a crear oraciones claras y comprensibles que expresan ideas y pensamientos de manera efectiva.",
       "fecha": "2025-12-28T19:11:27.034Z"
+    },
+    {
+      "pregunta": "¿Qué son los sinónimos y antónimos?",
+      "respuesta": "Los sinónimos son palabras o expresiones que tienen el mismo significado o intención que otra palabra o expresión. Por ejemplo, \"feliz\" y \"alegre\" son sinónimos, ya que describen la misma emoción positiva. \n\nPor otro lado, los antónimos son palabras o expresiones que tienen un significado opuesto a otra palabra o expresión. Por ejemplo, \"grande\" y \"pequeño\" son antónimos, ya que describen tamaños opuestos.",
+      "fecha": "2025-12-28T19:11:35.119Z"
     }
   ],
-  "ultimaActualizacion": 1766949087035,
-  "preguntasHechas": 7
+  "ultimaActualizacion": 1766949095121,
+  "preguntasHechas": 8
 }
