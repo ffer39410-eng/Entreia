@@ -1,5 +1,5 @@
 {
-  "iq": 1876,
+  "iq": 1879,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2522,16 +2522,16 @@
     "comodidad",
     "avión",
     "tren",
-    "defectuosas"
+    "defectuosas",
+    "consisten",
+    "similares",
+    "fiesta",
+    "celestial",
+    "asociaciones"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué es la coherencia textual?",
-      "respuesta": "La coherencia textual se refiere a la propiedad de un texto de ser lógico, claro y fácil de seguir. Implica que las ideas y oraciones están relacionadas entre sí de manera natural y consecuente, permitiendo al lector entender el contenido sin dificultades. Por ejemplo, en un texto informativo sobre la historia de una ciudad, la coherencia textual se lograría si se presentaran los acontecimientos de manera cronológica y lógica. De esta manera, el lector puede seguir fácilmente la secuencia de los acontecimientos.",
-      "fecha": "2025-12-28T19:59:39.740Z"
-    },
     {
       "pregunta": "¿Cómo se construyen oraciones complejas en español?",
       "respuesta": "Las oraciones complejas en español se construyen mediante la unión de dos oraciones sencillas, independientes, mediante una conjunción subordinante, como \"ya que\", \"pues\", \"dado que\", \"ya que\", etc., o mediante una subordinada sustantiva, como \"cuando\", \"mientras\", \"aunque\", etc. Por ejemplo: \"Estudié toda la noche (oración principal) porque tenía un examen importante (oración subordinada)\".",
@@ -3526,8 +3526,13 @@
       "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
       "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de pensar de manera sistemática y coherente al discutir y resolver problemas. Implica analizar información, identificar patrones y relaciones, y llegar a conclusiones lógicas. Por ejemplo, si estás discutiendo con alguien sobre la mejor forma de viajar a un lugar, un razonamiento lógico podría implicar analizar los costos, el tiempo de viaje y la comodidad de diferentes opciones, como un avión, un tren o un coche.\n\nEl razonamiento lógico también incluye la capacidad de evaluar argumentos, identificar falacias y lógicas defectuosas, y defender una posición de manera convincente. Esto requiere pensamiento crítico, claridad en la comunicación y la capacidad de responder a preguntas y objeciones.",
       "fecha": "2025-12-28T21:10:27.711Z"
+    },
+    {
+      "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
+      "respuesta": "Las metáforas son una forma de lenguaje que consisten en comparar dos conceptos o ideas que no son similares de manera directa, utilizando palabras o frases que describen una cosa como si fuera otra. Por ejemplo, \"ella es un sol en la fiesta\" o \"su voz es una música celestial\". Esta forma de lenguaje permite crear imágenes y asociaciones en la mente del oyente o lector, lo que puede hacer que la comunicación sea más interesante y efectiva. Al utilizar metáforas, podemos expresar complejidades y emociones de manera más creativa y convincente.",
+      "fecha": "2025-12-28T21:10:35.958Z"
     }
   ],
-  "ultimaActualizacion": 1766956227713,
-  "preguntasHechas": 288
+  "ultimaActualizacion": 1766956235959,
+  "preguntasHechas": 289
 }
