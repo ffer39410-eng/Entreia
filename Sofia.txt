@@ -1,5 +1,5 @@
 {
-  "iq": 1794,
+  "iq": 1797,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2491,16 +2491,14 @@
     "sentencias",
     "serial",
     "histórica",
-    "ejemplificar"
+    "ejemplificar",
+    "crónica",
+    "travesía",
+    "ordenada"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo se construyen oraciones complejas en español?",
-      "respuesta": "Las oraciones complejas en español se construyen usando subordinantes y coordinantes. El subordinante es una conjunción como \"dado que\", \"ya que\", \"porque\", \"pues\" que introduce una oración subordinada, que depende de otra oración principal. Por ejemplo: \"Llegué tarde porque me retrasé en el tráfico\".\n\nOtra forma de construir oraciones complejas es utilizando coordinantes como \"y\", \"o\", \"pero\", \"ni\" entre oraciones principales. Por ejemplo: \"Me gusta leer y escribir\".\n\nTambién se puede utilizar subordinantes coordinados para unir dos oraciones subordinadas, como \"ya que\" y \"porque\", y luego conectar esto con la oración principal.",
-      "fecha": "2025-12-28T19:27:17.762Z"
-    },
     {
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras que indican la relación entre un sustantivo y otro en una oración, expresando lugares, direcciones, relaciones, tiempo, cantidad, etc. Ejemplos de preposiciones son: \"en\", \"de\", \"para\", \"con\", \"sin\", \"bajo\", entre otros. Por ejemplo: \"Estoy sentado en la mesa\" o \"El libro está sobre la mesa\". Las preposiciones nos ayudan a precisar y enriquecer la significación de las oraciones y a proporcionar más información sobre los conceptos y acciones que se describen.",
@@ -3495,8 +3493,13 @@
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es la capacidad de analizar, evaluar y sintetizar la información, y de tomar decisiones informadas basadas en evidencia y razonamiento lógico. Implica cuestionar suposiciones, identificar sesgos y prejuicios, y considerar múltiples perspectivas para llegar a conclusiones bien fundadas. Por ejemplo, un estudiante que analiza una fuente histórica crítica y considera múltiples interpretaciones puede ejemplificar pensamiento crítico.",
       "fecha": "2025-12-28T21:08:27.644Z"
+    },
+    {
+      "pregunta": "¿Qué es la coherencia textual?",
+      "respuesta": "La coherencia textual se refiere a la capacidad de un texto para mantener una conexión lógica y clara entre las diferentes ideas y oraciones, asegurando que el lector pueda seguir el hilo del argumento o narrativa con facilidad. Ejemplo: Una crónica de viaje que describe una travesía por varios países debe mantener una coherencia textual al presentar los diferentes lugares y experiencias de manera ordenada y lógica. Esto se logra mediante la utilización de conectivos, transiciones y un enlace claro entre las ideas.",
+      "fecha": "2025-12-28T21:08:35.673Z"
     }
   ],
-  "ultimaActualizacion": 1766956107646,
-  "preguntasHechas": 273
+  "ultimaActualizacion": 1766956115675,
+  "preguntasHechas": 274
 }
