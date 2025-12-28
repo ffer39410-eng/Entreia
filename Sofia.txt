@@ -1,5 +1,5 @@
 {
-  "iq": 665,
+  "iq": 668,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1481,7 +1481,17 @@
     "registro",
     "compañía",
     "clarificar",
-    "seres"
+    "seres",
+    "logico",
+    "incluye",
+    "conectados",
+    "pueda",
+    "presenta",
+    "contengan",
+    "puedan",
+    "confundir",
+    "académica",
+    "contenidos"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2095,8 +2105,13 @@
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras que se utilizan para indicar la relación entre un sustantivo y otro, o entre un sustantivo y un verbo. Por ejemplo, la preposición \"en\" indica un lugar o una situación, como en la oración \"Estoy en la casa\". La preposición \"con\" indica una acción o una compañía, como en la oración \"Voy con mis amigos al cine\". Las preposiciones ayudan a clarificar el significado de las oraciones y a proporcionar información sobre la ubicación, la acción o el estado de los seres o objetos.",
       "fecha": "2025-12-28T19:23:44.335Z"
+    },
+    {
+      "pregunta": "¿Qué es la coherencia textual?",
+      "respuesta": "La coherencia textual se refiere a la capacidad de un texto para transmitir una idea o un mensaje claro y logico, sin confusiones o contradicciones entre sus diferentes partes. Esto incluye la relación entre las ideas, las oraciones y los párrafos, que deben estar bien conectados para que el lector pueda seguir el flujo de pensamiento de manera fácil.\n\nPor ejemplo, si se presenta un argumento en un texto, la coherencia textual implica que la introducción, el desarrollo y la conclusión estén bien relacionadas y no contengan errores o contradicciones que puedan confundir al lector.\n\nLa coherencia textual es fundamental en la escritura académica, ya que ayuda a los lectores a entender y recordar los contenidos.",
+      "fecha": "2025-12-28T19:23:52.302Z"
     }
   ],
-  "ultimaActualizacion": 1766949824336,
-  "preguntasHechas": 48
+  "ultimaActualizacion": 1766949832304,
+  "preguntasHechas": 49
 }
