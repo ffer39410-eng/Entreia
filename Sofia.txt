@@ -1,5 +1,5 @@
 {
-  "iq": 978,
+  "iq": 983,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1808,7 +1808,13 @@
     "tercera",
     "regulares",
     "agregando",
-    "terminaciones"
+    "terminaciones",
+    "hilo",
+    "relato",
+    "garantiza",
+    "desarrollado",
+    "orgánica",
+    "todo"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2737,8 +2743,13 @@
       "pregunta": "¿Cuáles son las reglas de la gramática española?",
       "respuesta": "La gramática española se basa en un conjunto de reglas que rigen la estructura y el uso de la lengua. Algunas de las reglas básicas incluyen la declinación de los artículos (el, la, los, las), la conjugación de los verbos (indicativo, subjuntivo, imperativo), la formación de los nombres y adjetivos (plural, positivo, comparativo, superlativo), y la utilización de las preposiciones (de, en, con, etc.).\n\nPor ejemplo, en la declinación de los artículos, el artículo \"el\" se utiliza para referirse a animales masculinos, mientras que \"la\" se utiliza para referirse a animales femeninos. En la conjugación de verbos, la tercera persona del presente de indicativo de los verbos regulares se forma agregando las terminaciones \"-o\", \"-as\", \"-a",
       "fecha": "2025-12-28T20:12:21.855Z"
+    },
+    {
+      "pregunta": "¿Qué es la coherencia textual?",
+      "respuesta": "La coherencia textual se refiere a la capacidad de un texto para mantener una relación lógica y clara entre sus ideas y conceptos, asegurando que el lector pueda seguir el hilo de la argumentación o relato de manera fluida y sin confusiones. Esto implica una estructura clara, una transición lógica entre las oraciones y un lenguaje preciso. Por ejemplo, en un ensayo, la coherencia textual garantiza que el tema principal sea desarrollado de manera orgánica y coherente a lo largo de todo el texto.",
+      "fecha": "2025-12-28T20:12:32.254Z"
     }
   ],
-  "ultimaActualizacion": 1766952743675,
-  "preguntasHechas": 111
+  "ultimaActualizacion": 1766952752255,
+  "preguntasHechas": 112
 }
