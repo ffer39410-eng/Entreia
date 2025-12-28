@@ -1,5 +1,5 @@
 {
-  "iq": 1899,
+  "iq": 1905,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2536,16 +2536,18 @@
     "proporcionan",
     "fruta",
     "ando",
-    "viene"
+    "viene",
+    "guían",
+    "generalmente",
+    "coloca",
+    "inicio",
+    "nouns",
+    "conjugaciones",
+    "excepciones"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué es el pensamiento crítico?",
-      "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar información, ideas y argumentos de manera objetiva y lógica, identificando tanto los aspectos positivos como los negativos. Esto implica cuestionar suposiciones, considerar diferentes perspectivas y utilizar evidencia para tomar decisiones informadas. Por ejemplo, al leer un artículo periodístico, un pensador crítico analizaría la fuente, la objetividad del autor y la calidad de la evidencia presentada.",
-      "fecha": "2025-12-28T20:00:12.280Z"
-    },
     {
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual se refiere a la capacidad de un texto para transmitir una idea o mensaje claro y lógico, gracias a la conexión entre las ideas, oraciones y palabras que lo componen. Esto implica que cada sección o idea del texto esté relacionada con las anteriores y las posteriores de manera natural y lógica. Por ejemplo, en un ensayo sobre la importancia de la educación, la coherencia textual se logra cuando cada oración o párrafo se enfoca en una idea relacionada con la educación, creando un flujo lógico y fácil de seguir.",
@@ -3540,8 +3542,13 @@
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras que se utilizan para indicar la relación entre un sustantivo o pronombre y otro elemento en la oración, como un lugar, una acción, un tiempo o una manera. Sirven para establecer la conexión entre esos elementos y proporcionan información adicional sobre la acción o situación descrita. Por ejemplo, en la oración \"El libro está sobre la mesa\", la preposición \"sobre\" indica la relación entre el libro y la mesa.\n\nAlgunas de las preposiciones más comunes en español son:\n\n- En: \"El libro está en la biblioteca\".\n- De: \"La fruta es de la tierra\".\n- Con: \"Ando con mis amigos\".\n- Desde: \"Viene desde la ciudad\".\n- Hasta: \"Voy hasta el parque\".\n- Por: \"Vivo por la ciudad\".\n- Para: \"Voy para la universidad\".\n\nEstas son solo algunas",
       "fecha": "2025-12-28T21:10:59.782Z"
+    },
+    {
+      "pregunta": "¿Cuáles son las reglas de la gramática española?",
+      "respuesta": "La gramática española se rige por una serie de reglas y principios que guían la construcción de las oraciones y la forma en que se expresan las ideas. Algunas de las reglas fundamentales incluyen:\n\n- El orden de las palabras: en español, el sujeto generalmente se coloca al inicio de la oración seguido por el verbo y luego los complementos.\n- El género y el número: los nouns y adjetivos en español tienen género (masculino o femenino) y número (singular o plural).\n- Los verbos: los verbos en español tienen diferentes conjugaciones según la persona, el tiempo y el modo en que se expresan.\n\nPor ejemplo: \"El (sujeto) come (verbo) una manzana (complemento)\".\nRecuerda que estas reglas son solo las más básicas, y hay muchas otras reglas y excepciones en",
+      "fecha": "2025-12-28T21:11:07.849Z"
     }
   ],
-  "ultimaActualizacion": 1766956259784,
-  "preguntasHechas": 292
+  "ultimaActualizacion": 1766956267850,
+  "preguntasHechas": 293
 }
