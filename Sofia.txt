@@ -1,5 +1,5 @@
 {
-  "iq": 468,
+  "iq": 473,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1221,7 +1221,13 @@
     "emoción",
     "positiva",
     "pequeño",
-    "tamaños"
+    "tamaños",
+    "sistemática",
+    "todos",
+    "robots",
+    "inteligentes",
+    "robot",
+    "concluir"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1635,8 +1641,13 @@
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "Los sinónimos son palabras o expresiones que tienen el mismo significado o intención que otra palabra o expresión. Por ejemplo, \"feliz\" y \"alegre\" son sinónimos, ya que describen la misma emoción positiva. \n\nPor otro lado, los antónimos son palabras o expresiones que tienen un significado opuesto a otra palabra o expresión. Por ejemplo, \"grande\" y \"pequeño\" son antónimos, ya que describen tamaños opuestos.",
       "fecha": "2025-12-28T19:11:35.119Z"
+    },
+    {
+      "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
+      "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de pensar de manera sistemática y coherente al expresar ideas y argumentos. Implica establecer conexiones lógicas entre pensamientos, evitar contradicciones y utilizar evidencia para apoyar afirmaciones. Por ejemplo, cuando alguien dice \"Si todos los robots son inteligentes, y este robot es inteligente, entonces debemos concluir que es un robot\". Este tipo de razonamiento ayuda a evitar confusiones y a llegar a conclusiones precisas.",
+      "fecha": "2025-12-28T19:14:21.206Z"
     }
   ],
-  "ultimaActualizacion": 1766949095121,
-  "preguntasHechas": 8
+  "ultimaActualizacion": 1766949261682,
+  "preguntasHechas": 9
 }
