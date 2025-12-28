@@ -1,5 +1,5 @@
 {
-  "iq": 1026,
+  "iq": 1038,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1858,7 +1858,13 @@
     "orientación",
     "espacio",
     "indicando",
-    "reciprocidad"
+    "reciprocidad",
+    "desde",
+    "hasta",
+    "nearly",
+    "soliloquio",
+    "ciertos",
+    "interior"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2837,8 +2843,18 @@
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras que indican la relación entre un sustantivo o un grupo de palabras y otro sustantivo o grupo de palabras, o bien la orientación en el espacio o el tiempo. Algunas ejemplos de preposiciones comunes son \"en\", \"de\", \"con\", \"para\", \"sobre\", \"bajo\", \"dentro de\", etc. Por ejemplo: \"Ella está en la biblioteca\" (indicando ubicación), o \"Le doy el libro a él\" (indicando reciprocidad).",
       "fecha": "2025-12-28T20:15:35.485Z"
+    },
+    {
+      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
+      "respuesta": "Las preposiciones son palabras que indican la relación entre un sustantivo y otros elementos de la oración, como lugares, direcciones, tiempo, cantidad, etc. Por ejemplo: \"La biblioteca está en la calle principal\" (en indica la relación entre la calle y la ubicación de la biblioteca). \n\nEstas palabras nos ayudan a crear oraciones más precisas y claras, y permiten describir las relaciones entre los diferentes elementos de una escena o situación. Las preposiciones comunes incluyen de, en, con, bajo, sobre, desde, hasta, etc.",
+      "fecha": "2025-12-28T20:15:43.466Z"
+    },
+    {
+      "pregunta": "¿Qué son los sinónimos y antónimos?",
+      "respuesta": "Excelente pregunta. Los sinónimos son palabras que tienen el mismo significado o nearly el mismo significado que otra palabra. Por ejemplo, \"sol\" y \"soliloquio\" son sinónimos en ciertos contextos, aunque \"soliloquio\" es más específico y se refiere a una conversación interior. Los antónimos, por otro lado, son palabras que tienen significados opuestos. Por ejemplo, \"grande\" y \"pequeño\" son antónimos, al igual que \"feliz\" y \"triste\".",
+      "fecha": "2025-12-28T20:15:48.511Z"
     }
   ],
-  "ultimaActualizacion": 1766952935486,
-  "preguntasHechas": 121
+  "ultimaActualizacion": 1766952953244,
+  "preguntasHechas": 123
 }
