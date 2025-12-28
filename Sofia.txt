@@ -1,5 +1,5 @@
 {
-  "iq": 503,
+  "iq": 508,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1258,7 +1258,13 @@
     "contrastar",
     "combinando",
     "coordenada",
-    "llegues"
+    "llegues",
+    "incompatibles",
+    "resulten",
+    "interesantes",
+    "fáciles",
+    "recordar",
+    "destacar"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1707,8 +1713,13 @@
       "pregunta": "¿Cómo se construyen oraciones complejas en español?",
       "respuesta": "Una oración compleja en español se construye combinando una oración simple con una subordinada o una coordenada. Por ejemplo: \"Me alegra que llegues a tiempo\" (aquí \"que llegues a tiempo\" es una subordinada) o \"Me alegra que llegues a tiempo y estés listo para comenzar\" (aquí \"que llegues a tiempo\" es una subordinada y \"estés listo para comenzar\" es una coordinada).",
       "fecha": "2025-12-28T19:15:02.371Z"
+    },
+    {
+      "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
+      "respuesta": "Las metáforas son una figura retórica que consiste en comparar dos conceptos incompatibles con el fin de crear una nueva comprensión o descripción. Se utilizan en el lenguaje para hacer que las ideas resulten más interesantes y fáciles de recordar. Por ejemplo, \"Ella es una estrella en el cielo de la música\" es una metáfora que compara a una persona con una estrella para destacar su talento.",
+      "fecha": "2025-12-28T19:15:10.155Z"
     }
   ],
-  "ultimaActualizacion": 1766949302372,
-  "preguntasHechas": 15
+  "ultimaActualizacion": 1766949310156,
+  "preguntasHechas": 16
 }
