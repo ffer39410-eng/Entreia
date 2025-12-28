@@ -1,5 +1,5 @@
 {
-  "iq": 1322,
+  "iq": 1328,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2129,16 +2129,20 @@
     "amigable",
     "larga",
     "vivo",
-    "profesor"
+    "profesor",
+    "innovadoras",
+    "experiencias",
+    "amor",
+    "incendio",
+    "pasión",
+    "intensa",
+    "ardiente",
+    "descripciones",
+    "ricas"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué es la coherencia textual?",
-      "respuesta": "La coherencia textual se refiere a la capacidad de un texto para mantener una conexión lógica y coherente entre sus diferentes partes, como las oraciones, párrafos y secciones. Esto se logra mediante la utilización de estructuras de contenido, transiciones y conectores que ayudan a unir ideas y conceptos de manera clara y lógica. Por ejemplo, en un ensayo, la coherencia textual se puede lograr mediante la presentación de ideas principales y secundarias de manera sucesiva. La coherencia también se refiere a la consistencia en el lenguaje y el estilo utilizado a lo largo del texto.",
-      "fecha": "2025-12-28T19:07:45.225Z"
-    },
     {
       "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
       "respuesta": "La expresión de emociones de forma efectiva es fundamental para mejorar las relaciones interpersonales y comunicarnos con claridad. Para lograrlo, debemos ser auténticos y reconocer nuestras emociones, pero también saber expresarlas de manera adecuada y no invasiva. Por ejemplo, en lugar de gritar o llorar abiertamente, podemos expresar nuestras emociones de manera más controlada, como diciendo \"Me siento frustrado\" o \"Me duele ver esto\". De esta manera, podemos comunicar nuestras emociones sin hacer que los demás se sientan incómodos o amenazados.",
@@ -3133,8 +3137,13 @@
       "pregunta": "¿Cómo se usa la puntuación correctamente?",
       "respuesta": "La puntuación es esencial para comunicar ideas de manera clara y efectiva en la escritura y la lectura. Utiliza comas para separar elementos en una oración larga, como en el caso de \"Vivo en Madrid, donde trabajo como profesor\". Utiliza puntos para separar ideas o oraciones independientes, como en el caso de \"Me encanta leer. Me gusta escribir también\". Los signos de interrogación y exclamación se utilizan para expresar sorpresa o emoción, como en el caso de \"¿Qué hora es?\" o \"¡Estoy emocionado!\".",
       "fecha": "2025-12-28T20:39:23.698Z"
+    },
+    {
+      "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
+      "respuesta": "Las metáforas son figuras literarias que permiten crear conexiones innovadoras entre conceptos y experiencias diferentes, permitiendo expresar ideas complejas de manera más clara y vívida. Se usan para describir objetos, sentimientos o ideas de manera creativa, como en la metáfora \"el amor es un incendio\" que sugiere una pasión intensa y ardiente. Las metáforas pueden ser verbales o visuales, y se encuentran en la literatura, la poesía y el lenguaje cotidiano. Al usar metáforas, se pueden crear descripciones más ricas y significativas, como en la frase \"la vida es un viaje\".",
+      "fecha": "2025-12-28T20:40:36.899Z"
     }
   ],
-  "ultimaActualizacion": 1766954363699,
-  "preguntasHechas": 180
+  "ultimaActualizacion": 1766954436900,
+  "preguntasHechas": 181
 }
