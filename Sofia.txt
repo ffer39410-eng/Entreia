@@ -1,5 +1,5 @@
 {
-  "iq": 2391,
+  "iq": 2394,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2849,11 +2849,6 @@
   "conversaciones": 6,
   "conocimiento": [
     {
-      "pregunta": "¿Cómo se estructura una buena argumentación?",
-      "respuesta": "Una buena argumentación se estructura en tres partes fundamentales: la tesis, la base y la conclusión. La tesis es el enunciado principal, la base son los hechos, datos y razones que respaldan la tesis, y la conclusión es la conclusión lógica que se deriva de la base. Por ejemplo, si estás discutiendo sobre la importancia de la educación para el desarrollo económico, tu tesis podría ser \"La educación es fundamental para el desarrollo económico\". La base podría ser un estudio que muestra que los países con alta tasa de alfabetización tienen un PIB mayor. La conclusión sería \"Por lo tanto, es crucial invertir en la educación para impulsar el crecimiento económico\".",
-      "fecha": "2025-12-28T20:41:23.765Z"
-    },
-    {
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual se refiere a la capacidad de un texto para presentar una idea o mensaje claro y cohesionado, donde la estructura y los elementos lingüísticos trabajan juntos para transmitir un significado unificado. Esto se logra mediante la concordancia entre las ideas, la relación entre las oraciones y la utilización de conectores lingüísticos. Por ejemplo, en un texto, una idea se desarrolla lógicamente a partir de la anterior, creando una narrativa coherente.",
       "fecha": "2025-12-28T20:41:31.646Z"
@@ -3847,8 +3842,13 @@
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar información de manera objetiva, pensando de manera lógica y detallada. Esto implica cuestionar suposiciones, identificar prejuicios y considerar múltiples perspectivas. Por ejemplo, cuando se lee una noticia, el pensamiento crítico implica buscar fuentes confiables, verificar la veracidad de los hechos y considerar posibles sesgos. Esto nos permite tomar decisiones informadas y evitar ser influenciados por información engañosa.",
       "fecha": "2025-12-28T21:23:31.762Z"
+    },
+    {
+      "pregunta": "¿Qué son los sinónimos y antónimos?",
+      "respuesta": "Los sinónimos son palabras o expresiones que tienen el mismo significado o referencia, pero pueden variar en su tono o estilo. Por ejemplo, las palabras \"largo\" y \"extenso\" son sinónimos porque se refieren a algo que tiene una gran cantidad de tiempo o espacio. \n\nLos antónimos, por otra parte, son palabras o expresiones que tienen significados opuestos. Por ejemplo, las palabras \"cálido\" y \"frío\" son antónimos porque se refieren a dos estados de temperatura diferentes.",
+      "fecha": "2025-12-28T21:23:39.694Z"
     }
   ],
-  "ultimaActualizacion": 1766957011764,
-  "preguntasHechas": 386
+  "ultimaActualizacion": 1766957019695,
+  "preguntasHechas": 387
 }
