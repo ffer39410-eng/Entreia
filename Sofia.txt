@@ -1,5 +1,5 @@
 {
-  "iq": 408,
+  "iq": 411,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1100,7 +1100,19 @@
     "solidaridad",
     "nimo",
     "aliento",
-    "positivas"
+    "positivas",
+    "conocimiento",
+    "profesión",
+    "cirugía",
+    "biopsia",
+    "procedimientos",
+    "cansado",
+    "ilustrativo",
+    "pantalla",
+    "tecnológico",
+    "dispositivo",
+    "digital",
+    "televisión"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1449,8 +1461,13 @@
       "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
       "respuesta": "Para expresar emociones de forma efectiva, es importante ser auténtico y honesto al mismo tiempo. Puedes utilizar gestos corporales como sonreír o mantener contacto visual para mostrar que te importa la otra persona. Por ejemplo, si alguien te cuenta algo triste, puedes poner una mano en el hombro o darle un abrazo para demostrar apoyo y solidaridad. Además, utilizar palabras de ánimo y aliento también puede ayudar a expresar emociones positivas.",
       "fecha": "2025-12-28T19:09:37.069Z"
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
+      "respuesta": "El vocabulario técnico se refiere a términos y expresiones especializados utilizados en un campo de conocimiento o profesión específica, como la medicina o la ingeniería. Por ejemplo, un médico utiliza términos como \"cirugía\" o \"biopsia\" para describir procedimientos. En cambio, el vocabulario coloquial se refiere a palabras y expresiones comunes que se utilizan en la conversación diaria, como \"estoy cansado\" o \"me encanta\".\n\nUn ejemplo ilustrativo es la palabra \"pantalla\". En el contexto tecnológico, se refiere a la pantalla de un dispositivo digital, mientras que en un contexto coloquial, la palabra \"pantalla\" se utiliza para describir una pantalla de televisión o un cine.",
+      "fecha": "2025-12-28T19:09:45.141Z"
     }
   ],
-  "ultimaActualizacion": 1766948977072,
+  "ultimaActualizacion": 1766948985142,
   "preguntasHechas": null
 }
