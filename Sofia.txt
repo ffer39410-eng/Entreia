@@ -1,5 +1,5 @@
 {
-  "iq": 2488,
+  "iq": 2494,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2901,11 +2901,6 @@
   "conversaciones": 6,
   "conocimiento": [
     {
-      "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
-      "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de analizar y evaluar información, llegar a conclusiones lógicas y mantener una argumentación coherente. Implica utilizar principios de lógica, como la causalidad, la correlación y la analogía, para llegar a una conclusión razonable. Por ejemplo, si alguien afirma que \"cuanto más se bebe café, más energético se siente\", un razonamiento lógico podría ser \"si bebo café, me siento más energético, por lo que parece que el café me ayuda a sentirme más energético\".",
-      "fecha": "2025-12-28T20:45:07.626Z"
-    },
-    {
       "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
       "respuesta": "Expresar emociones de forma efectiva es fundamental para comunicarte de manera clara y respetuosa con los demás. Puedes expresar tus emociones de manera efectiva utilizando palabras claras y concisas, como \"Me alegra verte\", \"Me siento triste por la pérdida\", o \"Estoy enfadado con la situación, pero quiero encontrar una solución\". También puedes utilizar gestos y tonos de voz para reflejar tus emociones. Por ejemplo, un tono de voz calmado y una sonrisa pueden ayudar a tranquilizar a alguien que se siente ansioso.",
       "fecha": "2025-12-28T20:45:15.785Z"
@@ -3899,8 +3894,13 @@
       "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
       "respuesta": "El vocabulario técnico se refiere a la terminología específica utilizada en un campo o industria particular, como por ejemplo la medicina, la tecnología o la ingeniería. Por ejemplo, un médico utiliza términos como \"biopsia\" o \"angiopatía\" para describir procedimientos y condiciones médicas.\n\nPor otro lado, el vocabulario coloquial se refiere a las palabras y frases que se utilizan en la comunicación informal en la vida cotidiana. Por ejemplo, expresiones como \"¿cómo está?\", \"¿te va bien?\" o \"me encanta\" son comunes en la conversación diaria.\n\nEn resumen, el vocabulario técnico es específico y formal, mientras que el vocabulario coloquial es informal y común en la comunicación cotidiana.",
       "fecha": "2025-12-28T21:26:03.690Z"
+    },
+    {
+      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
+      "respuesta": "Las preposiciones son palabras que se utilizan para indicar la relación entre un sustantivo y otros elementos en una oración, como lugar, tiempo, causa, consecuencia, etc. Por ejemplo: \"La biblioteca está en la esquina de la calle\" (aquí \"en\" es una preposición que indica el lugar donde se encuentra la biblioteca). Sirven para especificar la ubicación, dirección, movimiento, tiempo, causa, consecuencia y otros aspectos de los objetos o eventos descritos en una oración.",
+      "fecha": "2025-12-28T21:27:32.416Z"
     }
   ],
-  "ultimaActualizacion": 1766957163692,
-  "preguntasHechas": 405
+  "ultimaActualizacion": 1766957252417,
+  "preguntasHechas": 406
 }
