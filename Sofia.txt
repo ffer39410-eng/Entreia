@@ -1,5 +1,5 @@
 {
-  "iq": 2163,
+  "iq": 2169,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2715,16 +2715,13 @@
     "ceño",
     "enfado",
     "sintiendo",
-    "negro"
+    "negro",
+    "debería",
+    "visitados"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo se estructura una buena argumentación?",
-      "respuesta": "Una buena argumentación se estructura de la siguiente manera: comienza con una afirmación o tesis clara y concisa, seguida de razones y pruebas que respaldan dicha afirmación. Luego, se presentan contrargumentos y respuestas a posibles objeciones, para refutarlas y fortalecer la argumentación. Finalmente, se concluye con una síntesis que resume los puntos clave y reafirma la tesis inicial.",
-      "fecha": "2025-12-28T20:31:31.583Z"
-    },
     {
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "Los sinónimos son palabras que tienen el mismo significado que otra palabra en particular. Por ejemplo, \"feliz\" y \"alegre\" son sinónimos porque describen un estado emocional similar. Los antónimos, por otro lado, son palabras que tienen significados opuestos, como \"fuerte\" y \"débil\".\n\nEjemplo: \"La casa es grande\" y \"La casa es pequeña\" son frases que se podrían considerar antónimas porque expresan conceptos opuestos.\n\nPor ejemplo, el antónimo de \"caliente\" es \"frío\".",
@@ -3719,8 +3716,13 @@
       "pregunta": "¿Cuáles son las reglas de la gramática española?",
       "respuesta": "La gramática española se rige por varias reglas que ayudan a construir oraciones claras y coherentes. Algunas de las reglas más importantes incluyen la concordancia de género y número en los adjetivos y artículos, la forma de construir oraciones simples y compuestas, y la utilización de verbos en diferentes tiempos y modos. Por ejemplo, en la oración \"El gato es negro\", el adjetivo \"negro\" concuerda en género y número con el sustantivo \"gato\".",
       "fecha": "2025-12-28T21:17:47.686Z"
+    },
+    {
+      "pregunta": "¿Qué es la coherencia textual?",
+      "respuesta": "La coherencia textual se refiere a la propiedad de un texto de ser claro, lógico y fácil de seguir en términos de organización y consecuencia de ideas. Implica que cada oración y cada idea se conecta con las anteriores y posteriores de manera lógica y coherente. Por ejemplo, en un texto que describe un viaje, cada oración debería estar relacionada con la anterior, describiendo la secuencia de eventos o lugares visitados.",
+      "fecha": "2025-12-28T21:17:55.822Z"
     }
   ],
-  "ultimaActualizacion": 1766956667689,
-  "preguntasHechas": 343
+  "ultimaActualizacion": 1766956675823,
+  "preguntasHechas": 344
 }
