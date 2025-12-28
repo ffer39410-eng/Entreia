@@ -1,5 +1,5 @@
 {
-  "iq": 2564,
+  "iq": 2568,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2933,16 +2933,12 @@
     "conectado",
     "posterior",
     "pastel",
-    "locura"
+    "locura",
+    "medida"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué es la coherencia textual?",
-      "respuesta": "La coherencia textual se refiere a la capacidad de un texto para transmitir una idea o un mensaje claro y lógico, sin contradicciones ni saltos de pensamiento. Un texto coherente mantiene una conexión lógica entre las ideas y las frases, utilizando conectores, transiciones y estructuras de oración para asegurar una narrativa fluida y fácil de seguir.\n\nPor ejemplo, en un texto de argumentación, la coherencia es fundamental para presentar ideas claras y lógicas, utilizando pruebas y argumentos que se apeguen a una conclusión lógica. Un texto coherente también ayuda a mantener la atención del lector y a evitar la confusión.\n\nAlgunos ejemplos de coherencia textual incluyen el uso de conectores para unir ideas, como \"además\", \"por ejemplo\" o \"sin embargo\", y la descripción detallada de pasos",
-      "fecha": "2025-12-28T20:54:11.852Z"
-    },
     {
       "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
       "respuesta": "El razonamiento lógico en conversaciones es la capacidad de obtener conclusiones lógicas y coherentes a partir de información y argumentos presentados. Implica utilizar principios de lógica y razón para analizar y evaluar la validez de las afirmaciones y argumentos. Por ejemplo, al discutir sobre un tema complejo, un razonamiento lógico podría implicar identificar prejuicios, analizar las causas y efectos, y establecer conexiones lógicas entre ideas.",
@@ -3937,8 +3933,13 @@
       "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
       "respuesta": "Para expresar emociones de forma efectiva, debes ser auténtico y honesto. Utiliza palabras y tonos corporales que reflejen tus sentimientos, como por ejemplo, decir \"Me siento frustrado\" en lugar de \"Eso es una locura\". También es importante escuchar activamente a los demás y validar sus emociones, lo que ayuda a crear un ambiente de comunicación positiva. Por ejemplo, si alguien se siente triste, puedes decir \"Entiendo que te sientas triste\" en lugar de \"No hay razón para estar triste\".",
       "fecha": "2025-12-28T21:31:39.755Z"
+    },
+    {
+      "pregunta": "¿Qué son los sinónimos y antónimos?",
+      "respuesta": "Los sinónimos y antónimos son términos que se utilizan en la lingüística para describir las palabras que tienen una relación semántica con otras.\n\n**Sinónimos**: Son palabras que tienen el mismo significado o nearly el mismo significado que otra palabra. Por ejemplo: \"felicidad\" y \"alegría\" son sinónimos porque expresan un sentimiento positivo.\n\n**Antónimos**: Son palabras que tienen un significado opuesto a otra palabra. Por ejemplo: \"largo\" y \"corto\" son antónimos porque expresan una medida o tamaño opuesto.",
+      "fecha": "2025-12-28T21:31:47.743Z"
     }
   ],
-  "ultimaActualizacion": 1766957499758,
-  "preguntasHechas": 419
+  "ultimaActualizacion": 1766957507744,
+  "preguntasHechas": 420
 }
