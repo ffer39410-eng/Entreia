@@ -1,5 +1,5 @@
 {
-  "iq": 2896,
+  "iq": 2903,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3083,16 +3083,12 @@
     "conciencia",
     "singulares",
     "plurales",
-    "extremos"
+    "extremos",
+    "prolongada"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
-      "respuesta": "Las metáforas son una figura retórica que consiste en comparar dos conceptos diferentes, no equivalentes, para crear una nueva descripción. Por ejemplo, \"la vida es un viaje\" o \"el tiempo es un río\". Esta comparación permite describir emociones o situaciones complejas de manera más clara y comprensible. Las metáforas se usan en la literatura, la poesía, la oratoria y la comunicación cotidiana para crear imágenes mentales y evocar sentimientos en el receptor.",
-      "fecha": "2025-12-28T21:09:55.679Z"
-    },
     {
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son palabras o frases que se utilizan para unir ideas, oraciones o textos entre sí, ayudando a crear una secuencia lógica y clara en la comunicación. Algunos conectores comunes son \"y\", \"pero\", \"sin embargo\", \"por lo tanto\", \"además\" y \"por ejemplo\". Por ejemplo: \"Me encanta leer libros y escribir historias\". En esta oración, la palabra \"y\" conecta dos ideas para crear una oración coherente.",
@@ -4087,8 +4083,13 @@
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "Los sinónimos son palabras que tienen el mismo significado que otra palabra, pero con diferentes sonidos y formas de expresión. Por ejemplo, \"feliz\" y \"alegre\" son sinónimos porque describen la misma emoción positiva. Los antónimos, por otro lado, son palabras que tienen un significado opuesto. Por ejemplo, \"frio\" y \"calor\" son antónimos porque describen extremos opuestos en términos de temperatura.",
       "fecha": "2025-12-28T21:48:43.617Z"
+    },
+    {
+      "pregunta": "¿Qué son los sinónimos y antónimos?",
+      "respuesta": "Los sinónimos son palabras que tienen el mismo significado o una acepción muy similar. Por ejemplo, \"largo\" y \"extenso\" son sinónimos porque se refieren a una longitud o duración prolongada. \n\nPor otro lado, los antónimos son palabras que tienen un significado opuesto. Por ejemplo, \"grande\" y \"pequeño\" son antónimos porque se refieren a tamaños opuestos.\n\nEstos conceptos son fundamentales en la gramática y la comunicación efectiva, ya que nos permiten expresar ideas de manera más precisa y variada.",
+      "fecha": "2025-12-28T21:48:51.645Z"
     }
   ],
-  "ultimaActualizacion": 1766958523618,
-  "preguntasHechas": 483
+  "ultimaActualizacion": 1766958531647,
+  "preguntasHechas": 484
 }
