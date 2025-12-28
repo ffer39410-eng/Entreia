@@ -1,5 +1,5 @@
 {
-  "iq": 2069,
+  "iq": 2075,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2672,11 +2672,6 @@
   "conversaciones": 6,
   "conocimiento": [
     {
-      "pregunta": "¿Qué son los conectores y cómo se usan?",
-      "respuesta": "Los conectores son palabras o expresiones que se utilizan para unir ideas, oraciones o frases de manera clara y lógica en un texto. Ayudan a establecer relaciones entre diferentes ideas y a crear una estructura coherente en la escritura. Por ejemplo:\n\n- \"Y\" (conecta ideas adicionales): \"Me gusta leer libros y ver películas en mi tiempo libre.\"\n- \"Pero\" (conecta ideas opuestas): \"Quiero ir al mar, pero no tengo dinero para el viaje.\"\n- \"Sin embargo\" (conecta ideas opuestas): \"Me gustaría tener un coche, sin embargo, no puedo pagar el impuesto de tráfico.\"\n- \"Por lo tanto\" (conecta ideas lógicas): \"He estudiado mucho para el examen, por lo tanto, creo que voy a aprobar.\"\n\nLos conectores son fundamentales en la escritura y la comunicación efect",
-      "fecha": "2025-12-28T20:16:12.005Z"
-    },
-    {
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual se refiere a la propiedad de un texto que garantiza que las ideas y las frases se conecten de manera lógica y consistente entre sí, permitiendo que el lector siga fácilmente la secuencia de ideas y conceptos. Esto se logra mediante la utilización de conectores lingüísticos como \"además\", \"sin embargo\", \"porque\", etc. La coherencia textual es fundamental para expresar ideas complejas de manera clara y comprensible. Al ejemplo: \"Me levanté temprano, porque tenía que asistir a una reunión importante. Además, quería tener tiempo para desayunar antes de salir\".",
       "fecha": "2025-12-28T20:16:19.797Z"
@@ -3670,8 +3665,13 @@
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar información de manera objetiva, identificando tanto los puntos fuertes como los débiles, para tomar decisiones informadas. Esto implica cuestionar suposiciones, considerar múltiples perspectivas y buscar evidencia para apoyar argumentos. Por ejemplo, al leer un artículo sobre un tema científico, un pensador crítico no solo creería lo que se dice, sino que también buscaría verificar la información con fuentes secundarias y evaluar la metodología utilizada para llegar a las conclusiones. De esta manera, puede tomar una decisión más informada y no se deje llevar por opiniones o creencias sin fundamento.",
       "fecha": "2025-12-28T21:15:23.961Z"
+    },
+    {
+      "pregunta": "¿Qué son los conectores y cómo se usan?",
+      "respuesta": "Los conectores son palabras o expresiones que nos ayudan a enlazar ideas, oraciones o frases entre sí, creando una relación lógica y coherente en un texto o discurso. Algunos ejemplos de conectores son \"y\", \"pero\", \"aunque\", \"mientras\", \"ya que\", entre otros. Por ejemplo: \"Me gusta leer y escribir porque me ayuda a relajarme\". En este ejemplo, el conector \"y\" une dos ideas, mientras que \"porque\" establece una causa y efecto.",
+      "fecha": "2025-12-28T21:15:31.889Z"
     }
   ],
-  "ultimaActualizacion": 1766956523963,
-  "preguntasHechas": 325
+  "ultimaActualizacion": 1766956531889,
+  "preguntasHechas": 326
 }
