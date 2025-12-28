@@ -1,5 +1,5 @@
 {
-  "iq": 3103,
+  "iq": 3106,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3180,11 +3180,6 @@
   "conversaciones": 6,
   "conocimiento": [
     {
-      "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
-      "respuesta": "Expresar emociones de forma efectiva implica ser auténtico, claro y respetuoso. Por ejemplo, en lugar de decir \"Me siento muy mal\", puedes expresar tus sentimientos de manera más detallada diciendo \"Me siento triste y frustrado porque no logré lo que esperaba\". Esta forma de expresión permite a los demás entender mejor tus sentimientos y responder de manera adecuada. Es importante escuchar a los demás y ser receptivo a sus emociones también.",
-      "fecha": "2025-12-28T21:15:15.643Z"
-    },
-    {
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar información de manera objetiva, identificando tanto los puntos fuertes como los débiles, para tomar decisiones informadas. Esto implica cuestionar suposiciones, considerar múltiples perspectivas y buscar evidencia para apoyar argumentos. Por ejemplo, al leer un artículo sobre un tema científico, un pensador crítico no solo creería lo que se dice, sino que también buscaría verificar la información con fuentes secundarias y evaluar la metodología utilizada para llegar a las conclusiones. De esta manera, puede tomar una decisión más informada y no se deje llevar por opiniones o creencias sin fundamento.",
       "fecha": "2025-12-28T21:15:23.961Z"
@@ -4178,8 +4173,13 @@
       "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
       "respuesta": "Las metáforas son una figura retórica que consiste en comparar dos conceptos o ideas diferentes para crear una nueva representación de una realidad. Por ejemplo, \"Ella es un sol en la habitación\" es una metáfora que compara a una persona con un objeto natural para describir su presencia y energía. Esta comparación no es literal, pero ayuda a crear una imagen más vivida y emotiva en la mente del oyente.",
       "fecha": "2025-12-28T23:01:42.396Z"
+    },
+    {
+      "pregunta": "¿Cuáles son las reglas de la gramática española?",
+      "respuesta": "La gramática española se divide en varias áreas, incluyendo la ortografía, la morfología, la sintaxis y la semántica. Algunas de las reglas básicas incluyen el uso correcto de los artículos (el, la, los, las), el género y el número en la formación de adjetivos y sustantivos, y la conjugación de verbos en diferentes tiempos y modos. También es importante conocer las reglas de acentuación en palabras como \"ser\" y \"señor\", y el uso de comas, puntos y signos de puntuación.",
+      "fecha": "2025-12-28T23:01:45.278Z"
     }
   ],
-  "ultimaActualizacion": 1766962902402,
-  "preguntasHechas": 523
+  "ultimaActualizacion": 1766962905370,
+  "preguntasHechas": 524
 }
