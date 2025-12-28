@@ -1,5 +1,5 @@
 {
-  "iq": 671,
+  "iq": 674,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1475,7 +1475,13 @@
     "estructurar",
     "gebruja",
     "sumar",
-    "tempo"
+    "tempo",
+    "procesamiento",
+    "relevante",
+    "dialecto",
+    "precisos",
+    "malinterpretaciones",
+    "deducir"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2089,8 +2095,13 @@
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales son una parte fundamental de la gramática de una lengua, y se refieren a la forma en que se expresan las acciones o estados en el tiempo. Hay varios tiempos verbales, como el presente, el pasado, el futuro, entre otros, que se utilizan para describir cuando ocurren las acciones o eventos. Por ejemplo, \"Yo como\" es presente, \"Yo comí\" es pasado y \"Yo comeré\" es futuro. Cada tempo tiene diferentes formas para indicar la acción.",
       "fecha": "2025-12-28T19:19:26.256Z"
+    },
+    {
+      "pregunta": "¿Cómo funciona la comprensión del contexto?",
+      "respuesta": "La comprensión del contexto es un procesamiento mental que permite identificar y analizar la información relevante en un texto, habla o situación, considerando factores como el tono, el dialecto, la cultura y el objetivo. Esta habilidad implica reconocer la relación entre las palabras y conceptos, así como la intención detrás de la comunicación. Al comprender el contexto, podemos inferir significados más precisos y evitar malinterpretaciones.\n\nPor ejemplo, cuando alguien dice \"Hoy está muy frío\", se puede deducir que se refiere al clima, no a una persona.",
+      "fecha": "2025-12-28T19:19:34.347Z"
     }
   ],
-  "ultimaActualizacion": 1766949566257,
-  "preguntasHechas": 48
+  "ultimaActualizacion": 1766949574349,
+  "preguntasHechas": 49
 }
