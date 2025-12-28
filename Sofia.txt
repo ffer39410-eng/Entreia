@@ -1,5 +1,5 @@
 {
-  "iq": 728,
+  "iq": 731,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1555,7 +1555,11 @@
     "conflictos",
     "comiendo",
     "conjuguen",
-    "cambia"
+    "cambia",
+    "posiciones",
+    "cantidades",
+    "mencionados",
+    "mostrando"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2224,8 +2228,13 @@
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "En español, los tiempos verbales se refieren a la forma en que se expresan las acciones en el pasado, presente o futuro. Por ejemplo, \"yo como\" (presente) significa que estoy comiendo en este momento, \"yo comí\" (pretérito) significa que comí en el pasado, y \"yo comeré\" (futuro) significa que comeré en el futuro. La forma en que se conjuguen los verbos cambia según el tiempo y el sujeto.",
       "fecha": "2025-12-28T19:20:55.045Z"
+    },
+    {
+      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
+      "respuesta": "Las preposiciones son palabras que indican la relación entre un sustantivo o un pronombre y otros elementos de la oración, como lugares, posiciones, direcciones, tiempos, cantidades, maneras, etc. Sirven para proporcionar información sobre la ubicación, el estado o la relación entre los objetos o personas mencionados en la oración.\n\nPor ejemplo, en la frase \"El libro está en la mesa\", la preposición \"en\" indica la relación entre el libro y la mesa, mostrando que el libro se encuentra en un lugar específico.",
+      "fecha": "2025-12-28T19:21:02.816Z"
     }
   ],
-  "ultimaActualizacion": 1766949655046,
-  "preguntasHechas": 59
+  "ultimaActualizacion": 1766949662816,
+  "preguntasHechas": 60
 }
