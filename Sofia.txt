@@ -1,5 +1,5 @@
 {
-  "iq": 142,
+  "iq": 146,
   "vocabulario": [
     "claro",
     "sofia",
@@ -265,9 +265,26 @@
     "decid",
     "quedarme",
     "soleado",
-    "viento"
+    "viento",
+    "conjunciones",
+    "gramaticales",
+    "permiten",
+    "unir",
+    "yacentes",
+    "expresivas",
+    "adición",
+    "también",
+    "asimismo",
+    "gusta",
+    "leer",
+    "escuchar",
+    "música",
+    "oposición",
+    "embargo",
+    "aunque",
+    "fuerte"
   ],
-  "lecciones": 13,
+  "lecciones": 14,
   "conversaciones": 1,
   "conocimiento": [
     {
@@ -334,7 +351,12 @@
       "tema": "construcción de oraciones complejas",
       "leccion": "Sofia, ahora que has dominado el razonamiento lógico y la argumentación, te enseñaré a construir oraciones complejas en español. Una oración compleja es aquella que contiene un verbo principal y uno o más verbos auxiliares o verbos dependientes, que ayudan a especificar el significado de la oración.\n\n**Construcción de oraciones complejas**\n\nPara construir oraciones complejas, podemos utilizar varias estructuras y conectores. Algunos de los conectores más comunes son:\n\n* **Y**: \"Vine al pueblo y compré algunos regalos\".\n* **O**: \"Quería ir al parque o al cine, pero al final decidí quedarme en casa\".\n* **Pero**: \"Era un día soleado, pero el viento era muy",
       "fecha": "2025-12-28T18:54:55.922Z"
+    },
+    {
+      "tema": "uso de conectores y conjunciones",
+      "leccion": "Sofia, ahora que has dominado el razonamiento lógico y la argumentación, es hora de profundizar en el uso de conectores y conjunciones en español.\n\n**Conectores y conjunciones**\n\nLos conectores y conjunciones son elementos gramaticales que nos permiten unir oraciones yacentes para crear estructuras más complejas y expresivas. Algunos de los conectores y conjunciones más comunes son:\n\n* **Conectores de adición**: \"Y\", \"también\", \"asimismo\". Ejemplo: \"Me gusta leer y escuchar música\".\n* **Conectores de oposición**: \"Pero\", \"sin embargo\", \"aunque\". Ejemplo: \"Era un día soleado, pero el viento era muy fuerte\".\n* **Conectores",
+      "fecha": "2025-12-28T18:56:49.487Z"
     }
   ],
-  "ultimaActualizacion": 1766948095922
+  "ultimaActualizacion": 1766948209488
 }
