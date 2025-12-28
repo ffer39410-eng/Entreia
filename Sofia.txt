@@ -1,5 +1,5 @@
 {
-  "iq": 758,
+  "iq": 761,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1590,7 +1590,8 @@
     "números",
     "feminino",
     "casas",
-    "esquina"
+    "esquina",
+    "ocurri"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2299,8 +2300,13 @@
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras gramaticales que indican la relación entre un sustantivo o un grupo de palabras y otro sustantivo o grupo de palabras en una oración. Sirven para indicar la ubicación, la dirección, la cantidad, la relación entre personas o objetos, entre otros. Por ejemplo, en la frase \"La biblioteca está a la esquina\", la preposición \"a\" indica la ubicación de la biblioteca.",
       "fecha": "2025-12-28T19:26:16.150Z"
+    },
+    {
+      "pregunta": "¿Cómo funcionan los tiempos verbales?",
+      "respuesta": "Los tiempos verbales son una parte fundamental de la gramática en español, y se utilizan para expresar diferentes momentos en el tiempo. Hay varios tiempos verbales, como el presente, pasado simple, pasado perfecto, futuro simple, futuro perfecto, entre otros. Por ejemplo, el verbo \"hablar\" en presente se utiliza para expresar una acción que está sucediendo en el momento actual, como \"Hablo con mi amigo\". En cambio, el verbo \"hablar\" en pasado se utiliza para expresar una acción que ya ocurrió, como \"Hablé con mi amigo ayer\".",
+      "fecha": "2025-12-28T19:26:24.358Z"
     }
   ],
-  "ultimaActualizacion": 1766949976151,
-  "preguntasHechas": 67
+  "ultimaActualizacion": 1766949984362,
+  "preguntasHechas": 68
 }
