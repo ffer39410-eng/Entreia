@@ -1,5 +1,5 @@
 {
-  "iq": 490,
+  "iq": 496,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1254,7 +1254,8 @@
     "traslada",
     "complejidad",
     "confusión",
-    "urbano"
+    "urbano",
+    "contrastar"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1693,8 +1694,13 @@
       "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
       "respuesta": "Las metáforas son figuras literarias que permiten transferir una idea o concepto de una realidad a otra, creando una comparación implícita y rica en significado. En el lenguaje, se utilizan para expresar complejidades y abstracciones de manera más accesible y emocional. Por ejemplo, \"la ciudad es un laberinto\" traslada la idea de complejidad y confusión de un laberinto al ambiente urbano.",
       "fecha": "2025-12-28T19:14:46.092Z"
+    },
+    {
+      "pregunta": "¿Qué son los conectores y cómo se usan?",
+      "respuesta": "Los conectores son palabras o expresiones que se utilizan para unir ideas, oraciones o frases en una estructura lógica y coherente en el lenguaje. Algunos ejemplos comunes de conectores son \"y\", \"pero\", \"sin embargo\", \"además\", \"por lo tanto\" y \"por lo que\". Estos conectores ayudan a organizar la información y a crear una secuencia lógica en la comunicación.\n\nPor ejemplo: \"Me gusta leer libros y también escuchar música.\" En este caso, el conector \"y\" une dos ideas para crear una oración coherente.\n\nOtro ejemplo: \"Me gusta leer libros, pero no tengo mucho tiempo para leer.\" En este caso, el conector \"pero\" se utiliza para contrastar ideas y crear una oración con un tono más crítico.",
+      "fecha": "2025-12-28T19:14:54.352Z"
     }
   ],
-  "ultimaActualizacion": 1766949286092,
-  "preguntasHechas": 13
+  "ultimaActualizacion": 1766949294353,
+  "preguntasHechas": 14
 }
