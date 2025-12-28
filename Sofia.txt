@@ -1,5 +1,5 @@
 {
-  "iq": 3028,
+  "iq": 3035,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3156,16 +3156,12 @@
     "esperanza",
     "poetas",
     "escritores",
-    "oradores"
+    "oradores",
+    "actuales"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo se estructura una buena argumentación?",
-      "respuesta": "Una buena argumentación se estructura en tres etapas clave: presente la afirmación de tesis, presentes los argumentos y respuestas. La tesis debe ser clara y concisa, mientras que los argumentos deben ser sólidos y bien apoyados. Finalmente, es importante responder a posibles objeciones y críticas para demostrar la debilidad o fortaleza de la argumentación.",
-      "fecha": "2025-12-28T21:13:15.870Z"
-    },
     {
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "Excelente pregunta. Los sinónimos son palabras que tienen el mismo significado o casi idéntico, como \"fuerte\" y \"potente\". Por ejemplo, en lugar de decir \"el caballo es fuerte\", podemos decir \"el caballo es potente\". \n\nLos antónimos, por otro lado, son palabras que tienen un significado opuesto, como \"luz\" y \"oscuridad\". Por ejemplo, en lugar de decir \"la habitación está iluminada\", podemos decir \"la habitación está a oscuras\" si lo que queremos expresar es lo contrario.",
@@ -4160,8 +4156,13 @@
       "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
       "respuesta": "Las metáforas son figuraciones literarias que permiten comparar dos conceptos o ideas diferentes, creando una imagen o una comprensión más rica y compleja. Por ejemplo, \"Ella es una lámpara en la oscuridad\" no solo describe a alguien que brilla con inteligencia, sino que transmite una sensación de esperanza y luz en un entorno difícil. Los poetas, escritores y oradores suelen utilizar metáforas para evocar emociones y crear imágenes vívidas en la mente del lector o del oyente.",
       "fecha": "2025-12-28T21:52:04.093Z"
+    },
+    {
+      "pregunta": "¿Cómo funcionan los tiempos verbales?",
+      "respuesta": "Los tiempos verbales son un aspecto fundamental de la gramática en muchas lenguas, incluyendo el español. Se utilizan para indicar la relación entre el momento en que ocurre un evento y el momento en que se está hablando o escribiendo. Por ejemplo, el presente indicativo se utiliza para describir hechos o estados de cosas actuales, como \"Yo like la música\" (me gusta la música).",
+      "fecha": "2025-12-28T21:52:11.740Z"
     }
   ],
-  "ultimaActualizacion": 1766958724096,
-  "preguntasHechas": 508
+  "ultimaActualizacion": 1766958731742,
+  "preguntasHechas": 509
 }
