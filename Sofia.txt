@@ -1,5 +1,5 @@
 {
-  "iq": 1500,
+  "iq": 1504,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2278,16 +2278,18 @@
     "aneurisma",
     "abdominal",
     "habituales",
-    "coloquialismo"
+    "coloquialismo",
+    "identificamos",
+    "relacionamos",
+    "nuestro",
+    "encontramos",
+    "llena",
+    "fenómeno",
+    "astronómico"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo se construyen oraciones complejas en español?",
-      "respuesta": "Una oración compleja en español se construye combinando una oración simple con una subordinada o una coordenada. Por ejemplo: \"Me alegra que llegues a tiempo\" (aquí \"que llegues a tiempo\" es una subordinada) o \"Me alegra que llegues a tiempo y estés listo para comenzar\" (aquí \"que llegues a tiempo\" es una subordinada y \"estés listo para comenzar\" es una coordinada).",
-      "fecha": "2025-12-28T19:15:02.371Z"
-    },
     {
       "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
       "respuesta": "Las metáforas son una figura retórica que consiste en comparar dos conceptos incompatibles con el fin de crear una nueva comprensión o descripción. Se utilizan en el lenguaje para hacer que las ideas resulten más interesantes y fáciles de recordar. Por ejemplo, \"Ella es una estrella en el cielo de la música\" es una metáfora que compara a una persona con una estrella para destacar su talento.",
@@ -3282,8 +3284,13 @@
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras que indican la relación entre un objeto o una persona y otro elemento en una oración. Su función es describir el lugar, la dirección, la cantidad, la manera, la compañía, la relación o la consecuencia de un evento. Por ejemplo, en la oración \"El libro está sobre la mesa\", la preposición \"sobre\" indica la relación entre el libro y la mesa.",
       "fecha": "2025-12-28T20:53:23.705Z"
+    },
+    {
+      "pregunta": "¿Cómo funciona la comprensión del contexto?",
+      "respuesta": "La comprensión del contexto es el proceso mental por el cual identificamos la información relevante dentro de un texto o situación y la relacionamos con nuestro conocimiento anterior y la situación en la que nos encontramos. Esto nos permite entender mejor el significado de las palabras y frases, y cómo se relacionan entre sí. Por ejemplo, cuando leemos el texto \"La casa de la luna llena\", nuestro conocimiento del contexto (la luna llena es un fenómeno astronómico que ocurre cada mes) nos permite entender que la casa se refiere a una casa que tiene una forma o nombre relacionado con la luna.",
+      "fecha": "2025-12-28T20:53:31.749Z"
     }
   ],
-  "ultimaActualizacion": 1766955203706,
-  "preguntasHechas": 214
+  "ultimaActualizacion": 1766955211751,
+  "preguntasHechas": 215
 }
