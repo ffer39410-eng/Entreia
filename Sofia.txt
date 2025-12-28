@@ -1,5 +1,5 @@
 {
-  "iq": 1987,
+  "iq": 1992,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2618,16 +2618,15 @@
     "consecuencias",
     "apoyados",
     "debilidad",
-    "fortaleza"
+    "fortaleza",
+    "caballo",
+    "oscuridad",
+    "iluminada",
+    "oscuras"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué son los conectores y cómo se usan?",
-      "respuesta": "Los conectores son palabras o expresiones que unen oraciones, frases o ideas para crear una relación lógica entre ellas. Pueden indicar la causalidad (porque, ya que), la comparación (como, de la misma forma que), la enumeración (primeramente, en segundo lugar, finalmente), la oposición (pero, sin embargo), la contraste (a diferencia de), entre otros. Por ejemplo: \"Me encanta leer libros porque me gustan los relatos de aventuras\".\n\nLos conectores cumplen un papel fundamental en la comunicación escrita y oral, ya que ayudan a organizar y estructurar la información de manera clara y coherente.",
-      "fecha": "2025-12-28T20:12:11.782Z"
-    },
     {
       "pregunta": "¿Cuáles son las reglas de la gramática española?",
       "respuesta": "La gramática española se basa en un conjunto de reglas que rigen la estructura y el uso de la lengua. Algunas de las reglas básicas incluyen la declinación de los artículos (el, la, los, las), la conjugación de los verbos (indicativo, subjuntivo, imperativo), la formación de los nombres y adjetivos (plural, positivo, comparativo, superlativo), y la utilización de las preposiciones (de, en, con, etc.).\n\nPor ejemplo, en la declinación de los artículos, el artículo \"el\" se utiliza para referirse a animales masculinos, mientras que \"la\" se utiliza para referirse a animales femeninos. En la conjugación de verbos, la tercera persona del presente de indicativo de los verbos regulares se forma agregando las terminaciones \"-o\", \"-as\", \"-a",
@@ -3622,8 +3621,13 @@
       "pregunta": "¿Cómo se estructura una buena argumentación?",
       "respuesta": "Una buena argumentación se estructura en tres etapas clave: presente la afirmación de tesis, presentes los argumentos y respuestas. La tesis debe ser clara y concisa, mientras que los argumentos deben ser sólidos y bien apoyados. Finalmente, es importante responder a posibles objeciones y críticas para demostrar la debilidad o fortaleza de la argumentación.",
       "fecha": "2025-12-28T21:13:15.870Z"
+    },
+    {
+      "pregunta": "¿Qué son los sinónimos y antónimos?",
+      "respuesta": "Excelente pregunta. Los sinónimos son palabras que tienen el mismo significado o casi idéntico, como \"fuerte\" y \"potente\". Por ejemplo, en lugar de decir \"el caballo es fuerte\", podemos decir \"el caballo es potente\". \n\nLos antónimos, por otro lado, son palabras que tienen un significado opuesto, como \"luz\" y \"oscuridad\". Por ejemplo, en lugar de decir \"la habitación está iluminada\", podemos decir \"la habitación está a oscuras\" si lo que queremos expresar es lo contrario.",
+      "fecha": "2025-12-28T21:13:23.619Z"
     }
   ],
-  "ultimaActualizacion": 1766956395872,
-  "preguntasHechas": 309
+  "ultimaActualizacion": 1766956403621,
+  "preguntasHechas": 310
 }
