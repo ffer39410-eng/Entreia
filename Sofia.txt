@@ -1,5 +1,5 @@
 {
-  "iq": 2151,
+  "iq": 2155,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2709,16 +2709,16 @@
     "indicada",
     "sueños",
     "seleccionar",
-    "conectarlos"
+    "conectarlos",
+    "facial",
+    "fruncir",
+    "ceño",
+    "enfado",
+    "sintiendo"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
-      "respuesta": "Las metáforas son expresiones literales que compara dos conceptos incompatibles para crear un significado nuevo y creativo. Se utilizan para describir conceptos abstractos de manera más clara y accesible, haciendo que el lenguaje sea más expresivo y poético. Por ejemplo, \"la vida es un viaje\" es una metáfora que compara la vida con un viaje, creando un significado más profundo y emotivo. Esta figura literaria ayuda a crear imágenes visuales en la mente del oyente o lector, facilitando la comprensión y la emoción.",
-      "fecha": "2025-12-28T20:30:59.816Z"
-    },
     {
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "Los sinónimos son palabras o expresiones que tienen el mismo significado o referencia que otra palabra o expresión en un contexto determinado. Por ejemplo, \"feliz\" y \"alegre\" son sinónimos. \n\nPor otro lado, los antónimos son palabras o expresiones que tienen un significado opuesto al de otra palabra o expresión. Por ejemplo, \"grande\" y \"pequeño\" son antónimos. \n\nEstos conceptos son fundamentales en la lengua y en la comprensión de textos y comunicación.",
@@ -3713,8 +3713,13 @@
       "pregunta": "¿Cómo se construyen oraciones complejas en español?",
       "respuesta": "Las oraciones complejas se construyen en español utilizando conjunciones subordinadas, que conectan una oración principal (indicada por el verbo principal) con una oración subordinada (indicada por el verbo subordinado). Por ejemplo: \"Ella se fue al cine porque quería ver la película de sus sueños\". En esta oración, \"Ella se fue al cine\" es la oración principal y \"porque quería ver la película de sus sueños\" es la oración subordinada.\n\nPara construir una oración compleja, debemos seleccionar un verbo principal y un verbo subordinado, y conectarlos con una conjunción subordinada (como \"porque\", \"pues\", \"ya que\", etc.).",
       "fecha": "2025-12-28T21:17:23.811Z"
+    },
+    {
+      "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
+      "respuesta": "Para expresar emociones de forma efectiva, es importante ser auténtico y genuino en tu comunicación. Utiliza lenguaje corporal y facial que refleje tus sentimientos, como por ejemplo, fruncir el ceño para demostrar enfado o sonreír para mostrar alegría. También es fundamental utilizar palabras y frases que describan con precisión lo que estás sintiendo, como \"Me siento frustrado\" o \"Estoy muy feliz\". Esto ayudará a que los demás puedan entender y responder adecuadamente a tus emociones.",
+      "fecha": "2025-12-28T21:17:31.735Z"
     }
   ],
-  "ultimaActualizacion": 1766956643812,
-  "preguntasHechas": 340
+  "ultimaActualizacion": 1766956651737,
+  "preguntasHechas": 341
 }
