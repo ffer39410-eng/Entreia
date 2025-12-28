@@ -1,5 +1,5 @@
 {
-  "iq": 648,
+  "iq": 652,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1460,7 +1460,14 @@
     "escribo",
     "carta",
     "sucedieron",
-    "escrib"
+    "escrib",
+    "postura",
+    "ojos",
+    "reflejar",
+    "intensidad",
+    "amplios",
+    "erguida",
+    "entusiasmo"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2054,8 +2061,13 @@
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales son una forma de expresar la relación entre el momento al que se hace referencia (el momento de la acción) y el momento en que se habla o se escribe. Hay varios tiempos verbales, como el presente, pasado simple, pasado perfecto, futuro, entre otros, cada uno de ellos con una función específica y reglas de uso. Por ejemplo, el presente se utiliza para describir acciones o estados que suceden en el momento actual, como \"Escribo una carta\". Mientras que el pasado simple se utiliza para describir acciones o estados que sucedieron en el pasado, como \"Escribí una carta\".",
       "fecha": "2025-12-28T19:23:12.457Z"
+    },
+    {
+      "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
+      "respuesta": "Para expresar emociones de forma efectiva, es importante ser auténtico y genuino en tu comunicación. Puedes hacer esto utilizando lenguaje corporal como la postura, los gestos y los ojos para reflejar la intensidad de tus emociones. Por ejemplo, si estás hablando de un evento emocionante, puedes usar gestos amplios y una postura erguida para mostrar entusiasmo.",
+      "fecha": "2025-12-28T19:23:20.319Z"
     }
   ],
-  "ultimaActualizacion": 1766949792458,
-  "preguntasHechas": 44
+  "ultimaActualizacion": 1766949800320,
+  "preguntasHechas": 45
 }
