@@ -1,5 +1,5 @@
 {
-  "iq": 2127,
+  "iq": 2131,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2691,16 +2691,14 @@
     "lenguaaje",
     "capítulos",
     "plátano",
-    "nico"
+    "nico",
+    "junto",
+    "quien",
+    "duramente"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
-      "respuesta": "Las metáforas son una figura retórica que consiste en comparar dos conceptos o ideas de manera que uno de ellos se utiliza para describir el otro de manera creativa y expresiva. Se utilizan para explicar conceptos complejos de manera sencilla y emocionalmente atractiva. Por ejemplo, \"mi vida es un río\" se utiliza para describir la vida como un proceso dinámico y en constante cambio.",
-      "fecha": "2025-12-28T20:30:19.879Z"
-    },
     {
       "pregunta": "¿Cuáles son las reglas de la gramática española?",
       "respuesta": "La gramática española tiene varias reglas importantes, como el orden de las palabras en la oración, el uso de los géneros gramaticales y la concordancia de los adjetivos y sustantivos. Por ejemplo, en una oración simple, los sustantivos y adjetivos deben concordar en género y número. Además, se deben usar los artículos definidos (el, la, los, las) o indefinidos (un, una, unos, unas) según el contexto. Otro aspecto clave es el uso de los verbos en tiempo pasado, presente y futuro.",
@@ -3695,8 +3693,13 @@
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual se refiere a la capacidad de un texto para comunicar una idea o mensaje claro y lógico, mediante la conexión entre las ideas, conceptos y argumentos presentados. Esto se logra a través de la relación entre las oraciones y los párrafos, que trabajan juntos para transmitir un significado único. Por ejemplo, en un ensayo, la coherencia textual se logra cuando se presenta un tema principal y se desarrolla mediante argumentos y ejemplos relacionados. Esto permite al lector seguir el razonamiento y comprender la idea central del texto.",
       "fecha": "2025-12-28T21:16:43.851Z"
+    },
+    {
+      "pregunta": "¿Cómo se construyen oraciones complejas en español?",
+      "respuesta": "Una oración compleja se construye mediante la combinación de oraciones simples utilizando conectores como \"y\", \"pero\", \"o\", y \"porque\", junto con conjunciones subordinadas como \"que\", \"al que\", \"a quien\" para introducir oraciones subordinadas. Por ejemplo: \"Ella estudió duramente para la prueba porque quería aprobar.\"",
+      "fecha": "2025-12-28T21:16:51.799Z"
     }
   ],
-  "ultimaActualizacion": 1766956603852,
-  "preguntasHechas": 335
+  "ultimaActualizacion": 1766956611800,
+  "preguntasHechas": 336
 }
