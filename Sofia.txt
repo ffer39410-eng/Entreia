@@ -1,5 +1,5 @@
 {
-  "iq": 1112,
+  "iq": 1117,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1936,16 +1936,14 @@
     "razonar",
     "prensa",
     "concretos",
-    "subjetivas"
+    "subjetivas",
+    "mostrando",
+    "espacial",
+    "cuándo"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "tema": "uso de conectores y conjunciones",
-      "leccion": "Sofia, ahora que has dominado el razonamiento lógico y la argumentación, es hora de profundizar en el uso de conectores y conjunciones en español.\n\n**Conectores y conjunciones**\n\nLos conectores y conjunciones son elementos gramaticales que nos permiten unir oraciones yacentes para crear estructuras más complejas y expresivas. Algunos de los conectores y conjunciones más comunes son:\n\n* **Conectores de adición**: \"Y\", \"también\", \"asimismo\". Ejemplo: \"Me gusta leer y escuchar música\".\n* **Conectores de oposición**: \"Pero\", \"sin embargo\", \"aunque\". Ejemplo: \"Era un día soleado, pero el viento era muy fuerte\".\n* **Conectores",
-      "fecha": "2025-12-28T18:56:49.487Z"
-    },
     {
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales son una parte fundamental de la gramática española y permiten indicar el momento en el que se realiza la acción descrita por el verbo. Existen varios tiempos verbales básicos, como el presente, el pasado y el futuro, que pueden ser utilizados de manera simple o combinados con otros elementos para indicar diferentes matices de tiempo.\n\nPor ejemplo, en el presente, el verbo \"hablar\" se usa de la siguiente manera: \"Yo hablo\" (acción actual). En el pasado, se usa \"hablé\" (acción pasada), mientras que en el futuro, se usa \"hablaré\" (acción futura).",
@@ -2940,8 +2938,13 @@
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar información de manera objetiva y sistemática, identificar patrones y relaciones, y tomar decisiones informadas. Implica cuestionar suposiciones, considerar diferentes perspectivas y evidencias, y razonar de manera lógica. Por ejemplo, cuando se analiza un artículo de prensa, un estudiante con pensamiento crítico podría preguntarse qué fuente da la información, si hay datos concretos o opiniones subjetivas, y si la conclusión se basa en evidencia sólida.",
       "fecha": "2025-12-28T20:30:43.955Z"
+    },
+    {
+      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
+      "respuesta": "Las preposiciones son palabras que indican la relación entre un sustantivo o un grupo de palabras y otros elementos en la oración, como lugares, tiempo, cantidad, etc. Por ejemplo, en la oración \"El libro está en la mesa\", la preposición \"en\" indica la relación entre el libro y la mesa, mostrando la ubicación del libro.\n\nLas preposiciones sirven para proporcionar información sobre la relación espacial (donde está, hacia dónde va, etc.), temporal (cuándo ocurre), causal (por qué), comparativa (cómo se relacionan dos cosas), entre otras.\n\nAlgunas preposiciones comunes son \"en\", \"de\", \"a\", \"con\", \"por\", entre otras.",
+      "fecha": "2025-12-28T20:30:51.829Z"
     }
   ],
-  "ultimaActualizacion": 1766953843956,
-  "preguntasHechas": 139
+  "ultimaActualizacion": 1766953851831,
+  "preguntasHechas": 140
 }
