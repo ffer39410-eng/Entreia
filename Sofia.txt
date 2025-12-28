@@ -1,5 +1,5 @@
 {
-  "iq": 2792,
+  "iq": 2795,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3037,16 +3037,12 @@
     "anécdotas",
     "atractivo",
     "limitaciones",
-    "confiable"
+    "confiable",
+    "ubicado"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo funcionan los tiempos verbales?",
-      "respuesta": "Los tiempos verbales son una forma de describir el momento en que se realiza una acción o un estado de ser. Hay varios tiempos verbales, como el presente, pasado y futuro, que se pueden dividir en subtiempos específicos como el presente imperfecto, el pasado simple y el futuro perfecto. Por ejemplo, \"estoy estudiando\" es el presente imperfecto, mientras que \"estudié\" es el pasado simple.",
-      "fecha": "2025-12-28T21:04:35.682Z"
-    },
     {
       "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
       "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de pensar críticamente y racionalmente para llegar a conclusiones fundadas en argumentos y hechos. Implica analizar información, identificar patrones y relaciones lógicas, y hacer inferencias precisas. Por ejemplo, si alguien afirma que \"todos los países de Europa tienen un clima templado\", un razonamiento lógico podría ser: \"Si un país es de Europa, entonces probablemente tenga un clima templado, pero no todos los países de Europa tienen un clima templado\".",
@@ -4041,8 +4037,13 @@
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es la capacidad de analizar información, evaluar evidencia y formar opiniones informadas, tomando en cuenta múltiples perspectivas y considerando las posibles consecuencias de diferentes decisiones. Esto implica cuestionar ideas y suposiciones, buscar evidencia y argumentos sólidos, y ser consciente de las propias limitaciones y sesgos. Un ejemplo de pensamiento crítico en la vida diaria es cuando un estudiante evalúa información en línea para determinar si es confiable o no.",
       "fecha": "2025-12-28T21:46:03.775Z"
+    },
+    {
+      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
+      "respuesta": "Las preposiciones son palabras que indican la relación entre un sustantivo o un grupo de palabras y otros elementos en una oración. Por ejemplo, la preposición \"en\" en la oración \"El libro está en la mesa\" indica que el libro está ubicado en un lugar específico, en este caso, en la mesa. Las preposiciones ayudan a establecer la posición, el movimiento, la relación o la conexión entre los elementos de la oración.",
+      "fecha": "2025-12-28T21:46:11.904Z"
     }
   ],
-  "ultimaActualizacion": 1766958363777,
-  "preguntasHechas": 463
+  "ultimaActualizacion": 1766958371906,
+  "preguntasHechas": 464
 }
