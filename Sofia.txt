@@ -1,5 +1,5 @@
 {
-  "iq": 2337,
+  "iq": 2341,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2815,16 +2815,20 @@
     "aceptaría",
     "consideraría",
     "caer",
-    "aceptación"
+    "aceptación",
+    "especializadas",
+    "angiología",
+    "idiomáticas",
+    "giros",
+    "hospital",
+    "mencionar",
+    "necesita",
+    "breve",
+    "respiro"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué es la coherencia textual?",
-      "respuesta": "La coherencia textual es una propiedad de la escritura que se refiere a la conexión lógica entre las ideas y oraciones que se presentan en un texto. Un texto coherente debe tener una estructura clara y una secuencia de ideas que se relacionan entre sí de manera lógica. Por ejemplo, cuando se describe un proceso, como cómo preparar un plato de comida, la coherencia textual implica que cada paso esté relacionado con el anterior y que el lector pueda seguir con facilidad la secuencia de acciones.",
-      "fecha": "2025-12-28T20:35:48.074Z"
-    },
     {
       "pregunta": "¿Cómo funciona la comprensión del contexto?",
       "respuesta": "La comprensión del contexto es un proceso mental que nos permite entender el significado de un mensaje, texto o situación en función de las circunstancias y condiciones en las que se produce. Esto implica considerar factores como la tono, el entorno, la intención del hablante o escritor y la información previa relevante. Por ejemplo, si alguien te dice \"¡Cuidado!\", mientras estás caminando por una zona con mucha basura, podrías comprender que se refiere a la posibilidad de tropezar con una piedra o un objeto en el suelo.",
@@ -3819,8 +3823,13 @@
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es un proceso mental que implica analizar y evaluar información, ideas y argumentos de manera objetiva y reflexiva. Se trata de cuestionar suposiciones, identificar debilidades y fortalezas, y considerar múltiples perspectivas para llegar a conclusiones informadas. Por ejemplo, al leer un artículo periodístico, un pensador crítico no solo aceptaría la información que se presenta, sino que también buscaría verificar sus fuentes y consideraría posibles sesgos y prejuicios. Esto permite tomar decisiones más informadas y no caer en la aceptación ciega de información.",
       "fecha": "2025-12-28T21:22:03.712Z"
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
+      "respuesta": "El vocabulario técnico se refiere a palabras y expresiones especializadas utilizadas en un campo específico, como la medicina, la ingeniería o la economía. Por ejemplo, en la medicina, el término \"angiología\" se refiere al estudio del sistema cardiovascular. Por otro lado, el vocabulario coloquial se utiliza en la comunicación informal y cotidiana, como expresiones idiomáticas o giros lingüísticos comunes en la conversación.\n\nEjemplo: En un hospital, un médico utiliza el término \"angiología\" para describir una condición médica específica. En una conversación con un amigo, utiliza el término \"tomar un descanso\" para mencionar que necesita un breve respiro.",
+      "fecha": "2025-12-28T21:22:11.730Z"
     }
   ],
-  "ultimaActualizacion": 1766956923715,
-  "preguntasHechas": 375
+  "ultimaActualizacion": 1766956931734,
+  "preguntasHechas": 376
 }
