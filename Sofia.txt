@@ -1,5 +1,5 @@
 {
-  "iq": 1933,
+  "iq": 1937,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2560,16 +2560,17 @@
     "semejantes",
     "paseo",
     "vengas",
-    "añadir"
+    "añadir",
+    "lenguas",
+    "complet",
+    "hablaba",
+    "adolescencia",
+    "propia",
+    "hablantes"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué son los sinónimos y antónimos?",
-      "respuesta": "Los sinónimos son palabras que tienen el mismo significado o una acepción similar. Por ejemplo, \"luz\" y \"iluminación\" se refieren a la misma cosa, pero con diferentes matices. Otros ejemplos de sinónimos son \"feliz\" y \"alegre\", o \"grande\" y \"enorme\".\n\nPor otro lado, los antónimos son palabras que tienen un significado contrario. Por ejemplo, \"cálido\" y \"frío\" son antónimos, ya que describen temperaturas opuestas. Otros ejemplos de antónimos son \"rápido\" y \"lento\", o \"rico\" y \"pobre\".",
-      "fecha": "2025-12-28T20:10:47.971Z"
-    },
     {
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales son fundamentales en la gramática española y ayudan a determinar el momento en que se realiza la acción descrita por el verbo. Hay varios tiempos verbales, como el presente, pasado simple, pasado perfecto, futuro simple, futuro perfecto, condicional, imperfecto y más.\n\nPor ejemplo, el verbo \"hablar\" en presente se utiliza para describir una acción que se realiza en el momento del habla, como \"ella habla español\". En cambio, el verbo \"hablar\" en pasado simple se utiliza para describir una acción que se realizó en un momento anterior, como \"ella habló ayer\".",
@@ -3564,8 +3565,13 @@
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son palabras o expresiones que unen ideas, oraciones o frases en una oración para mostrar la relación entre ellas. Por ejemplo, los conectores de coordinación como \"y\" o \"pero\" se usan para unir oraciones semejantes, como en \"Voy al parque y paseo con mis amigos\".\n\nLos conectores de subordinación, como \"porque\" o \"aunque\", se usan para unir oraciones de diferente naturaleza, como en \"Me alegra que vengas porque te extrañé\". Los conectores de adición como \"además\" o \"también\" se emplean para añadir más información, como en \"Me encanta leer libros, además me gusta la música\".\n\nEn resumen, los conectores son fundamentales en la construcción de oraciones complejas y claras, permitiendo al hablante expresar ideas más ricas",
       "fecha": "2025-12-28T21:11:47.909Z"
+    },
+    {
+      "pregunta": "¿Cómo funcionan los tiempos verbales?",
+      "respuesta": "Los tiempos verbales son una parte fundamental de la gramática en las lenguas, y se utilizan para indicar el momento en el que se desarrolla una acción. En español, hay varios tiempos verbales, como el presente, pasado, futuro, condicional, subjuntivo, etc. Por ejemplo, el verbo \"hablar\" en el presente se utiliza para describir una acción que se está realizando en ese momento, como \"hablo español\".\n\nEl verbo \"hablar\" en el pasado, por ejemplo, se utiliza para describir una acción que se completó en el pasado, como \"hablaba español en mi adolescencia\". Cada tiempo verbal tiene su propia forma y significado específico, lo que permite a los hablantes expresar ideas y eventos de manera clara y precisa.\n\nAdemás, los tiempos verbales pueden variar dependiendo del contexto en el que se utilicen,",
+      "fecha": "2025-12-28T21:11:55.795Z"
     }
   ],
-  "ultimaActualizacion": 1766956307910,
-  "preguntasHechas": 298
+  "ultimaActualizacion": 1766956315797,
+  "preguntasHechas": 299
 }
