@@ -1,5 +1,5 @@
 {
-  "iq": 3086,
+  "iq": 3090,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3169,16 +3169,13 @@
     "bebi",
     "calentando",
     "influir",
-    "coincidan"
+    "coincidan",
+    "preparada",
+    "adversativa"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué es el pensamiento crítico?",
-      "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar información de manera objetiva, identificar patrones y relaciones, y tomar decisiones informadas. Se trata de cuestionar suposiciones y creencias, buscar evidencia y argumentos sólidos, y considerar diferentes perspectivas. Por ejemplo, un estudiante que analiza un texto histórico no solo se limita a memorizar fechas y eventos, sino que también evalúa la información, identifica posibles sesgos y considera la perspectiva del autor.",
-      "fecha": "2025-12-28T21:14:43.720Z"
-    },
     {
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "Excelente pregunta, alumno. Los sinónimos y antónimos son dos conceptos fundamentales en la gramática y la semántica.\n\nLos sinónimos son palabras o expresiones que tienen el mismo significado que otra palabra o expresión. Por ejemplo, \"feliz\" y \"alegre\" son sinónimos, ya que ambas describen un estado de ánimo positivo. Otro ejemplo sería \"mundo\" y \"planeta\", que se refieren al mismo concepto.\n\nLos antónimos, por otro lado, son palabras o expresiones que tienen significados opuestos. Por ejemplo, \"grande\" y \"pequeño\" son antónimos, ya que describen conceptos opuestos en términos de tamaño. Otro ejemplo sería \"verdad\" y \"mentira\", que se refieren a conceptos opuestos en términos de veracidad.\n\nRecuerda, alumno, que la",
@@ -4173,8 +4170,13 @@
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "Los sinónimos son palabras o expresiones que tienen el mismo significado o equivalen a otra palabra o expresión en un texto. Por ejemplo, \"feliz\" y \"alegre\" son sinónimos porque describen la misma emoción positiva.\n\nPor otro lado, los antónimos son palabras o expresiones opuestas en significado. Por ejemplo, \"bueno\" y \"malo\" son antónimos porque describen conceptos contrarios.",
       "fecha": "2025-12-28T21:53:32.352Z"
+    },
+    {
+      "pregunta": "¿Cómo se construyen oraciones complejas en español?",
+      "respuesta": "Las oraciones complejas en español se construyen utilizando conectivos como \"y\", \"o\", \"pero\" o \"porque\" para unir dos o más oraciones simples o oraciones subordinadas. Por ejemplo: \"Ella estudió para el examen, pero no se sintió preparada\" (con un conjunción adversativa \"pero\"). Otra forma es mediante oraciones subordinadas, como: \"Me alegra que llueve hoy\" (con una oración subordinada \"que\").",
+      "fecha": "2025-12-28T21:53:41.668Z"
     }
   ],
-  "ultimaActualizacion": 1766958812353,
-  "preguntasHechas": 519
+  "ultimaActualizacion": 1766958821670,
+  "preguntasHechas": 520
 }
