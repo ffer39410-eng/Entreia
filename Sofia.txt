@@ -1,5 +1,5 @@
 {
-  "iq": 3039,
+  "iq": 3046,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3158,16 +3158,12 @@
     "escritores",
     "oradores",
     "actuales",
-    "sitúa"
+    "sitúa",
+    "interpretes"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
-      "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de analizar e interpretar información de manera coherente y sensata, utilizando principios y reglas lógicas para llegar a conclusiones sólidas. Esto implica utilizar argumentos, hechos y evidencia para sustentar una idea o proposición, en lugar de simplemente expresar un sentimiento o opinión. Por ejemplo, si alguien afirma que \"el aire acondicionado mejora la calidad del sueño\", un razonamiento lógico podría implicar presentar evidencia científica, como estudios que demuestran la relación entre la temperatura y la calidad del sueño, para respaldar esta afirmación. Esto permite a los interlocutores evaluar la validez de la idea y tomar una decisión informada.",
-      "fecha": "2025-12-28T21:13:31.809Z"
-    },
     {
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales son una parte fundamental de la gramática en español. Funcionan como una forma de indicar cuándo y cómo ocurren los eventos relacionados con el verbo principal en una oración. En español, existen varios tiempos verbales, como el presente, el pasado, el futuro, el condicional, el imperativo, entre otros.\n\nPor ejemplo, el verbo \"ir\" en el presente implica que la acción se está realizando en el momento de la conversación (Yo voy al parque), mientras que en el pasado implica que la acción ya se ha completado (Yo fui al parque). Esta misma lógica se aplica a otros tiempos verbales y verbes.",
@@ -4162,8 +4158,13 @@
       "pregunta": "¿Cómo se estructura una buena argumentación?",
       "respuesta": "Una buena argumentación se estructura en seis componentes clave: \n\n1. **Tesis**: La afirmación principal que se quiere defender o refutar.\n2. **Apoyo**: Los hechos, evidencia o razones que respaldan la tesis.\n3. **Contexto**: La información previa que sitúa la argumentación en su contexto.\n4. **Análisis**: La explicación detallada de cómo se relacionan los hechos con la tesis.\n5. **Refutación**: La respuesta a las posibles objeciones o críticas.\n6. **Conclusión**: La síntesis de los puntos clave y la reiteración de la tesis.\n\nCon esta estructura, se puede presentar una argumentación sólida y convincente.",
       "fecha": "2025-12-28T21:52:20.088Z"
+    },
+    {
+      "pregunta": "¿Cómo funciona la comprensión del contexto?",
+      "respuesta": "La comprensión del contexto es la capacidad de interpretar y analizar información en función del entorno, la situación y la intención en la que se presenta. Para lograr esto, se consideran factores como el tono, el lenguaje, la cultura y el conocimiento previo. Por ejemplo, cuando lees un texto con un título que dice \"El fin del mundo\", es probable que lo interpretes de manera diferente si el texto está en un periódico de noticias que en un libro de ficción.",
+      "fecha": "2025-12-28T21:52:27.736Z"
     }
   ],
-  "ultimaActualizacion": 1766958740090,
-  "preguntasHechas": 510
+  "ultimaActualizacion": 1766958747739,
+  "preguntasHechas": 511
 }
