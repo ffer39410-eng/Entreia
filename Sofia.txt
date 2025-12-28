@@ -1,5 +1,5 @@
 {
-  "iq": 904,
+  "iq": 907,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1731,7 +1731,9 @@
     "abierta",
     "actitud",
     "búsqueda",
-    "verdad"
+    "verdad",
+    "rige",
+    "peligroso"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2590,8 +2592,13 @@
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es la habilidad de analizar información, evaluar evidencia y formar opiniones informadas basadas en argumentos sólidos. Implica cuestionar suposiciones, identificar sesgos y resolver dilemas complejos de manera independiente y autoconfiada. Por ejemplo, al leer un artículo, un pensador crítico no se limitaría a aceptar la información sin más, sino que analizaría las fuentes, la metodología y las conclusiones para determinar su validez. Esto requiere una mentalidad abierta y una actitud de búsqueda de la verdad.",
       "fecha": "2025-12-28T20:10:32.536Z"
+    },
+    {
+      "pregunta": "¿Cuáles son las reglas de la gramática española?",
+      "respuesta": "La gramática española se rige por una serie de reglas básicas que se aplican en el idioma, como la concordancia de género y número, la flexión de género y número en adjetivos y sustantivos, la concordancia de persona y número en verbos, y la formación de oraciones simples y compuestas. Por ejemplo, en la oración \"El perro es peligroso\", el adjetivo \"peligroso\" concuerda en género y número con el sustantivo \"perro\", que es masculino y singular.",
+      "fecha": "2025-12-28T20:10:47.503Z"
     }
   ],
-  "ultimaActualizacion": 1766952632539,
-  "preguntasHechas": 97
+  "ultimaActualizacion": 1766952647505,
+  "preguntasHechas": 98
 }
