@@ -1,5 +1,5 @@
 {
-  "iq": 1731,
+  "iq": 1734,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2442,16 +2442,17 @@
     "presento",
     "corre",
     "concuerdan",
-    "contradicen"
+    "contradicen",
+    "comparan",
+    "astro",
+    "enfatizando",
+    "nuestros",
+    "memorables",
+    "emotivos"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
-      "respuesta": "Expresar emociones de manera efectiva implica comunicar de manera clara, respetuosa y auténtica tus sentimientos y necesidades. Para ello, es importante ser consciente de tus emociones y utilizar palabras y acciones que reflejen tus sentimientos de manera directa, sin agredir o acusar a los demás. Por ejemplo, en lugar de decir \"Eres muy cruel\", podrías decir \"Me duele que me hables de esa manera, ¿puedes tratar de ser más amable?\" o \"Me siento frustrado con la situación, ¿podemos encontrar una solución juntos?\".",
-      "fecha": "2025-12-28T19:25:28.311Z"
-    },
     {
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar información, argumentos y puntos de vista de manera objetiva y lógica, para llegar a conclusiones informadas y bien fundamentadas. Requiere la capacidad de cuestionar supuestos, identificar sesgos y considerar múltiples perspectivas. Por ejemplo, al leer un artículo periodístico, el pensamiento crítico te permitiría analizar si el autor presenta evidencia sólida, si sus argumentos están bien fundamentados y si hay sesgos en su perspectiva.",
@@ -3446,8 +3447,13 @@
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "Excelente pregunta, estudiantes. Los sinónimos son palabras que tienen el mismo significado que otra palabra, pero se expresan de manera diferente. Por ejemplo, \"feliz\" y \"alegre\" son sinónimos porque describen la misma emoción. \n\nPor otro lado, los antónimos son palabras que se refieren a conceptos opuestos entre sí. Por ejemplo, \"gran\" y \"pequeño\" son antónimos porque se contradicen. \n\nEn resumen, los sinónimos se utilizan para variar la forma de expresar una idea, mientras que los antónimos se utilizan para contrastar conceptos opuestos.",
       "fecha": "2025-12-28T21:04:04.970Z"
+    },
+    {
+      "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
+      "respuesta": "Las metáforas son una figura retórica que permite crear conexión entre conceptos abstractos o complejos y objetos o experiencias concretos, facilitando la comprensión y la comunicación. Por ejemplo, \"Ella es una estrella\" o \"Él es un sol\" son metáforas que comparan a una persona con un astro, enfatizando su belleza o energía. Al usar metáforas, podemos hacer que nuestros mensajes sean más memorables y emotivos.",
+      "fecha": "2025-12-28T21:04:11.714Z"
     }
   ],
-  "ultimaActualizacion": 1766955844972,
-  "preguntasHechas": 260
+  "ultimaActualizacion": 1766955851715,
+  "preguntasHechas": 261
 }
