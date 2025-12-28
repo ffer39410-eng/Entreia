@@ -1,5 +1,5 @@
 {
-  "iq": 1568,
+  "iq": 1573,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2315,16 +2315,16 @@
     "financieras",
     "ilumin",
     "habitación",
-    "reemplazar"
+    "reemplazar",
+    "describan",
+    "cruzar",
+    "brazos",
+    "incómodo",
+    "validar"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué es el pensamiento crítico?",
-      "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar información, argumentos y creencias de manera objetiva y sistemática, buscando evidencia y fundamentos lógicos que respalden las afirmaciones. Esto implica cuestionar suposiciones y asunciones, identificar sesgos y parcialidades, y considerar diferentes perspectivas y perspectivas. Por ejemplo, al leer un artículo periodístico, un pensador crítico evaluaría la fuente de la información, el lenguaje utilizado y la coherencia del argumento para determinar la validez y la credibilidad del contenido.",
-      "fecha": "2025-12-28T19:21:04.166Z"
-    },
     {
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras que se colocan delante de un sustantivo, un grupo nominal o un pronombre, y que indican la relación entre dichos elementos y otros elementos en la oración. Ejemplos de preposiciones son: en, de, con, bajo, por, etc. Por ejemplo: \"Estoy en la playa\" o \"Me encanta leer un libro en mi tiempo libre\".\n\nFuncionan como \"puentes\" entre el sujeto, el complemento directo, el complemento indirecto, el complemento circunstancial, entre otros, y permiten al lector o oyente entender el significado de la oración de una manera más clara y precisa.",
@@ -3319,8 +3319,13 @@
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "Los sinónimos son palabras que tienen el mismo significado o una acepción similar, como \"luz\" y \"iluminación\". Por ejemplo, en la oración \"La luz del sol iluminó la habitación\", podemos reemplazar \"luz\" con \"iluminación\" sin cambiar el significado de la oración.\n\nPor otro lado, los antónimos son palabras que tienen significados opuestos, como \"feliz\" y \"triste\". Por ejemplo, en la oración \"Ella estaba feliz, mientras que él estaba triste\", la palabra \"feliz\" y \"triste\" se utilizan para expresar dos sentimientos opuestos.",
       "fecha": "2025-12-28T20:56:35.838Z"
+    },
+    {
+      "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
+      "respuesta": "Para expresar emociones de forma efectiva, es importante ser auténtico y honesto. Puedes utilizar palabras y frases que describan cómo te sientes, como \"Me siento feliz\" o \"Estoy muy enojado\". También puedes utilizar lenguaje corporal que refleje tus emociones, como sonreír cuando estás contento o cruzar los brazos cuando estás incómodo. Además, es importante escuchar y validar las emociones de los demás, ya que esto ayuda a crear un ambiente más seguro y positivo.",
+      "fecha": "2025-12-28T20:56:43.595Z"
     }
   ],
-  "ultimaActualizacion": 1766955395839,
-  "preguntasHechas": 227
+  "ultimaActualizacion": 1766955403597,
+  "preguntasHechas": 228
 }
