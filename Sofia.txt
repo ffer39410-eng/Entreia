@@ -1,5 +1,5 @@
 {
-  "iq": 3081,
+  "iq": 3086,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3175,11 +3175,6 @@
   "conversaciones": 6,
   "conocimiento": [
     {
-      "pregunta": "¿Cómo se estructura una buena argumentación?",
-      "respuesta": "Una buena argumentación se estructura en tres partes fundamentales: presentación de la tesis, desarrollo del argumento y refutación de posibles objeciones. La tesis es la afirmación principal que se pretende demostrar, mientras que el desarrollo del argumento implica presentar evidencia y razonamientos que la apoyan. La refutación de posibles objeciones consiste en anticipar y responder a las críticas que podrían hacer los opositores. Esto proporciona una argumentación sólida y convincente.",
-      "fecha": "2025-12-28T21:14:35.731Z"
-    },
-    {
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar información de manera objetiva, identificar patrones y relaciones, y tomar decisiones informadas. Se trata de cuestionar suposiciones y creencias, buscar evidencia y argumentos sólidos, y considerar diferentes perspectivas. Por ejemplo, un estudiante que analiza un texto histórico no solo se limita a memorizar fechas y eventos, sino que también evalúa la información, identifica posibles sesgos y considera la perspectiva del autor.",
       "fecha": "2025-12-28T21:14:43.720Z"
@@ -4173,8 +4168,13 @@
       "pregunta": "¿Cuáles son las reglas de la gramática española?",
       "respuesta": "Las reglas de la gramática española son fundamentales para expresarse de manera clara y correcta. Una de las reglas básicas es la concordancia de género y número, es decir, que el sustantivo y el adjetivo coincidan en género y número. Por ejemplo, \"la casa blanca\" en lugar de \"la casa blanco\". Otra regla importante es la concordancia de personas, donde el sujeto y el verbo coincidan en número y persona. Por ejemplo, \"yo trabajo\" en lugar de \"yo trabajan\".",
       "fecha": "2025-12-28T21:53:24.907Z"
+    },
+    {
+      "pregunta": "¿Qué son los sinónimos y antónimos?",
+      "respuesta": "Los sinónimos son palabras o expresiones que tienen el mismo significado o equivalen a otra palabra o expresión en un texto. Por ejemplo, \"feliz\" y \"alegre\" son sinónimos porque describen la misma emoción positiva.\n\nPor otro lado, los antónimos son palabras o expresiones opuestas en significado. Por ejemplo, \"bueno\" y \"malo\" son antónimos porque describen conceptos contrarios.",
+      "fecha": "2025-12-28T21:53:32.352Z"
     }
   ],
-  "ultimaActualizacion": 1766958804909,
-  "preguntasHechas": 518
+  "ultimaActualizacion": 1766958812353,
+  "preguntasHechas": 519
 }
