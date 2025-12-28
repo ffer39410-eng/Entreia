@@ -1,5 +1,5 @@
 {
-  "iq": 423,
+  "iq": 430,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1136,7 +1136,14 @@
     "agua",
     "correcta",
     "ocurren",
-    "ocurrieron"
+    "ocurrieron",
+    "completo",
+    "compramos",
+    "verano",
+    "bonita",
+    "introducida",
+    "tener",
+    "estés"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1505,8 +1512,13 @@
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales son una parte fundamental de la gramática en cualquier idioma, y se utilizan para expresar la relación entre el momento del habla y el momento en que se realiza una acción. Hay varios tiempos verbales, como el presente, el pasado, el futuro, el condicional, el subjuntivo, entre otros, cada uno con sus propias reglas y usos. Por ejemplo, el tiempo presente se utiliza para describir acciones que ocurren en el momento del habla, mientras que el tiempo pasado se utiliza para describir acciones que ocurrieron en el pasado.",
       "fecha": "2025-12-28T19:10:09.099Z"
+    },
+    {
+      "pregunta": "¿Cómo se construyen oraciones complejas en español?",
+      "respuesta": "Las oraciones complejas se construyen en español mediante la combinación de una oración principal (o \"oración independiente\") con una o varias oraciones subordinadas. Una oración subordinada es aquella que depende de la oración principal para comunicar un significado completo.\n\nPor ejemplo: \"La casa que compramos en verano es muy bonita\" es una oración compleja, donde \"es muy bonita\" es la oración principal y \"la casa que compramos en verano\" es la oración subordinada. Esta oración subordinada está introducida por el conjunción \"que\" y depende de la oración principal para tener sentido.\n\nOtro ejemplo: \"Me alegra que tú estés aquí\" es otra oración compleja, donde \"estoy aquí\" es la oración subordinada introducida por la conjunción \"que\" y depende de la oración principal",
+      "fecha": "2025-12-28T19:10:17.295Z"
     }
   ],
-  "ultimaActualizacion": 1766949009100,
+  "ultimaActualizacion": 1766949017298,
   "preguntasHechas": null
 }
