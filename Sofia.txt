@@ -1,5 +1,5 @@
 {
-  "iq": 2686,
+  "iq": 2689,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2989,16 +2989,13 @@
     "watching",
     "movies",
     "semanas",
-    "argumental"
+    "argumental",
+    "anuncio",
+    "publicitario"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué es la coherencia textual?",
-      "respuesta": "La coherencia textual se refiere a la calidad de un texto en términos de la relación lógica y coherente entre sus ideas, ideas o pasajes. Un texto coherente tiene un hilo conductor claro y una estructura lógica que permite al lector seguir y comprender fácilmente el mensaje. Por ejemplo, en un ensayo sobre la importancia de la educación, cada párrafo debe estar relacionado con el anterior para que el lector pueda seguir la línea de argumentación.",
-      "fecha": "2025-12-28T21:01:32.687Z"
-    },
     {
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual se refiere a la capacidad de un texto para transmitir una idea o mensaje claro y consistente a través de toda su estructura. Esto significa que el lector puede seguir con facilidad la línea de razonamiento o la conexión lógica entre las ideas presentadas en el texto, sin sufrir cambios bruscos o inesperados en la narrativa. Por ejemplo, en un ensayo, la coherencia textual se logra cuando el autor conecta sus ideas con frases de transición y utiliza conceptos relacionados para mantener la lógica del texto.",
@@ -3993,8 +3990,13 @@
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual se refiere a la propiedad de un texto que permite que el lector o el oyente comprenda y siga el hilo argumental y la estructura lógica de la información presentada. Un texto coherente presenta ideas y conceptos relacionados entre sí de manera lógica y clara, ayudando al receptor a seguir el razonamiento y a entender el mensaje de manera efectiva. Por ejemplo, en un ensayo, la coherencia textual se logra al presentar ideas y argumentos en un orden lógico y bien conectado.",
       "fecha": "2025-12-28T21:37:39.863Z"
+    },
+    {
+      "pregunta": "¿Qué es el pensamiento crítico?",
+      "respuesta": "El pensamiento crítico es la capacidad de analizar información, evaluar evidencia y formar conclusiones informadas y objetivas. Esto implica cuestionar asunciones, identificar parcialidades y considerar múltiples perspectivas. Un ejemplo de pensamiento crítico es cuando se analiza un anuncio publicitario, identificando el propósito detrás del mensaje y considerando si la información presentada es precisa o engañosa.",
+      "fecha": "2025-12-28T21:37:47.609Z"
     }
   ],
-  "ultimaActualizacion": 1766957859864,
-  "preguntasHechas": 441
+  "ultimaActualizacion": 1766957867610,
+  "preguntasHechas": 442
 }
