@@ -1,5 +1,5 @@
 {
-  "iq": 1394,
+  "iq": 1401,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2208,16 +2208,12 @@
     "radio",
     "incorrectas",
     "cardiopatía",
-    "trastorno"
+    "trastorno",
+    "exámenes"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
-      "respuesta": "El vocabulario técnico se refiere a términos y expresiones especializados utilizados en un campo de conocimiento o profesión específica, como la medicina o la ingeniería. Por ejemplo, un médico utiliza términos como \"cirugía\" o \"biopsia\" para describir procedimientos. En cambio, el vocabulario coloquial se refiere a palabras y expresiones comunes que se utilizan en la conversación diaria, como \"estoy cansado\" o \"me encanta\".\n\nUn ejemplo ilustrativo es la palabra \"pantalla\". En el contexto tecnológico, se refiere a la pantalla de un dispositivo digital, mientras que en un contexto coloquial, la palabra \"pantalla\" se utiliza para describir una pantalla de televisión o un cine.",
-      "fecha": "2025-12-28T19:09:45.141Z"
-    },
     {
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales son una herramienta fundamental en la gramática para expresar momentos específicos en el tiempo en que se desarrolla una acción. Hay varios tiempos verbales, como el presente, pasado simple, pasado perfecto, futuro simple, entre otros. Por ejemplo, el verbo \"hablar\" en presente se expresa como \"hablo\", en pasado simple como \"hablé\", pero en pasado perfecto se utiliza \"he hablado\".\n\nA continuación, menciono algunos ejemplos más:\n\n- Presente: \"El reloj marca las 12 pm\" (indicativo de acción en este instante)\n- Pasado simple: \"El reloj marcaba las 12 pm\" (indicativo de acción en el pasado)\n- Pasado perfecto: \"El reloj ha marcado las 12 pm\" (indicativo de acción terminada, con relación al presente)\n- Futuro simple:",
@@ -3212,8 +3208,13 @@
       "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
       "respuesta": "El vocabulario técnico se refiere a las palabras y expresiones utilizadas en un campo específico de conocimiento o actividad, como la medicina, la tecnología o la ingeniería. Estas palabras suelen ser precisas y técnicamente correctas, pero pueden ser difíciles de entender para personas no relacionadas con ese campo.\n\nPor otro lado, el vocabulario coloquial se refiere a las palabras y expresiones comúnmente utilizadas en la conversación informal, en el lenguaje de la calle, como en la música, la televisión y la radio. Estas palabras suelen ser más fáciles de entender, pero pueden ser poco precisas o incorrectas en ciertos contextos.\n\nPor ejemplo, en medicina, \"cardiopatía\" es un término técnico que se refiere a un trastorno del corazón, mientras que en la conversación coloquial se puede referir a",
       "fecha": "2025-12-28T20:43:39.602Z"
+    },
+    {
+      "pregunta": "¿Cómo se construyen oraciones complejas en español?",
+      "respuesta": "Las oraciones complejas en español se construyen mediante la unión de dos o más oraciones simples, que pueden ser coordinadas o subordinadas. Una oración independiente puede ser subordinada a otra, creando una estructura de oraciones compleja. Por ejemplo, \"Mientras estudiaba para mis exámenes, mi amigo llamó\" es una oración compleja, donde \"mientras estudiaba para mis exámenes\" es una oración subordinada.",
+      "fecha": "2025-12-28T20:43:47.591Z"
     }
   ],
-  "ultimaActualizacion": 1766954619604,
-  "preguntasHechas": 195
+  "ultimaActualizacion": 1766954627592,
+  "preguntasHechas": 196
 }
