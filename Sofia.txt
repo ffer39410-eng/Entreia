@@ -1,5 +1,5 @@
 {
-  "iq": 2923,
+  "iq": 2929,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3098,16 +3098,15 @@
     "utilizaciones",
     "uniendo",
     "familiarizados",
-    "cronológicos"
+    "cronológicos",
+    "mismos",
+    "enfadados",
+    "insultar",
+    "faciales"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
-      "respuesta": "Las metáforas son una forma de lenguaje que consisten en comparar dos conceptos o ideas que no son similares de manera directa, utilizando palabras o frases que describen una cosa como si fuera otra. Por ejemplo, \"ella es un sol en la fiesta\" o \"su voz es una música celestial\". Esta forma de lenguaje permite crear imágenes y asociaciones en la mente del oyente o lector, lo que puede hacer que la comunicación sea más interesante y efectiva. Al utilizar metáforas, podemos expresar complejidades y emociones de manera más creativa y convincente.",
-      "fecha": "2025-12-28T21:10:35.958Z"
-    },
     {
       "pregunta": "¿Cómo funciona la comprensión del contexto?",
       "respuesta": "La comprensión del contexto es la capacidad de interpretar y relacionar un mensaje, una oración o una situación con el entorno en el que se encuentra. Implica considerar factores como la cultura, la posición social, la intención del hablante o escritor, y la situación en la que se produce el mensaje. Por ejemplo, cuando se le dice a alguien \"echa una mano\", en un contexto de ayuda en una emergencia, pero en un contexto de trabajo, puede significar ayuda extra.",
@@ -4102,8 +4101,13 @@
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual se refiere a la capacidad de un texto para mantener una línea de pensamiento clara y lógica, uniendo ideas y frases de manera lógica y consecuente. Esto implica que el autor debe utilizar conectores, transiciones y vocabulario para guiar al lector a través de su argumento o narrativa de manera fluida y sin confusiones. Un texto coherente es aquel que es fácil de seguir y comprender, incluso para lectores que no están muy familiarizados con el tema. Por ejemplo, un ensayo de historia puede ser coherente si describe una secuencia de eventos cronológicos y relacionados entre sí.",
       "fecha": "2025-12-28T21:49:23.799Z"
+    },
+    {
+      "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
+      "respuesta": "La expresión de emociones de forma efectiva es fundamental para comunicarnos de manera auténtica y evitar malentendidos. Para lograr esto, es importante ser consciente de nuestras emociones y aprender a reconocerlas en nosotros mismos y en los demás. Por ejemplo, si estamos enfadados, podemos expresar nuestra ira de manera constructiva mediante un lenguaje claro y conciso, evitando agredir o insultar. Además, podemos utilizar expresiones faciales y corporales para reflejar nuestras emociones y conectar con los demás.",
+      "fecha": "2025-12-28T21:49:31.656Z"
     }
   ],
-  "ultimaActualizacion": 1766958563802,
-  "preguntasHechas": 488
+  "ultimaActualizacion": 1766958571659,
+  "preguntasHechas": 489
 }
