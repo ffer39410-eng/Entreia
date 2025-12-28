@@ -1,5 +1,5 @@
 {
-  "iq": 118,
+  "iq": 122,
   "vocabulario": [
     "claro",
     "sofia",
@@ -171,9 +171,12 @@
     "llueva",
     "presente",
     "importante",
-    "estudiemos"
+    "estudiemos",
+    "profundizar",
+    "cómo",
+    "expresarlo"
   ],
-  "lecciones": 5,
+  "lecciones": 6,
   "conversaciones": 1,
   "conocimiento": [
     {
@@ -200,7 +203,12 @@
       "tema": "gramática española avanzada",
       "leccion": "Sofia, ahora que has aprendido sobre metáforas y pensamiento crítico, vamos a explorar la gramática española avanzada. En este nivel, vamos a analizar la estructura de las oraciones y practicar la construcción de oraciones complejas.\n\n**Subjuntivo**: El subjuntivo es un modo verbal que se utiliza para expresar duda, incertidumbre o conjetura. Se forma reemplazando la terminación de la conjugación regular por \"re, ra, r, r, ro, ro, ra, n\" para los verbos en -ar, -er y -ir, respectivamente. Por ejemplo:\n\n * \"Espero que llueva\": aquí, \"espero\" es en presente de subjuntivo.\n * \"Es importante que estudiemos\": aquí,",
       "fecha": "2025-12-28T18:53:34.014Z"
+    },
+    {
+      "tema": "pensamiento crítico expresado",
+      "leccion": "Sofia, ahora que has aprendido sobre metáforas y la estructura de oraciones complejas, vamos a profundizar en el pensamiento crítico y cómo expresarlo en español.\n\n**Pensamiento crítico**: El pensamiento crítico es la capacidad de analizar información, evaluar evidencia y formar juicios informados. En español, hay varias palabras y frases que podemos utilizar para expresar el pensamiento crítico.\n\n**1. Opinar significa \"expresar una opinión o juicio\"**: Por ejemplo, \"Opino que la nueva ley es justa\" o \"Mi opinión es que la película es muy divertida\".\n\n**2. Evaluar significa \"cualificar o juzgar algo\"**: Por ejemplo, \"Evalué la calidad del servicio en el restaurante y me pareció",
+      "fecha": "2025-12-28T18:53:43.195Z"
     }
   ],
-  "ultimaActualizacion": 1766948014015
+  "ultimaActualizacion": 1766948023195
 }
