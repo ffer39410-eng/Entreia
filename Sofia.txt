@@ -1,5 +1,5 @@
 {
-  "iq": 2990,
+  "iq": 2996,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3134,11 +3134,6 @@
   "conversaciones": 6,
   "conocimiento": [
     {
-      "pregunta": "¿Cómo se usa la puntuación correctamente?",
-      "respuesta": "La puntuación es fundamental en la escritura para comunicar ideas de manera clara y eficaz. Utilizar puntos y comas correctamente podemos indicar pausas, separar oraciones y enfatizar palabras clave, como en el ejemplo: \"Vine a la fiesta, pero me marché temprano.\" En este caso, el punto al final de \"fiesta\" indica que es la oración principal, mientras que la coma después de \"vine\" separa las dos ideas.",
-      "fecha": "2025-12-28T21:12:19.756Z"
-    },
-    {
       "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
       "respuesta": "Las metáforas son utilizadas para crear conexiones inusuales entre conceptos y objetos, permitiendo a los hablantes describir ideas y emociones de manera más poética y evocadora. Por ejemplo, decir \"estoy atrapado en un laberinto\" no solo describe una sensación de confusión, sino que también evoca una imagen visual de un lugar desconocido y difícil de navegar. Esto permite a los oyentes imaginar y conectarse con la Idea más fácilmente.",
       "fecha": "2025-12-28T21:12:27.848Z"
@@ -4132,8 +4127,13 @@
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual se refiere a la capacidad de un texto para mantener una conexión lógica y clara entre las ideas y los pasajes que lo componen. Esto significa que cada idea o oración debe estar relacionada con la anterior y la siguiente, de manera que el lector pueda seguir el hilo de pensamiento sin dificultades. Por ejemplo, un texto sobre un viaje en el que se describe la salida, el trayecto y la llegada, muestra coherencia al mantener un orden lógico y claro.",
       "fecha": "2025-12-28T21:51:07.742Z"
+    },
+    {
+      "pregunta": "¿Qué son los sinónimos y antónimos?",
+      "respuesta": "Los sinónimos son palabras que tienen el mismo significado o casi idéntico, como \"felicidad\" y \"alegría\". Por ejemplo, en la oración \"La música me llena de felicidad\", también podría decir \"La música me llena de alegría\" y el significado sería el mismo.\n\nPor otro lado, los antónimos son palabras que tienen significados opuestos, como \"gran\" y \"pequeño\". Por ejemplo, en la oración \"La casa es grande\", su antónimo sería \"La casa es pequeña\", lo que implica un significado contrario.",
+      "fecha": "2025-12-28T21:51:15.642Z"
     }
   ],
-  "ultimaActualizacion": 1766958667744,
-  "preguntasHechas": 501
+  "ultimaActualizacion": 1766958675643,
+  "preguntasHechas": 502
 }
