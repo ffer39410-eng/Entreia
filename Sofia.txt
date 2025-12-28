@@ -1,5 +1,5 @@
 {
-  "iq": 2198,
+  "iq": 2204,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2732,16 +2732,17 @@
     "separan",
     "desayuno",
     "necesit",
-    "consta"
+    "consta",
+    "transformar",
+    "concreta",
+    "vivida",
+    "emplear",
+    "transmitiendo",
+    "talentosa"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
-      "respuesta": "El vocabulario técnico se refiere a las palabras y expresiones utilizadas en un campo específico de conocimiento o actividad, como la medicina, la informática o la ingeniería, y que requieren un conocimiento especializado para ser entendidas. Por otro lado, el vocabulario coloquial es el lenguaje informal y comúnmente utilizado en la vida diaria, que puede variar según la región y la cultura.\n\nUn ejemplo es la palabra \"disco duro\" en informática, que es un término técnico, mientras que en la vida cotidiana se utiliza el término \"disco\" de manera coloquial para referirse a un tipo de música.",
-      "fecha": "2025-12-28T20:32:27.816Z"
-    },
     {
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son palabras y expresiones que se utilizan para unir oraciones, frases o ideas en una comunicación. Ayudan a establecer relaciones lógicas entre las ideas presentadas, como la causalidad, la contraste, la consecuencia, la adición o la enumeración. Por ejemplo: \"Y\" (unidos para formar un solo evento), \"Pero\" (indicando un cambio de idea), \"Porque\" (indicando una causa y efecto).",
@@ -3736,8 +3737,13 @@
       "pregunta": "¿Cuáles son las reglas de la gramática española?",
       "respuesta": "La gramática española consta de varias reglas importantes, como el uso de los artículos (el, la, los, las), el género y número de los sustantivos (masculino y femenino, singular y plural), y la concordancia verbal (concordancia en tiempo, modo y número). También hay reglas para la formación de las oraciones (oraciones simples y compuestas) y la puntuación. Por ejemplo, \"El perro corre\" es una oración simple con un sujeto (el perro) y un verbo (corre).",
       "fecha": "2025-12-28T21:18:43.806Z"
+    },
+    {
+      "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
+      "respuesta": "Las metáforas son una figura retórica que permite transformar una idea o concepto abstracto en una imagen concreta y vivida. Al emplear metáforas, podemos describir complejas emociones o pensamientos de manera más accesible y comprensible. Por ejemplo, \"Ella es una estrella\" es una metáfora que compara a una persona con una estrella brillante, transmitiendo la idea de que es una persona destacada y talentosa.",
+      "fecha": "2025-12-28T21:18:51.676Z"
     }
   ],
-  "ultimaActualizacion": 1766956723807,
-  "preguntasHechas": 350
+  "ultimaActualizacion": 1766956731678,
+  "preguntasHechas": 351
 }
