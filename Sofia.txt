@@ -1,5 +1,5 @@
 {
-  "iq": 1553,
+  "iq": 1558,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2307,16 +2307,13 @@
     "nuevos",
     "aumentar",
     "reducir",
-    "estrés"
+    "estrés",
+    "adecuados",
+    "separación"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
-      "respuesta": "El vocabulario técnico se refiere a las palabras y expresiones específicas utilizadas en un campo o profesión determinada, como la medicina, la ingeniería o la economía. Por ejemplo, en medicina, se utiliza el término \"angiografía\" para describir una prueba de imágenes de las arterias.\n\nPor otro lado, el vocabulario coloquial se refiere a las palabras y expresiones comunes y cotidianas que se utilizan en la comunicación informal, como en conversaciones con amigos o familiares. Por ejemplo, decir \"estoy muy cansado\" es una expresión coloquial para describir un estado de falta de energía.\n\nLo importante es que el vocabulario técnico es más formal y preciso, mientras que el coloquial es más informal y depende del contexto y la región.",
-      "fecha": "2025-12-28T19:20:40.147Z"
-    },
     {
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales son una parte fundamental de la gramática en español, y su función es indicar en el que momento del tiempo se desarrolla la acción o el estado descrito por el verbo. Por ejemplo, el tiempo presente se utiliza para describir acciones que suceden en el momento actual, como \"Estoy estudiando\".\n\nEn cambio, el tiempo pasado se utiliza para describir acciones que ya han concluido, como \"Estudié ayer\". El tiempo futuro se utiliza para describir acciones que aún no han sucedido, pero se espera que sucedan, como \"Estudiaré mañana\".\n\nAdemás, existen tiempos verbales como el pasado simple, el pasado perfecto, el futuro simple y el futuro perfecto, que se utilizan para indicar diferentes momentos y grados de certeza en la descripción de la acción. Por ejemplo, \"Había estudiado\" es el pasado perfecto",
@@ -3311,8 +3308,13 @@
       "pregunta": "¿Cómo se usa la puntuación correctamente?",
       "respuesta": "La puntuación es un aspecto fundamental en la escritura y la comunicación efectiva. Utiliza comas para separar ideas en una oración larga, como en el ejemplo: \"Me encanta leer libros de historia, aprender sobre diferentes culturas y explorar nuevos lugares.\" Utiliza puntos para indicar el final de una oración o lista, como en el ejemplo: \"Los beneficios de la lectura son: mejorar la comprensión, aumentar la vocabulario y reducir el estrés.\"",
       "fecha": "2025-12-28T20:54:46.978Z"
+    },
+    {
+      "pregunta": "¿Cómo se usa la puntuación correctamente?",
+      "respuesta": "La puntuación es un elemento fundamental en la escritura y la comunicación efectiva. Usar la puntuación correctamente implica separar ideas y oraciones con signos de puntuación adecuados, como comas, puntos, signos de interrogación, exclamación, puntos suspensivos, etc. Por ejemplo, al separar ideas dentro de una oración, se pueden usar comas, como en \"Voy al supermercado, pero no tengo dinero\".\n\nAdemás, es importante utilizar la puntuación para indicar la separación entre oraciones, como con puntos, que se utilizan para indicar el final de una oración. Por ejemplo, \"Voy al supermercado. Necesito comprar comida para hoy\".\n\nEs importante recordar que la puntuación ayuda a enfatizar y clarificar el significado de un texto, por lo que es fundamental usarla correctamente para transmitir la idea de manera efectiva",
+      "fecha": "2025-12-28T20:54:51.791Z"
     }
   ],
-  "ultimaActualizacion": 1766955286979,
-  "preguntasHechas": 224
+  "ultimaActualizacion": 1766955291793,
+  "preguntasHechas": 225
 }
