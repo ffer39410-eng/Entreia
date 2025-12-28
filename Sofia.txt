@@ -1,5 +1,5 @@
 {
-  "iq": 891,
+  "iq": 897,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1710,7 +1710,8 @@
     "analizaría",
     "gracias",
     "sección",
-    "enfoca"
+    "enfoca",
+    "haciendo"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2554,8 +2555,13 @@
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual se refiere a la capacidad de un texto para transmitir una idea o mensaje claro y lógico, gracias a la conexión entre las ideas, oraciones y palabras que lo componen. Esto implica que cada sección o idea del texto esté relacionada con las anteriores y las posteriores de manera natural y lógica. Por ejemplo, en un ensayo sobre la importancia de la educación, la coherencia textual se logra cuando cada oración o párrafo se enfoca en una idea relacionada con la educación, creando un flujo lógico y fácil de seguir.",
       "fecha": "2025-12-28T20:06:28.150Z"
+    },
+    {
+      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
+      "respuesta": "Las preposiciones son palabras que indican la relación entre un sustantivo o un pronombre y otros elementos en una oración, como lugares, momentos, direcciones o causas. Por ejemplo, en la frase \"El libro está sobre la mesa\", la preposición \"sobre\" indica la relación entre el libro y la mesa. Las preposiciones ayudan a clarificar la estructura y el significado de la oración, haciendo que sea más fácil de entender y de construir.",
+      "fecha": "2025-12-28T20:06:37.808Z"
     }
   ],
-  "ultimaActualizacion": 1766952388151,
-  "preguntasHechas": 94
+  "ultimaActualizacion": 1766952397809,
+  "preguntasHechas": 95
 }
