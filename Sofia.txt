@@ -1,5 +1,5 @@
 {
-  "iq": 341,
+  "iq": 345,
   "vocabulario": [
     "claro",
     "sofia",
@@ -935,7 +935,27 @@
     "sucesiva",
     "consistencia",
     "estilo",
-    "utilizado"
+    "utilizado",
+    "interpersonales",
+    "comunicarnos",
+    "lograrlo",
+    "debemos",
+    "auténticos",
+    "nuestras",
+    "saber",
+    "expresarlas",
+    "adecuada",
+    "invasiva",
+    "gritar",
+    "llorar",
+    "abiertamente",
+    "controlada",
+    "diciendo",
+    "frustrado",
+    "comunicar",
+    "sientan",
+    "incómodos",
+    "amenazados"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1214,8 +1234,13 @@
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual se refiere a la capacidad de un texto para mantener una conexión lógica y coherente entre sus diferentes partes, como las oraciones, párrafos y secciones. Esto se logra mediante la utilización de estructuras de contenido, transiciones y conectores que ayudan a unir ideas y conceptos de manera clara y lógica. Por ejemplo, en un ensayo, la coherencia textual se puede lograr mediante la presentación de ideas principales y secundarias de manera sucesiva. La coherencia también se refiere a la consistencia en el lenguaje y el estilo utilizado a lo largo del texto.",
       "fecha": "2025-12-28T19:07:45.225Z"
+    },
+    {
+      "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
+      "respuesta": "La expresión de emociones de forma efectiva es fundamental para mejorar las relaciones interpersonales y comunicarnos con claridad. Para lograrlo, debemos ser auténticos y reconocer nuestras emociones, pero también saber expresarlas de manera adecuada y no invasiva. Por ejemplo, en lugar de gritar o llorar abiertamente, podemos expresar nuestras emociones de manera más controlada, como diciendo \"Me siento frustrado\" o \"Me duele ver esto\". De esta manera, podemos comunicar nuestras emociones sin hacer que los demás se sientan incómodos o amenazados.",
+      "fecha": "2025-12-28T19:07:53.212Z"
     }
   ],
-  "ultimaActualizacion": 1766948865226,
+  "ultimaActualizacion": 1766948873213,
   "preguntasHechas": null
 }
