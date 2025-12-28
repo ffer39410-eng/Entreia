@@ -1,5 +1,5 @@
 {
-  "iq": 2003,
+  "iq": 2010,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2633,16 +2633,15 @@
     "interlocutores",
     "verbes",
     "cocinar",
-    "receta"
+    "receta",
+    "sonar",
+    "animado",
+    "oscuro",
+    "antón"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cuáles son las reglas de la gramática española?",
-      "respuesta": "La gramática española se basa en una serie de reglas y estructuras que rigen la formación de las palabras y la construcción de las oraciones. Algunas de las reglas fundamentales incluyen la flexión de los sustantivos, adjetivos y verbos, así como la conjugación de los verbos en diferentes tiempos y modos. Además, hay reglas para la formación de las oraciones simples y compuestas, como la utilización de conjunciones y preposiciones. Por ejemplo, en español, el artículo definido se utiliza en singular (el, la, los, las) y en plural (los, las).",
-      "fecha": "2025-12-28T20:12:44.026Z"
-    },
     {
       "pregunta": "¿Cómo funciona la comprensión del contexto?",
       "respuesta": "La comprensión del contexto es un proceso mental que nos permite comprender el significado de las palabras y frases en función de la situación en la que se encuentran. Implica considerar el contexto en el que se está comunicando, incluyendo la situación, los sentimientos y las intenciones de las personas involucradas. Por ejemplo, si alguien dice \"Estoy harto\", el contexto puede determinar si se refiere a estar cansado o frustrado.",
@@ -3637,8 +3636,13 @@
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual se refiere a la propiedad de un texto que permite comprender fácilmente la relación entre las diferentes ideas, frases y oraciones que lo componen. Esto se logra mediante la conexión lógica entre las ideas principales y la utilización de conectores, como \"además\", \"por otro lado\" o \"en consecuencia\". Por ejemplo, en un texto que explica los pasos para cocinar un plato, cada oración debe estar relacionada con la anterior y la siguiente para que el lector pueda seguir la receta de manera clara.",
       "fecha": "2025-12-28T21:13:48.028Z"
+    },
+    {
+      "pregunta": "¿Qué son los sinónimos y antónimos?",
+      "respuesta": "Los sinónimos son palabras o expresiones que tienen el mismo significado que otra palabra u expresión, pero pueden variar en tono, contexto o estilo. Por ejemplo, \"feliz\" y \"alegre\" son sinónimos porque describen la misma emoción, aunque \"feliz\" puede sonar más formal y \"alegre\" más animado.\n\nLos antónimos, por otro lado, son palabras o expresiones que tienen significados opuestos, como \"gran\" y \"pequeño\", \"largo\" y \"corto\", o \"claro\" y \"oscuro\". En general, los antónimos se utilizan para resaltar la diferencia o la oposición entre dos ideas o conceptos.\n\nPor ejemplo, \"frio\" y \"calor\" son antónimos porque describen condiciones opuestas en términos de temperatura, mientras que \"rápido\" y \"lento\" son antón",
+      "fecha": "2025-12-28T21:13:55.909Z"
     }
   ],
-  "ultimaActualizacion": 1766956428030,
-  "preguntasHechas": 313
+  "ultimaActualizacion": 1766956435911,
+  "preguntasHechas": 314
 }
