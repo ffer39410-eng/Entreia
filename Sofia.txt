@@ -1,5 +1,5 @@
 {
-  "iq": 1356,
+  "iq": 1359,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2168,16 +2168,14 @@
     "alfabetización",
     "crucial",
     "impulsar",
-    "crecimiento"
+    "crecimiento",
+    "cohesionado",
+    "unificado",
+    "partir"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
-      "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de pensar y expresar ideas de manera clara, coherente y lógica, utilizando argumentos bien fundamentados y evitando confusiones o contradicciones. Este tipo de razonamiento implica analizar información, identificar patrones y relaciones, y llegar a conclusiones precisas y razonables. \n\nPor ejemplo, si en una conversación alguien afirma que \"el clima cambio está causado por la quema de petróleo\", un razonamiento lógico podría implicar argumentar que \"la quema de petróleo libera dióxido de carbono, que es un gas de efecto invernadero que contribuye al calentamiento global, por lo que es probable que la quema de petróleo contribuya al cambio climático\".\n\nEl razonamiento lógico es fundamental en conversaciones para evitar malentend",
-      "fecha": "2025-12-28T19:08:41.137Z"
-    },
     {
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son palabras o expresiones que se utilizan para unir oraciones o ideas en un texto o una conversación. Se dividen en cuatro categorías principales: consecutivos (por lo tanto, sin embargo, además), aditivos (además, sin embargo, por lo tanto), adversativos (pero, sin embargo, aunque), y causales (porque, ya que, ya que).\n\nPor ejemplo, en la oración \"Me encanta leer libros, pero no tengo mucho tiempo para hacerlo\", el conector \"pero\" une dos ideas contrarias.",
@@ -3172,8 +3170,13 @@
       "pregunta": "¿Cómo se estructura una buena argumentación?",
       "respuesta": "Una buena argumentación se estructura en tres partes fundamentales: la tesis, la base y la conclusión. La tesis es el enunciado principal, la base son los hechos, datos y razones que respaldan la tesis, y la conclusión es la conclusión lógica que se deriva de la base. Por ejemplo, si estás discutiendo sobre la importancia de la educación para el desarrollo económico, tu tesis podría ser \"La educación es fundamental para el desarrollo económico\". La base podría ser un estudio que muestra que los países con alta tasa de alfabetización tienen un PIB mayor. La conclusión sería \"Por lo tanto, es crucial invertir en la educación para impulsar el crecimiento económico\".",
       "fecha": "2025-12-28T20:41:23.765Z"
+    },
+    {
+      "pregunta": "¿Qué es la coherencia textual?",
+      "respuesta": "La coherencia textual se refiere a la capacidad de un texto para presentar una idea o mensaje claro y cohesionado, donde la estructura y los elementos lingüísticos trabajan juntos para transmitir un significado unificado. Esto se logra mediante la concordancia entre las ideas, la relación entre las oraciones y la utilización de conectores lingüísticos. Por ejemplo, en un texto, una idea se desarrolla lógicamente a partir de la anterior, creando una narrativa coherente.",
+      "fecha": "2025-12-28T20:41:31.646Z"
     }
   ],
-  "ultimaActualizacion": 1766954483767,
-  "preguntasHechas": 187
+  "ultimaActualizacion": 1766954491647,
+  "preguntasHechas": 188
 }
