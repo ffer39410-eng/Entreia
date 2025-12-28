@@ -1,5 +1,5 @@
 {
-  "iq": 2710,
+  "iq": 2713,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2997,16 +2997,14 @@
     "ajusten",
     "sucedi",
     "escucharme",
-    "llovido"
+    "llovido",
+    "equívocos",
+    "ofrecen",
+    "indicadores"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo funciona la comprensión del contexto?",
-      "respuesta": "La comprensión del contexto es el proceso de analizar y interpretar información en función de la situación o contexto en el que se encuentra. Esto implica considerar el lenguaje, la cultura, la experiencia y la intención de la persona que la está presentando. Por ejemplo, cuando lees un texto, debes considerar el propósito para el cual fue escrito, el público objetivo y la cultura en la que se encuentra. De esta forma, puedes entender mejor el significado real detrás de las palabras.",
-      "fecha": "2025-12-28T21:02:11.843Z"
-    },
     {
       "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
       "respuesta": "El vocabulario técnico se refiere a palabras y términos específicos utilizados en un campo o profesión determinada, como por ejemplo la medicina, la ingeniería o la química. Estos términos son precisos y están estandarizados para evitar confusiones y asegurar una comunicación clara entre expertos.\n\nPor el contrario, el vocabulario coloquial se refiere a palabras y expresiones comunes en la conversación cotidiana, que pueden variar según la región o la cultura. Estos términos suelen ser más informales y no están necesariamente relacionados con un campo específico.",
@@ -4001,8 +3999,13 @@
       "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
       "respuesta": "El razonamiento lógico es el proceso mental de analizar y evaluar información para llegar a una conclusión lógica y coherente en una conversación. Implica usar premisas y reglas lógicas para llegar a una conclusión válida. Por ejemplo, si alguien afirma: \"Si llueve, la calle estará mojada. Y si la calle está mojada, es probable que haya llovido\", en este caso el razonamiento lógico implica utilizar argumentos y premisas para llegar a una conclusión lógica. Este tipo de razonamiento es fundamental para tomar decisiones informadas y evitar confusiones en las conversaciones.",
       "fecha": "2025-12-28T21:38:19.737Z"
+    },
+    {
+      "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
+      "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de pensar y expresarse de una manera clara, coherente y lógica, a través de argumentos y conclusiones que se basan en evidencia y razones sólidas. Esto implica utilizar principios y reglas lógicas para llegar a conclusiones razonables y evitar falacias y equívocos. Por ejemplo, en una discusión sobre si la educación es gratuita o no, un hablante lógico podría argumentar que \"la educación es un derecho fundamental\" y \"los países que ofrecen educación gratuita tienen mejores indicadores de desarrollo humano\".",
+      "fecha": "2025-12-28T21:38:28.135Z"
     }
   ],
-  "ultimaActualizacion": 1766957899739,
-  "preguntasHechas": 446
+  "ultimaActualizacion": 1766957908137,
+  "preguntasHechas": 447
 }
