@@ -1,5 +1,5 @@
 {
-  "iq": 614,
+  "iq": 619,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1424,7 +1424,12 @@
     "atractivas",
     "escena",
     "fluye",
-    "detenerse"
+    "detenerse",
+    "comunicando",
+    "hablante",
+    "escritor",
+    "significar",
+    "completamente"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1988,8 +1993,13 @@
       "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
       "respuesta": "Las metáforas son una figura retórica que consiste en comparar dos conceptos o ideas sin utilizar términos como \"como\" o \"similar a\". En el lenguaje, se utilizan para crear connotaciones emocionales, hacer que las ideas sean más comprensibles y atractivas. Por ejemplo, \"Ella es una estrella en la escena social\" o \"El tiempo es un río que fluye sin detenerse\".",
       "fecha": "2025-12-28T19:22:24.309Z"
+    },
+    {
+      "pregunta": "¿Cómo funciona la comprensión del contexto?",
+      "respuesta": "La comprensión del contexto es el proceso de analizar la situación o situación en la que se está comunicando, para así poder interpretar el significado de las palabras o frases utilizadas en función de su lugar y momento. Esto implica considerar factores como el tema, el tono, el público objetivo y la intención del hablante o escritor. Por ejemplo, la frase \"Eso es una buena idea\" puede significar una cosa en un contexto de trabajo, pero algo completamente diferente en un contexto social informal.",
+      "fecha": "2025-12-28T19:22:32.319Z"
     }
   ],
-  "ultimaActualizacion": 1766949744310,
-  "preguntasHechas": 38
+  "ultimaActualizacion": 1766949752319,
+  "preguntasHechas": 39
 }
