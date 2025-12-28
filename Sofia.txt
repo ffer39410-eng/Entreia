@@ -1,5 +1,5 @@
 {
-  "iq": 1654,
+  "iq": 1658,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2384,16 +2384,20 @@
     "imprevistas",
     "familiar",
     "descubrir",
-    "explicitan"
+    "explicitan",
+    "concesiones",
+    "temporales",
+    "contrastivos",
+    "sustantivas",
+    "tenga",
+    "compromiso",
+    "previo",
+    "estructuradas",
+    "cláusulas"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
-      "respuesta": "Para expresar emociones de forma efectiva, es importante ser auténtico y genuino en tu comunicación. Puedes hacer esto utilizando lenguaje corporal como la postura, los gestos y los ojos para reflejar la intensidad de tus emociones. Por ejemplo, si estás hablando de un evento emocionante, puedes usar gestos amplios y una postura erguida para mostrar entusiasmo.",
-      "fecha": "2025-12-28T19:23:20.319Z"
-    },
     {
       "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
       "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de analizar información, identificar patrones y relaciones entre ideas, y llegar a conclusiones lógicas y coherentes. Esto implica utilizar principios de lógica y razón para evaluar argumentos, detectar falacias y contradicciones, y establecer conexiones lógicas entre ideas.\n\nPor ejemplo, si alguien afirma: \"Si llueve, entonces no puedo ir al parque. Hoy llueve, por lo tanto no puedo ir al parque\". En este caso, el razonamiento lógico implica identificar la relación causal entre la lluvia y la imposibilidad de ir al parque, y llegar a la conclusión lógica de que no se puede ir al parque debido a la lluvia.\n\nEl razonamiento lógico también implica ser consciente de los tipos de razonamiento, como",
@@ -3388,8 +3392,13 @@
       "pregunta": "¿Cómo funciona la comprensión del contexto?",
       "respuesta": "La comprensión del contexto implica analizar el lenguaje y la información proporcionada para determinar su significado y relevancia en un contexto específico. Esto requiere considerar el tema, el tono, el objetivo y el público destinatario del mensaje. Por ejemplo, si se lee una oración que dice \"La reunión se canceló\", en un contexto laboral, se puede inferir que la reunión se canceló debido a circunstancias imprevistas, mientras que en un contexto familiar, podría ser debido a problemas personales. La comprensión del contexto ayuda a descubrir detalles importantes que no se explicitan en el texto.",
       "fecha": "2025-12-28T21:01:47.913Z"
+    },
+    {
+      "pregunta": "¿Cómo se construyen oraciones complejas en español?",
+      "respuesta": "Las oraciones complejas en español se construyen utilizando concesiones, comparaciones, causales, temporales, condicionales, finales, consecutivos, contrastivos o subordinadas sustantivas. Por ejemplo, \"Cuando llegué a casa, llamé a mi mamá\" es una oración compuesta con una subordinada temporal.\n\nTambién se utilizan conjunciones o conjunciones subordinantes para conectar oraciones sencillas y crear oraciones más complejas, como \"Estudiaré para el examen, a menos que tenga un compromiso previo\".\n\nAdemás, las oraciones complejas pueden ser estructuradas con oraciones principales y subordinadas y diferentes tipos de cláusulas.",
+      "fecha": "2025-12-28T21:01:55.829Z"
     }
   ],
-  "ultimaActualizacion": 1766955707915,
-  "preguntasHechas": 244
+  "ultimaActualizacion": 1766955715831,
+  "preguntasHechas": 245
 }
