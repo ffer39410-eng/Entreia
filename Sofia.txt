@@ -1,5 +1,5 @@
 {
-  "iq": 3066,
+  "iq": 3071,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3165,16 +3165,12 @@
     "presencial",
     "serían",
     "escuch",
-    "canción"
+    "canción",
+    "bebi"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué es el pensamiento crítico?",
-      "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar la información de manera objetiva, identificando fortalezas y debilidades, y considerando múltiples perspectivas. Permite evaluar críticamente ideas, argumentos y evidencia, sin comprometer la empatía ni la comprensión. Un ejemplo de pensamiento crítico es analizar el contenido de un artículo de periódico y cuestionar los supuestos y fuentes citadas. Esto permite formar opiniones informadas y tomar decisiones bien fundamentadas.",
-      "fecha": "2025-12-28T21:14:11.785Z"
-    },
     {
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras que se utilizan para indicar la relación entre un objeto o una acción y otros elementos en una oración. Por ejemplo, en la oración \"El libro está sobre la mesa\", la preposición \"sobre\" muestra la relación entre el libro y la mesa. \n\nLas preposiciones también pueden indicar la dirección, el lugar o el tiempo de una acción. Por ejemplo, en la oración \"Voy al parque\", la preposición \"al\" indica la dirección hacia el parque. \n\nAlgunas preposiciones comunes en español son: a, ante, con, de, desde, en, entre, para, por y bajo.",
@@ -4169,8 +4165,13 @@
       "pregunta": "¿Cómo se construyen oraciones complejas en español?",
       "respuesta": "Una oración compleja en español se construye mediante la combinación de una oración simple y una subordinada, que están unidas mediante un conectivo como \"ya que\", \"porque\", \"aunque\", \"si\", etc. Por ejemplo: \"Ella estudió todo el día porque tenía un examen importante\".\n\nLa estructura básica de una oración compleja es: \n- Una oración simple (o oración principal)\n- Un conectivo\n- Una subordinada (o oración subordinada)\n\nLa oración principal expresa una idea principal, mientras que la subordinada expresa una idea dependiente, relacionada con la principal.",
       "fecha": "2025-12-28T21:52:59.659Z"
+    },
+    {
+      "pregunta": "¿Cómo se construyen oraciones complejas en español?",
+      "respuesta": "Las oraciones complejas en español se construyen combinando dos o más oraciones simples mediante conjunciones o conectivos, como \"y\", \"o\", \"pero\", \"porque\", etc. Por ejemplo: \"Ella comió un sandwich y bebió un vaso de agua\" (en esta oración, \"comió\" y \"bebió\" son oraciones simples que se unen con \"y\").",
+      "fecha": "2025-12-28T21:53:08.154Z"
     }
   ],
-  "ultimaActualizacion": 1766958779660,
-  "preguntasHechas": 515
+  "ultimaActualizacion": 1766958788155,
+  "preguntasHechas": 516
 }
