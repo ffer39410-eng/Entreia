@@ -1,5 +1,5 @@
 {
-  "iq": 1983,
+  "iq": 1987,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2615,16 +2615,14 @@
     "brilla",
     "multitud",
     "quiénes",
-    "consecuencias"
+    "consecuencias",
+    "apoyados",
+    "debilidad",
+    "fortaleza"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo funcionan los tiempos verbales?",
-      "respuesta": "Los tiempos verbales son un sistema fundamental en la gramática que permite expresar diferentes momentos en el tiempo, como el presente, el pasado o el futuro. Por ejemplo, el verbo \"hablar\" puede usarse en diferentes tiempos, como \"hablo\" (presente), \"hablé\" (pretérito perfecto simple), \"hablaré\" (futuro simple) o \"había hablado\" (pretérito imperfecto).\n\nExisten diferentes tiempos verbales, como:\n\n- Tiempo presente: Describe acciones que ocurren en el momento actual (Me gusta leer).\n- Tiempo pretérito: Describe acciones que ocurrieron en el pasado (Hablé con mi amigo ayer).\n- Tiempo futuro: Describe acciones que ocurrirán en el futuro (Voy a viajar a Madrid el próximo año).\n- Tiempoprogressivo: Describe acciones que están sucediendo en un",
-      "fecha": "2025-12-28T20:12:03.807Z"
-    },
     {
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son palabras o expresiones que unen oraciones, frases o ideas para crear una relación lógica entre ellas. Pueden indicar la causalidad (porque, ya que), la comparación (como, de la misma forma que), la enumeración (primeramente, en segundo lugar, finalmente), la oposición (pero, sin embargo), la contraste (a diferencia de), entre otros. Por ejemplo: \"Me encanta leer libros porque me gustan los relatos de aventuras\".\n\nLos conectores cumplen un papel fundamental en la comunicación escrita y oral, ya que ayudan a organizar y estructurar la información de manera clara y coherente.",
@@ -3619,8 +3617,13 @@
       "pregunta": "¿Cómo funciona la comprensión del contexto?",
       "respuesta": "La comprensión del contexto se refiere a la habilidad de identificar, analizar y comprender la información implícita y explícita que rodea una situación, texto o comunicación. Esto implica considerar el significado de los eventos, personas, lugares y tiempos relevantes, así como las relaciones entre ellos. Por ejemplo, en un texto que describe una reunión de negocios, la comprensión del contexto permitiría entender quiénes están presentes, qué se está discutiendo y qué consecuencias puede tener el resultado de la reunión.",
       "fecha": "2025-12-28T21:13:07.746Z"
+    },
+    {
+      "pregunta": "¿Cómo se estructura una buena argumentación?",
+      "respuesta": "Una buena argumentación se estructura en tres etapas clave: presente la afirmación de tesis, presentes los argumentos y respuestas. La tesis debe ser clara y concisa, mientras que los argumentos deben ser sólidos y bien apoyados. Finalmente, es importante responder a posibles objeciones y críticas para demostrar la debilidad o fortaleza de la argumentación.",
+      "fecha": "2025-12-28T21:13:15.870Z"
     }
   ],
-  "ultimaActualizacion": 1766956387746,
-  "preguntasHechas": 308
+  "ultimaActualizacion": 1766956395872,
+  "preguntasHechas": 309
 }
