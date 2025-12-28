@@ -1,5 +1,5 @@
 {
-  "iq": 2173,
+  "iq": 2178,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2723,16 +2723,12 @@
     "entiendo",
     "hizo",
     "prometi",
-    "soluciones"
+    "soluciones",
+    "pelota"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo funciona la comprensión del contexto?",
-      "respuesta": "La comprensión del contexto se refiere al proceso de identificar y analizar la información relevante que rodea un texto, una situación o una conversación. Esto implica considerar factores como el tono, el lenguaje, el propósito y la intención detrás de las palabras y acciones. Al entender el contexto, podemos mejorar nuestra comprensión de los mensajes y hacer inferencias más precisas. Por ejemplo, si alguien dice \"¡Hasta luego!\", es posible que esté despidiéndose, pero también es posible que esté bromeando o utilizando un tono irónico.",
-      "fecha": "2025-12-28T20:31:47.823Z"
-    },
     {
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras que se utilizan para indicar la relación entre un objeto (sujeto o complemento) y otro elemento, como un lugar, un tiempo, una manera o una cantidad. Estas palabras sirven para enlazar el nombre o el pronombre con otro elemento en la oración, proporcionando información adicional sobre la situación o el contexto. Por ejemplo, en la oración \"El libro está en la mesa\", la preposición \"en\" indica la relación entre el libro y la mesa.",
@@ -3727,8 +3723,13 @@
       "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
       "respuesta": "La expresión de emociones de forma efectiva implica ser auténtico, claro y consciente del impacto que produce en los demás. Puedes expresar tus emociones de manera efectiva compartiendo tus pensamientos y sentimientos de manera clara y respetuosa. Por ejemplo, en lugar de decir \"Estoy furioso\", puedes decir \"Me siento frustrado porque no entiendo por qué no se hizo lo que se prometió\". Esta forma de expresar tus emociones puede ayudar a los demás a entender mejor tu perspectiva y a encontrar soluciones juntos.",
       "fecha": "2025-12-28T21:18:03.996Z"
+    },
+    {
+      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
+      "respuesta": "Las preposiciones son palabras que indican la relación entre un sustantivo y otro en una oración, mostrando la posición, el movimiento o la relación entre los elementos del texto. Algunas preposiciones comunes son \"en\", \"de\", \"con\", \"sin\", \"entre\", \"durante\" y \"por\", que se utilizan para expresar diferentes tipos de relaciones. Por ejemplo, \"La pelota está en el parque\" indica la posición de la pelota, mientras que \"Leí un libro con mi hermano\" muestra la relación entre dos acciones.",
+      "fecha": "2025-12-28T21:18:11.794Z"
     }
   ],
-  "ultimaActualizacion": 1766956683998,
-  "preguntasHechas": 345
+  "ultimaActualizacion": 1766956691796,
+  "preguntasHechas": 346
 }
