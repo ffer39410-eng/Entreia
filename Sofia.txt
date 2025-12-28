@@ -1,5 +1,5 @@
 {
-  "iq": 1335,
+  "iq": 1340,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2142,16 +2142,14 @@
     "casi",
     "helado",
     "iracundo",
-    "herramientas"
+    "herramientas",
+    "declaración",
+    "críticas",
+    "reiteración"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo se construyen oraciones complejas en español?",
-      "respuesta": "Las oraciones complejas en español se construyen mediante la combinación de una oración independiente (o principal) con una cláusula subordinada, que expresa una relación de dependencia con la primera. La cláusula subordinada puede ser indicativa, condicional, temporal, causal, final o comparativa. Por ejemplo: \"Después de terminar los deberes, llamé a mi amigo\" (en este caso, \"después de terminar los deberes\" es la cláusula subordinada).",
-      "fecha": "2025-12-28T19:08:01.268Z"
-    },
     {
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras que indican la relación entre un objeto, lugar o tiempo y otro elemento en una oración. A modo de ejemplo, \"en la playa\" o \"con mi amigo\" son expresiones que utilizan la preposición \"en\" y \"con\" para indicar la relación entre el objeto o lugar y el resto de la oración.\n\nLas preposiciones sirven para proporcionar contexto y claridad a las oraciones, y pueden indicar lugares, direcciones, tiempo, maneras de hacer algo, etc. Algunas preposiciones comunes son \"en\", \"de\", \"con\", \"sin\", \"bajo\", etc.",
@@ -3146,8 +3144,13 @@
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "Excelente pregunta. Los sinónimos son palabras que tienen el mismo significado o casi el mismo significado que otra palabra, pero con un tono o connotación ligeramente diferente. Por ejemplo, \"frio\" y \"helado\" son sinónimos porque se refieren a la misma temperatura. Los antónimos, por otro lado, son palabras que tienen un significado opuesto. Por ejemplo, \"grande\" y \"pequeño\" son antónimos porque se refieren a tamaños opuestos.\n\nEjemplo: \n\"Estoy muy enfadado\" (enfadado es un sinónimo de iracundo o enojado), \n\"Estoy enfadado pero mi amigo está contento\" (enfadado y contento son antónimos).\n\nLos sinónimos y antónimos son herramientas útiles para enriquecer nuestra expresión y comunicación, ya que nos permiten describir",
       "fecha": "2025-12-28T20:40:43.735Z"
+    },
+    {
+      "pregunta": "¿Cómo se estructura una buena argumentación?",
+      "respuesta": "Una buena argumentación se estructura en cuatro pasos fundamentales: Tesis, argumentos, refutación y conclusión. La tesis es la declaración inicial que expresa la idea central del argumento, los argumentos son los datos, hechos o razones que apoyan la tesis, la refutación es la respuesta a las posibles objeciones o críticas a la tesis y la conclusión es la reiteración de la tesis y la síntesis de los argumentos presentados.",
+      "fecha": "2025-12-28T20:40:51.708Z"
     }
   ],
-  "ultimaActualizacion": 1766954443737,
-  "preguntasHechas": 182
+  "ultimaActualizacion": 1766954451709,
+  "preguntasHechas": 183
 }
