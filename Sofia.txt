@@ -1,5 +1,5 @@
 {
-  "iq": 2034,
+  "iq": 2041,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2644,16 +2644,14 @@
     "cita",
     "pretende",
     "anticipar",
-    "opositores"
+    "opositores",
+    "limita",
+    "memorizar",
+    "identifica"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo se usa la puntuación correctamente?",
-      "respuesta": "La puntuación es fundamental para comunicar ideas de manera clara y efectiva en la escritura y la comunicación. Utiliza comas para separar ideas independientes dentro de una oración, puntos suspensivos para indicar una interrupción o una pausa en la narrativa, y signos de interrogación para expresar preguntas. Por ejemplo, \"¿Dónde está mi sombrero?\" es una pregunta clara y concisa que utiliza un signo de interrogación para mostrar la intención de preguntar.",
-      "fecha": "2025-12-28T20:15:23.753Z"
-    },
     {
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras que indican la relación entre un sustantivo o un grupo de palabras y otro sustantivo o grupo de palabras, o bien la orientación en el espacio o el tiempo. Algunas ejemplos de preposiciones comunes son \"en\", \"de\", \"con\", \"para\", \"sobre\", \"bajo\", \"dentro de\", etc. Por ejemplo: \"Ella está en la biblioteca\" (indicando ubicación), o \"Le doy el libro a él\" (indicando reciprocidad).",
@@ -3648,8 +3646,13 @@
       "pregunta": "¿Cómo se estructura una buena argumentación?",
       "respuesta": "Una buena argumentación se estructura en tres partes fundamentales: presentación de la tesis, desarrollo del argumento y refutación de posibles objeciones. La tesis es la afirmación principal que se pretende demostrar, mientras que el desarrollo del argumento implica presentar evidencia y razonamientos que la apoyan. La refutación de posibles objeciones consiste en anticipar y responder a las críticas que podrían hacer los opositores. Esto proporciona una argumentación sólida y convincente.",
       "fecha": "2025-12-28T21:14:35.731Z"
+    },
+    {
+      "pregunta": "¿Qué es el pensamiento crítico?",
+      "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar información de manera objetiva, identificar patrones y relaciones, y tomar decisiones informadas. Se trata de cuestionar suposiciones y creencias, buscar evidencia y argumentos sólidos, y considerar diferentes perspectivas. Por ejemplo, un estudiante que analiza un texto histórico no solo se limita a memorizar fechas y eventos, sino que también evalúa la información, identifica posibles sesgos y considera la perspectiva del autor.",
+      "fecha": "2025-12-28T21:14:43.720Z"
     }
   ],
-  "ultimaActualizacion": 1766956475733,
-  "preguntasHechas": 319
+  "ultimaActualizacion": 1766956483722,
+  "preguntasHechas": 320
 }
