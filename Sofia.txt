@@ -1,5 +1,5 @@
 {
-  "iq": 3035,
+  "iq": 3039,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3157,16 +3157,12 @@
     "poetas",
     "escritores",
     "oradores",
-    "actuales"
+    "actuales",
+    "sitúa"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué son los sinónimos y antónimos?",
-      "respuesta": "Excelente pregunta. Los sinónimos son palabras que tienen el mismo significado o casi idéntico, como \"fuerte\" y \"potente\". Por ejemplo, en lugar de decir \"el caballo es fuerte\", podemos decir \"el caballo es potente\". \n\nLos antónimos, por otro lado, son palabras que tienen un significado opuesto, como \"luz\" y \"oscuridad\". Por ejemplo, en lugar de decir \"la habitación está iluminada\", podemos decir \"la habitación está a oscuras\" si lo que queremos expresar es lo contrario.",
-      "fecha": "2025-12-28T21:13:23.619Z"
-    },
     {
       "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
       "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de analizar e interpretar información de manera coherente y sensata, utilizando principios y reglas lógicas para llegar a conclusiones sólidas. Esto implica utilizar argumentos, hechos y evidencia para sustentar una idea o proposición, en lugar de simplemente expresar un sentimiento o opinión. Por ejemplo, si alguien afirma que \"el aire acondicionado mejora la calidad del sueño\", un razonamiento lógico podría implicar presentar evidencia científica, como estudios que demuestran la relación entre la temperatura y la calidad del sueño, para respaldar esta afirmación. Esto permite a los interlocutores evaluar la validez de la idea y tomar una decisión informada.",
@@ -4161,8 +4157,13 @@
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales son un aspecto fundamental de la gramática en muchas lenguas, incluyendo el español. Se utilizan para indicar la relación entre el momento en que ocurre un evento y el momento en que se está hablando o escribiendo. Por ejemplo, el presente indicativo se utiliza para describir hechos o estados de cosas actuales, como \"Yo like la música\" (me gusta la música).",
       "fecha": "2025-12-28T21:52:11.740Z"
+    },
+    {
+      "pregunta": "¿Cómo se estructura una buena argumentación?",
+      "respuesta": "Una buena argumentación se estructura en seis componentes clave: \n\n1. **Tesis**: La afirmación principal que se quiere defender o refutar.\n2. **Apoyo**: Los hechos, evidencia o razones que respaldan la tesis.\n3. **Contexto**: La información previa que sitúa la argumentación en su contexto.\n4. **Análisis**: La explicación detallada de cómo se relacionan los hechos con la tesis.\n5. **Refutación**: La respuesta a las posibles objeciones o críticas.\n6. **Conclusión**: La síntesis de los puntos clave y la reiteración de la tesis.\n\nCon esta estructura, se puede presentar una argumentación sólida y convincente.",
+      "fecha": "2025-12-28T21:52:20.088Z"
     }
   ],
-  "ultimaActualizacion": 1766958731742,
-  "preguntasHechas": 509
+  "ultimaActualizacion": 1766958740090,
+  "preguntasHechas": 510
 }
