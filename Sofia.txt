@@ -1,5 +1,5 @@
 {
-  "iq": 2713,
+  "iq": 2717,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3000,16 +3000,14 @@
     "llovido",
     "equívocos",
     "ofrecen",
-    "indicadores"
+    "indicadores",
+    "sonido",
+    "mueve",
+    "despacio"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
-      "respuesta": "El vocabulario técnico se refiere a palabras y términos específicos utilizados en un campo o profesión determinada, como por ejemplo la medicina, la ingeniería o la química. Estos términos son precisos y están estandarizados para evitar confusiones y asegurar una comunicación clara entre expertos.\n\nPor el contrario, el vocabulario coloquial se refiere a palabras y expresiones comunes en la conversación cotidiana, que pueden variar según la región o la cultura. Estos términos suelen ser más informales y no están necesariamente relacionados con un campo específico.",
-      "fecha": "2025-12-28T21:02:19.688Z"
-    },
     {
       "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
       "respuesta": "Las metáforas son una herramienta poderosa en el lenguaje que permiten expresar conceptos abstractos de manera creativa y atractiva. Por ejemplo, cuando decimos \"Ella es una estrella en el escenario\", estamos comparando la persona con una estrella, lo que sugiere su brillo y relevancia. De esta manera, la metáfora nos permite trasladar propiedades de un objeto real a un objeto abstracto, como un sentimiento o una idea.",
@@ -4004,8 +4002,13 @@
       "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
       "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de pensar y expresarse de una manera clara, coherente y lógica, a través de argumentos y conclusiones que se basan en evidencia y razones sólidas. Esto implica utilizar principios y reglas lógicas para llegar a conclusiones razonables y evitar falacias y equívocos. Por ejemplo, en una discusión sobre si la educación es gratuita o no, un hablante lógico podría argumentar que \"la educación es un derecho fundamental\" y \"los países que ofrecen educación gratuita tienen mejores indicadores de desarrollo humano\".",
       "fecha": "2025-12-28T21:38:28.135Z"
+    },
+    {
+      "pregunta": "¿Qué son los sinónimos y antónimos?",
+      "respuesta": "Los sinónimos son palabras que tienen el mismo significado que otra palabra, pero con un sonido ligeramente diferente. Por ejemplo, \"fuerte\" y \"fuerte\" son sinónimos. Otro ejemplo es \"largo\" y \"extenso\".\n\nLos antónimos, por otro lado, son palabras que tienen significados opuestos. Por ejemplo, \"grande\" y \"pequeño\" son antónimos, ya que uno describe algo grande y el otro describe algo pequeño. Otro ejemplo es \"rápido\" y \"lento\", ya que uno describe algo que se mueve rápido y el otro describe algo que se mueve despacio.",
+      "fecha": "2025-12-28T21:38:35.714Z"
     }
   ],
-  "ultimaActualizacion": 1766957908137,
-  "preguntasHechas": 447
+  "ultimaActualizacion": 1766957915716,
+  "preguntasHechas": 448
 }
