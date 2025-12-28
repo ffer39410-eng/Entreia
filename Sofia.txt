@@ -1,5 +1,5 @@
 {
-  "iq": 1284,
+  "iq": 1288,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2087,16 +2087,15 @@
     "responden",
     "refutación",
     "desestiman",
-    "refuerza"
+    "refuerza",
+    "sopesar",
+    "rechazar",
+    "receptiva",
+    "nuevas"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué son los conectores y cómo se usan?",
-      "respuesta": "Los conectores son palabras o expresiones que se utilizan para unir oraciones, frases o ideas en la escritura y la comunicación oral, facilitando la conexión lógica entre ellas. Existen diferentes tipos de conectores, como \"y\", \"pero\", \"o\", \"porque\", \"sin embargo\", entre otros. Por ejemplo, \"Voy al parque y me voy a sentar en un banco\" (conector \"y\"), donde se une la acción de ir al parque con la acción de sentarse en un banco.",
-      "fecha": "2025-12-28T19:06:49.218Z"
-    },
     {
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son palabras o expresiones que se utilizan para unir ideas, oraciones o frases en la lengua española. Se pueden clasificar en diferentes tipos, como conjunciones (y, pero, o, ni), conjunciones adverbiales (entonces, por tanto, sin embargo), conjunciones subordinadas (que, porque, si) y conjunciones coordinadas (tanto... como, más... que). Por ejemplo: \"Voy al parque, y me reuniré con amigos\" (usando una conjunción coordinada), \"Me duele la cabeza porque no dormí bien\" (usando una conjunción subordinada).",
@@ -3091,8 +3090,13 @@
       "pregunta": "¿Cómo se estructura una buena argumentación?",
       "respuesta": "Una buena argumentación se estructura en cinco pasos clave: \n\n1. **Tesis**: Se presenta la afirmación principal o proposición que se va a defender. \n2. **Soporte**: Se presentan los hechos, pruebas, ejemplos y razones que respaldan la tesis. \n3. **Contraargumentación**: Se identifican y se responden los posibles argumentos contrarios a la tesis. \n4. **Refutación**: Se desestiman los argumentos contrarios y se refuerza la validez de la tesis. \n5. **Conclusión**: Se resume la argumentación y se resume la importancia de la tesis.",
       "fecha": "2025-12-28T20:35:23.808Z"
+    },
+    {
+      "pregunta": "¿Qué es el pensamiento crítico?",
+      "respuesta": "El pensamiento crítico es la habilidad de analizar información, evaluar evidencia y tomar decisiones informadas de manera objetiva y reflexiva. Implica cuestionar suposiciones y perspectivas, sopesar argumentos y considerar múltiples perspectivas para llegar a una conclusión bien fundamentada. Por ejemplo, al leer un artículo periodístico, un pensador crítico evaluaría la credibilidad de la fuente, la calidad de la evidencia presentada y la lógica del argumento antes de aceptar o rechazar la información presentada. Esto requiere una actitud abierta y receptiva a nuevas ideas y la capacidad de defender sus propias opiniones con argumentos sólidos.",
+      "fecha": "2025-12-28T20:35:31.793Z"
     }
   ],
-  "ultimaActualizacion": 1766954123810,
-  "preguntasHechas": 173
+  "ultimaActualizacion": 1766954131795,
+  "preguntasHechas": 174
 }
