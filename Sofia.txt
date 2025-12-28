@@ -1,5 +1,5 @@
 {
-  "iq": 553,
+  "iq": 559,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1338,7 +1338,17 @@
     "vacaciones",
     "dinero",
     "dormido",
-    "cines"
+    "cines",
+    "equivalen",
+    "positivo",
+    "huésped",
+    "veloz",
+    "dulce",
+    "sweet",
+    "bello",
+    "extremos",
+    "rico",
+    "pobre"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1842,8 +1852,13 @@
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son palabras o expresiones que se usan para conectar oraciones, ideas o frases en una oración o texto. Su función es unir conceptos en relación de causa-efecto, contraste, adición, consecuencia, etc.\n\nPor ejemplo:\n\n* \"Y\" (conecta ideas adicionales): \"Voy al parque y juego con mis amigos\".\n* \"Pero\" (indica contraste): \"Me gustaría ir de vacaciones, pero no tengo dinero\".\n* \"Porque\" (expresa causa-efecto): \"Me duele la cabeza porque no me he dormido\".\n* \"Sin embargo\" (indica oposición): \"Me gusta el cine, sin embargo no me gusta ir a los cines\".\n\nUsando conectores, podemos crear oraciones más complejas y expresivas.",
       "fecha": "2025-12-28T19:16:30.437Z"
+    },
+    {
+      "pregunta": "¿Qué son los sinónimos y antónimos?",
+      "respuesta": "Los sinónimos son palabras que tienen el mismo significado o equivalen a otra palabra. Por ejemplo, \"feliz\" y \"alegre\" son sinónimos porque describen un estado de ánimo positivo. Algunos ejemplos de sinónimos incluyen: grande/huésped, rápido/veloz, dulce/sweet.\n\nPor otro lado, los antónimos son palabras que tienen significados opuestos. Por ejemplo, \"bello\" y \"feo\" son antónimos porque se refieren a dos extremos opuestos de belleza. Algunos ejemplos de antónimos incluyen: rico/pobre, feliz/triste, pequeño/grande.",
+      "fecha": "2025-12-28T19:16:38.270Z"
     }
   ],
-  "ultimaActualizacion": 1766949390437,
-  "preguntasHechas": 26
+  "ultimaActualizacion": 1766949398271,
+  "preguntasHechas": 27
 }
