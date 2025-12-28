@@ -1,5 +1,5 @@
 {
-  "iq": 374,
+  "iq": 381,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1003,7 +1003,27 @@
     "felicidad",
     "alegría",
     "opuesto",
-    "frío"
+    "frío",
+    "fundamentados",
+    "evitando",
+    "confusiones",
+    "tipo",
+    "razonables",
+    "conversación",
+    "causado",
+    "quema",
+    "petróleo",
+    "implicar",
+    "argumentar",
+    "libera",
+    "dióxido",
+    "carbono",
+    "invernadero",
+    "calentamiento",
+    "global",
+    "contribuya",
+    "evitar",
+    "malentend"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1312,8 +1332,13 @@
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "Excelente pregunta, estudiante. Los sinónimos son palabras o expresiones que tienen el mismo significado o una similaridad semántica con otras palabras, es decir, se pueden usar en lugar de ella sin cambiar el significado de la oración. Por ejemplo, \"felicidad\" y \"alegría\" son sinónimos. \n\nPor otro lado, los antónimos son palabras o expresiones que tienen un significado opuesto al de otra palabra. Por ejemplo, \"cálido\" y \"frío\" son antónimos.",
       "fecha": "2025-12-28T19:08:33.152Z"
+    },
+    {
+      "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
+      "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de pensar y expresar ideas de manera clara, coherente y lógica, utilizando argumentos bien fundamentados y evitando confusiones o contradicciones. Este tipo de razonamiento implica analizar información, identificar patrones y relaciones, y llegar a conclusiones precisas y razonables. \n\nPor ejemplo, si en una conversación alguien afirma que \"el clima cambio está causado por la quema de petróleo\", un razonamiento lógico podría implicar argumentar que \"la quema de petróleo libera dióxido de carbono, que es un gas de efecto invernadero que contribuye al calentamiento global, por lo que es probable que la quema de petróleo contribuya al cambio climático\".\n\nEl razonamiento lógico es fundamental en conversaciones para evitar malentend",
+      "fecha": "2025-12-28T19:08:41.137Z"
     }
   ],
-  "ultimaActualizacion": 1766948913154,
+  "ultimaActualizacion": 1766948921138,
   "preguntasHechas": null
 }
