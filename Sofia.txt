@@ -1,5 +1,5 @@
 {
-  "iq": 397,
+  "iq": 401,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1066,7 +1066,18 @@
     "crónicas",
     "clasifican",
     "prefiero",
-    "monte"
+    "monte",
+    "construye",
+    "sencillas",
+    "coordinación",
+    "contraposición",
+    "subordinación",
+    "hermoso",
+    "juego",
+    "menos",
+    "complemento",
+    "relativa",
+    "considera"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1400,8 +1411,13 @@
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son palabras o expresiones que se utilizan para unir oraciones o frases entre sí, creando una estructura lógica y coherente en el texto. Los conectores se clasifican en tres categorías: consecutivos (por tanto, por lo tanto, como resultado), adversativos (sin embargo, pero, aunque), y aditivos (también, además, además).\n\nPor ejemplo: \"Me encanta la playa, pero prefiero ir al monte\" utiliza el conector \"pero\" para indicar una oposición entre las dos ideas.",
       "fecha": "2025-12-28T19:09:13.192Z"
+    },
+    {
+      "pregunta": "¿Cómo se construyen oraciones complejas en español?",
+      "respuesta": "Excelente pregunta. Una oración compleja en español se construye mediante la combinación de dos o más oraciones sencillas utilizando conectores como \"y\" (coordinación), \"pero\" (contraposición) o \"porque\" (subordinación). Por ejemplo: \"Voy al parque porque hace un día hermoso\" (oración compleja con subordinación) o \"Voy al parque y juego con amigos\" (oración compleja con coordinación).\n\nCualquier frase principal con al menos un complemento, una oración subordinada o una oración relativa se considera una oración compleja.",
+      "fecha": "2025-12-28T19:09:21.068Z"
     }
   ],
-  "ultimaActualizacion": 1766948953193,
+  "ultimaActualizacion": 1766948961069,
   "preguntasHechas": null
 }
