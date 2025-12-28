@@ -1,5 +1,5 @@
 {
-  "iq": 160,
+  "iq": 164,
   "vocabulario": [
     "claro",
     "sofia",
@@ -379,7 +379,30 @@
     "herramienta",
     "imágenes",
     "evocar",
-    "emoc"
+    "emoc",
+    "buena",
+    "tres",
+    "razón",
+    "conclusión",
+    "quiere",
+    "obtener",
+    "detrás",
+    "soporte",
+    "proporciona",
+    "argumenta",
+    "educación",
+    "gratuita",
+    "país",
+    "gobierno",
+    "invierte",
+    "programas",
+    "recursos",
+    "laeducación",
+    "datos",
+    "estadísticos",
+    "testimonios",
+    "expertos",
+    "respaldan"
   ],
   "lecciones": 14,
   "conversaciones": 1,
@@ -468,8 +491,13 @@
       "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
       "respuesta": "La metáfora es una figura retórica que consiste en comparar dos conceptos o ideas diferentes, pero no mediante un \"como\" explícito, sino mediante una equivalencia implícita. Por ejemplo, \"Ella es una estrella en el cielo de la actuación\" no dice que ella es como una estrella, sino que ella es una estrella en ese contexto. Esta figura retórica nos ayuda a comprender o describir conceptos complejos de manera más creativa y memorable.\n\nLas metáforas se pueden encontrar en la poesía, la literatura, la oratoria y el discurso cotidiano. Por ejemplo, \"mi corazón late rápido\" o \"este trabajo es un infierno\" son metáforas que nos ayudan a describir emociones o situaciones de manera más vívida.\n\nLa metáfora es una herramienta poderosa para crear imágenes y evocar emoc",
       "fecha": "2025-12-28T19:01:24.898Z"
+    },
+    {
+      "pregunta": "¿Cómo se estructura una buena argumentación?",
+      "respuesta": "Una buena argumentación se estructura en tres partes fundamentales: la afirmación, la razón y la evidencia. La afirmación es la conclusión que se quiere obtener, la razón es el razonamiento detrás de la afirmación y la evidencia es el soporte que se proporciona para respaldar la razón. Por ejemplo, si alguien argumenta que la educación es gratuita en un país, la afirmación es \"La educación es gratuita\", la razón es \"Porque el gobierno invierte en programas y recursos para laeducación\" y la evidencia son datos estadísticos o testimonios de expertos que respaldan ese razonamiento.",
+      "fecha": "2025-12-28T19:01:32.384Z"
     }
   ],
-  "ultimaActualizacion": 1766948484899,
+  "ultimaActualizacion": 1766948492385,
   "preguntasHechas": null
 }
