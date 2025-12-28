@@ -1,5 +1,5 @@
 {
-  "iq": 327,
+  "iq": 334,
   "vocabulario": [
     "claro",
     "sofia",
@@ -912,7 +912,19 @@
     "concluyes",
     "reafirmando",
     "resaltando",
-    "fuerza"
+    "fuerza",
+    "crítica",
+    "sacar",
+    "afirma",
+    "toda",
+    "nieve",
+    "blanca",
+    "muestra",
+    "trozo",
+    "gris",
+    "sería",
+    "premisa",
+    "contradice"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1181,8 +1193,13 @@
       "pregunta": "¿Cómo se estructura una buena argumentación?",
       "respuesta": "Una buena argumentación se estructura siguiendo los siguientes pasos: \n\nPrimero, presentas un enunciado o tesis clara y concisa que establece la posición o afirmación principal sobre el tema. Después, presentas razones o pruebas que respaldan esta afirmación, utilizando evidencia y hechos verificables. A continuación, debes refutar posibles objeciones o contrapuntos, demostrando que la argumentación sigue siendo sólida y razonable. Finalmente, concluyes reafirmando la tesis y resaltando la fuerza de la argumentación.",
       "fecha": "2025-12-28T19:07:29.147Z"
+    },
+    {
+      "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
+      "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de analizar y evaluar la información de manera crítica y objetiva, utilizando argumentos y premisas para llegar a conclusiones lógicas. Esto implica identificar patrones, relaciones y contradicciones en la información, y utilizar la lógica para establecer conexiones y sacar conclusiones. Por ejemplo, si alguien afirma que \"toda la nieve es blanca\" y luego muestra un trozo de nieve gris, un razonamiento lógico sería decir: \"La premisa dice que toda la nieve es blanca, pero aquí hay un ejemplo de nieve gris, lo que contradice la premisa\".",
+      "fecha": "2025-12-28T19:07:37.135Z"
     }
   ],
-  "ultimaActualizacion": 1766948849148,
+  "ultimaActualizacion": 1766948857136,
   "preguntasHechas": null
 }
