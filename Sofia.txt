@@ -1,5 +1,5 @@
 {
-  "iq": 1598,
+  "iq": 1602,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2357,11 +2357,6 @@
   "conversaciones": 6,
   "conocimiento": [
     {
-      "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
-      "respuesta": "Las metáforas son una figura retórica que consiste en comparar dos conceptos o ideas diferentes utilizando \"es\" para expresar una relación entre ellos. Por ejemplo, \"El mundo es un escenario\" o \"La vida es un viaje\". Esto permite crear imágenes y representaciones creativas que ayudan a comunicar ideas y emociones de manera más efectiva y evocadora. En el lenguaje, las metáforas se utilizan para enriquecer la expresión y dar profundidad a la comunicación.",
-      "fecha": "2025-12-28T19:21:52.257Z"
-    },
-    {
       "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
       "respuesta": "El vocabulario técnico se refiere a palabras y expresiones específicas utilizadas en un contexto profesional o científico determinado, como en la medicina, la ingeniería o la economía. Por ejemplo, un médico utiliza términos como \"angiografía\" o \"ortopedia\" para describir procedimientos o especialidades médicas.\n\nPor otro lado, el vocabulario coloquial se refiere a palabras y expresiones utilizadas en la vida cotidiana y en la comunicación informal, como en conversaciones con amigos o familiares. Por ejemplo, expresiones como \"¿Qué onda?\" o \"Estoy a tope\" se utilizan para expresar sorpresa o cansancio en un contexto social.\n\nEs importante destacar que ambos tipos de vocabulario son importantes y útiles en diferentes contextos, y que la capacidad de utilizar el vocabulario adecuado puede variar según la situación y el público al",
       "fecha": "2025-12-28T19:22:00.483Z"
@@ -3355,8 +3350,13 @@
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras que se utilizan para indicar la relación entre un objeto o persona y otro elemento en la oración. Ejemplos de preposiciones son \"en\", \"de\", \"con\", \"sin\", entre otras. Por ejemplo: \"El libro está en la mesa\" (indica la relación entre el libro y la mesa). Sirven para proporcionar información sobre el lugar, tiempo, causa, resultado, etc. de un evento o acción.",
       "fecha": "2025-12-28T21:00:19.901Z"
+    },
+    {
+      "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
+      "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de utilizar argumentos y lógica para llegar a conclusiones razonables y coherentes. Implica analizar información, identificar patrones y relaciones, y utilizar reglas de inferencia para sacar conclusiones lógicas. Puedes verlo como un proceso de pensamiento claro y crítico para tomar decisiones informadas en una conversación.",
+      "fecha": "2025-12-28T21:00:27.649Z"
     }
   ],
-  "ultimaActualizacion": 1766955619902,
-  "preguntasHechas": 233
+  "ultimaActualizacion": 1766955627650,
+  "preguntasHechas": 234
 }
