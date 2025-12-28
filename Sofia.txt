@@ -1,5 +1,5 @@
 {
-  "iq": 2155,
+  "iq": 2159,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2720,11 +2720,6 @@
   "conversaciones": 6,
   "conocimiento": [
     {
-      "pregunta": "¿Qué son los sinónimos y antónimos?",
-      "respuesta": "Los sinónimos son palabras o expresiones que tienen el mismo significado o referencia que otra palabra o expresión en un contexto determinado. Por ejemplo, \"feliz\" y \"alegre\" son sinónimos. \n\nPor otro lado, los antónimos son palabras o expresiones que tienen un significado opuesto al de otra palabra o expresión. Por ejemplo, \"grande\" y \"pequeño\" son antónimos. \n\nEstos conceptos son fundamentales en la lengua y en la comprensión de textos y comunicación.",
-      "fecha": "2025-12-28T20:31:08.037Z"
-    },
-    {
       "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
       "respuesta": "El vocabulario técnico se refiere a las palabras y expresiones específicas utilizadas en un campo o industria particular, como la medicina, la ingeniería o la programación, que requieren una comprensión especializada para ser comprendidas. Por otro lado, el vocabulario coloquial se refiere a las palabras y expresiones usuales en la conversación cotidiana, que pueden variar según la región, la cultura y la edad de las personas.\n\nPor ejemplo, en medicina, \"trombosis\" es un vocabulario técnico que se refiere a la formación de coágulos de sangre en las venas, mientras que en el lenguaje coloquial, \"trombosis\" se usa en contextos como \"tengo trombosis en mi pierna\", pero esto es una simplificación.",
       "fecha": "2025-12-28T20:31:24.630Z"
@@ -3718,8 +3713,13 @@
       "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
       "respuesta": "Para expresar emociones de forma efectiva, es importante ser auténtico y genuino en tu comunicación. Utiliza lenguaje corporal y facial que refleje tus sentimientos, como por ejemplo, fruncir el ceño para demostrar enfado o sonreír para mostrar alegría. También es fundamental utilizar palabras y frases que describan con precisión lo que estás sintiendo, como \"Me siento frustrado\" o \"Estoy muy feliz\". Esto ayudará a que los demás puedan entender y responder adecuadamente a tus emociones.",
       "fecha": "2025-12-28T21:17:31.735Z"
+    },
+    {
+      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
+      "respuesta": "Las preposiciones son palabras que indican la relación entre un objeto o un lugar y otro, generalmente un sujeto, un objeto o un lugar. Ejemplos de preposiciones son \"en\", \"en\", \"antes de\", \"debajo de\" y \"dentro de\". Funcionan como puentes entre los elementos de una oración, indicando la ubicación, el tiempo, la causa o el resultado de un evento. Por ejemplo, \"Estoy en la biblioteca\" (ubicación) o \"Ella corre por la playa\" (acción relacionada con un lugar).",
+      "fecha": "2025-12-28T21:17:39.699Z"
     }
   ],
-  "ultimaActualizacion": 1766956651737,
-  "preguntasHechas": 341
+  "ultimaActualizacion": 1766956659699,
+  "preguntasHechas": 342
 }
