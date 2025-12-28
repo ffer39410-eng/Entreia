@@ -1,5 +1,5 @@
 {
-  "iq": 2703,
+  "iq": 2710,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2996,16 +2996,12 @@
     "practica",
     "ajusten",
     "sucedi",
-    "escucharme"
+    "escucharme",
+    "llovido"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
-      "respuesta": "El vocabulario técnico se refiere a las palabras y expresiones utilizadas en un campo específico de conocimiento, como la medicina, la ingeniería o la economía, que requieren una comprensión especializada y precisa. Por otro lado, el vocabulario coloquial se utiliza en la comunicación informal y se caracteriza por ser más relajado y accesible al público en general.\n\nEjemplo: Un médico utiliza el vocabulario técnico \"cirugía laparoscópica\" para describir una operación, mientras que un paciente comúnmente diría \"cirugía mínimamente invasiva\".\n\nLa elección entre vocabulario técnico y coloquial depende del contexto y del público al que se dirige la comunicación.",
-      "fecha": "2025-12-28T21:02:03.920Z"
-    },
     {
       "pregunta": "¿Cómo funciona la comprensión del contexto?",
       "respuesta": "La comprensión del contexto es el proceso de analizar y interpretar información en función de la situación o contexto en el que se encuentra. Esto implica considerar el lenguaje, la cultura, la experiencia y la intención de la persona que la está presentando. Por ejemplo, cuando lees un texto, debes considerar el propósito para el cual fue escrito, el público objetivo y la cultura en la que se encuentra. De esta forma, puedes entender mejor el significado real detrás de las palabras.",
@@ -4000,8 +3996,13 @@
       "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
       "respuesta": "Para expresar emociones de forma efectiva, es importante ser auténtico y genuino en tu comunicación. Puedes comenzar identificando cómo te sientes en un momento determinado, ya sea tristeza, enfado o alegría. Luego, busca formas de comunicar esa emoción de manera clara y respetuosa, utilizando gestos corporales, palabras y tono de voz que se ajusten a tu estado emocional. Por ejemplo, si estás triste, puedes decir \"Me siento triste debido a lo que sucedió, ¿puedes escucharme?\"",
       "fecha": "2025-12-28T21:38:11.790Z"
+    },
+    {
+      "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
+      "respuesta": "El razonamiento lógico es el proceso mental de analizar y evaluar información para llegar a una conclusión lógica y coherente en una conversación. Implica usar premisas y reglas lógicas para llegar a una conclusión válida. Por ejemplo, si alguien afirma: \"Si llueve, la calle estará mojada. Y si la calle está mojada, es probable que haya llovido\", en este caso el razonamiento lógico implica utilizar argumentos y premisas para llegar a una conclusión lógica. Este tipo de razonamiento es fundamental para tomar decisiones informadas y evitar confusiones en las conversaciones.",
+      "fecha": "2025-12-28T21:38:19.737Z"
     }
   ],
-  "ultimaActualizacion": 1766957891793,
-  "preguntasHechas": 445
+  "ultimaActualizacion": 1766957899739,
+  "preguntasHechas": 446
 }
