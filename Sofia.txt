@@ -1,5 +1,5 @@
 {
-  "iq": 1056,
+  "iq": 1059,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1892,16 +1892,21 @@
     "levant",
     "asistir",
     "desayunar",
-    "salir"
+    "salir",
+    "fases",
+    "define",
+    "debatir",
+    "seguido",
+    "tales",
+    "estadísticas",
+    "citas",
+    "refutan",
+    "robustecer",
+    "solidez"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "tema": "metáforas y lenguaje figurado",
-      "leccion": "Sofia, ahora vamos a aprender sobre un tema muy interesante: las metáforas y el lenguaje figurado.\n\n**Metáforas**: Una metáfora es una figura de lenguaje que compara dos cosas sin utilizar \"como\" o \"es\". Se utiliza para crear una imagen poderosa y evocadora en la mente del oyente. Por ejemplo:\n\n * \"El sol es un rey\" (aquí se compara al sol con un rey, sugiriendo su poder y majestuosidad).\n * \"La vida es un viaje\" (acá se compara la vida con un viaje, sugiriendo su naturaleza dinámica y emocionante).\n\n**Ejemplos de metáforas en español**:\n\n + El tiempo es un ladrón que roba nuestra juvent",
-      "fecha": "2025-12-28T18:53:07.042Z"
-    },
     {
       "tema": "construcción de oraciones complejas",
       "leccion": "Sofia, ahora que has aprendido sobre metáforas, vamos a explorar la construcción de oraciones complejas en español. Una oración compleja es una oración que contiene una oración subordinada y una oración principal. La oración subordinada depende de la oración principal y expresa una idea relacionada pero no independiente.\n\n**Oraciones compuestas**: Una oración compuesta se puede dividir en dos partes: la oración principal y la oración subordinada. La oración subordinada puede ser de tiempo (condicional, causal, final), de lugar o de modo. Por ejemplo:\n\n * \"Cuando llegué a la casa, estaba lloviendo\": aquí, \"cuando llegué a la casa\" es la oración subordinada de tiempo, que depende de la oración",
@@ -2896,8 +2901,13 @@
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual se refiere a la propiedad de un texto que garantiza que las ideas y las frases se conecten de manera lógica y consistente entre sí, permitiendo que el lector siga fácilmente la secuencia de ideas y conceptos. Esto se logra mediante la utilización de conectores lingüísticos como \"además\", \"sin embargo\", \"porque\", etc. La coherencia textual es fundamental para expresar ideas complejas de manera clara y comprensible. Al ejemplo: \"Me levanté temprano, porque tenía que asistir a una reunión importante. Además, quería tener tiempo para desayunar antes de salir\".",
       "fecha": "2025-12-28T20:16:19.797Z"
+    },
+    {
+      "pregunta": "¿Cómo se estructura una buena argumentación?",
+      "respuesta": "Una buena argumentación se estructura a través de varias fases clave. Primero, se define el tema a debatir o el problema a resolver, seguido de una tesis clara y concisa que resume la posición del hablante. A continuación, se presentan pruebas y evidencias sólidas que respaldan la tesis, tales como datos, estadísticas o citas de expertos. Finalmente, se refutan posibles objeciones y contrapuntos para robustecer la argumentación y demostrar la solidez del razonamiento.",
+      "fecha": "2025-12-28T20:16:27.716Z"
     }
   ],
-  "ultimaActualizacion": 1766952979798,
-  "preguntasHechas": 127
+  "ultimaActualizacion": 1766952987718,
+  "preguntasHechas": 128
 }
