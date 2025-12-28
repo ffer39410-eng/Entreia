@@ -1,5 +1,5 @@
 {
-  "iq": 1301,
+  "iq": 1307,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2104,16 +2104,18 @@
     "plato",
     "comida",
     "paso",
-    "facilidad"
+    "facilidad",
+    "condiciones",
+    "caminando",
+    "zona",
+    "basura",
+    "tropezar",
+    "piedra",
+    "suelo"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué es el pensamiento crítico?",
-      "respuesta": "El pensamiento crítico es la capacidad de analizar información, evaluar argumentos y tomar decisiones informadas considerando múltiples perspectivas y evidencia. Implica cuestionar suposiciones, identificar fallas lógicas y considerar contextos culturales y sociales. El pensamiento crítico también implica ser consciente de sesgos y prejuicios propios, así como ser capaz de adaptarse y aprender de errores. Por ejemplo, al leer un artículo periodístico, el pensamiento crítico te permite evaluar la credibilidad de la fuente, identificar sesgos y considerar argumentos alternativos.",
-      "fecha": "2025-12-28T19:07:13.177Z"
-    },
     {
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales son una parte fundamental de la gramática para expresar diferentes momentos en el tiempo en que se realiza una acción. Hay varios tiempos verbales, como el presente, el pasado simple, el pasado perfecto, el futuro simple, el futuro perfecto, el condicional y el imperativo, cada uno con sus propias reglas y usos.\n\nPor ejemplo, el tiempo presente se utiliza para describir acciones que suceden en el momento actual, como \"Ella come un sandwich\" o \"Él estudió para su examen\". En cambio, el tiempo pasado simple se utiliza para describir acciones que ya han terminado, como \"Ella comió un sandwich ayer\" o \"Él estudió para su examen el año pasado\".",
@@ -3108,8 +3110,13 @@
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual es una propiedad de la escritura que se refiere a la conexión lógica entre las ideas y oraciones que se presentan en un texto. Un texto coherente debe tener una estructura clara y una secuencia de ideas que se relacionan entre sí de manera lógica. Por ejemplo, cuando se describe un proceso, como cómo preparar un plato de comida, la coherencia textual implica que cada paso esté relacionado con el anterior y que el lector pueda seguir con facilidad la secuencia de acciones.",
       "fecha": "2025-12-28T20:35:48.074Z"
+    },
+    {
+      "pregunta": "¿Cómo funciona la comprensión del contexto?",
+      "respuesta": "La comprensión del contexto es un proceso mental que nos permite entender el significado de un mensaje, texto o situación en función de las circunstancias y condiciones en las que se produce. Esto implica considerar factores como la tono, el entorno, la intención del hablante o escritor y la información previa relevante. Por ejemplo, si alguien te dice \"¡Cuidado!\", mientras estás caminando por una zona con mucha basura, podrías comprender que se refiere a la posibilidad de tropezar con una piedra o un objeto en el suelo.",
+      "fecha": "2025-12-28T20:35:55.690Z"
     }
   ],
-  "ultimaActualizacion": 1766954148076,
-  "preguntasHechas": 176
+  "ultimaActualizacion": 1766954155691,
+  "preguntasHechas": 177
 }
