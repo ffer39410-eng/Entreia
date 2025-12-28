@@ -1,5 +1,5 @@
 {
-  "iq": 1538,
+  "iq": 1541,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2296,16 +2296,12 @@
     "mantiene",
     "asegurar",
     "apeguen",
-    "complejo"
+    "complejo",
+    "potente"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
-      "respuesta": "Las metáforas son un tipo de figura retórica que consiste en comparar dos conceptos o ideas diferentes, pero sin usar \"como\" o \"es igual a\". Son una herramienta poderosa para describir relaciones complejas de manera sencilla y evocadora. Por ejemplo, \"la vida es un viaje\" (no \"la vida es como un viaje\") sugiere que la vida tiene sus propias etapas, desafíos y momentos de reflexión. Al usar metáforas, podemos crear imágenes mentales vivas y conectarnos con el mensaje de manera más profunda y emotiva.",
-      "fecha": "2025-12-28T19:20:16.132Z"
-    },
     {
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es la habilidad de analizar y evaluar información, ideas y argumentos de manera objetiva y lógica, considerando múltiples perspectivas y evidencia. Permite identificar debilidades y fortalezas, y tomar decisiones informadas. Por ejemplo, un estudiante que analiza una fuente de información puede considerar la credibilidad del autor, la fecha de publicación y la relevancia de la información para llegar a una conclusión bien fundamentada.",
@@ -3300,8 +3296,13 @@
       "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
       "respuesta": "El razonamiento lógico en conversaciones es la capacidad de obtener conclusiones lógicas y coherentes a partir de información y argumentos presentados. Implica utilizar principios de lógica y razón para analizar y evaluar la validez de las afirmaciones y argumentos. Por ejemplo, al discutir sobre un tema complejo, un razonamiento lógico podría implicar identificar prejuicios, analizar las causas y efectos, y establecer conexiones lógicas entre ideas.",
       "fecha": "2025-12-28T20:54:19.573Z"
+    },
+    {
+      "pregunta": "¿Qué son los sinónimos y antónimos?",
+      "respuesta": "Los sinónimos son palabras que tienen el mismo significado que otra palabra, pero con una forma diferente. Por ejemplo, \"fuerte\" y \"potente\" son sinónimos. Los antónimos, por otro lado, son palabras que tienen significados opuestos. Por ejemplo, \"grande\" y \"pequeño\" son antónimos.\n\nEjemplo: Si alguien describe algo como \"fuerte\", podría también usar \"potente\" para describir lo mismo, pero \"fuerte\" y \"débil\" son antónimos porque tienen significados opuestos.",
+      "fecha": "2025-12-28T20:54:27.623Z"
     }
   ],
-  "ultimaActualizacion": 1766955259574,
-  "preguntasHechas": 221
+  "ultimaActualizacion": 1766955267624,
+  "preguntasHechas": 222
 }
