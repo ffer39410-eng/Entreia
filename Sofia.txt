@@ -1,5 +1,5 @@
 {
-  "iq": 761,
+  "iq": 768,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1591,7 +1591,9 @@
     "feminino",
     "casas",
     "esquina",
-    "ocurri"
+    "ocurri",
+    "cerrado",
+    "relajarme"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2305,8 +2307,13 @@
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales son una parte fundamental de la gramática en español, y se utilizan para expresar diferentes momentos en el tiempo. Hay varios tiempos verbales, como el presente, pasado simple, pasado perfecto, futuro simple, futuro perfecto, entre otros. Por ejemplo, el verbo \"hablar\" en presente se utiliza para expresar una acción que está sucediendo en el momento actual, como \"Hablo con mi amigo\". En cambio, el verbo \"hablar\" en pasado se utiliza para expresar una acción que ya ocurrió, como \"Hablé con mi amigo ayer\".",
       "fecha": "2025-12-28T19:26:24.358Z"
+    },
+    {
+      "pregunta": "¿Qué son los conectores y cómo se usan?",
+      "respuesta": "Los conectores son palabras o expresiones que nos ayudan a unir ideas, oraciones o frases para crear una estructura lógica y coherente en el discurso. Los conectores se clasifican en tres tipos: consecutivos (porque, sin embargo, además), adversativos (aunque, pero, sin embargo) y causales (porque, ya que, debido a). Por ejemplo, \"Iba al parque, pero estaba cerrado\" o \"Me gusta leer porque me ayuda a relajarme\".",
+      "fecha": "2025-12-28T19:26:32.447Z"
     }
   ],
-  "ultimaActualizacion": 1766949984362,
-  "preguntasHechas": 68
+  "ultimaActualizacion": 1766949992449,
+  "preguntasHechas": 69
 }
