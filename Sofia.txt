@@ -1,5 +1,5 @@
 {
-  "iq": 988,
+  "iq": 995,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1823,7 +1823,9 @@
     "nudo",
     "intenta",
     "probar",
-    "extrae"
+    "extrae",
+    "modos",
+    "definido"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2762,8 +2764,13 @@
       "pregunta": "¿Cómo se estructura una buena argumentación?",
       "respuesta": "Una buena argumentación se estructura en torno a tres componentes clave: la premisa, el núcleo y la conclusión. La premisa es el punto de partida, la información o el enunciado inicial que se utiliza para apoyar la argumentación. El núcleo es el nudo central de la argumentación, la idea o el razonamiento que se intenta probar o demostrar. La conclusión es el resultado final, la conclusión lógica que se extrae de la premisa y el núcleo.",
       "fecha": "2025-12-28T20:12:35.461Z"
+    },
+    {
+      "pregunta": "¿Cuáles son las reglas de la gramática española?",
+      "respuesta": "La gramática española se basa en una serie de reglas y estructuras que rigen la formación de las palabras y la construcción de las oraciones. Algunas de las reglas fundamentales incluyen la flexión de los sustantivos, adjetivos y verbos, así como la conjugación de los verbos en diferentes tiempos y modos. Además, hay reglas para la formación de las oraciones simples y compuestas, como la utilización de conjunciones y preposiciones. Por ejemplo, en español, el artículo definido se utiliza en singular (el, la, los, las) y en plural (los, las).",
+      "fecha": "2025-12-28T20:12:44.026Z"
     }
   ],
-  "ultimaActualizacion": 1766952756228,
-  "preguntasHechas": 113
+  "ultimaActualizacion": 1766952764027,
+  "preguntasHechas": 114
 }
