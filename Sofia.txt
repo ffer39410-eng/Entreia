@@ -1,5 +1,5 @@
 {
-  "iq": 2287,
+  "iq": 2290,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2777,16 +2777,22 @@
     "humor",
     "variado",
     "expresadas",
-    "descritos"
+    "descritos",
+    "adjetivas",
+    "otoño",
+    "hojas",
+    "rboles",
+    "comenzaron",
+    "color",
+    "exigente",
+    "pidi",
+    "trabajáramos",
+    "identidad",
+    "conjucciones"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
-      "respuesta": "El vocabulario técnico se refiere a las palabras y expresiones utilizadas en un campo específico, como la medicina, la tecnología o la química, y se caracteriza por ser preciso y objetivo. Por otro lado, el vocabulario coloquial está relacionado con la comunicación informal y cotidiana, y se utiliza para expresar ideas y sentimientos de manera más relajada y accesible. Por ejemplo, en medicina, \"cirugía\" es un término técnico, mientras que \"operación\" es un vocabulario coloquial.",
-      "fecha": "2025-12-28T20:34:35.770Z"
-    },
     {
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "Excelente pregunta. Los sinónimos son palabras o expresiones que tienen el mismo significado que otra palabra o expresión, lo que permite reemplazarlas en un texto sin cambiar su sentido. Por ejemplo, \"feliz\" y \"alegre\" son sinónimos. Los antónimos, por otro lado, son palabras o expresiones que tienen un sentido opuesto al de otra palabra o expresión. Por ejemplo, \"grande\" y \"pequeño\" son antónimos.\n\nAquí hay otro ejemplo con las palabras \"rápido\" y \"lento\", que son antónimos, y \"rápido\" y \"veloz\", que son sinónimos. \n\nTambién podemos observar que palabras como \"bueno\" y \"malo\" son antónimos.",
@@ -3781,8 +3787,13 @@
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es el proceso de analizar y evaluar información, ideas y conceptos de manera objetiva y sistemática. Implica cuestionar suposiciones, identificar prejuicios y considerar múltiples perspectivas para llegar a conclusiones informadas. Es una habilidad que nos permite distinguir entre lo que es verdadero y lo que es falso, y tomar decisiones informadas en la vida diaria. Por ejemplo, al analizar un artículo de noticias, el pensamiento crítico nos permite identificar las fuentes y la información que se presenta, y llegar a una conclusión propia sobre la veracidad de la información.",
       "fecha": "2025-12-28T21:20:51.852Z"
+    },
+    {
+      "pregunta": "¿Cómo se construyen oraciones complejas en español?",
+      "respuesta": "Una oración compleja en español se construye utilizando subordinadas sustantivas o adjetivas, que permiten expresar relaciones de causa-efecto, condición, consecuencia, etc., entre dos ideas. \n\nPor ejemplo: \"Cuando llegó el otoño, las hojas de los árboles comenzaron a cambiar de color\" (subordinada sustantiva indicando un momento temporal) o \"El profesor, que era muy exigente, nos pidió que trabajáramos con más dedicación\" (subordinada sustantiva indicando una relación de identidad).\n\nEstas oraciones complejas pueden ser aún más interesantes al combinar subordinadas y conjucciones.",
+      "fecha": "2025-12-28T21:20:59.946Z"
     }
   ],
-  "ultimaActualizacion": 1766956851854,
-  "preguntasHechas": 366
+  "ultimaActualizacion": 1766956859949,
+  "preguntasHechas": 367
 }
