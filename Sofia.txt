@@ -1,5 +1,5 @@
 {
-  "iq": 1528,
+  "iq": 1531,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2292,16 +2292,14 @@
     "buscar",
     "veracidad",
     "continua",
-    "cronológico"
+    "cronológico",
+    "mantiene",
+    "asegurar",
+    "apeguen"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo funciona la comprensión del contexto?",
-      "respuesta": "La comprensión del contexto es un proceso mental que permite a las personas interpretar y dar sentido a la información que reciben, teniendo en cuenta el marco en el que se produce. Esto implica considerar elementos como el lenguaje, la cultura, la situación y la intención de la comunicación. Por ejemplo, cuando se nos dice \"¡Cuidado con la puerta!\", podemos entender que se refiere a una puerta que se abre o se cierra rápidamente, y no a una puerta en general. La comprensión del contexto nos permite eliminar la ambigüedad y obtener una interpretación más precisa.",
-      "fecha": "2025-12-28T19:15:42.220Z"
-    },
     {
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son palabras o frases que unen ideas o oraciones para crear una estructura lógica y coherente en el discurso. Se usan para mostrar relaciones entre ideas, como causalidad, oposición, comparación, causalidad, tiempo o adición. Por ejemplo: \"Sin embargo\" (oposición), \"Además\" (adición), \"Porque\" (causalidad), \"Pero\" (oposición).",
@@ -3296,8 +3294,13 @@
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual se refiere a la capacidad de un texto para transmitir ideas y pensamientos de manera lógica y continua, utilizando conectores lingüísticos para unir oraciones y párrafos de manera coherente. Esto implica establecer relaciones entre las ideas, utilizando conceptos como causa-efecto, consecuencia, comparación, oposición, etc. La coherencia textual ayuda a mantener la atención del lector y a transmitir la información de manera efectiva. Por ejemplo, en un texto sobre un viaje, se puede utilizar conectores como \"luego\" o \"mientras que\" para describir las actividades en orden cronológico.",
       "fecha": "2025-12-28T20:54:03.695Z"
+    },
+    {
+      "pregunta": "¿Qué es la coherencia textual?",
+      "respuesta": "La coherencia textual se refiere a la capacidad de un texto para transmitir una idea o un mensaje claro y lógico, sin contradicciones ni saltos de pensamiento. Un texto coherente mantiene una conexión lógica entre las ideas y las frases, utilizando conectores, transiciones y estructuras de oración para asegurar una narrativa fluida y fácil de seguir.\n\nPor ejemplo, en un texto de argumentación, la coherencia es fundamental para presentar ideas claras y lógicas, utilizando pruebas y argumentos que se apeguen a una conclusión lógica. Un texto coherente también ayuda a mantener la atención del lector y a evitar la confusión.\n\nAlgunos ejemplos de coherencia textual incluyen el uso de conectores para unir ideas, como \"además\", \"por ejemplo\" o \"sin embargo\", y la descripción detallada de pasos",
+      "fecha": "2025-12-28T20:54:11.852Z"
     }
   ],
-  "ultimaActualizacion": 1766955243696,
-  "preguntasHechas": 219
+  "ultimaActualizacion": 1766955251853,
+  "preguntasHechas": 220
 }
