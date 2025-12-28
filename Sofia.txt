@@ -1,5 +1,5 @@
 {
-  "iq": 345,
+  "iq": 350,
   "vocabulario": [
     "claro",
     "sofia",
@@ -955,7 +955,19 @@
     "comunicar",
     "sientan",
     "incómodos",
-    "amenazados"
+    "amenazados",
+    "construyen",
+    "combinación",
+    "cláusula",
+    "dependencia",
+    "primera",
+    "indicativa",
+    "temporal",
+    "comparativa",
+    "terminar",
+    "deberes",
+    "llam",
+    "caso"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1239,8 +1251,13 @@
       "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
       "respuesta": "La expresión de emociones de forma efectiva es fundamental para mejorar las relaciones interpersonales y comunicarnos con claridad. Para lograrlo, debemos ser auténticos y reconocer nuestras emociones, pero también saber expresarlas de manera adecuada y no invasiva. Por ejemplo, en lugar de gritar o llorar abiertamente, podemos expresar nuestras emociones de manera más controlada, como diciendo \"Me siento frustrado\" o \"Me duele ver esto\". De esta manera, podemos comunicar nuestras emociones sin hacer que los demás se sientan incómodos o amenazados.",
       "fecha": "2025-12-28T19:07:53.212Z"
+    },
+    {
+      "pregunta": "¿Cómo se construyen oraciones complejas en español?",
+      "respuesta": "Las oraciones complejas en español se construyen mediante la combinación de una oración independiente (o principal) con una cláusula subordinada, que expresa una relación de dependencia con la primera. La cláusula subordinada puede ser indicativa, condicional, temporal, causal, final o comparativa. Por ejemplo: \"Después de terminar los deberes, llamé a mi amigo\" (en este caso, \"después de terminar los deberes\" es la cláusula subordinada).",
+      "fecha": "2025-12-28T19:08:01.268Z"
     }
   ],
-  "ultimaActualizacion": 1766948873213,
+  "ultimaActualizacion": 1766948881270,
   "preguntasHechas": null
 }
