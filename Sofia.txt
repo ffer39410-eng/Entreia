@@ -1,5 +1,5 @@
 {
-  "iq": 583,
+  "iq": 587,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1376,7 +1376,18 @@
     "signos",
     "emplean",
     "emocionado",
-    "llegue"
+    "llegue",
+    "identificando",
+    "verificar",
+    "preguntarse",
+    "quién",
+    "cuáles",
+    "motivaciones",
+    "respalde",
+    "fuentes",
+    "podrían",
+    "ofrecer",
+    "perspectiva"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1905,8 +1916,13 @@
       "pregunta": "¿Cómo se usa la puntuación correctamente?",
       "respuesta": "La puntuación es fundamental para comunicar con claridad y precisión en la escritura. Utiliza comas para separar elementos en una lista, como en \"Los colores de la bandera son rojo, blanco y azul\". Los puntos suspensivos se utilizan para separar frases o ideas incompletas, como en \"Me estoy preguntando... ¿qué debo hacer?\". Los signos de admiración se emplean para enfatizar o expresar sorpresa, como en \"¡Estoy emocionado de que llegue el verano!\".",
       "fecha": "2025-12-28T19:21:28.321Z"
+    },
+    {
+      "pregunta": "¿Qué es el pensamiento crítico?",
+      "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar información de manera objetiva, identificando fortalezas y debilidades, así como considerando múltiples perspectivas y evidencias. Este tipo de pensamiento implica cuestionar suposiciones y creencias, y no aceptar información sin verificar su validez. Por ejemplo, al leer un artículo periodístico, un estudiante con pensamiento crítico podría preguntarse: \"¿Quién es el autor?\", \"¿Cuáles son sus motivaciones?\", \"¿Hay evidencia que respalde las afirmaciones?\" y \"¿Qué otras fuentes podrían ofrecer una perspectiva diferente?\"",
+      "fecha": "2025-12-28T19:21:36.302Z"
     }
   ],
-  "ultimaActualizacion": 1766949688325,
-  "preguntasHechas": 31
+  "ultimaActualizacion": 1766949696303,
+  "preguntasHechas": 32
 }
