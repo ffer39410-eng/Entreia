@@ -1,5 +1,5 @@
 {
-  "iq": 657,
+  "iq": 662,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1456,7 +1456,21 @@
     "partículas",
     "agregar",
     "explicar",
-    "contraria"
+    "contraria",
+    "justifican",
+    "reafirma",
+    "partir",
+    "presentada",
+    "tradicional",
+    "podrían",
+    "estudios",
+    "demuestran",
+    "asistencia",
+    "rendimiento",
+    "eficaz",
+    "alcanzar",
+    "objetivos",
+    "educativos"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2055,8 +2069,13 @@
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son partículas gramaticales que unen oraciones o frases para indicar relaciones lógicas entre ellas. Se utilizan para conectar ideas, proporcionar transiciones entre oraciones y crear una estructura lógica en el texto. Algunos ejemplos de conectores comunes son: \"y\" (para agregar información), \"pero\" (para contrastar ideas), \"porque\" (para explicar una razón), \"sin embargo\" (para introducir una idea contraria).",
       "fecha": "2025-12-28T19:19:02.289Z"
+    },
+    {
+      "pregunta": "¿Cómo se estructura una buena argumentación?",
+      "respuesta": "Una buena argumentación se estructura en tres partes fundamentales: la afirmación o tesis, que establece el punto central de la argumentación; la evidencia o razones, que apoyan y justifican la tesis; y la conclusión, que resume y reafirma la tesis a partir de la evidencia presentada. Por ejemplo, si se argumenta que \"La educación en línea es más efectiva que la tradicional\", la tesis sería esta afirmación, la evidencia podrían ser estudios y datos que demuestran una mejor asistencia y rendimiento de los estudiantes en línea, y la conclusión podría ser que \"Por lo tanto, la educación en línea es una opción más eficaz para alcanzar los objetivos educativos\".",
+      "fecha": "2025-12-28T19:19:10.248Z"
     }
   ],
-  "ultimaActualizacion": 1766949542290,
-  "preguntasHechas": 45
+  "ultimaActualizacion": 1766949550250,
+  "preguntasHechas": 46
 }
