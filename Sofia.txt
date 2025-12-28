@@ -1,5 +1,5 @@
 {
-  "iq": 1019,
+  "iq": 1026,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1854,7 +1854,11 @@
     "interrupción",
     "preguntas",
     "sombrero",
-    "preguntar"
+    "preguntar",
+    "orientación",
+    "espacio",
+    "indicando",
+    "reciprocidad"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2828,8 +2832,13 @@
       "pregunta": "¿Cómo se usa la puntuación correctamente?",
       "respuesta": "La puntuación es fundamental para comunicar ideas de manera clara y efectiva en la escritura y la comunicación. Utiliza comas para separar ideas independientes dentro de una oración, puntos suspensivos para indicar una interrupción o una pausa en la narrativa, y signos de interrogación para expresar preguntas. Por ejemplo, \"¿Dónde está mi sombrero?\" es una pregunta clara y concisa que utiliza un signo de interrogación para mostrar la intención de preguntar.",
       "fecha": "2025-12-28T20:15:23.753Z"
+    },
+    {
+      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
+      "respuesta": "Las preposiciones son palabras que indican la relación entre un sustantivo o un grupo de palabras y otro sustantivo o grupo de palabras, o bien la orientación en el espacio o el tiempo. Algunas ejemplos de preposiciones comunes son \"en\", \"de\", \"con\", \"para\", \"sobre\", \"bajo\", \"dentro de\", etc. Por ejemplo: \"Ella está en la biblioteca\" (indicando ubicación), o \"Le doy el libro a él\" (indicando reciprocidad).",
+      "fecha": "2025-12-28T20:15:35.485Z"
     }
   ],
-  "ultimaActualizacion": 1766952923754,
-  "preguntasHechas": 120
+  "ultimaActualizacion": 1766952935486,
+  "preguntasHechas": 121
 }
