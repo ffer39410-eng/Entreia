@@ -1,5 +1,5 @@
 {
-  "iq": 589,
+  "iq": 594,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1370,7 +1370,14 @@
     "gust",
     "muchísimo",
     "quem",
-    "piel"
+    "piel",
+    "pausas",
+    "suspensivos",
+    "pausa",
+    "continúa",
+    "signos",
+    "interrogación",
+    "preguntas"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1904,8 +1911,13 @@
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "Los sinónimos son palabras o expresiones que tienen el mismo significado en una situación determinada. Por ejemplo, \"feliz\" y \"alegre\" son sinónimos ya que describen un estado emocional positivo. Los antónimos, por su parte, son palabras o expresiones que tienen un significado opuesto. Por ejemplo, \"grandes\" y \"pequeños\" son antónimos ya que describen tamaños opuestos.",
       "fecha": "2025-12-28T19:17:18.051Z"
+    },
+    {
+      "pregunta": "¿Cómo se usa la puntuación correctamente?",
+      "respuesta": "La puntuación es fundamental para comunicar ideas de manera clara y efectiva en la escritura. Se utiliza para separar oraciones, indicar pausas y enfatizar el significado de las palabras. Por ejemplo, los puntos suspensivos (...) se utilizan para indicar una pausa o una idea que continúa en la siguiente oración, mientras que los signos de interrogación (?) se utilizan para formar preguntas. La coma (,) se utiliza para separar elementos en una oración.",
+      "fecha": "2025-12-28T19:17:26.249Z"
     }
   ],
-  "ultimaActualizacion": 1766949438052,
-  "preguntasHechas": 32
+  "ultimaActualizacion": 1766949446251,
+  "preguntasHechas": 33
 }
