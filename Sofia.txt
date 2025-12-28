@@ -1,5 +1,5 @@
 {
-  "iq": 626,
+  "iq": 630,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1432,7 +1432,9 @@
     "completamente",
     "inferencia",
     "habr",
-    "inundaciones"
+    "inundaciones",
+    "funciones",
+    "estudia"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2006,8 +2008,13 @@
       "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
       "respuesta": "El razonamiento lógico en conversaciones se refiere al proceso de pensar y comunicarse de manera clara y coherente, utilizando argumentos y evidencia para llegar a conclusiones lógicas. Esto implica utilizar reglas de inferencia y eliminar la contradicción de manera efectiva. Un ejemplo de razonamiento lógico en una conversación sería: \"Si no llueve, entonces no habrá inundaciones. Y si no llueve, entonces habrá sol. Por lo tanto, si hay sol, entonces no habrá inundaciones\".",
       "fecha": "2025-12-28T19:22:40.317Z"
+    },
+    {
+      "pregunta": "¿Cómo funcionan los tiempos verbales?",
+      "respuesta": "Los tiempos verbales son una parte fundamental del lenguaje y se refieren a la forma en que se expresan las acciones en el tiempo. Hay diferentes tiempos verbales, como el presente, pasado, futuro, condicional, subjuntivo, imperativo, entre otros, cada uno con sus propias funciones y usos. Por ejemplo, \"Ella estudia\" es un tiempo verbal presente, mientras que \"Ella estudió\" es un tiempo verbal pasado.",
+      "fecha": "2025-12-28T19:22:48.293Z"
     }
   ],
-  "ultimaActualizacion": 1766949760318,
-  "preguntasHechas": 40
+  "ultimaActualizacion": 1766949768293,
+  "preguntasHechas": 41
 }
