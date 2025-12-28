@@ -1,5 +1,5 @@
 {
-  "iq": 430,
+  "iq": 437,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1143,7 +1143,14 @@
     "bonita",
     "introducida",
     "tener",
-    "estés"
+    "estés",
+    "unen",
+    "contraste",
+    "hermosa",
+    "aguas",
+    "cristalinas",
+    "gente",
+    "nadar"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1517,8 +1524,13 @@
       "pregunta": "¿Cómo se construyen oraciones complejas en español?",
       "respuesta": "Las oraciones complejas se construyen en español mediante la combinación de una oración principal (o \"oración independiente\") con una o varias oraciones subordinadas. Una oración subordinada es aquella que depende de la oración principal para comunicar un significado completo.\n\nPor ejemplo: \"La casa que compramos en verano es muy bonita\" es una oración compleja, donde \"es muy bonita\" es la oración principal y \"la casa que compramos en verano\" es la oración subordinada. Esta oración subordinada está introducida por el conjunción \"que\" y depende de la oración principal para tener sentido.\n\nOtro ejemplo: \"Me alegra que tú estés aquí\" es otra oración compleja, donde \"estoy aquí\" es la oración subordinada introducida por la conjunción \"que\" y depende de la oración principal",
       "fecha": "2025-12-28T19:10:17.295Z"
+    },
+    {
+      "pregunta": "¿Qué son los conectores y cómo se usan?",
+      "respuesta": "Los conectores son palabras que unen oraciones o frases para crear una estructura lógica y coherente en el discurso. Pueden indicar relaciones de causa y efecto, tiempo, lugar, comparación, contraste, etc. Por ejemplo, \"y\" (La playa es hermosa y tiene aguas cristalinas), \"pero\" (La playa es hermosa pero hay mucha gente), \"porque\" (Voy a la playa porque me gusta nadar).",
+      "fecha": "2025-12-28T19:10:38.994Z"
     }
   ],
-  "ultimaActualizacion": 1766949017298,
-  "preguntasHechas": null
+  "ultimaActualizacion": 1766949038998,
+  "preguntasHechas": 1
 }
