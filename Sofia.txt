@@ -1,5 +1,5 @@
 {
-  "iq": 1127,
+  "iq": 1137,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1944,21 +1944,27 @@
     "creativo",
     "abstractos",
     "emotivo",
-    "visuales"
+    "visuales",
+    "programación",
+    "especializada",
+    "comprendidas",
+    "usuales",
+    "trombosis",
+    "coágulos",
+    "venas",
+    "pierna",
+    "seguida",
+    "dicha",
+    "contrargumentos",
+    "respuestas",
+    "refutarlas",
+    "fortalecer",
+    "concluye",
+    "síntesis"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
-      "respuesta": "La metáfora es una figura retórica que consiste en comparar dos conceptos o ideas diferentes, pero no mediante un \"como\" explícito, sino mediante una equivalencia implícita. Por ejemplo, \"Ella es una estrella en el cielo de la actuación\" no dice que ella es como una estrella, sino que ella es una estrella en ese contexto. Esta figura retórica nos ayuda a comprender o describir conceptos complejos de manera más creativa y memorable.\n\nLas metáforas se pueden encontrar en la poesía, la literatura, la oratoria y el discurso cotidiano. Por ejemplo, \"mi corazón late rápido\" o \"este trabajo es un infierno\" son metáforas que nos ayudan a describir emociones o situaciones de manera más vívida.\n\nLa metáfora es una herramienta poderosa para crear imágenes y evocar emoc",
-      "fecha": "2025-12-28T19:01:24.898Z"
-    },
-    {
-      "pregunta": "¿Cómo se estructura una buena argumentación?",
-      "respuesta": "Una buena argumentación se estructura en tres partes fundamentales: la afirmación, la razón y la evidencia. La afirmación es la conclusión que se quiere obtener, la razón es el razonamiento detrás de la afirmación y la evidencia es el soporte que se proporciona para respaldar la razón. Por ejemplo, si alguien argumenta que la educación es gratuita en un país, la afirmación es \"La educación es gratuita\", la razón es \"Porque el gobierno invierte en programas y recursos para laeducación\" y la evidencia son datos estadísticos o testimonios de expertos que respaldan ese razonamiento.",
-      "fecha": "2025-12-28T19:01:32.384Z"
-    },
     {
       "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
       "respuesta": "Las metáforas son una herramienta poderosa del lenguaje que permiten crear conexiones significativas entre conceptos y emociones. Se utilizan para describir una cosa en términos de otra, creando una imagen mental rica y evocadora. Por ejemplo, \"Ella es una estrella\" no solo describe su talento, sino que evoke una sensación de brillo y admiración.",
@@ -2948,8 +2954,18 @@
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "Los sinónimos son palabras o expresiones que tienen el mismo significado o referencia que otra palabra o expresión en un contexto determinado. Por ejemplo, \"feliz\" y \"alegre\" son sinónimos. \n\nPor otro lado, los antónimos son palabras o expresiones que tienen un significado opuesto al de otra palabra o expresión. Por ejemplo, \"grande\" y \"pequeño\" son antónimos. \n\nEstos conceptos son fundamentales en la lengua y en la comprensión de textos y comunicación.",
       "fecha": "2025-12-28T20:31:08.037Z"
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
+      "respuesta": "El vocabulario técnico se refiere a las palabras y expresiones específicas utilizadas en un campo o industria particular, como la medicina, la ingeniería o la programación, que requieren una comprensión especializada para ser comprendidas. Por otro lado, el vocabulario coloquial se refiere a las palabras y expresiones usuales en la conversación cotidiana, que pueden variar según la región, la cultura y la edad de las personas.\n\nPor ejemplo, en medicina, \"trombosis\" es un vocabulario técnico que se refiere a la formación de coágulos de sangre en las venas, mientras que en el lenguaje coloquial, \"trombosis\" se usa en contextos como \"tengo trombosis en mi pierna\", pero esto es una simplificación.",
+      "fecha": "2025-12-28T20:31:24.630Z"
+    },
+    {
+      "pregunta": "¿Cómo se estructura una buena argumentación?",
+      "respuesta": "Una buena argumentación se estructura de la siguiente manera: comienza con una afirmación o tesis clara y concisa, seguida de razones y pruebas que respaldan dicha afirmación. Luego, se presentan contrargumentos y respuestas a posibles objeciones, para refutarlas y fortalecer la argumentación. Finalmente, se concluye con una síntesis que resume los puntos clave y reafirma la tesis inicial.",
+      "fecha": "2025-12-28T20:31:31.583Z"
     }
   ],
-  "ultimaActualizacion": 1766953868038,
-  "preguntasHechas": 142
+  "ultimaActualizacion": 1766953891585,
+  "preguntasHechas": 144
 }
