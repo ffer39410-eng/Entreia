@@ -1,5 +1,5 @@
 {
-  "iq": 1665,
+  "iq": 1669,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2399,16 +2399,12 @@
     "paciente",
     "mínimamente",
     "elección",
-    "dirige"
+    "dirige",
+    "real"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cuáles son las reglas de la gramática española?",
-      "respuesta": "La gramática española sigue un conjunto de reglas básicas que rigen la estructura y el uso correcto de las palabras en la lengua. Algunas de estas reglas incluyen la concordancia de género y número en adjetivos y artículos, el uso del verbo ser y estar para describir estado o ubicación, y la correcta formación de oraciones simples y compuestas con verbos. Además, es fundamental manejar adecuadamente los tiempos verbales, como el presente, el pretérito perfecto simple y el pretérito imperfecto, para expresar diferentes acciones y momentos en el tiempo. Estas reglas varían según el contexto y el registro de la lengua.",
-      "fecha": "2025-12-28T19:23:36.407Z"
-    },
     {
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras que se utilizan para indicar la relación entre un sustantivo y otro, o entre un sustantivo y un verbo. Por ejemplo, la preposición \"en\" indica un lugar o una situación, como en la oración \"Estoy en la casa\". La preposición \"con\" indica una acción o una compañía, como en la oración \"Voy con mis amigos al cine\". Las preposiciones ayudan a clarificar el significado de las oraciones y a proporcionar información sobre la ubicación, la acción o el estado de los seres o objetos.",
@@ -3403,8 +3399,13 @@
       "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
       "respuesta": "El vocabulario técnico se refiere a las palabras y expresiones utilizadas en un campo específico de conocimiento, como la medicina, la ingeniería o la economía, que requieren una comprensión especializada y precisa. Por otro lado, el vocabulario coloquial se utiliza en la comunicación informal y se caracteriza por ser más relajado y accesible al público en general.\n\nEjemplo: Un médico utiliza el vocabulario técnico \"cirugía laparoscópica\" para describir una operación, mientras que un paciente comúnmente diría \"cirugía mínimamente invasiva\".\n\nLa elección entre vocabulario técnico y coloquial depende del contexto y del público al que se dirige la comunicación.",
       "fecha": "2025-12-28T21:02:03.920Z"
+    },
+    {
+      "pregunta": "¿Cómo funciona la comprensión del contexto?",
+      "respuesta": "La comprensión del contexto es el proceso de analizar y interpretar información en función de la situación o contexto en el que se encuentra. Esto implica considerar el lenguaje, la cultura, la experiencia y la intención de la persona que la está presentando. Por ejemplo, cuando lees un texto, debes considerar el propósito para el cual fue escrito, el público objetivo y la cultura en la que se encuentra. De esta forma, puedes entender mejor el significado real detrás de las palabras.",
+      "fecha": "2025-12-28T21:02:11.843Z"
     }
   ],
-  "ultimaActualizacion": 1766955723921,
-  "preguntasHechas": 246
+  "ultimaActualizacion": 1766955731844,
+  "preguntasHechas": 247
 }
