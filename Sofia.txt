@@ -1,5 +1,5 @@
 {
-  "iq": 1764,
+  "iq": 1770,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2462,16 +2462,14 @@
     "reparar",
     "descanso",
     "comunicarlos",
-    "afecto"
+    "afecto",
+    "negocios",
+    "acuerdo",
+    "discusión"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué son los conectores y cómo se usan?",
-      "respuesta": "Los conectores son palabras o expresiones que nos ayudan a unir ideas, oraciones o frases para crear una estructura lógica y coherente en el discurso. Los conectores se clasifican en tres tipos: consecutivos (porque, sin embargo, además), adversativos (aunque, pero, sin embargo) y causales (porque, ya que, debido a). Por ejemplo, \"Iba al parque, pero estaba cerrado\" o \"Me gusta leer porque me ayuda a relajarme\".",
-      "fecha": "2025-12-28T19:26:32.447Z"
-    },
     {
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son palabras o expresiones que se utilizan para unir oraciones o ideas entre sí, logrando una conexión lógica y coherencia en el discurso. Pueden ser de tipo temporal (antes, después), causal (porque, ya que), aditivo (además, también), o contrastivo (sin embargo, en cambio), entre otros. Por ejemplo, \"Vine a clase temprano (antes) para poder estudiar (luego)\".",
@@ -3466,8 +3464,13 @@
       "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
       "respuesta": "Para expresar emociones de forma efectiva, es importante reconocer y aceptar tus sentimientos, así como comunicarlos de manera clara y respetuosa. Puedes expresar tus emociones de manera verbal, utilizando frases como \"Me siento frustrado porque...\" o \"Me alegra verte\", o de manera no verbal, como mediante la postura corporal, el lenguaje del cuerpo y el tono de voz. Por ejemplo, un simple \"Gracias\" o un abrazo pueden expresar agradecimiento y afecto de manera efectiva.",
       "fecha": "2025-12-28T21:07:47.685Z"
+    },
+    {
+      "pregunta": "¿Cómo funciona la comprensión del contexto?",
+      "respuesta": "La comprensión del contexto es la capacidad de analizar y evaluar la situación en la que se encuentra un texto, un discurso o una situación para entender su significado y contenido. Implica considerar factores como la intención del hablante o escritor, el público objetivo, el entorno y las circunstancias en las que se está comunicando. Por ejemplo, en una reunión de negocios, es importante comprender el contexto para saber si se está hablando de un acuerdo formal o de una discusión informal.",
+      "fecha": "2025-12-28T21:07:55.665Z"
     }
   ],
-  "ultimaActualizacion": 1766956067687,
-  "preguntasHechas": 268
+  "ultimaActualizacion": 1766956075667,
+  "preguntasHechas": 269
 }
