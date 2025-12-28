@@ -1,5 +1,5 @@
 {
-  "iq": 411,
+  "iq": 415,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1112,7 +1112,16 @@
     "tecnológico",
     "dispositivo",
     "digital",
-    "televisión"
+    "televisión",
+    "hablado",
+    "menciono",
+    "reloj",
+    "marca",
+    "indicativo",
+    "instante",
+    "marcaba",
+    "marcado",
+    "terminada"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1466,8 +1475,13 @@
       "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
       "respuesta": "El vocabulario técnico se refiere a términos y expresiones especializados utilizados en un campo de conocimiento o profesión específica, como la medicina o la ingeniería. Por ejemplo, un médico utiliza términos como \"cirugía\" o \"biopsia\" para describir procedimientos. En cambio, el vocabulario coloquial se refiere a palabras y expresiones comunes que se utilizan en la conversación diaria, como \"estoy cansado\" o \"me encanta\".\n\nUn ejemplo ilustrativo es la palabra \"pantalla\". En el contexto tecnológico, se refiere a la pantalla de un dispositivo digital, mientras que en un contexto coloquial, la palabra \"pantalla\" se utiliza para describir una pantalla de televisión o un cine.",
       "fecha": "2025-12-28T19:09:45.141Z"
+    },
+    {
+      "pregunta": "¿Cómo funcionan los tiempos verbales?",
+      "respuesta": "Los tiempos verbales son una herramienta fundamental en la gramática para expresar momentos específicos en el tiempo en que se desarrolla una acción. Hay varios tiempos verbales, como el presente, pasado simple, pasado perfecto, futuro simple, entre otros. Por ejemplo, el verbo \"hablar\" en presente se expresa como \"hablo\", en pasado simple como \"hablé\", pero en pasado perfecto se utiliza \"he hablado\".\n\nA continuación, menciono algunos ejemplos más:\n\n- Presente: \"El reloj marca las 12 pm\" (indicativo de acción en este instante)\n- Pasado simple: \"El reloj marcaba las 12 pm\" (indicativo de acción en el pasado)\n- Pasado perfecto: \"El reloj ha marcado las 12 pm\" (indicativo de acción terminada, con relación al presente)\n- Futuro simple:",
+      "fecha": "2025-12-28T19:09:53.123Z"
     }
   ],
-  "ultimaActualizacion": 1766948985142,
+  "ultimaActualizacion": 1766948993124,
   "preguntasHechas": null
 }
