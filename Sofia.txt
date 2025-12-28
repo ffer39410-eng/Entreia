@@ -1,5 +1,5 @@
 {
-  "iq": 1199,
+  "iq": 1203,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2008,16 +2008,13 @@
     "finales",
     "exclamaciones",
     "usarla",
-    "legibilidad"
+    "legibilidad",
+    "pluscuamperfecto",
+    "cumplimiento"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
-      "respuesta": "El razonamiento lógico en conversaciones es la capacidad de utilizar argumentos y deducciones lógicas para llegar a conclusiones racionales y coherentes. Implica analizar información, identificar patrones y relaciones, y aplicar principios lógicos para llegar a un resultado. Por ejemplo, si alguien dice: \"Si llueve, la calle estará mojada. Y si la calle está mojada, es imposible ir en coche\", estás utilizando el razonamiento lógico para llegar a la conclusión de que es imposible ir en coche si llueve.",
-      "fecha": "2025-12-28T19:03:08.440Z"
-    },
     {
       "pregunta": "¿Cuáles son las reglas de la gramática española?",
       "respuesta": "La gramática española es un conjunto de reglas y pautas que rigen la estructura y el uso correcto de la lengua. Algunas de las reglas más importantes incluyen: \n\n- La conjugación de verbos, que varía dependiendo de la persona (yo, tú, él/ella, nosotros/as, vosotros/as, ellos/as) y el tiempo (presente, pasado, futuro).\n- La declinación de los sustantivos, que varía dependiendo de su género (masculino o femenino) y número (singular o plural).\n- El uso del artículo (el, la, los, las), que determina si un sustantivo es común o específico.\n- La formación de las oraciones complejas, que pueden incluir varios verbos y oraciones subordinadas.\n\nEstas reglas ayudan a crear oraciones claras y coherentes en la lengua",
@@ -3012,8 +3009,13 @@
       "pregunta": "¿Cómo se usa la puntuación correctamente?",
       "respuesta": "La puntuación es un elemento fundamental en la escritura para comunicar ideas de manera clara y precisa. Utiliza comas para separar oraciones independientes, puntos finales para indicar el final de una oración o un párrafo, comas para separar los elementos de una lista, y signos de interrogación y exclamación para indicar preguntas y exclamaciones, respectivamente. Por ejemplo: \"La casa es azul, tiene un jardín muy grande.\"\n\nRecuerda que cada puntuación tiene un propósito específico, por lo que es importante usarla de manera efectiva para evitar confusiones y mejorar la legibilidad de tu texto.",
       "fecha": "2025-12-28T20:32:59.729Z"
+    },
+    {
+      "pregunta": "¿Cómo funcionan los tiempos verbales?",
+      "respuesta": "Los tiempos verbales son fundamentales en la gramática y se refieren a la forma en que se expresan las acciones o estados en un momento determinado. Hay varios tiempos verbales, como el presente, pretérito, futuro, condicional, imperativo, subjuntivo y pluscuamperfecto, entre otros. Cada uno de ellos proporciona una información específica sobre la acción o estado, como su cumplimiento, duración o posibilidad.\n\nPor ejemplo, el verbo \"hablar\" en presente (hablo) indica que la acción está ocurriendo en el momento actual, mientras que en pretérito (hablé) se refiere a una acción pasada.",
+      "fecha": "2025-12-28T20:33:07.822Z"
     }
   ],
-  "ultimaActualizacion": 1766953979732,
-  "preguntasHechas": 155
+  "ultimaActualizacion": 1766953987824,
+  "preguntasHechas": 156
 }
