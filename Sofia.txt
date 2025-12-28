@@ -1,5 +1,5 @@
 {
-  "iq": 2519,
+  "iq": 2526,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2911,16 +2911,13 @@
     "verde",
     "compararlo",
     "fragmentos",
-    "justificar"
+    "justificar",
+    "insulina",
+    "hormona"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
-      "respuesta": "El vocabulario técnico se refiere a las palabras y expresiones utilizadas en un contexto profesional específico, como las ciencias, la tecnología, la medicina o la ingeniería, y están diseñadas para ser precisas y objetivas. Por otro lado, el vocabulario coloquial se refiere a las palabras y expresiones utilizadas en la vida cotidiana, como en la conversación informal con amigos o familiares. Un ejemplo es la palabra \"cableado\" (técnico) vs \"hilo suelto\" (coloquial) para describir la instalación de cables eléctricos.",
-      "fecha": "2025-12-28T20:53:12.382Z"
-    },
     {
       "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
       "respuesta": "El vocabulario técnico se refiere a palabras y expresiones específicas utilizadas en un campo o industria particular, como la medicina, la ingeniería o la tecnología, y son comprensibles solo por personas con conocimientos especializados en esa área. Por ejemplo, el término \"aneurisma abdominal\" es común en el ámbito médico pero no en el lenguaje coloquial.\n\nPor otro lado, el vocabulario coloquial se refiere a palabras y expresiones habituales en el lenguaje cotidiano y son comprensibles por la mayoría de la gente. Por ejemplo, expresiones como \"estar cansado\" o \"estar emocionado\" son comunes en el lenguaje coloquial pero pueden no ser tan precisas en un contexto técnico.\n\nEs importante destacar que, aunque el vocabulario técnico puede ser más preciso, el coloquialismo puede ser",
@@ -3915,8 +3912,13 @@
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son palabras o expresiones que se utilizan para unir ideas, oraciones o fragmentos de oraciones en la comunicación verbal o escrita. Funcionan como puentes para conectar ideas y crear una estructura lógica en el texto o la conversación. Por ejemplo, se pueden usar \"y\" para unir ideas adicionales, \"pero\" para presentar una contraposición, \"porque\" para justificar una idea o \"sin embargo\" para introducir una oposición.",
       "fecha": "2025-12-28T21:28:11.779Z"
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
+      "respuesta": "El vocabulario técnico se refiere a las palabras y expresiones utilizadas en un campo específico como la medicina, la ingeniería o la ciencia, que tienen un significado claro y preciso para los expertos en ese ámbito. Por otro lado, el vocabulario coloquial se utiliza en la comunicación informal y puede variar según la región o cultura, con un lenguaje más relajado y coloquial. Un ejemplo es la diferencia entre \"insulina\" (técnico) y \"hormona del azúcar\" (coloquial).",
+      "fecha": "2025-12-28T21:28:19.772Z"
     }
   ],
-  "ultimaActualizacion": 1766957291781,
-  "preguntasHechas": 411
+  "ultimaActualizacion": 1766957299774,
+  "preguntasHechas": 412
 }
