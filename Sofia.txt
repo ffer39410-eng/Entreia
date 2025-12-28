@@ -1,5 +1,5 @@
 {
-  "iq": 2996,
+  "iq": 3003,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3128,16 +3128,12 @@
     "estúpido",
     "empatéticamente",
     "desconcertado",
-    "salida"
+    "salida",
+    "iremos"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
-      "respuesta": "Las metáforas son utilizadas para crear conexiones inusuales entre conceptos y objetos, permitiendo a los hablantes describir ideas y emociones de manera más poética y evocadora. Por ejemplo, decir \"estoy atrapado en un laberinto\" no solo describe una sensación de confusión, sino que también evoca una imagen visual de un lugar desconocido y difícil de navegar. Esto permite a los oyentes imaginar y conectarse con la Idea más fácilmente.",
-      "fecha": "2025-12-28T21:12:27.848Z"
-    },
     {
       "pregunta": "¿Cómo se estructura una buena argumentación?",
       "respuesta": "Una buena argumentación se estructura en tres componentes fundamentales: la introducción, la argumentación en sí y la conclusión. La introducción presenta el tema y la perspectiva del argumento. La argumentación en sí presenta los hechos, los datos y los análisis que respaldan la tesis. La conclusión resume los argumentos presentados y presenta la conclusión final.\n\nPor ejemplo, supongamos que queremos argumentar que los coches eléctricos son más beneficiosos que los coches de combustible fósil. La introducción presentaría la importancia del cambio climático y la necesidad de reducir las emisiones de gases de efecto invernadero. La argumentación en sí presentaría estadísticas que muestran la menor emisión de gases de efecto invernadero de los coches eléctricos, así como beneficios económicos y de salud. La conclusión resume los argumentos",
@@ -4132,8 +4128,13 @@
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "Los sinónimos son palabras que tienen el mismo significado o casi idéntico, como \"felicidad\" y \"alegría\". Por ejemplo, en la oración \"La música me llena de felicidad\", también podría decir \"La música me llena de alegría\" y el significado sería el mismo.\n\nPor otro lado, los antónimos son palabras que tienen significados opuestos, como \"gran\" y \"pequeño\". Por ejemplo, en la oración \"La casa es grande\", su antónimo sería \"La casa es pequeña\", lo que implica un significado contrario.",
       "fecha": "2025-12-28T21:51:15.642Z"
+    },
+    {
+      "pregunta": "¿Cómo se usa la puntuación correctamente?",
+      "respuesta": "La puntuación es un elemento fundamental en la escritura para comunicar ideas y expresiones de manera clara y efectiva. Utiliza comas para separar ideas en una oración, puntos para indicar el final de una oración y el inicio de un nuevo párrafo. Por ejemplo: \"Voy al parque, donde encontraré a mis amigos. Luego, iremos al cine para ver una película\".",
+      "fecha": "2025-12-28T21:51:23.887Z"
     }
   ],
-  "ultimaActualizacion": 1766958675643,
-  "preguntasHechas": 502
+  "ultimaActualizacion": 1766958683890,
+  "preguntasHechas": 503
 }
