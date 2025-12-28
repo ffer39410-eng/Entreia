@@ -1,5 +1,5 @@
 {
-  "iq": 2404,
+  "iq": 2411,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2850,16 +2850,14 @@
     "fondo",
     "advirtiendo",
     "niño",
-    "peligro"
+    "peligro",
+    "desacrediten",
+    "formarnos",
+    "sesgada"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
-      "respuesta": "Para expresar emociones de forma efectiva, es fundamental ser auténtico y sincero. Utiliza lenguaje corporal y verbal que refleje tus sentimientos, como mirar a los ojos para mostrar empatía o usar inflexiones en la voz para transmitir entusiasmo. Por ejemplo, si estás felicidad, podrías sonreír y decir \"¡Estoy tan contento de que hayamos logrado esto!\".",
-      "fecha": "2025-12-28T20:41:47.623Z"
-    },
     {
       "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
       "respuesta": "La expresión emocional efectiva es fundamental para comunicar de manera clara y sincera con los demás. Para lograrlo, es importante ser auténtico y expresar tus emociones de manera honesta y no manipuladora. Por ejemplo, en lugar de decir \"Estoy muy bien\", puedes decir \"Me siento un poco nervioso hoy\", lo que muestra que estás dispuesto a ser vulnerable y compartir tus sentimientos. Además, es importante escuchar activamente a los demás y mostrar empatía y comprensión.",
@@ -3854,8 +3852,13 @@
       "pregunta": "¿Cómo funciona la comprensión del contexto?",
       "respuesta": "La comprensión del contexto es un proceso complejo que implica analizar el lenguaje y la información proporcionada para identificar el significado y la relevancia de un texto, conversación o situación. Implica considerar el contexto en el que se está comunicando, incluyendo el tono, el entorno y las personas involucradas. Por ejemplo, la frase \"¡cuidado!\" puede tener diferentes significados dependiendo del contexto, es decir, si está gritando desde el fondo de un campo de fútbol o si está advirtiendo a un niño sobre un peligro real.",
       "fecha": "2025-12-28T21:23:55.796Z"
+    },
+    {
+      "pregunta": "¿Qué es el pensamiento crítico?",
+      "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar información, ideas y argumentos de manera objetiva y sistemática, considerando múltiples perspectivas y evidencias. Consiste en cuestionar suposiciones, identificar fallas lógicas y evaluar la validez de la información. Por ejemplo, al leer un artículo periodístico, el pensamiento crítico nos permitiría analizar el tema, evaluar la fuente y buscar evidencias que respalden o desacrediten las afirmaciones presentadas. Esto nos ayuda a formarnos una opinión informada y no sesgada.",
+      "fecha": "2025-12-28T21:24:03.750Z"
     }
   ],
-  "ultimaActualizacion": 1766957035797,
-  "preguntasHechas": 389
+  "ultimaActualizacion": 1766957043751,
+  "preguntasHechas": 390
 }
