@@ -1,5 +1,5 @@
 {
-  "iq": 1446,
+  "iq": 1449,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2236,16 +2236,16 @@
     "peor",
     "consistir",
     "conduzcan",
-    "lentamente"
+    "lentamente",
+    "conectivos",
+    "conectivo",
+    "dependen",
+    "quise",
+    "condicionales"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cuáles son las reglas de la gramática española?",
-      "respuesta": "La gramática española está regida por una serie de reglas que rigen la conjugación de verbos, la formación de oraciones y la estructura de las palabras. Las reglas más importantes incluyen la concordancia de género y número, la flexión de los verbos en persona y tiempo, la formación de las oraciones simples y compuestas, y la correcta utilización de artículos, adjetivos y adverbios. Por ejemplo, al conjugarse el verbo \"ser\" en el presente, se utiliza \"soy\" para el pronombre yo, \"eréis\" para tú, \"es\" para él, ella, ello o ellos, y así sucesivamente.",
-      "fecha": "2025-12-28T19:11:10.838Z"
-    },
     {
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual se refiere a la capacidad de un texto para mantener una relación lógica y clara entre las diferentes ideas, conceptos y oraciones que lo componen. Esto implica que cada idea se relaciona con las anteriores y posteriores de manera coherente, facilitando la comprensión y la navegación del lector. Por ejemplo, un texto sobre un viaje en el que se describe el itinerario de la ruta, la descripción de las atracciones visitadas y la experiencia personal obtenida, tendría una buena coherencia textual si cada oración se relacionara lógicamente con las anteriores. En otros términos, la coherencia textual es como una historia bien hilada, donde cada capítulo se ajusta perfectamente al anterior.",
@@ -3240,8 +3240,13 @@
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "Excelente pregunta. Los sinónimos son palabras que tienen el mismo significado o nearly el mismo significado que otra palabra, pero con diferentes sonidos o estructuras gramaticales. Por ejemplo, \"feliz\" y \"alegre\" son sinónimos. \n\nPor otro lado, los antónimos son palabras que tienen significados opuestos o casi opuestos. Por ejemplo, \"largo\" y \"corto\" son antónimos.",
       "fecha": "2025-12-28T20:44:51.736Z"
+    },
+    {
+      "pregunta": "¿Cómo se construyen oraciones complejas en español?",
+      "respuesta": "Para construir oraciones complejas en español, debemos utilizar conectivos como \"y\", \"pero\", \"porque\", \"aunque\" y \"si\" para unir oraciones independientes. Por ejemplo: \"Estudié todo el día y pasé la noche haciendo mi tarea\". En esta oración, \"estudié todo el día\" y \"pasé la noche haciendo mi tarea\" son dos oraciones independientes unidas por el conectivo \"y\".\n\nOtra forma de crear oraciones complejas es utilizando subordinadas, es decir, oraciones que dependen de otra oración principal. Por ejemplo: \"Quise ir al parque porque el tiempo estaba soleado\". En esta oración, \"el tiempo estaba soleado\" es una subordinada que depende de \"Quise ir al parque\".\n\nAdemás, podemos crear oraciones complejas utilizando oraciones condicionales, como \"si... entonces\" o \"",
+      "fecha": "2025-12-28T20:44:59.757Z"
     }
   ],
-  "ultimaActualizacion": 1766954691738,
-  "preguntasHechas": 204
+  "ultimaActualizacion": 1766954699759,
+  "preguntasHechas": 205
 }
