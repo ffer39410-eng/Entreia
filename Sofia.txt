@@ -1,5 +1,5 @@
 {
-  "iq": 2516,
+  "iq": 2519,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2909,16 +2909,13 @@
     "ligera",
     "alto",
     "verde",
-    "compararlo"
+    "compararlo",
+    "fragmentos",
+    "justificar"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo se usa la puntuación correctamente?",
-      "respuesta": "La puntuación es fundamental en la escritura para comunicar ideas de manera clara y precisa. Utiliza signos de puntuación como comas (,) para separar ideas o elementos en una oración, puntos (.) para finalizar oraciones, signos de interrogación (?) para preguntas y signos de exclamación (!) para enfatizar emociones. Por ejemplo, \"Voy al parque, compré un helado y me senté en un banco\" es una oración clara y bien puntuada.",
-      "fecha": "2025-12-28T20:45:47.755Z"
-    },
     {
       "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
       "respuesta": "El vocabulario técnico se refiere a las palabras y expresiones utilizadas en un contexto profesional específico, como las ciencias, la tecnología, la medicina o la ingeniería, y están diseñadas para ser precisas y objetivas. Por otro lado, el vocabulario coloquial se refiere a las palabras y expresiones utilizadas en la vida cotidiana, como en la conversación informal con amigos o familiares. Un ejemplo es la palabra \"cableado\" (técnico) vs \"hilo suelto\" (coloquial) para describir la instalación de cables eléctricos.",
@@ -3913,8 +3910,13 @@
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "Los sinónimos son palabras que tienen el mismo significado o una forma similar de expresar una idea, pero con una ligera diferencia en tono o connotación. Por ejemplo, \"feliz\" y \"contento\" son sinónimos, ya que ambos describen un estado de ánimo positivo. Otros ejemplos son \"gran\" y \"muy grande\", \"rápido\" y \"veloz\".\n\nPor otro lado, los antónimos son palabras que tienen significados opuestos. Por ejemplo, \"alto\" y \"bajo\", \"grande\" y \"pequeño\", \"verde\" y \"rojo\". Los antónimos pueden ayudarnos a precisar o enfatizar un concepto al compararlo con su opuesto.",
       "fecha": "2025-12-28T21:28:03.798Z"
+    },
+    {
+      "pregunta": "¿Qué son los conectores y cómo se usan?",
+      "respuesta": "Los conectores son palabras o expresiones que se utilizan para unir ideas, oraciones o fragmentos de oraciones en la comunicación verbal o escrita. Funcionan como puentes para conectar ideas y crear una estructura lógica en el texto o la conversación. Por ejemplo, se pueden usar \"y\" para unir ideas adicionales, \"pero\" para presentar una contraposición, \"porque\" para justificar una idea o \"sin embargo\" para introducir una oposición.",
+      "fecha": "2025-12-28T21:28:11.779Z"
     }
   ],
-  "ultimaActualizacion": 1766957283801,
-  "preguntasHechas": 410
+  "ultimaActualizacion": 1766957291781,
+  "preguntasHechas": 411
 }
