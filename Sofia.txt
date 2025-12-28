@@ -1,5 +1,5 @@
 {
-  "iq": 1171,
+  "iq": 1178,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1987,16 +1987,16 @@
     "reflejaría",
     "instrucciones",
     "llegada",
-    "aeropuerto"
+    "aeropuerto",
+    "actividad",
+    "entendidas",
+    "comúnmente",
+    "disco",
+    "duro"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué es la coherencia textual?",
-      "respuesta": "La coherencia textual se refiere a la propiedad de un texto en el que las ideas, las oraciones y los párrafos están relacionados de manera lógica y clara entre sí, creando una unidad significativa. Esto se logra mediante la conexión entre las ideas a través de nexos verbales, nexos ideológicos y la organización de la información en un orden claro. Por ejemplo, en un texto que describe un viaje, la coherencia se logra al establecer una secuencia lógica de lugar a lugar, describiendo el entorno y las actividades realizadas en cada parada. Esto permite al lector seguir fácilmente el argumento y entender la información de manera efectiva.",
-      "fecha": "2025-12-28T19:02:28.252Z"
-    },
     {
       "pregunta": "¿Cuáles son las reglas de la gramática española?",
       "respuesta": "La gramática española tiene reglas importantes para la construcción de oraciones y la formación de palabras. Una de estas reglas es la concordancia de género y número, que establece que los artículos, adjetivos y sustantivos deben concordar en género y número. Por ejemplo, en la oración \"El estudiante es inteligente\", el artículo \"el\" es masculino singular y concuerda con el sustantivo \"estudiante\". Otro ejemplo es la concordancia de persona, que establece que los verbos deben concordar con el sujeto en número y persona. Por ejemplo, en la oración \"Yo estudio español\", el verbo \"estudio\" es en primer persona singular y concuerda con el sujeto \"yo\".",
@@ -2991,8 +2991,13 @@
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual se refiere a la capacidad del texto de transmitir una idea clara y cohesiva, mediante el uso de estructuras lógicas y conexiones entre las oraciones. Un texto coherente es aquel que tiene un hilo conductor claro, que permite al lector seguir fácilmente el razonamiento y la argumentación. Por ejemplo, si estamos leyendo un texto que describe cómo llegar a un lugar, la coherencia textual se reflejaría en la secuencia lógica de las instrucciones, desde la llegada al aeropuerto hasta el destino final.",
       "fecha": "2025-12-28T20:32:19.687Z"
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
+      "respuesta": "El vocabulario técnico se refiere a las palabras y expresiones utilizadas en un campo específico de conocimiento o actividad, como la medicina, la informática o la ingeniería, y que requieren un conocimiento especializado para ser entendidas. Por otro lado, el vocabulario coloquial es el lenguaje informal y comúnmente utilizado en la vida diaria, que puede variar según la región y la cultura.\n\nUn ejemplo es la palabra \"disco duro\" en informática, que es un término técnico, mientras que en la vida cotidiana se utiliza el término \"disco\" de manera coloquial para referirse a un tipo de música.",
+      "fecha": "2025-12-28T20:32:27.816Z"
     }
   ],
-  "ultimaActualizacion": 1766953939689,
-  "preguntasHechas": 150
+  "ultimaActualizacion": 1766953947817,
+  "preguntasHechas": 151
 }
