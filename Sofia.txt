@@ -1,5 +1,5 @@
 {
-  "iq": 2479,
+  "iq": 2485,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2891,16 +2891,13 @@
     "original",
     "fenómenos",
     "trayecto",
-    "lleno"
+    "lleno",
+    "estructurado",
+    "todas"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué son los sinónimos y antónimos?",
-      "respuesta": "Excelente pregunta. Los sinónimos son palabras que tienen el mismo significado o nearly el mismo significado que otra palabra, pero con diferentes sonidos o estructuras gramaticales. Por ejemplo, \"feliz\" y \"alegre\" son sinónimos. \n\nPor otro lado, los antónimos son palabras que tienen significados opuestos o casi opuestos. Por ejemplo, \"largo\" y \"corto\" son antónimos.",
-      "fecha": "2025-12-28T20:44:51.736Z"
-    },
     {
       "pregunta": "¿Cómo se construyen oraciones complejas en español?",
       "respuesta": "Para construir oraciones complejas en español, debemos utilizar conectivos como \"y\", \"pero\", \"porque\", \"aunque\" y \"si\" para unir oraciones independientes. Por ejemplo: \"Estudié todo el día y pasé la noche haciendo mi tarea\". En esta oración, \"estudié todo el día\" y \"pasé la noche haciendo mi tarea\" son dos oraciones independientes unidas por el conectivo \"y\".\n\nOtra forma de crear oraciones complejas es utilizando subordinadas, es decir, oraciones que dependen de otra oración principal. Por ejemplo: \"Quise ir al parque porque el tiempo estaba soleado\". En esta oración, \"el tiempo estaba soleado\" es una subordinada que depende de \"Quise ir al parque\".\n\nAdemás, podemos crear oraciones complejas utilizando oraciones condicionales, como \"si... entonces\" o \"",
@@ -3895,8 +3892,13 @@
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras que se utilizan para indicar la relación entre un sustantivo o un pronombre y otros elementos en una oración, como lugar, tiempo, modo, causa, etc. Por ejemplo, en la oración \"El libro está sobre la mesa\", la preposición \"sobre\" indica la relación de lugar entre el libro y la mesa. Las preposiciones ayudan a proporcionar información adicional sobre el significado de la oración y a establecer la conexión entre diferentes elementos.",
       "fecha": "2025-12-28T21:25:47.999Z"
+    },
+    {
+      "pregunta": "¿Qué es la coherencia textual?",
+      "respuesta": "La coherencia textual se refiere a la propiedad de un texto de ser lógico y consistente en términos de estructura, contenido y organización. Esto implica que las ideas que se presentan en el texto están relacionadas entre sí de manera clara y concisa, lo que facilita la comprensión del lector. Por ejemplo, un ensayo bien estructurado sobre la importancia de la educación incluirá ideas relacionadas con la formación académica, la sociedad y el futuro, todas ellas conectadas de manera coherente. La coherencia textual es fundamental en la escritura clara y eficaz.",
+      "fecha": "2025-12-28T21:25:55.679Z"
     }
   ],
-  "ultimaActualizacion": 1766957147999,
-  "preguntasHechas": 403
+  "ultimaActualizacion": 1766957155680,
+  "preguntasHechas": 404
 }
