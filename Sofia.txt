@@ -1,5 +1,5 @@
 {
-  "iq": 2646,
+  "iq": 2653,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2977,16 +2977,14 @@
     "aplicarlos",
     "tantos",
     "echado",
-    "argumentaciones"
+    "argumentaciones",
+    "viabilidad",
+    "empresario",
+    "compartida"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué es la coherencia textual?",
-      "respuesta": "La coherencia textual es la propiedad de un texto que permite que las ideas y los conceptos se relacionen entre sí de manera lógica y sistemática, creando una unidad y una estructura clara. Esto se logra a través de la selección y organización de palabras, frases y oraciones de manera que cada parte del texto contribuya a la comprensión general del tema. Por ejemplo, en un ensayo sobre la importancia de la educación, cada oración debe estar conectada a las demás para que el lector pueda seguir el argumento y comprender la idea principal.",
-      "fecha": "2025-12-28T21:00:35.696Z"
-    },
     {
       "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
       "respuesta": "Las metáforas son comparaciones implícitas entre dos conceptos o ideas que no están relacionados directamente, utilizadas para describir o explicar algo de manera creativa y enriquecedora. Por ejemplo, \"la vida es un viaje\" es una metáfora que compara la vida con un recorrido a través de diferentes lugares, destacando la idea de que la vida tiene sus propias etapas y desafíos. Esta comparación no se establece de manera explícita, pero ayuda a crear una imagen mental más vívida y evocadora del concepto en cuestión.",
@@ -3981,8 +3979,13 @@
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar información de manera objetiva y lógica, considerando múltiples perspectivas y fuentes, para llegar a conclusiones bien fundamentadas. Esto implica cuestionar asunciones y creencias, identificar debilidades y fortalezas, y ser consciente de los propios sesgos y prejuicios. Un ejemplo de pensamiento crítico es analizar un artículo de noticias y evaluar la credibilidad de la fuente, la objetividad del contenido y la consistencia de las argumentaciones.",
       "fecha": "2025-12-28T21:36:43.743Z"
+    },
+    {
+      "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
+      "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de pensar y expresarse de manera clara, coherente y lógica para comunicar ideas y argumentos de manera efectiva. Esto implica utilizar reglas y principios lógicos para construir argumentos sólidos, identificar falacias y evitar confusiones. Por ejemplo, al hablar sobre la viabilidad de un nuevo proyecto, un empresario podría utilizar el razonamiento lógico para presentar evidencia y estadísticas que respalden su argumento, y responder a posibles objeciones de manera racional y lógica. De esta manera, se puede llegar a una conclusión bien fundamentada y compartida por todos.",
+      "fecha": "2025-12-28T21:36:51.978Z"
     }
   ],
-  "ultimaActualizacion": 1766957803746,
-  "preguntasHechas": 434
+  "ultimaActualizacion": 1766957811981,
+  "preguntasHechas": 435
 }
