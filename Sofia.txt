@@ -1,5 +1,5 @@
 {
-  "iq": 691,
+  "iq": 694,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1504,7 +1504,10 @@
     "completado",
     "suceda",
     "idiotismos",
-    "conjugan"
+    "conjugan",
+    "formando",
+    "opiniones",
+    "basan"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2143,8 +2146,13 @@
       "pregunta": "¿Cuáles son las reglas de la gramática española?",
       "respuesta": "La gramática española tiene varias reglas importantes, como la concordancia de género y número, la flexión de verbos e idiotismos. Por ejemplo, en español, el artículo determinado \"el\" se usa para referirse a un objeto masculino singular, mientras que \"la\" se usa para referirse a un objeto femenino singular. Además, los verbos en español se conjugan según la persona y el tiempo en que se realiza la acción.",
       "fecha": "2025-12-28T19:24:24.312Z"
+    },
+    {
+      "pregunta": "¿Qué es el pensamiento crítico?",
+      "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar información de manera objetiva y lógica, identificando fortalezas y debilidades, y formando opiniones informadas. Esto implica cuestionar suposiciones y prejuicios, considerar múltiples perspectivas y evidencia, y tomar decisiones fundamentadas en argumentos sólidos. Un ejemplo de pensamiento crítico es analizar un artículo de noticias y evaluar la credibilidad de las fuentes, identificar sesgos y verificar si las afirmaciones se basan en evidencia.",
+      "fecha": "2025-12-28T19:24:32.304Z"
     }
   ],
-  "ultimaActualizacion": 1766949864313,
-  "preguntasHechas": 53
+  "ultimaActualizacion": 1766949872305,
+  "preguntasHechas": 54
 }
