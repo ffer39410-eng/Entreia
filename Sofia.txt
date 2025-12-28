@@ -1,5 +1,5 @@
 {
-  "iq": 2053,
+  "iq": 2060,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2654,16 +2654,16 @@
     "paraguas",
     "qued",
     "ropa",
-    "empapada"
+    "empapada",
+    "xito",
+    "probabilidad",
+    "empleo",
+    "necesarios",
+    "competir"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué son los sinónimos y antónimos?",
-      "respuesta": "Excelente pregunta. Los sinónimos son palabras que tienen el mismo significado o nearly el mismo significado que otra palabra. Por ejemplo, \"sol\" y \"soliloquio\" son sinónimos en ciertos contextos, aunque \"soliloquio\" es más específico y se refiere a una conversación interior. Los antónimos, por otro lado, son palabras que tienen significados opuestos. Por ejemplo, \"grande\" y \"pequeño\" son antónimos, al igual que \"feliz\" y \"triste\".",
-      "fecha": "2025-12-28T20:15:48.511Z"
-    },
     {
       "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
       "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de pensar y comunicarse de manera clara, coherente y racional al discutir temas o resolver problemas. Implica analizar información, identificar patrones y hacer conexiones lógicas entre ideas para llegar a conclusiones sólidas. Por ejemplo, al discutir sobre si un producto es eficiente, un razonamiento lógico podría implicar comparar los beneficios con los costos y evaluar la relación entre ambos.",
@@ -3658,8 +3658,13 @@
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son palabras o expresiones que unen oraciones, frases o ideas para crear un enlace lógico y coherente en un texto o una conversación. Los conectores se utilizan para indicar relaciones entre los diferentes elementos de una oración, como causalidad, consecuencia, contraste, adición, etc.\n\nPor ejemplo, el conector \"porque\" se utiliza para indicar causalidad: \"Me levanté temprano porque tenía que ir al trabajo\". El conector \"entonces\" se utiliza para indicar consecuencia: \"Me mojé porque no llevaba paraguas, entonces me quedé con la ropa empapada\".",
       "fecha": "2025-12-28T21:14:59.900Z"
+    },
+    {
+      "pregunta": "¿Cómo se estructura una buena argumentación?",
+      "respuesta": "Una buena argumentación se estructura en tres partes fundamentales: la premisa, el razonamiento y la conclusión. La premisa es el hecho o la información que se utiliza como base para la argumentación, el razonamiento es el proceso de análisis y conexión de la premisa para llegar a una conclusión, y la conclusión es el resultado final del proceso de razonamiento. Por ejemplo, si se argumenta que \"la educación es fundamental para el éxito\", la premisa podría ser \"los estudios muestran que las personas con educación tienen mayor probabilidad de encontrar empleo\", el razonamiento podría ser \"porque la educación les proporciona las habilidades y conocimientos necesarios para competir en el mercado laboral\" y la conclusión podría ser \"por lo tanto, la educación es fundamental para el éxito\".",
+      "fecha": "2025-12-28T21:15:07.885Z"
     }
   ],
-  "ultimaActualizacion": 1766956499902,
-  "preguntasHechas": 322
+  "ultimaActualizacion": 1766956507887,
+  "preguntasHechas": 323
 }
