@@ -1,5 +1,5 @@
 {
-  "iq": 2596,
+  "iq": 2607,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2950,21 +2950,17 @@
     "políticos",
     "diagnósticos",
     "médicos",
-    "curiosidad"
+    "curiosidad",
+    "válida",
+    "asisten",
+    "mayores",
+    "años",
+    "sombra",
+    "escuela"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué son los sinónimos y antónimos?",
-      "respuesta": "Los sinónimos son palabras que tienen el mismo significado o expresan una idea similar, aunque pueden tener ligeras diferencias en su tono o contexto. Por ejemplo, la palabra \"feliz\" es sinónimo de \"alegre\" o \"contento\". \n\nLos antónimos, por otro lado, son palabras que expresan ideas opuestas. Por ejemplo, \"rico\" y \"pobre\" son antónimos, ya que se refieren a situaciones financieras opuestas.",
-      "fecha": "2025-12-28T20:55:00.114Z"
-    },
-    {
-      "pregunta": "¿Qué son los sinónimos y antónimos?",
-      "respuesta": "Los sinónimos son palabras que tienen el mismo significado o una acepción similar, como \"luz\" y \"iluminación\". Por ejemplo, en la oración \"La luz del sol iluminó la habitación\", podemos reemplazar \"luz\" con \"iluminación\" sin cambiar el significado de la oración.\n\nPor otro lado, los antónimos son palabras que tienen significados opuestos, como \"feliz\" y \"triste\". Por ejemplo, en la oración \"Ella estaba feliz, mientras que él estaba triste\", la palabra \"feliz\" y \"triste\" se utilizan para expresar dos sentimientos opuestos.",
-      "fecha": "2025-12-28T20:56:35.838Z"
-    },
     {
       "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
       "respuesta": "Para expresar emociones de forma efectiva, es importante ser auténtico y honesto. Puedes utilizar palabras y frases que describan cómo te sientes, como \"Me siento feliz\" o \"Estoy muy enojado\". También puedes utilizar lenguaje corporal que refleje tus emociones, como sonreír cuando estás contento o cruzar los brazos cuando estás incómodo. Además, es importante escuchar y validar las emociones de los demás, ya que esto ayuda a crear un ambiente más seguro y positivo.",
@@ -3954,8 +3950,18 @@
       "pregunta": "¿Cómo se usa la puntuación correctamente?",
       "respuesta": "La puntuación es fundamental para comunicar ideas de manera clara y precisa en la escritura. Se utiliza para separar oraciones, indicar pausas, enfatizar o mostrar relación entre ideas, según la regla de tres puntos, o bien para indicar fin de oración mediante un punto. Por ejemplo, \"La puntuación es fundamental para comunicar ideas de manera clara.\"",
       "fecha": "2025-12-28T21:32:27.798Z"
+    },
+    {
+      "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
+      "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de analizar y evaluar información para llegar a conclusiones racionales y coherentes. Implica utilizar premisas lógicas y principios de deducción para llegar a una conclusión válida. Por ejemplo, si se afirma que \"todos los estudiantes que asisten a la universidad son mayores de 18 años\", y luego se dice que \"Juan es un estudiante de la universidad\", lógicamente se puede concluir que \"Juan es mayor de 18 años\". Este tipo de razonamiento ayuda a evitar errores y a comunicarse de manera clara y efectiva.",
+      "fecha": "2025-12-28T21:32:36.073Z"
+    },
+    {
+      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
+      "respuesta": "Las preposiciones son palabras que se utilizan para indicar la relación entre un sustantivo o un grupo de palabras y otro sustantivo, un número o una acción. Sirven para establecer la ubicación, el movimiento, la dirección, la intensidad, el tiempo, la duración, la frecuencia, la causa, el destinatario, etc. Por ejemplo: \"Estoy bajo la sombra\" (indicando ubicación), \"Voy hacia la escuela\" (indicando dirección), \"Me duele la cabeza\" (indicando intensidad).",
+      "fecha": "2025-12-28T21:35:49.018Z"
     }
   ],
-  "ultimaActualizacion": 1766957547799,
-  "preguntasHechas": 425
+  "ultimaActualizacion": 1766957749021,
+  "preguntasHechas": 427
 }
