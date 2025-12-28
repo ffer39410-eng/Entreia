@@ -1,5 +1,5 @@
 {
-  "iq": 711,
+  "iq": 714,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1536,7 +1536,8 @@
     "busca",
     "citadas",
     "evalúa",
-    "objetividad"
+    "objetividad",
+    "aspectos"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2195,8 +2196,13 @@
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es un proceso mental que implica analizar y evaluar información, ideas y argumentos de manera objetiva y sistemática, para llegar a conclusiones informadas y fundamentadas. Implica cuestionar suposiciones, verificar fuentes y considerar múltiples perspectivas para formar opiniones y tomar decisiones. Por ejemplo, al leer un artículo de periodismo, un estudiante con pensamiento crítico no solo le da crédito a la información presentada, sino que también busca verificar las fuentes citadas y evalúa la objetividad del autor. Al hacerlo, puede llegar a una comprensión más profunda del tema y tomar decisiones más informadas.",
       "fecha": "2025-12-28T19:24:56.289Z"
+    },
+    {
+      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
+      "respuesta": "Las preposiciones son palabras que indican la relación entre un objeto o lugar y otro en una oración. Sirven para indicar la ubicación, la dirección, la relación de causalidad, la duración y otros aspectos del texto. Por ejemplo, en la oración \"El libro está sobre la mesa\", la preposición \"sobre\" indica la ubicación del libro en relación con la mesa.",
+      "fecha": "2025-12-28T19:25:04.356Z"
     }
   ],
-  "ultimaActualizacion": 1766949896290,
-  "preguntasHechas": 57
+  "ultimaActualizacion": 1766949904356,
+  "preguntasHechas": 58
 }
