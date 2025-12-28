@@ -1,5 +1,5 @@
 {
-  "iq": 2378,
+  "iq": 2384,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2831,16 +2831,17 @@
     "duerme",
     "electrocardiograma",
     "pulso",
-    "recapitulación"
+    "recapitulación",
+    "asociar",
+    "abstracta",
+    "impactante",
+    "sugerentes",
+    "parecían",
+    "inmutables"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
-      "respuesta": "La expresión de emociones es fundamental para comunicarnos de manera efectiva. Puedes expresar tus emociones de forma clara al usar lenguaje corporal, como mantener contacto visual, sonreír o demostrar comprensión mediante gestos, y mediante palabras, utilizando verbos como \"me alegra\" o \"me siento ansioso\", para dar a entender tus sentimientos. Además, puedes utilizar técnicas de comunicación activa, como repetir y resumir, para asegurarte de que tus palabras sean entendidas y apreciadas por los demás. Por ejemplo, si alguien te dice que te sientes triste, puedes responder con \"Sí, me siento un poco triste hoy\" para mostrar que estás escuchando y que te importa cómo te sientes.",
-      "fecha": "2025-12-28T20:40:59.781Z"
-    },
     {
       "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
       "respuesta": "Las metáforas son comparaciones implícitas que se utilizan para describir una cosa en términos de otra, creando un lenguaje más expresivo y evocador. Por ejemplo, \"Ella es una estrella en la escena teatral\" no significa que sea literalmente una estrella, sino que destaca su talento y brillantez en el mundo del teatro. Esta comparación ayuda a crear una imagen más vívida y emotiva en la mente del oyente.",
@@ -3835,8 +3836,13 @@
       "pregunta": "¿Cómo se estructura una buena argumentación?",
       "respuesta": "Una buena argumentación se estructura en tres partes principales: la tesis, la prueba y la conclusión. La tesis es la afirmación central que se quiere demostrar, la prueba es la presentación de evidencia y razonamientos que apoyan la tesis, y la conclusión es la recapitulación de los argumentos presentados para demostrar la validez de la tesis.",
       "fecha": "2025-12-28T21:23:07.867Z"
+    },
+    {
+      "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
+      "respuesta": "Las metáforas son una figura retórica que permite asociar dos conceptos o ideas muy diferentes, creando una comparación no literal para describir una realidad abstracta o compleja. Esto permite a los hablantes expresar ideas de manera creativa y accesible, como cuando decimos \"el tiempo es un río\" o \"la vida es un viaje\". Las metáforas pueden ser utilizadas en la literatura, la poesía, el discurso público y la comunicación cotidiana para transmitir emociones y pensamientos de manera más impactante y memorable. Al utilizar metáforas, los hablantes pueden crear conexiones nuevas y sugerentes entre conceptos que antes parecían inmutables.",
+      "fecha": "2025-12-28T21:23:15.935Z"
     }
   ],
-  "ultimaActualizacion": 1766956987869,
-  "preguntasHechas": 383
+  "ultimaActualizacion": 1766956995937,
+  "preguntasHechas": 384
 }
