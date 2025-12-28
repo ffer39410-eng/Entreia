@@ -1,5 +1,5 @@
 {
-  "iq": 394,
+  "iq": 397,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1063,7 +1063,10 @@
     "directa",
     "prevalencia",
     "enfermedades",
-    "crónicas"
+    "crónicas",
+    "clasifican",
+    "prefiero",
+    "monte"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1392,8 +1395,13 @@
       "pregunta": "¿Cómo se estructura una buena argumentación?",
       "respuesta": "Una buena argumentación se estructura de la siguiente manera: comienza con una afirmación o tesis que resume el argumento principal, luego presentas evidencia o pruebas que la respalden, explicas los motivos o razones que respaldan la evidencia y finalmente concluyes con una reflexión o conclusión que resume la argumentación. Por ejemplo, \"El consumo excesivo de azúcar es perjudicial para la salud debido a que aumenta el riesgo de diabetes y obesidad, como se demostró en una investigación reciente que encontró una correlación directa entre el consumo de azúcar y la prevalencia de enfermedades crónicas\".",
       "fecha": "2025-12-28T19:09:05.204Z"
+    },
+    {
+      "pregunta": "¿Qué son los conectores y cómo se usan?",
+      "respuesta": "Los conectores son palabras o expresiones que se utilizan para unir oraciones o frases entre sí, creando una estructura lógica y coherente en el texto. Los conectores se clasifican en tres categorías: consecutivos (por tanto, por lo tanto, como resultado), adversativos (sin embargo, pero, aunque), y aditivos (también, además, además).\n\nPor ejemplo: \"Me encanta la playa, pero prefiero ir al monte\" utiliza el conector \"pero\" para indicar una oposición entre las dos ideas.",
+      "fecha": "2025-12-28T19:09:13.192Z"
     }
   ],
-  "ultimaActualizacion": 1766948945206,
+  "ultimaActualizacion": 1766948953193,
   "preguntasHechas": null
 }
