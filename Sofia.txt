@@ -1,5 +1,5 @@
 {
-  "iq": 316,
+  "iq": 323,
   "vocabulario": [
     "claro",
     "sofia",
@@ -877,7 +877,16 @@
     "adaptarse",
     "errores",
     "credibilidad",
-    "alternativos"
+    "alternativos",
+    "imperativo",
+    "propias",
+    "usos",
+    "suceden",
+    "sandwich",
+    "examen",
+    "terminado",
+    "comi",
+    "ayer"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1136,8 +1145,13 @@
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es la capacidad de analizar información, evaluar argumentos y tomar decisiones informadas considerando múltiples perspectivas y evidencia. Implica cuestionar suposiciones, identificar fallas lógicas y considerar contextos culturales y sociales. El pensamiento crítico también implica ser consciente de sesgos y prejuicios propios, así como ser capaz de adaptarse y aprender de errores. Por ejemplo, al leer un artículo periodístico, el pensamiento crítico te permite evaluar la credibilidad de la fuente, identificar sesgos y considerar argumentos alternativos.",
       "fecha": "2025-12-28T19:07:13.177Z"
+    },
+    {
+      "pregunta": "¿Cómo funcionan los tiempos verbales?",
+      "respuesta": "Los tiempos verbales son una parte fundamental de la gramática para expresar diferentes momentos en el tiempo en que se realiza una acción. Hay varios tiempos verbales, como el presente, el pasado simple, el pasado perfecto, el futuro simple, el futuro perfecto, el condicional y el imperativo, cada uno con sus propias reglas y usos.\n\nPor ejemplo, el tiempo presente se utiliza para describir acciones que suceden en el momento actual, como \"Ella come un sandwich\" o \"Él estudió para su examen\". En cambio, el tiempo pasado simple se utiliza para describir acciones que ya han terminado, como \"Ella comió un sandwich ayer\" o \"Él estudió para su examen el año pasado\".",
+      "fecha": "2025-12-28T19:07:21.163Z"
     }
   ],
-  "ultimaActualizacion": 1766948833179,
+  "ultimaActualizacion": 1766948841165,
   "preguntasHechas": null
 }
