@@ -1,5 +1,5 @@
 {
-  "iq": 1687,
+  "iq": 1691,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2410,16 +2410,14 @@
     "psicología",
     "populares",
     "experiment",
-    "senti"
+    "senti",
+    "indeterminado",
+    "aplica",
+    "vieja"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo funcionan los tiempos verbales?",
-      "respuesta": "Los tiempos verbales en español se refieren a la forma en que se indican las acciones o estados en relación con el tiempo. Hay varios tiempos verbales, como el presente, pasado, futuro, pasado perfecto, futuro perfecto, etc. Por ejemplo, \"yo como\" (presente), \"yo comí\" (pretérito), \"yo comeré\" (futuro simple). Cada tiempo verbal tiene su propio uso y contexto.",
-      "fecha": "2025-12-28T19:24:08.335Z"
-    },
     {
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales son una parte fundamental de la gramática de una lengua y se refieren a la forma en que se expresa el tiempo en que se realiza una acción. Hay varios tiempos verbales, como el presente, pasado simple, pasado perfecto, futuro simple, entre otros. Por ejemplo, el verbo \"hablar\" en presente se expresa como \"hablo\", en pasado simple como \"hablé\", y en futuro simple como \"hablaré\".\n\nEs importante destacar que los tiempos verbales se utilizan para expresar diferentes relaciones entre la acción descrita y el momento en que se habla. Por ejemplo, el tiempo pasado simple se utiliza para describir una acción que ya se ha completado, mientras que el tiempo futuro simple se utiliza para describir una acción que aún no ha sucedido pero se espera que suceda en el futuro.",
@@ -3414,8 +3412,13 @@
       "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
       "respuesta": "El vocabulario técnico se refiere a palabras y expresiones específicas utilizadas en un campo o industria determinado, como por ejemplo el término \"terapia de realidad virtual\" en la psicología. Por otro lado, el vocabulario coloquial se refiere a palabras y expresiones comunes y populares que se utilizan en la vida diaria. \n\nEjemplo: en un contexto técnico, se puede decir \"el paciente experimentó una mejora significativa en su salud después de la terapia\", mientras que en un contexto coloquial, se puede decir \"el paciente se sentió mejor después de la terapia\".\n\nEn resumen, el vocabulario técnico es específico y formal, mientras que el vocabulario coloquial es común y informal.",
       "fecha": "2025-12-28T21:02:35.868Z"
+    },
+    {
+      "pregunta": "¿Cuáles son las reglas de la gramática española?",
+      "respuesta": "La gramática española se rige por una serie de reglas y principios que regulan la forma correcta de construir oraciones y expresar ideas en la lengua. Algunas de las reglas básicas incluyen la concordancia de género y número, la utilización del artículo determinado e indeterminado, la flexión de los verbos en personas y tiempos, y la construcción de oraciones simples y compuestas. Por ejemplo, la concordancia de género se aplica cuando se utiliza el adjetivo para describir un sustantivo, como \"el libro grande\" o \"la casa vieja\".",
+      "fecha": "2025-12-28T21:02:43.872Z"
     }
   ],
-  "ultimaActualizacion": 1766955755870,
-  "preguntasHechas": 250
+  "ultimaActualizacion": 1766955763875,
+  "preguntasHechas": 251
 }
