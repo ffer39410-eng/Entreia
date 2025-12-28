@@ -1,5 +1,5 @@
 {
-  "iq": 2727,
+  "iq": 2731,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3009,11 +3009,6 @@
   "conversaciones": 6,
   "conocimiento": [
     {
-      "pregunta": "¿Cuáles son las reglas de la gramática española?",
-      "respuesta": "La gramática española se rige por una serie de reglas y principios que regulan la forma correcta de construir oraciones y expresar ideas en la lengua. Algunas de las reglas básicas incluyen la concordancia de género y número, la utilización del artículo determinado e indeterminado, la flexión de los verbos en personas y tiempos, y la construcción de oraciones simples y compuestas. Por ejemplo, la concordancia de género se aplica cuando se utiliza el adjetivo para describir un sustantivo, como \"el libro grande\" o \"la casa vieja\".",
-      "fecha": "2025-12-28T21:02:43.872Z"
-    },
-    {
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras que se utilizan para indicar la relación entre un objeto o persona y otro objeto, persona, lugar, tiempo u otro elemento en una oración. Sirven para expresar la ubicación, la dirección, la cantidad, la duración, la causa o el resultado de una acción, entre otras. Por ejemplo: \"El libro está en la mesa\" (indica ubicación), \"Voy a la playa\" (indica dirección), \"Tengo tres amigos\" (indica cantidad).",
       "fecha": "2025-12-28T21:02:51.637Z"
@@ -4007,8 +4002,13 @@
       "pregunta": "¿Cómo se usa la puntuación correctamente?",
       "respuesta": "La puntuación es fundamental para comunicar ideas de manera clara y efectiva en la escritura y la comunicación. Utiliza signos de puntuación como los puntos (.), comas (,), signos de interrogación (?) y signos de exclamación (!) para separar ideas y enfatizar el énfasis en tus textos. Por ejemplo, \"La puntuación es importante\" (punto final) vs. \"¿Dónde está la biblioteca?\" (signo de interrogación).",
       "fecha": "2025-12-28T21:44:19.796Z"
+    },
+    {
+      "pregunta": "¿Cómo funcionan los tiempos verbales?",
+      "respuesta": "Los tiempos verbales son una parte fundamental de la gramática en español, y funcionan de manera similar a los modos verbales. Hay varios tiempos verbales, como el presente, pasado, futuro, condicional, subjuntivo, y imperfecto, que indican momento en el que ocurre una acción. Por ejemplo, \"yo como\" (presente), \"yo comí\" (pretérito, pasado) y \"yo comeré\" (futuro) son verbos con diferentes tiempos, que ayudan a indicar el momento en el que se desarrolla la acción. Al usar los tiempos verbales correctamente, podemos expresar la duración, frecuencia y momento de una acción.",
+      "fecha": "2025-12-28T21:44:27.781Z"
     }
   ],
-  "ultimaActualizacion": 1766958259797,
-  "preguntasHechas": 450
+  "ultimaActualizacion": 1766958267782,
+  "preguntasHechas": 451
 }
