@@ -1,5 +1,5 @@
 {
-  "iq": 168,
+  "iq": 171,
   "vocabulario": [
     "claro",
     "sofia",
@@ -418,7 +418,25 @@
     "evoke",
     "sensación",
     "brillo",
-    "admiración"
+    "admiración",
+    "objetivo",
+    "representación",
+    "mundo",
+    "escenario",
+    "persona",
+    "destacando",
+    "importancia",
+    "belleza",
+    "comparación",
+    "literal",
+    "permite",
+    "encuentra",
+    "utilizadas",
+    "vívidas",
+    "enfatizar",
+    "hacer",
+    "expresivo",
+    "evocador"
   ],
   "lecciones": 14,
   "conversaciones": 1,
@@ -517,8 +535,13 @@
       "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
       "respuesta": "Las metáforas son una herramienta poderosa del lenguaje que permiten crear conexiones significativas entre conceptos y emociones. Se utilizan para describir una cosa en términos de otra, creando una imagen mental rica y evocadora. Por ejemplo, \"Ella es una estrella\" no solo describe su talento, sino que evoke una sensación de brillo y admiración.",
       "fecha": "2025-12-28T19:01:40.233Z"
+    },
+    {
+      "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
+      "respuesta": "Las metáforas son una figura retórica que consiste en comparar dos conceptos o ideas diferentes, pero con un objetivo de crear una nueva y más rica representación del mundo. Por ejemplo, \"Ella es una estrella en el escenario\" es una metáfora que compara a una persona con una estrella, destacando su importancia y belleza. Esta comparación no es literal, pero nos permite entender mejor la relación entre la persona y el escenario en el que se encuentra. Las metáforas pueden ser utilizadas para crear imágenes vívidas, enfatizar conceptos y emociones, y hacer que el lenguaje sea más expresivo y evocador.",
+      "fecha": "2025-12-28T19:01:48.266Z"
     }
   ],
-  "ultimaActualizacion": 1766948500234,
+  "ultimaActualizacion": 1766948508267,
   "preguntasHechas": null
 }
