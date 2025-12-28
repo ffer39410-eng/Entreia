@@ -1,5 +1,5 @@
 {
-  "iq": 2023,
+  "iq": 2030,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2639,16 +2639,13 @@
     "oscuro",
     "antón",
     "adecuadas",
-    "comprometer"
+    "comprometer",
+    "dotarle",
+    "cita"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
-      "respuesta": "Las metáforas son una herramienta literaria y comunicativa que consiste en comparar dos conceptos o ideas que no están relacionados de manera directa, para crear una nueva percepción o entender mejor una idea compleja. Por ejemplo, la metáfora \"Vida es un viaje\" nos ayuda a visualizar la existencia como una aventura con sus altibajos y desafíos. Algunas otras metáforas comunes son \"el tiempo es un río\" (que fluye sin cesar) o \"el miedo es un peso\" (que puede oprimir). Estas metáforas enriquecen nuestra forma de expresarnos y de entender el mundo que nos rodea.",
-      "fecha": "2025-12-28T20:13:56.718Z"
-    },
     {
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es la habilidad de analizar y evaluar información, ideas y argumentos de manera objetiva y lógica, para llegar a conclusiones bien fundadas. Implica cuestionar suposiciones, identificar falacias y considerar múltiples perspectivas. Por ejemplo, al leer un artículo periodístico, un pensamiento crítico permitiría analizar los datos presentados, evaluar la credibilidad de las fuentes y considerar posibles sesgos o sesgos ideológicos. De esta manera, se puede llegar a una comprensión más profunda y completa de la información.",
@@ -3643,8 +3640,13 @@
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras que se utilizan para indicar la relación entre un objeto o una acción y otros elementos en una oración. Por ejemplo, en la oración \"El libro está sobre la mesa\", la preposición \"sobre\" muestra la relación entre el libro y la mesa. \n\nLas preposiciones también pueden indicar la dirección, el lugar o el tiempo de una acción. Por ejemplo, en la oración \"Voy al parque\", la preposición \"al\" indica la dirección hacia el parque. \n\nAlgunas preposiciones comunes en español son: a, ante, con, de, desde, en, entre, para, por y bajo.",
       "fecha": "2025-12-28T21:14:20.121Z"
+    },
+    {
+      "pregunta": "¿Cómo se usa la puntuación correctamente?",
+      "respuesta": "La puntuación es fundamental para dotarle de claridad y coherencia a nuestro lenguaje escrito. Para usarla correctamente, debemos saber distinguir entre las diferentes signos de puntuación, como la coma (,), el punto (.), la interrogación (?), la exclamación (!), los signos de cita (\" \" o ‘‘ ‘ ‘), los dos puntos (:), el punto y coma (;), etc. Por ejemplo, para separar oraciones simples, se utilizan comas y puntos, mientras que para separar oraciones complejas, se usan dos puntos.",
+      "fecha": "2025-12-28T21:14:28.328Z"
     }
   ],
-  "ultimaActualizacion": 1766956460122,
-  "preguntasHechas": 317
+  "ultimaActualizacion": 1766956468333,
+  "preguntasHechas": 318
 }
