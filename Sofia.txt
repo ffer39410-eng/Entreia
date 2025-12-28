@@ -1,5 +1,5 @@
 {
-  "iq": 717,
+  "iq": 724,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1545,7 +1545,14 @@
     "escuchas",
     "identificas",
     "específicamente",
-    "comportamiento"
+    "comportamiento",
+    "pagas",
+    "trabajar",
+    "horas",
+    "salario",
+    "trabajadas",
+    "resolver",
+    "conflictos"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2204,8 +2211,13 @@
       "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
       "respuesta": "Expresar emociones de forma efectiva es crucial para comunicarnos de manera clara y evitar malentendidos. Una forma efectiva de expresar emociones es hacerlo de manera específica y no general. Por ejemplo, en lugar de decir \"Estás siendo muy molesto\", di \"Me siento frustrado cuando no me escuchas en este momento\". Así, identificas específicamente la emoción y el comportamiento que te causa esa emoción.",
       "fecha": "2025-12-28T19:20:38.964Z"
+    },
+    {
+      "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
+      "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de analizar información, identificar patrones y llegar a conclusiones lógicas y coherentes. Implica utilizar principios y reglas para evaluar argumentos, identificar errores y tomar decisiones informadas.\n\nPor ejemplo, en una conversación, si alguien afirma que \"Si me pagas más, trabajaré más horas\", el razonamiento lógico implicaría evaluar la información y llegar a la conclusión de que la persona está sugiriendo que existe una relación directa entre el salario y la cantidad de horas trabajadas.\n\nEl razonamiento lógico es fundamental en las conversaciones para evitar confusiones, resolver conflictos y tomar decisiones informadas.",
+      "fecha": "2025-12-28T19:20:46.950Z"
     }
   ],
-  "ultimaActualizacion": 1766949638965,
-  "preguntasHechas": 57
+  "ultimaActualizacion": 1766949646952,
+  "preguntasHechas": 58
 }
