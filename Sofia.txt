@@ -1,5 +1,5 @@
 {
-  "iq": 2048,
+  "iq": 2053,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2649,16 +2649,16 @@
     "memorizar",
     "identifica",
     "alumno",
-    "mentira"
+    "mentira",
+    "llevaba",
+    "paraguas",
+    "qued",
+    "ropa",
+    "empapada"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
-      "respuesta": "Las preposiciones son palabras que indican la relación entre un sustantivo y otros elementos de la oración, como lugares, direcciones, tiempo, cantidad, etc. Por ejemplo: \"La biblioteca está en la calle principal\" (en indica la relación entre la calle y la ubicación de la biblioteca). \n\nEstas palabras nos ayudan a crear oraciones más precisas y claras, y permiten describir las relaciones entre los diferentes elementos de una escena o situación. Las preposiciones comunes incluyen de, en, con, bajo, sobre, desde, hasta, etc.",
-      "fecha": "2025-12-28T20:15:43.466Z"
-    },
     {
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "Excelente pregunta. Los sinónimos son palabras que tienen el mismo significado o nearly el mismo significado que otra palabra. Por ejemplo, \"sol\" y \"soliloquio\" son sinónimos en ciertos contextos, aunque \"soliloquio\" es más específico y se refiere a una conversación interior. Los antónimos, por otro lado, son palabras que tienen significados opuestos. Por ejemplo, \"grande\" y \"pequeño\" son antónimos, al igual que \"feliz\" y \"triste\".",
@@ -3653,8 +3653,13 @@
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "Excelente pregunta, alumno. Los sinónimos y antónimos son dos conceptos fundamentales en la gramática y la semántica.\n\nLos sinónimos son palabras o expresiones que tienen el mismo significado que otra palabra o expresión. Por ejemplo, \"feliz\" y \"alegre\" son sinónimos, ya que ambas describen un estado de ánimo positivo. Otro ejemplo sería \"mundo\" y \"planeta\", que se refieren al mismo concepto.\n\nLos antónimos, por otro lado, son palabras o expresiones que tienen significados opuestos. Por ejemplo, \"grande\" y \"pequeño\" son antónimos, ya que describen conceptos opuestos en términos de tamaño. Otro ejemplo sería \"verdad\" y \"mentira\", que se refieren a conceptos opuestos en términos de veracidad.\n\nRecuerda, alumno, que la",
       "fecha": "2025-12-28T21:14:51.910Z"
+    },
+    {
+      "pregunta": "¿Qué son los conectores y cómo se usan?",
+      "respuesta": "Los conectores son palabras o expresiones que unen oraciones, frases o ideas para crear un enlace lógico y coherente en un texto o una conversación. Los conectores se utilizan para indicar relaciones entre los diferentes elementos de una oración, como causalidad, consecuencia, contraste, adición, etc.\n\nPor ejemplo, el conector \"porque\" se utiliza para indicar causalidad: \"Me levanté temprano porque tenía que ir al trabajo\". El conector \"entonces\" se utiliza para indicar consecuencia: \"Me mojé porque no llevaba paraguas, entonces me quedé con la ropa empapada\".",
+      "fecha": "2025-12-28T21:14:59.900Z"
     }
   ],
-  "ultimaActualizacion": 1766956491913,
-  "preguntasHechas": 321
+  "ultimaActualizacion": 1766956499902,
+  "preguntasHechas": 322
 }
