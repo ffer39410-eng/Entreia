@@ -1,5 +1,5 @@
 {
-  "iq": 2189,
+  "iq": 2194,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2727,16 +2727,15 @@
     "pelota",
     "verdadero",
     "falso",
-    "confirmar"
+    "confirmar",
+    "combina",
+    "separan",
+    "desayuno",
+    "necesit"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué son los sinónimos y antónimos?",
-      "respuesta": "Los sinónimos son palabras o expresiones que tienen el mismo significado o equivalen a otras en un contexto determinado, como \"felicidad\" y \"alegría\". Por ejemplo, en la oración: \"Ella sentía felicidad al recibir la noticia\", podemos sustituir \"felicidad\" por \"alegría\" y el significado sigue siendo el mismo.\n\nPor otro lado, los antónimos son palabras que tienen significados opuestos, como \"grandes\" y \"pequeños\". Por ejemplo, en la oración: \"El jardín era grande, pero el parque era pequeño\", las palabras \"grande\" y \"pequeño\" son antónimos que reflejan opuestos conceptos.\n\nEs importante destacar que no todos los sinónimos son perfectamente intercambiables, ya que pueden tener matices sutiles de significado o connotaciones diferentes.",
-      "fecha": "2025-12-28T20:32:11.759Z"
-    },
     {
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual se refiere a la capacidad del texto de transmitir una idea clara y cohesiva, mediante el uso de estructuras lógicas y conexiones entre las oraciones. Un texto coherente es aquel que tiene un hilo conductor claro, que permite al lector seguir fácilmente el razonamiento y la argumentación. Por ejemplo, si estamos leyendo un texto que describe cómo llegar a un lugar, la coherencia textual se reflejaría en la secuencia lógica de las instrucciones, desde la llegada al aeropuerto hasta el destino final.",
@@ -3731,8 +3730,13 @@
       "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
       "respuesta": "Las metáforas son comparaciones implícitas que ayudan a crear imágenes mentales y hacer que el lenguaje sea más expresivo y evocador. Por ejemplo, \"Ella es una estrella\" implica que la persona es brillante, atractiva y destacada en su campo. En general, las metáforas se utilizan para transmitir ideas complejas de manera más sencilla y emotiva.",
       "fecha": "2025-12-28T21:18:27.592Z"
+    },
+    {
+      "pregunta": "¿Cómo se construyen oraciones complejas en español?",
+      "respuesta": "Una oración compleja en español se construye mediante la combinación de dos o más oraciones sencillas utilizando conectores o signos de puntuación. Por ejemplo:\n\n* Conectores: \"Yo he ido al supermercado porque necesitaba comprar leche.\" (Aquí se combina la oración sencilla \"Yo he ido al supermercado\" con la justificación \"porque necesitaba comprar leche\").\n* Signos de puntuación: \"Yo he ido al supermercado; necesitaba comprar leche.\" (Aquí se separan dos oraciones sencillas mediante un punto y coma).\n* Subordinadas: \"Yo he ido al supermercado porque necesitaba comprar leche para el desayuno.\" (Aquí se combina la oración sencilla \"Yo he ido al supermercado\" con la oración subordinada \"porque necesit",
+      "fecha": "2025-12-28T21:18:35.966Z"
     }
   ],
-  "ultimaActualizacion": 1766956707592,
-  "preguntasHechas": 348
+  "ultimaActualizacion": 1766956715969,
+  "preguntasHechas": 349
 }
