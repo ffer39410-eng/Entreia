@@ -1,5 +1,5 @@
 {
-  "iq": 1860,
+  "iq": 1867,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2512,16 +2512,14 @@
     "poemas",
     "equivalentes",
     "receptor",
-    "ayudando"
+    "ayudando",
+    "sabemos",
+    "describing",
+    "relojes"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo funcionan los tiempos verbales?",
-      "respuesta": "Los tiempos verbales son una parte fundamental de la gramática, y se refieren a los diferentes momentos en que se realizan las acciones descritas por el verbo. Hay varios tiempos verbales, como el presente, el pasado, el futuro, el condicional, el subjuntivo, etc. Por ejemplo, en la oración \"Yo como una manzana\", el verbo \"como\" se encuentra en el tiempo presente, lo que indica que la acción está sucediendo en el momento actual.\n\nEn cambio, en la oración \"Yo comí una manzana\", el verbo \"comí\" se encuentra en el tiempo pasado, lo que indica que la acción ya ha sucedido. Los tiempos verbales pueden cambiar significado radicalmente dependiendo de su uso, por lo que es importante elegir el tiempo que mejor se adapte al contexto en el que se está escribiendo o hablando.\n\nLa ele",
-      "fecha": "2025-12-28T19:59:15.813Z"
-    },
     {
       "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
       "respuesta": "El razonamiento lógico en conversaciones es el proceso de analizar información, evaluar argumentos y llegar a conclusiones lógicas y racionales. Implica utilizar principios lógicos como la causalidad, la relación entre causas y efectos, y la identificación de patrones. Por ejemplo, si alguien sostiene que \"cuanto más se come frutas, menos se tienen problemas de salud\", un razonamiento lógico podría ser \"si se come menos frutas, se tienen más problemas de salud, por lo que se puede inferir que las frutas tienen un impacto positivo en la salud\".",
@@ -3516,8 +3514,13 @@
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son palabras o frases que se utilizan para unir ideas, oraciones o textos entre sí, ayudando a crear una secuencia lógica y clara en la comunicación. Algunos conectores comunes son \"y\", \"pero\", \"sin embargo\", \"por lo tanto\", \"además\" y \"por ejemplo\". Por ejemplo: \"Me encanta leer libros y escribir historias\". En esta oración, la palabra \"y\" conecta dos ideas para crear una oración coherente.",
       "fecha": "2025-12-28T21:10:03.618Z"
+    },
+    {
+      "pregunta": "¿Cómo funciona la comprensión del contexto?",
+      "respuesta": "La comprensión del contexto es un proceso complejo que implica analizar la información disponible para identificar el sentido y el propósito de un texto, imagen o situación. Implica considerar factores como la situación, la intención del hablante o escritor, las palabras y expresiones utilizadas, y la relación entre las ideas. Por ejemplo, si se lee un texto que dice \"El reloj sonó a las 3 de la tarde\", sin contexto, podríamos pensar que es un hecho simple. Sin embargo, si sabemos que el autor está describing una situación histórica en la que no había relojes, podemos comprender que el texto está haciendo una metáfora o una analogía.",
+      "fecha": "2025-12-28T21:10:11.759Z"
     }
   ],
-  "ultimaActualizacion": 1766956203619,
-  "preguntasHechas": 285
+  "ultimaActualizacion": 1766956211760,
+  "preguntasHechas": 286
 }
