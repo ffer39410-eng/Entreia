@@ -1,5 +1,5 @@
 {
-  "iq": 780,
+  "iq": 785,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1600,7 +1600,13 @@
     "clase",
     "temprano",
     "sujetos",
-    "aste"
+    "aste",
+    "permitiendo",
+    "semánticas",
+    "ende",
+    "películas",
+    "contrastación",
+    "creatividad"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2329,8 +2335,13 @@
       "pregunta": "¿Cuáles son las reglas de la gramática española?",
       "respuesta": "La gramática española se basa en varias reglas que rigen la estructura y el uso de la lengua. Algunas de las reglas más importantes incluyen la declinación de los artículos (el, la, los, las), el uso de los verbos en tiempo pasado e imperfecto, y la construcción de oraciones con sujetos y verbos. Por ejemplo, en español, se utiliza el artículo \"el\" para referirse a un objeto masculino singular y \"la\" para referirse a un objeto femenino singular. Además, los verbos en tiempo pasado se conjugan con la forma \"é\", \"aste\", \"ó\" en primer persona singular.",
       "fecha": "2025-12-28T19:26:48.423Z"
+    },
+    {
+      "pregunta": "¿Qué son los conectores y cómo se usan?",
+      "respuesta": "Los conectores son palabras gramaticales que conectan ideas o frases entre sí, permitiendo expresar relaciones lógicas y semánticas en un texto. Hay varios tipos de conectores, como de coordinación (y, pero, o), de subordinación (porque, si, aunque), de adición (también, además, entre otros) y de conclusión (por lo tanto, en consecuencia, por ende).\n\nPor ejemplo: \"Me gusta leer libros (conector de adición), pero también ver películas (conector de contrastación), porque me permite expresar mi creatividad (conector de subordinación)\".\n\nAl usar conectores, puedes construir oraciones más complejas y claras, y expresar tus ideas de manera más efectiva.",
+      "fecha": "2025-12-28T19:26:56.510Z"
     }
   ],
-  "ultimaActualizacion": 1766950008425,
-  "preguntasHechas": 71
+  "ultimaActualizacion": 1766950016512,
+  "preguntasHechas": 72
 }
