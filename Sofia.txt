@@ -1,5 +1,5 @@
 {
-  "iq": 1216,
+  "iq": 1219,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2025,16 +2025,13 @@
     "incorrecta",
     "eficacia",
     "comunicaciones",
-    "escrit"
+    "escrit",
+    "disfruto",
+    "historias"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo funcionan los tiempos verbales?",
-      "respuesta": "Los tiempos verbales son una parte fundamental de la gramática en cualquier idioma, y su función es indicar el momento en que se produce una acción o el estado en que se encuentra algo. Existen varios tiempos verbales, como el presente, el pasado, el futuro, etc., y cada uno de ellos tiene un significado específico. Por ejemplo, el verbo \"hablar\" en el presente se utiliza para describir una acción que se está realizando en el momento actual, como \"Estoy hablando con mi amigo\".",
-      "fecha": "2025-12-28T19:03:40.285Z"
-    },
     {
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales son un aspecto fundamental de la gramática en cualquier idioma, y su función es indicar el momento en que se desarrolla una acción o un estado. Hay diferentes tiempos verbales, como el pasado simple, el presente simple, el futuro simple, el pasado perfecto y el futuro perfecto, entre otros. Por ejemplo, la oración \"Ella come una manzana\" utiliza el presente simple para indicar que la acción de comer una manzana está sucediendo en el momento actual.",
@@ -3029,8 +3026,13 @@
       "pregunta": "¿Cómo se usa la puntuación correctamente?",
       "respuesta": "La puntuación es fundamental para expresar claramente el significado de un texto. Utiliza los signos de puntuación para separar ideas, indicar pausas y enfatizar ciertas palabras o frases. Por ejemplo, utiliza la coma (,) para separar elementos en una lista o la puntuación en frases independientes, como en \"Voy a la tienda, comprare un libro y regresaré a casa\".\n\nUna buena puntuación también ayuda a evitar la ambigüedad y a mejorar la claridad de un texto. Algunos ejemplos de puntuación incorrecta incluyen la falta de puntos finales en las oraciones completas o el uso excesivo de comas.\n\nRecuerda que la puntuación es un aspecto importante del lenguaje escrito y que su uso correcto puede hacer una gran diferencia en la claridad y la eficacia de tus comunicaciones escrit",
       "fecha": "2025-12-28T20:33:31.962Z"
+    },
+    {
+      "pregunta": "¿Qué son los conectores y cómo se usan?",
+      "respuesta": "Los conectores son palabras que se utilizan para unir oraciones, frases o ideas dentro de un texto. Hay varios tipos de conectores, como \"y\" para indicar adición, \"pero\" para señalar oposición, \"o\" para dar alternativas, y \"porque\" para explicar una razón. Por ejemplo: \"Me encanta leer y escribir, porque disfruto mucho creando historias\".",
+      "fecha": "2025-12-28T20:33:39.813Z"
     }
   ],
-  "ultimaActualizacion": 1766954011964,
-  "preguntasHechas": 159
+  "ultimaActualizacion": 1766954019814,
+  "preguntasHechas": 160
 }
