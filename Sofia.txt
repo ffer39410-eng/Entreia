@@ -1,5 +1,5 @@
 {
-  "iq": 2987,
+  "iq": 2990,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3127,16 +3127,12 @@
     "verbalización",
     "estúpido",
     "empatéticamente",
-    "desconcertado"
+    "desconcertado",
+    "salida"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo funciona la comprensión del contexto?",
-      "respuesta": "La comprensión del contexto es un proceso psicológico que permite a las personas percibir, procesar y utilizar la información que se encuentra en el entorno a fin de comprender el significado de un mensaje. Esto se logra gracias a la interacción entre la información ambiental, la memoria y la experiencia personal. Por ejemplo, si alguien te dice \"¿Quieres un vaso de agua?\", es probable que respondas \"Sí, por favor\" si estás sediento y hay un vaso de agua cerca. La comprensión del contexto te permitió percibir el entorno y utilizar la información para responder adecuadamente.",
-      "fecha": "2025-12-28T21:12:11.770Z"
-    },
     {
       "pregunta": "¿Cómo se usa la puntuación correctamente?",
       "respuesta": "La puntuación es fundamental en la escritura para comunicar ideas de manera clara y eficaz. Utilizar puntos y comas correctamente podemos indicar pausas, separar oraciones y enfatizar palabras clave, como en el ejemplo: \"Vine a la fiesta, pero me marché temprano.\" En este caso, el punto al final de \"fiesta\" indica que es la oración principal, mientras que la coma después de \"vine\" separa las dos ideas.",
@@ -4131,8 +4127,13 @@
       "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
       "respuesta": "La expresión emocional efectiva implica reconocer y comunicar tus sentimientos de manera saludable y respetuosa. Esto puede lograrse mediante la verbalización de tus emociones, como decir \"me siento enojado\" en lugar de \"eres un estúpido\". Además, es importante escuchar empatéticamente a los demás y reconocer sus sentimientos para crear un ambiente de comunicación abierta y receptiva. Por ejemplo, puedes decir \"entiendo que te sientas desconcertado\" para mostrar comprensión y apoyo.",
       "fecha": "2025-12-28T21:51:00.162Z"
+    },
+    {
+      "pregunta": "¿Qué es la coherencia textual?",
+      "respuesta": "La coherencia textual se refiere a la capacidad de un texto para mantener una conexión lógica y clara entre las ideas y los pasajes que lo componen. Esto significa que cada idea o oración debe estar relacionada con la anterior y la siguiente, de manera que el lector pueda seguir el hilo de pensamiento sin dificultades. Por ejemplo, un texto sobre un viaje en el que se describe la salida, el trayecto y la llegada, muestra coherencia al mantener un orden lógico y claro.",
+      "fecha": "2025-12-28T21:51:07.742Z"
     }
   ],
-  "ultimaActualizacion": 1766958660163,
-  "preguntasHechas": 500
+  "ultimaActualizacion": 1766958667744,
+  "preguntasHechas": 501
 }
