@@ -1,5 +1,5 @@
 {
-  "iq": 369,
+  "iq": 374,
   "vocabulario": [
     "claro",
     "sofia",
@@ -994,7 +994,16 @@
     "comprendida",
     "cálido",
     "apacible",
-    "acogedor"
+    "acogedor",
+    "similaridad",
+    "semántica",
+    "otras",
+    "usar",
+    "cambiar",
+    "felicidad",
+    "alegría",
+    "opuesto",
+    "frío"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1298,8 +1307,13 @@
       "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
       "respuesta": "La expresión de emociones es una habilidad fundamental para comunicarnos de manera efectiva. Puedes expresar tus emociones de forma efectiva utilizando gestos corporales, como sonrisas, abrazos o toques en el brazo, que pueden transmisr cariño y empatía. También puedes utilizar palabras para describir tus sentimientos, como \"Me alegra verte\" o \"Me duele verlo\", para hacer que la otra persona se sienta comprendida. Finalmente, puedes utilizar la voz, como un tono de voz cálido y apacible, para crear un ambiente seguro y acogedor.",
       "fecha": "2025-12-28T19:08:25.264Z"
+    },
+    {
+      "pregunta": "¿Qué son los sinónimos y antónimos?",
+      "respuesta": "Excelente pregunta, estudiante. Los sinónimos son palabras o expresiones que tienen el mismo significado o una similaridad semántica con otras palabras, es decir, se pueden usar en lugar de ella sin cambiar el significado de la oración. Por ejemplo, \"felicidad\" y \"alegría\" son sinónimos. \n\nPor otro lado, los antónimos son palabras o expresiones que tienen un significado opuesto al de otra palabra. Por ejemplo, \"cálido\" y \"frío\" son antónimos.",
+      "fecha": "2025-12-28T19:08:33.152Z"
     }
   ],
-  "ultimaActualizacion": 1766948905266,
+  "ultimaActualizacion": 1766948913154,
   "preguntasHechas": null
 }
