@@ -1,5 +1,5 @@
 {
-  "iq": 1616,
+  "iq": 1622,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2360,16 +2360,16 @@
     "indirecta",
     "tristeza",
     "querido",
-    "defensa"
+    "defensa",
+    "helada",
+    "pleno",
+    "temperamento",
+    "dueño",
+    "aire"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
-      "respuesta": "Las metáforas son una figura retórica que consiste en comparar dos conceptos o ideas sin utilizar términos como \"como\" o \"similar a\". En el lenguaje, se utilizan para crear connotaciones emocionales, hacer que las ideas sean más comprensibles y atractivas. Por ejemplo, \"Ella es una estrella en la escena social\" o \"El tiempo es un río que fluye sin detenerse\".",
-      "fecha": "2025-12-28T19:22:24.309Z"
-    },
     {
       "pregunta": "¿Cómo funciona la comprensión del contexto?",
       "respuesta": "La comprensión del contexto es el proceso de analizar la situación o situación en la que se está comunicando, para así poder interpretar el significado de las palabras o frases utilizadas en función de su lugar y momento. Esto implica considerar factores como el tema, el tono, el público objetivo y la intención del hablante o escritor. Por ejemplo, la frase \"Eso es una buena idea\" puede significar una cosa en un contexto de trabajo, pero algo completamente diferente en un contexto social informal.",
@@ -3364,8 +3364,13 @@
       "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
       "respuesta": "Para expresar emociones de forma efectiva, es importante ser auténtico y honesto sobre tus sentimientos. Puedes hacerlo de manera directa o indirecta, dependiendo del contexto y la audiencia. Por ejemplo, si sientes tristeza después de una pérdida, puedes decir \"Me siento triste\" o \"Me hace falta mucho a mi ser querido\". También puedes expresar tus emociones a través del lenguaje no verbal, como sonreír para mostrar alegría o cruzar los brazos para indicar defensa.",
       "fecha": "2025-12-28T21:00:51.726Z"
+    },
+    {
+      "pregunta": "¿Cómo funciona la comprensión del contexto?",
+      "respuesta": "La comprensión del contexto es un proceso mental que nos permite interpretar y dar sentido a las palabras y expresiones en función de su significado dentro de una situación o entorno específico. Implica considerar el lugar, el momento y las personas involucradas en la comunicación para entender el significado no literal de lo que se dice. Por ejemplo, cuando se dice \"esta casa está helada\", si estamos en pleno invierno, es probable que se refiera al temperamento frío del dueño y no a la temperatura del aire.",
+      "fecha": "2025-12-28T21:00:59.924Z"
     }
   ],
-  "ultimaActualizacion": 1766955651728,
-  "preguntasHechas": 237
+  "ultimaActualizacion": 1766955659926,
+  "preguntasHechas": 238
 }
