@@ -1,5 +1,5 @@
 {
-  "iq": 1454,
+  "iq": 1460,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2247,16 +2247,15 @@
     "energético",
     "siente",
     "parece",
-    "sentirme"
+    "sentirme",
+    "comunicarte",
+    "concisas",
+    "pérdida",
+    "tranquilizar"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cuáles son las reglas de la gramática española?",
-      "respuesta": "La gramática española es la base del lenguaje y se compone de varias reglas que rigen la estructura y el uso de las palabras. Algunas de las reglas más importantes incluyen:\n\n- El uso de los artículos (el, la, los, las) antes de los sustantivos.\n- La concordancia de género y número entre el sustantivo y la adjetivación.\n- El uso de los verbos en pasado (fue, vino) y en presente (soy, hago).\n\nEstas reglas ayudan a crear oraciones claras y comprensibles que expresan ideas y pensamientos de manera efectiva.",
-      "fecha": "2025-12-28T19:11:27.034Z"
-    },
     {
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "Los sinónimos son palabras o expresiones que tienen el mismo significado o intención que otra palabra o expresión. Por ejemplo, \"feliz\" y \"alegre\" son sinónimos, ya que describen la misma emoción positiva. \n\nPor otro lado, los antónimos son palabras o expresiones que tienen un significado opuesto a otra palabra o expresión. Por ejemplo, \"grande\" y \"pequeño\" son antónimos, ya que describen tamaños opuestos.",
@@ -3251,8 +3250,13 @@
       "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
       "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de analizar y evaluar información, llegar a conclusiones lógicas y mantener una argumentación coherente. Implica utilizar principios de lógica, como la causalidad, la correlación y la analogía, para llegar a una conclusión razonable. Por ejemplo, si alguien afirma que \"cuanto más se bebe café, más energético se siente\", un razonamiento lógico podría ser \"si bebo café, me siento más energético, por lo que parece que el café me ayuda a sentirme más energético\".",
       "fecha": "2025-12-28T20:45:07.626Z"
+    },
+    {
+      "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
+      "respuesta": "Expresar emociones de forma efectiva es fundamental para comunicarte de manera clara y respetuosa con los demás. Puedes expresar tus emociones de manera efectiva utilizando palabras claras y concisas, como \"Me alegra verte\", \"Me siento triste por la pérdida\", o \"Estoy enfadado con la situación, pero quiero encontrar una solución\". También puedes utilizar gestos y tonos de voz para reflejar tus emociones. Por ejemplo, un tono de voz calmado y una sonrisa pueden ayudar a tranquilizar a alguien que se siente ansioso.",
+      "fecha": "2025-12-28T20:45:15.785Z"
     }
   ],
-  "ultimaActualizacion": 1766954707627,
-  "preguntasHechas": 206
+  "ultimaActualizacion": 1766954715786,
+  "preguntasHechas": 207
 }
