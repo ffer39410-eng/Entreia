@@ -1,5 +1,5 @@
 {
-  "iq": 546,
+  "iq": 550,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1321,7 +1321,17 @@
     "sección",
     "nota",
     "cambios",
-    "bruscos"
+    "bruscos",
+    "técnica",
+    "desobstruir",
+    "arterias",
+    "dolor",
+    "suele",
+    "preciso",
+    "adaptable",
+    "paciente",
+    "infarto",
+    "ataque"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1815,8 +1825,13 @@
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual se refiere a la capacidad de un texto para mantener una conexión lógica y clara entre sus diferentes partes, asegurando que el lector pueda seguir el hilo argumental o la idea principal con facilidad. Esto implica que cada oración o sección esté relacionada con la anterior y la siguiente de manera fluida y lógica. Por ejemplo, una nota de coherencia textual es evitar cambios bruscos de tema o tono en el texto.",
       "fecha": "2025-12-28T19:16:14.358Z"
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
+      "respuesta": "El vocabulario técnico se refiere a términos especializados utilizados en una profesión o campo específico, como la medicina, la ingeniería o la ciencia. Por ejemplo, en la medicina, el término \"angioplastia\" se utiliza para describir una técnica quirúrgica para desobstruir las arterias. En cambio, el vocabulario coloquial es el lenguaje común y cotidiano que se utiliza en la vida diaria, como cuando se dice \"me duele la cabeza\" en lugar de \"tengo dolor de cabeza\".\n\nEl vocabulario técnico suele ser más preciso y formal, mientras que el coloquial es más informal y adaptable a diferentes situaciones. Por ejemplo, un médico puede decir \"el paciente tiene un infarto\" en lugar de \"el paciente está teniendo un ataque al corazón\", utilizando un término técnico más preciso.\n\n",
+      "fecha": "2025-12-28T19:16:22.416Z"
     }
   ],
-  "ultimaActualizacion": 1766949374359,
-  "preguntasHechas": 24
+  "ultimaActualizacion": 1766949382417,
+  "preguntasHechas": 25
 }
