@@ -1,5 +1,5 @@
 {
-  "iq": 2918,
+  "iq": 2923,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3095,16 +3095,14 @@
     "luminoso",
     "realizado",
     "realizar",
-    "utilizaciones"
+    "utilizaciones",
+    "uniendo",
+    "familiarizados",
+    "cronológicos"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
-      "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de pensar de manera sistemática y coherente al discutir y resolver problemas. Implica analizar información, identificar patrones y relaciones, y llegar a conclusiones lógicas. Por ejemplo, si estás discutiendo con alguien sobre la mejor forma de viajar a un lugar, un razonamiento lógico podría implicar analizar los costos, el tiempo de viaje y la comodidad de diferentes opciones, como un avión, un tren o un coche.\n\nEl razonamiento lógico también incluye la capacidad de evaluar argumentos, identificar falacias y lógicas defectuosas, y defender una posición de manera convincente. Esto requiere pensamiento crítico, claridad en la comunicación y la capacidad de responder a preguntas y objeciones.",
-      "fecha": "2025-12-28T21:10:27.711Z"
-    },
     {
       "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
       "respuesta": "Las metáforas son una forma de lenguaje que consisten en comparar dos conceptos o ideas que no son similares de manera directa, utilizando palabras o frases que describen una cosa como si fuera otra. Por ejemplo, \"ella es un sol en la fiesta\" o \"su voz es una música celestial\". Esta forma de lenguaje permite crear imágenes y asociaciones en la mente del oyente o lector, lo que puede hacer que la comunicación sea más interesante y efectiva. Al utilizar metáforas, podemos expresar complejidades y emociones de manera más creativa y convincente.",
@@ -4099,8 +4097,13 @@
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "En gramática, los tiempos verbales son una forma de expresar la relación entre el momento de la acción y el momento de la descripción de la acción. Pueden ser presentes, pasados o futuros, y se utilizan para comunicar diferentes tipos de información, como acciones que se están realizando, que se han realizado o que se van a realizar. Por ejemplo, \"Ella come una manzana\" (presente), \"Ella comió una manzana\" (pretérito) y \"Ella comerá una manzana\" (futuro).\n\nHay diferentes categorías de tiempos verbales, como el pretérito perfecto, el imperfecto, el futuro perfecto y el condicional, cada uno con sus propias reglas y utilizaciones específicas.",
       "fecha": "2025-12-28T21:49:15.752Z"
+    },
+    {
+      "pregunta": "¿Qué es la coherencia textual?",
+      "respuesta": "La coherencia textual se refiere a la capacidad de un texto para mantener una línea de pensamiento clara y lógica, uniendo ideas y frases de manera lógica y consecuente. Esto implica que el autor debe utilizar conectores, transiciones y vocabulario para guiar al lector a través de su argumento o narrativa de manera fluida y sin confusiones. Un texto coherente es aquel que es fácil de seguir y comprender, incluso para lectores que no están muy familiarizados con el tema. Por ejemplo, un ensayo de historia puede ser coherente si describe una secuencia de eventos cronológicos y relacionados entre sí.",
+      "fecha": "2025-12-28T21:49:23.799Z"
     }
   ],
-  "ultimaActualizacion": 1766958555753,
-  "preguntasHechas": 487
+  "ultimaActualizacion": 1766958563802,
+  "preguntasHechas": 488
 }
