@@ -1,5 +1,5 @@
 {
-  "iq": 680,
+  "iq": 685,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1500,7 +1500,9 @@
     "separadas",
     "tampoco",
     "siquiera",
-    "propio"
+    "propio",
+    "completado",
+    "suceda"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2129,8 +2131,13 @@
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales en español se refieren a la forma en que se indican las acciones o estados en relación con el tiempo. Hay varios tiempos verbales, como el presente, pasado, futuro, pasado perfecto, futuro perfecto, etc. Por ejemplo, \"yo como\" (presente), \"yo comí\" (pretérito), \"yo comeré\" (futuro simple). Cada tiempo verbal tiene su propio uso y contexto.",
       "fecha": "2025-12-28T19:24:08.335Z"
+    },
+    {
+      "pregunta": "¿Cómo funcionan los tiempos verbales?",
+      "respuesta": "Los tiempos verbales son una parte fundamental de la gramática de una lengua y se refieren a la forma en que se expresa el tiempo en que se realiza una acción. Hay varios tiempos verbales, como el presente, pasado simple, pasado perfecto, futuro simple, entre otros. Por ejemplo, el verbo \"hablar\" en presente se expresa como \"hablo\", en pasado simple como \"hablé\", y en futuro simple como \"hablaré\".\n\nEs importante destacar que los tiempos verbales se utilizan para expresar diferentes relaciones entre la acción descrita y el momento en que se habla. Por ejemplo, el tiempo pasado simple se utiliza para describir una acción que ya se ha completado, mientras que el tiempo futuro simple se utiliza para describir una acción que aún no ha sucedido pero se espera que suceda en el futuro.",
+      "fecha": "2025-12-28T19:24:16.354Z"
     }
   ],
-  "ultimaActualizacion": 1766949848335,
-  "preguntasHechas": 51
+  "ultimaActualizacion": 1766949856355,
+  "preguntasHechas": 52
 }
