@@ -1,5 +1,5 @@
 {
-  "iq": 1388,
+  "iq": 1394,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2202,16 +2202,17 @@
     "generales",
     "variaciones",
     "modalidad",
-    "muchas"
+    "muchas",
+    "técnicamente",
+    "difíciles",
+    "radio",
+    "incorrectas",
+    "cardiopatía",
+    "trastorno"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
-      "respuesta": "Para expresar emociones de forma efectiva, es importante ser auténtico y honesto al mismo tiempo. Puedes utilizar gestos corporales como sonreír o mantener contacto visual para mostrar que te importa la otra persona. Por ejemplo, si alguien te cuenta algo triste, puedes poner una mano en el hombro o darle un abrazo para demostrar apoyo y solidaridad. Además, utilizar palabras de ánimo y aliento también puede ayudar a expresar emociones positivas.",
-      "fecha": "2025-12-28T19:09:37.069Z"
-    },
     {
       "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
       "respuesta": "El vocabulario técnico se refiere a términos y expresiones especializados utilizados en un campo de conocimiento o profesión específica, como la medicina o la ingeniería. Por ejemplo, un médico utiliza términos como \"cirugía\" o \"biopsia\" para describir procedimientos. En cambio, el vocabulario coloquial se refiere a palabras y expresiones comunes que se utilizan en la conversación diaria, como \"estoy cansado\" o \"me encanta\".\n\nUn ejemplo ilustrativo es la palabra \"pantalla\". En el contexto tecnológico, se refiere a la pantalla de un dispositivo digital, mientras que en un contexto coloquial, la palabra \"pantalla\" se utiliza para describir una pantalla de televisión o un cine.",
@@ -3206,8 +3207,13 @@
       "pregunta": "¿Cuáles son las reglas de la gramática española?",
       "respuesta": "La gramática española tiene reglas importantes para la formación de palabras, oraciones y estructuras sintácticas. Algunas de las reglas más fundamentales incluyen: \n\n- El orden de las palabras en una oración suele ser sujeto-verbo-objeto (SVO).\n- Los artículos \"el\", \"la\", \"los\" y \"las\" se utilizan para referirse a seres y objetos específicos o generales.\n- Los verbos en español tienen tres tiempos: presente, pasado y futuro, con variaciones para indicar aspectos como la modalidad, el condicional, entre otros.\n\nEstas reglas y otras muchas son fundamentales para comunicarse de manera efectiva en español.",
       "fecha": "2025-12-28T20:43:35.050Z"
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
+      "respuesta": "El vocabulario técnico se refiere a las palabras y expresiones utilizadas en un campo específico de conocimiento o actividad, como la medicina, la tecnología o la ingeniería. Estas palabras suelen ser precisas y técnicamente correctas, pero pueden ser difíciles de entender para personas no relacionadas con ese campo.\n\nPor otro lado, el vocabulario coloquial se refiere a las palabras y expresiones comúnmente utilizadas en la conversación informal, en el lenguaje de la calle, como en la música, la televisión y la radio. Estas palabras suelen ser más fáciles de entender, pero pueden ser poco precisas o incorrectas en ciertos contextos.\n\nPor ejemplo, en medicina, \"cardiopatía\" es un término técnico que se refiere a un trastorno del corazón, mientras que en la conversación coloquial se puede referir a",
+      "fecha": "2025-12-28T20:43:39.602Z"
     }
   ],
-  "ultimaActualizacion": 1766954615051,
-  "preguntasHechas": 194
+  "ultimaActualizacion": 1766954619604,
+  "preguntasHechas": 195
 }
