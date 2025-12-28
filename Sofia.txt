@@ -1,5 +1,5 @@
 {
-  "iq": 2485,
+  "iq": 2488,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2893,16 +2893,13 @@
     "trayecto",
     "lleno",
     "estructurado",
-    "todas"
+    "todas",
+    "terminología",
+    "angiopatía"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo se construyen oraciones complejas en español?",
-      "respuesta": "Para construir oraciones complejas en español, debemos utilizar conectivos como \"y\", \"pero\", \"porque\", \"aunque\" y \"si\" para unir oraciones independientes. Por ejemplo: \"Estudié todo el día y pasé la noche haciendo mi tarea\". En esta oración, \"estudié todo el día\" y \"pasé la noche haciendo mi tarea\" son dos oraciones independientes unidas por el conectivo \"y\".\n\nOtra forma de crear oraciones complejas es utilizando subordinadas, es decir, oraciones que dependen de otra oración principal. Por ejemplo: \"Quise ir al parque porque el tiempo estaba soleado\". En esta oración, \"el tiempo estaba soleado\" es una subordinada que depende de \"Quise ir al parque\".\n\nAdemás, podemos crear oraciones complejas utilizando oraciones condicionales, como \"si... entonces\" o \"",
-      "fecha": "2025-12-28T20:44:59.757Z"
-    },
     {
       "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
       "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de analizar y evaluar información, llegar a conclusiones lógicas y mantener una argumentación coherente. Implica utilizar principios de lógica, como la causalidad, la correlación y la analogía, para llegar a una conclusión razonable. Por ejemplo, si alguien afirma que \"cuanto más se bebe café, más energético se siente\", un razonamiento lógico podría ser \"si bebo café, me siento más energético, por lo que parece que el café me ayuda a sentirme más energético\".",
@@ -3897,8 +3894,13 @@
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual se refiere a la propiedad de un texto de ser lógico y consistente en términos de estructura, contenido y organización. Esto implica que las ideas que se presentan en el texto están relacionadas entre sí de manera clara y concisa, lo que facilita la comprensión del lector. Por ejemplo, un ensayo bien estructurado sobre la importancia de la educación incluirá ideas relacionadas con la formación académica, la sociedad y el futuro, todas ellas conectadas de manera coherente. La coherencia textual es fundamental en la escritura clara y eficaz.",
       "fecha": "2025-12-28T21:25:55.679Z"
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
+      "respuesta": "El vocabulario técnico se refiere a la terminología específica utilizada en un campo o industria particular, como por ejemplo la medicina, la tecnología o la ingeniería. Por ejemplo, un médico utiliza términos como \"biopsia\" o \"angiopatía\" para describir procedimientos y condiciones médicas.\n\nPor otro lado, el vocabulario coloquial se refiere a las palabras y frases que se utilizan en la comunicación informal en la vida cotidiana. Por ejemplo, expresiones como \"¿cómo está?\", \"¿te va bien?\" o \"me encanta\" son comunes en la conversación diaria.\n\nEn resumen, el vocabulario técnico es específico y formal, mientras que el vocabulario coloquial es informal y común en la comunicación cotidiana.",
+      "fecha": "2025-12-28T21:26:03.690Z"
     }
   ],
-  "ultimaActualizacion": 1766957155680,
-  "preguntasHechas": 404
+  "ultimaActualizacion": 1766957163692,
+  "preguntasHechas": 405
 }
