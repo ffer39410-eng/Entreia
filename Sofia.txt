@@ -1,5 +1,5 @@
 {
-  "iq": 2498,
+  "iq": 2504,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2895,16 +2895,18 @@
     "estructurado",
     "todas",
     "terminología",
-    "angiopatía"
+    "angiopatía",
+    "sustentan",
+    "reforzar",
+    "reclamación",
+    "reforzando",
+    "brevemente",
+    "dejando",
+    "interlocutor"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué son los conectores y cómo se usan?",
-      "respuesta": "Los conectores son palabras o expresiones que se utilizan para unir ideas, oraciones o frases en una sentencia, proporcionando una estructura lógica y cohesión en la comunicación. Algunos ejemplos de conectores incluyen \"y\", \"pero\", \"o\", \"aunque\", \"sin embargo\", entre otros. Por ejemplo: \"Me gusta leer libros y escribir poesías\".\n\nSe pueden clasificar en:\n\n- Conectores aditivos: indican que se están presentando ideas adicionales. Ejemplos: \"y\", \"también\".\n- Conectores adversativos: indican que se están presentando ideas opuestas. Ejemplos: \"pero\", \"aunque\".\n- Conectores causales: indican la causa y el efecto. Ejemplos: \"porque\", \"ya que\".",
-      "fecha": "2025-12-28T20:45:23.935Z"
-    },
     {
       "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
       "respuesta": "Las metáforas son comparaciones implícitas que establecen una relación entre dos conceptos o ideas diferentes, creando una nueva percepción o comprensión de uno de ellos. Por ejemplo, \"Ella es una estrella en el escenario\" implica que la persona es brillante y destacada en su campo. Las metáforas se usan para hacer que el lenguaje sea más expresivo y creativo, y pueden ayudar a comunicar ideas complejas de manera más sencilla y atractiva. Algunas metáforas son tan comunes y profundamente arraigadas en nuestra cultura que hemos internalizado su significado sin siquiera darse cuenta.",
@@ -3899,8 +3901,13 @@
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son palabras o expresiones que se utilizan para unir ideas, oraciones o frases en un texto o discurso de manera lógica y clara. Algunos ejemplos comunes de conectores son \"y\", \"pero\", \"pues\", \"sin embargo\" y \"porque\". Por ejemplo, en la oración \"Me gusta leer y escribir\", el conector \"y\" une las dos acciones para mostrar una relación lógica entre ellas.",
       "fecha": "2025-12-28T21:27:39.769Z"
+    },
+    {
+      "pregunta": "¿Cómo se estructura una buena argumentación?",
+      "respuesta": "Una buena argumentación se estructura en cuatro etapas clave: \n\n1. Introducción: Presenta el tema y establece el contexto, mostrando la importancia de la discusión.\n2. Desarrollo: Presenta los puntos clave de apoyo que sustentan tu argumentación, utilizando ejemplos y pruebas para reforzar tus afirmaciones.\n3. Reclamación: Resume los puntos clave presentados y establece la conclusión, reforzando tu argumento con evidencia y razonamiento lógico.\n4. Conclusión: Resume brevemente los puntos clave y reafirma la importancia de tu argumentación, dejando un impacto en el lector o interlocutor.",
+      "fecha": "2025-12-28T21:27:47.659Z"
     }
   ],
-  "ultimaActualizacion": 1766957259770,
-  "preguntasHechas": 407
+  "ultimaActualizacion": 1766957267662,
+  "preguntasHechas": 408
 }
