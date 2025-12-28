@@ -1,5 +1,5 @@
 {
-  "iq": 2799,
+  "iq": 2806,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3038,16 +3038,16 @@
     "atractivo",
     "limitaciones",
     "confiable",
-    "ubicado"
+    "ubicado",
+    "obligatorio",
+    "escuelas",
+    "bienestar",
+    "adolescentes",
+    "reduce"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
-      "respuesta": "Las preposiciones son palabras que indican la relación entre un sustantivo o un pronombre y otro sustantivo, lugar o acción en una oración. Sirven para indicar lugares, direcciones, tiempos, causas, medios, etc. Por ejemplo, la preposición \"en\" se utiliza para indicar un lugar o posición, como en \"Estoy en la biblioteca\" o \"La biblioteca está en el centro de la ciudad\".",
-      "fecha": "2025-12-28T21:07:31.595Z"
-    },
     {
       "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
       "respuesta": "El vocabulario técnico se utiliza en contextos específicos como la medicina, la ingeniería o la ciencia, y se refiere a términos especializados que solo entienden los expertos en el campo. Por otro lado, el vocabulario coloquial se utiliza en situaciones informales y se refiere a términos comunes y cotidianos que se entienden en el lenguaje hablado.\n\nPor ejemplo, en la medicina, el término \"angioplastia\" es técnico y se refiere a un procedimiento para reparar las arterias, mientras que en la conversación informal se utiliza \"tomar un descanso\" para referirse a una pausa en la actividad.\n\nLa elección del vocabulario técnico o coloquial depende del contexto y del público al que se dirige la comunicación.",
@@ -4042,8 +4042,13 @@
       "pregunta": "¿Cómo se usa la puntuación correctamente?",
       "respuesta": "La puntuación es esencial en la escritura para expresar ideas y emociones de manera clara. Utiliza comas para separar elementos en una lista o para enfatizar una pausa en una oración. Utiliza puntos suspensivos para indicar una interrupción en la narrativa o una pregunta. Utiliza signos de admiración para enfatizar un pensamiento o una exclamación. Recuerda que cada signo tiene un propósito específico en la escritura.",
       "fecha": "2025-12-28T21:46:19.695Z"
+    },
+    {
+      "pregunta": "¿Cómo se estructura una buena argumentación?",
+      "respuesta": "Una buena argumentación se estructura de la siguiente manera: comienza con una introducción que presenta el tema y un enunciado de tesis claro, que es el centro del argumento. Luego, se presentan los puntos de apoyo y las pruebas que respaldan la tesis, utilizando evidencia y razones sólidas. Finalmente, se presentan las consecuencias y las implicaciones de la tesis, lo que refuerza la validez del argumento.\n\nPor ejemplo, si estamos discutiendo si el deporte debe ser obligatorio en las escuelas, la estructura de argumentación podría ser:\n\n- Introducción: \"El deporte es fundamental para la salud y el bienestar de los adolescentes. Debemos discutir si el deporte debería ser obligatorio en las escuelas\".\n- Puntos de apoyo: \"Los estudios demuestran que el deporte reduce el riesgo de",
+      "fecha": "2025-12-28T21:46:27.989Z"
     }
   ],
-  "ultimaActualizacion": 1766958379696,
-  "preguntasHechas": 465
+  "ultimaActualizacion": 1766958387994,
+  "preguntasHechas": 466
 }
