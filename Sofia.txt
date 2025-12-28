@@ -1,5 +1,5 @@
 {
-  "iq": 2731,
+  "iq": 2734,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3003,16 +3003,13 @@
     "indicadores",
     "sonido",
     "mueve",
-    "despacio"
+    "despacio",
+    "asumir",
+    "responsabilidad"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
-      "respuesta": "Las preposiciones son palabras que se utilizan para indicar la relación entre un objeto o persona y otro objeto, persona, lugar, tiempo u otro elemento en una oración. Sirven para expresar la ubicación, la dirección, la cantidad, la duración, la causa o el resultado de una acción, entre otras. Por ejemplo: \"El libro está en la mesa\" (indica ubicación), \"Voy a la playa\" (indica dirección), \"Tengo tres amigos\" (indica cantidad).",
-      "fecha": "2025-12-28T21:02:51.637Z"
-    },
     {
       "pregunta": "¿Cómo se estructura una buena argumentación?",
       "respuesta": "Una buena argumentación se estructura en torno a tres componentes fundamentales: la premisa, el razonamiento y la conclusión. La premisa es el punto de partida, la información o el hecho que se utiliza para apoyar la argumentación. El razonamiento es el proceso lógico que se utiliza para conectar las premisas y llegar a la conclusión. La conclusión es el resultado final, la conclusión que se extrae a partir de las premisas y el razonamiento.\n\nPor ejemplo, si queremos argumentar que el aumento del nivel del mar es un problema grave, la premisa podría ser el hecho de que la temperatura del planeta está aumentando, el razonamiento sería la consecuencia lógica de que el hielo se derrite y el nivel del mar se eleva, y la conclusión sería que el aumento del nivel del mar es un problema grave que requiere atención inmediata",
@@ -4007,8 +4004,13 @@
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales son una parte fundamental de la gramática en español, y funcionan de manera similar a los modos verbales. Hay varios tiempos verbales, como el presente, pasado, futuro, condicional, subjuntivo, y imperfecto, que indican momento en el que ocurre una acción. Por ejemplo, \"yo como\" (presente), \"yo comí\" (pretérito, pasado) y \"yo comeré\" (futuro) son verbos con diferentes tiempos, que ayudan a indicar el momento en el que se desarrolla la acción. Al usar los tiempos verbales correctamente, podemos expresar la duración, frecuencia y momento de una acción.",
       "fecha": "2025-12-28T21:44:27.781Z"
+    },
+    {
+      "pregunta": "¿Qué es el pensamiento crítico?",
+      "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar información de manera objetiva y sistemática, considerando múltiples perspectivas y fuentes de información. Esto implica cuestionar suposiciones y asumir responsabilidad de las propias creencias y opiniones. El pensamiento crítico se desarrolla a través de la práctica de la reflexión y la discusión, lo que ayuda a fortalecer la habilidad de razonamiento y la capacidad de llegar a conclusiones informadas.",
+      "fecha": "2025-12-28T21:44:35.653Z"
     }
   ],
-  "ultimaActualizacion": 1766958267782,
-  "preguntasHechas": 451
+  "ultimaActualizacion": 1766958275655,
+  "preguntasHechas": 452
 }
