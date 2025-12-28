@@ -1,5 +1,5 @@
 {
-  "iq": 2323,
+  "iq": 2330,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2808,16 +2808,14 @@
     "reprimas",
     "agresivo",
     "pasivo",
-    "experimentando"
+    "experimentando",
+    "regla",
+    "conjugue",
+    "conc"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué es el pensamiento crítico?",
-      "respuesta": "El pensamiento crítico es la habilidad de analizar información, evaluar evidencia y tomar decisiones informadas de manera objetiva y reflexiva. Implica cuestionar suposiciones y perspectivas, sopesar argumentos y considerar múltiples perspectivas para llegar a una conclusión bien fundamentada. Por ejemplo, al leer un artículo periodístico, un pensador crítico evaluaría la credibilidad de la fuente, la calidad de la evidencia presentada y la lógica del argumento antes de aceptar o rechazar la información presentada. Esto requiere una actitud abierta y receptiva a nuevas ideas y la capacidad de defender sus propias opiniones con argumentos sólidos.",
-      "fecha": "2025-12-28T20:35:31.793Z"
-    },
     {
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es la habilidad de analizar información, evaluar evidencia y tomar decisiones informadas de manera objetiva. Implica cuestionar suposiciones, reconocer sesgos y considerar múltiples perspectivas para llegar a conclusiones bien fundadas. Por ejemplo, al leer un artículo de noticias, un pensador crítico no solo leería la información, sino que también analizaría la fuente, buscando señales de sesgo o parcialidad, y evaluaría la evidencia presentada para verificar su validez. Este proceso de pensamiento ayuda a evitar la toma de decisiones precipitada y a adoptar una postura más informada y reflexiva.",
@@ -3812,8 +3810,13 @@
       "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
       "respuesta": "El vocabulario técnico se refiere a las palabras y expresiones utilizadas en un campo específico de estudio o profesión, como la medicina, la ingeniería o la economía. Por ejemplo, un médico utiliza términos técnicos como \"angiografía\" o \"quirúrgico\" en su práctica diaria.\n\nPor otro lado, el vocabulario coloquial se refiere a las palabras y expresiones utilizadas en la comunicación informal y cotidiana, como en la conversación con amigos o familiares. Por ejemplo, en lugar de decir \"estoy enfermo\", alguien podría decir \"me siento mal\".\n\nLa diferencia entre ambos es que el vocabulario técnico se utiliza en contextos formales y especializados, mientras que el vocabulario coloquial se utiliza en contextos informales y generales.",
       "fecha": "2025-12-28T21:21:47.769Z"
+    },
+    {
+      "pregunta": "¿Cuáles son las reglas de la gramática española?",
+      "respuesta": "La gramática española tiene varias reglas fundamentales que ayudan a estructurar la lengua y a comunicar ideas de manera efectiva. Una de las reglas básicas es la concordancia de género y número en el sustantivo y el adjetivo, es decir, que tanto el sustantivo como el adjetivo deben ser masculino o femenino y singular o plural. Por ejemplo, \"el libro\" (masculino singular) debe ir con el adjetivo \"bueno\" (masculino singular) en lugar de \"buena\".\n\nOtra regla importante es la concordancia de número en el verbo, que se refiere a la forma en que el verbo se conjugue según el número de sujeto. Por ejemplo, \"yo como\" (singular) se convierte en \"nosotros comemos\" (plural) cuando el sujeto es plural.\n\nLa regla de la conc",
+      "fecha": "2025-12-28T21:21:55.958Z"
     }
   ],
-  "ultimaActualizacion": 1766956907771,
-  "preguntasHechas": 373
+  "ultimaActualizacion": 1766956915961,
+  "preguntasHechas": 374
 }
