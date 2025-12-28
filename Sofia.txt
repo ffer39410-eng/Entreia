@@ -1,5 +1,5 @@
 {
-  "iq": 1414,
+  "iq": 1417,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2224,11 +2224,6 @@
   "conversaciones": 6,
   "conocimiento": [
     {
-      "pregunta": "¿Cómo funcionan los tiempos verbales?",
-      "respuesta": "Los tiempos verbales son una parte fundamental de la gramática en cualquier idioma, y se utilizan para expresar la relación entre el momento del habla y el momento en que se realiza una acción. Hay varios tiempos verbales, como el presente, el pasado, el futuro, el condicional, el subjuntivo, entre otros, cada uno con sus propias reglas y usos. Por ejemplo, el tiempo presente se utiliza para describir acciones que ocurren en el momento del habla, mientras que el tiempo pasado se utiliza para describir acciones que ocurrieron en el pasado.",
-      "fecha": "2025-12-28T19:10:09.099Z"
-    },
-    {
       "pregunta": "¿Cómo se construyen oraciones complejas en español?",
       "respuesta": "Las oraciones complejas se construyen en español mediante la combinación de una oración principal (o \"oración independiente\") con una o varias oraciones subordinadas. Una oración subordinada es aquella que depende de la oración principal para comunicar un significado completo.\n\nPor ejemplo: \"La casa que compramos en verano es muy bonita\" es una oración compleja, donde \"es muy bonita\" es la oración principal y \"la casa que compramos en verano\" es la oración subordinada. Esta oración subordinada está introducida por el conjunción \"que\" y depende de la oración principal para tener sentido.\n\nOtro ejemplo: \"Me alegra que tú estés aquí\" es otra oración compleja, donde \"estoy aquí\" es la oración subordinada introducida por la conjunción \"que\" y depende de la oración principal",
       "fecha": "2025-12-28T19:10:17.295Z"
@@ -3222,8 +3217,13 @@
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "Excelente pregunta, estudiante. Los sinónimos son palabras o expresiones que tienen el mismo significado o que se refieren a la misma realidad. Por ejemplo, \"feliz\" y \"alegre\" son sinónimos ya que ambos describen una emoción positiva. En cambio, los antónimos son palabras o expresiones que tienen significados opuestos. Por ejemplo, \"frio\" y \"calor\" son antónimos, ya que se refieren a temperaturas opuestas.",
       "fecha": "2025-12-28T20:44:03.701Z"
+    },
+    {
+      "pregunta": "¿Cómo funcionan los tiempos verbales?",
+      "respuesta": "Los tiempos verbales son una forma de expresar la duración o el momento en que ocurre una acción en la que se utiliza el verbo. Hay varios tiempos verbales, como el presente, pasado simple, pasado perfecto, futuro simple, etc. Por ejemplo, en la oración \"Yo estudio\" (presente), \"Yo estudié\" (pasado simple) y \"Yo estudiaré\" (futuro simple) se utilizan diferentes tiempos para expresar el momento en que ocurre la acción de estudiar.\n\nCada tiempo verbal tiene sus propias reglas de conjugación y uso, y es importante elegir el tiempo verbal adecuado para expresar la intención o el momento en que se produce la acción.",
+      "fecha": "2025-12-28T20:44:11.681Z"
     }
   ],
-  "ultimaActualizacion": 1766954643702,
-  "preguntasHechas": 198
+  "ultimaActualizacion": 1766954651682,
+  "preguntasHechas": 199
 }
