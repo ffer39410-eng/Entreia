@@ -1,5 +1,5 @@
 {
-  "iq": 2537,
+  "iq": 2540,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2927,16 +2927,12 @@
     "inconveniente",
     "planificar",
     "visita",
-    "agradable"
+    "agradable",
+    "seis"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo funciona la comprensión del contexto?",
-      "respuesta": "La comprensión del contexto es el proceso mental por el cual identificamos la información relevante dentro de un texto o situación y la relacionamos con nuestro conocimiento anterior y la situación en la que nos encontramos. Esto nos permite entender mejor el significado de las palabras y frases, y cómo se relacionan entre sí. Por ejemplo, cuando leemos el texto \"La casa de la luna llena\", nuestro conocimiento del contexto (la luna llena es un fenómeno astronómico que ocurre cada mes) nos permite entender que la casa se refiere a una casa que tiene una forma o nombre relacionado con la luna.",
-      "fecha": "2025-12-28T20:53:31.749Z"
-    },
     {
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es la capacidad de analizar, evaluar y sintetizar información de manera objetiva y reflexiva, con el objetivo de formar juicios informados y tomar decisiones bien fundadas. Implica cuestionar suposiciones, identificar sesgos y prejuicios, y considerar múltiples perspectivas para llegar a una conclusión sólida. Es esencial en la toma de decisiones personales, académicas y profesionales, ya que nos permite distinguir entre información veraz y falsa, y reconocer los riesgos y beneficios de diferentes opciones.",
@@ -3931,8 +3927,13 @@
       "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
       "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de pensar y expresarse de manera clara, coherente y razonada, utilizando argumentos y conclusiones basados en hechos y evidencia. Esto implica analizar información, identificar patrones y relaciones, y sacar conclusiones lógicas a partir de ellas. Por ejemplo, si alguien te dice que \"el clima en la playa es demasiado caluroso para estar allí en verano\", podrías razonar lógicamente que \"si el clima caluroso es un inconveniente, entonces es mejor planificar una visita a la playa en invierno cuando el clima es más agradable\".",
       "fecha": "2025-12-28T21:31:04.253Z"
+    },
+    {
+      "pregunta": "¿Cómo funcionan los tiempos verbales?",
+      "respuesta": "Los tiempos verbales son una parte fundamental del lenguaje y permiten expresar diferentes momentos en el tiempo en que se realizan las acciones. Hay seis tiempos verbales principales: presente, pretérito, futuro, subjuntivo, imperativo y condicional. Por ejemplo, el presente indica acciones que se están realizando en el momento actual, como \"estoy estudiando\".",
+      "fecha": "2025-12-28T21:31:07.456Z"
     }
   ],
-  "ultimaActualizacion": 1766957464257,
-  "preguntasHechas": 414
+  "ultimaActualizacion": 1766957467732,
+  "preguntasHechas": 415
 }
