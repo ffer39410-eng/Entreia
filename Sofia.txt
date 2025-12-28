@@ -1,5 +1,5 @@
 {
-  "iq": 415,
+  "iq": 420,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1121,7 +1121,20 @@
     "instante",
     "marcaba",
     "marcado",
-    "terminada"
+    "terminada",
+    "usted",
+    "pretérito",
+    "conjuga",
+    "hablas",
+    "habla",
+    "calificativos",
+    "posesivos",
+    "blanco",
+    "adjetivo",
+    "regula",
+    "bebo",
+    "agua",
+    "correcta"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1480,8 +1493,13 @@
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales son una herramienta fundamental en la gramática para expresar momentos específicos en el tiempo en que se desarrolla una acción. Hay varios tiempos verbales, como el presente, pasado simple, pasado perfecto, futuro simple, entre otros. Por ejemplo, el verbo \"hablar\" en presente se expresa como \"hablo\", en pasado simple como \"hablé\", pero en pasado perfecto se utiliza \"he hablado\".\n\nA continuación, menciono algunos ejemplos más:\n\n- Presente: \"El reloj marca las 12 pm\" (indicativo de acción en este instante)\n- Pasado simple: \"El reloj marcaba las 12 pm\" (indicativo de acción en el pasado)\n- Pasado perfecto: \"El reloj ha marcado las 12 pm\" (indicativo de acción terminada, con relación al presente)\n- Futuro simple:",
       "fecha": "2025-12-28T19:09:53.123Z"
+    },
+    {
+      "pregunta": "¿Cuáles son las reglas de la gramática española?",
+      "respuesta": "La gramática española tiene varias reglas importantes. En primer lugar, la conjugación de verbos se basa en tres personas (yo, tú, él/ella/usted) y varios tiempos (presente, pretérito, futuro). Por ejemplo, el verbo \"hablar\" se conjuga de la siguiente manera: yo hablo, tú hablas, él habla.\n\nAdemás, la gramática española tiene reglas para el uso de artículos (el, la, los, las) y adjetivos (calificativos y posesivos). Por ejemplo, \"la casa blanca\" es correcto, pero \"la casa blanco\" no, ya que el adjetivo debe concordar con el sustantivo.\n\nLa gramática española también regula la formación de oraciones y la coordinación de ideas. Por ejemplo, la oración \"Yo como una manzana y bebo agua\" es correcta",
+      "fecha": "2025-12-28T19:10:01.320Z"
     }
   ],
-  "ultimaActualizacion": 1766948993124,
+  "ultimaActualizacion": 1766949001322,
   "preguntasHechas": null
 }
