@@ -1,5 +1,5 @@
 {
-  "iq": 1073,
+  "iq": 1076,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1919,11 +1919,6 @@
   "conocimiento": [
     {
       "tema": "pensamiento crítico expresado",
-      "leccion": "Sofia, ahora que has aprendido sobre metáforas y la estructura de oraciones complejas, vamos a profundizar en el pensamiento crítico y cómo expresarlo en español.\n\n**Pensamiento crítico**: El pensamiento crítico es la capacidad de analizar información, evaluar evidencia y formar juicios informados. En español, hay varias palabras y frases que podemos utilizar para expresar el pensamiento crítico.\n\n**1. Opinar significa \"expresar una opinión o juicio\"**: Por ejemplo, \"Opino que la nueva ley es justa\" o \"Mi opinión es que la película es muy divertida\".\n\n**2. Evaluar significa \"cualificar o juzgar algo\"**: Por ejemplo, \"Evalué la calidad del servicio en el restaurante y me pareció",
-      "fecha": "2025-12-28T18:53:43.195Z"
-    },
-    {
-      "tema": "pensamiento crítico expresado",
       "leccion": "**Pensamiento crítico expresado en español**\n\nSofia, ahora que has aprendido sobre metáforas y la estructura de oraciones complejas, vamos a profundizar en el pensamiento crítico y cómo expresarlo en español.\n\n**Opinar y evaluar**\n\nRecuerda que \"opinar\" significa \"expresar una opinión o juicio\", mientras que \"evaluar\" significa \"cualificar o juzgar algo\". Por ejemplo:\n\n * \"Opino que la nueva ley es justa\" (expresando una opinión)\n * \"Evalué la calidad del servicio en el restaurante y me pareció excelente\" (juzgando algo)\n * \"Mi opinión es que la película es muy divertida\" (expresando una opinión)\n * \"Evalué la presentación del proyecto y",
       "fecha": "2025-12-28T18:53:52.201Z"
     },
@@ -2916,8 +2911,13 @@
       "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
       "respuesta": "El vocabulario técnico se refiere a las palabras y expresiones específicas utilizadas en un campo de conocimiento o profesión, como la medicina, la ingeniería o la economía. Por otro lado, el vocabulario coloquial es el lenguaje común y cotidiano que se utiliza en la comunicación informal con amigos, familiares o en la vida diaria.\n\nPor ejemplo, en la medicina, el término \"cirugía\" se utiliza para describir un procedimiento quirúrgico, mientras que en la vida cotidiana se puede referir a una reparación o una modificación en un objeto.",
       "fecha": "2025-12-28T20:24:11.925Z"
+    },
+    {
+      "pregunta": "¿Cómo funcionan los tiempos verbales?",
+      "respuesta": "Los tiempos verbales son una parte fundamental de la gramática, y permiten expresar diferentes momentos en el tiempo en los que se realiza una acción. Hay varios tipos de tiempos verbales, como el presente, pasado, futuro, condicional, imperfecto, perfecto, etc. Por ejemplo, el tiempo presente se utiliza para describir acciones que ocurren en el momento actual, como \"estoy estudiando\".",
+      "fecha": "2025-12-28T20:24:59.778Z"
     }
   ],
-  "ultimaActualizacion": 1766953451926,
-  "preguntasHechas": 131
+  "ultimaActualizacion": 1766953499779,
+  "preguntasHechas": 132
 }
