@@ -1,5 +1,5 @@
 {
-  "iq": 1921,
+  "iq": 1927,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2562,11 +2562,6 @@
   "conversaciones": 6,
   "conocimiento": [
     {
-      "pregunta": "¿Qué es el pensamiento crítico?",
-      "respuesta": "El pensamiento crítico es la habilidad de analizar información, evaluar evidencia y formar opiniones informadas basadas en argumentos sólidos. Implica cuestionar suposiciones, identificar sesgos y resolver dilemas complejos de manera independiente y autoconfiada. Por ejemplo, al leer un artículo, un pensador crítico no se limitaría a aceptar la información sin más, sino que analizaría las fuentes, la metodología y las conclusiones para determinar su validez. Esto requiere una mentalidad abierta y una actitud de búsqueda de la verdad.",
-      "fecha": "2025-12-28T20:10:32.536Z"
-    },
-    {
       "pregunta": "¿Cuáles son las reglas de la gramática española?",
       "respuesta": "La gramática española se rige por una serie de reglas básicas que se aplican en el idioma, como la concordancia de género y número, la flexión de género y número en adjetivos y sustantivos, la concordancia de persona y número en verbos, y la formación de oraciones simples y compuestas. Por ejemplo, en la oración \"El perro es peligroso\", el adjetivo \"peligroso\" concuerda en género y número con el sustantivo \"perro\", que es masculino y singular.",
       "fecha": "2025-12-28T20:10:47.503Z"
@@ -3560,8 +3555,13 @@
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual se refiere a la capacidad de un texto para mantener una conexión lógica y consistente entre las ideas, conceptos y oraciones que lo componen. Es la habilidad de expresar pensamientos y opiniones de manera clara y ordenada, sin saltos ni contradicciones. Por ejemplo, si escribimos sobre un viaje a la playa, la coherencia textual nos permite describir la llegada, la estancia y la partida de manera lógica y consecutiva. Esto ayuda a los lectores a seguir y comprender el texto de manera fácil.",
       "fecha": "2025-12-28T21:11:31.703Z"
+    },
+    {
+      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
+      "respuesta": "Las preposiciones son palabras que indican la relación entre un sustantivo o un grupo de palabras y otros elementos en una oración, como lugares, tiempo, causas, medios, etc. Por ejemplo: \"La casa está en la calle principal\" (indica la ubicación de la casa). Las preposiciones más comunes son: \"en\", \"de\", \"a\", \"con\", \"sin\", \"por\", \"para\", \"como\", \"sin\".",
+      "fecha": "2025-12-28T21:11:39.718Z"
     }
   ],
-  "ultimaActualizacion": 1766956291703,
-  "preguntasHechas": 296
+  "ultimaActualizacion": 1766956299720,
+  "preguntasHechas": 297
 }
