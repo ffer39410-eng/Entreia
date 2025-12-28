@@ -1,5 +1,5 @@
 {
-  "iq": 1841,
+  "iq": 1847,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2508,16 +2508,12 @@
     "enlaces",
     "simultáneas",
     "corro",
-    "ciega"
+    "ciega",
+    "poemas"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué es el pensamiento crítico?",
-      "respuesta": "El pensamiento crítico es la capacidad de analizar información, evaluar evidencia y formar opiniones informadas. Implica cuestionar suposiciones, considerar perspectivas alternativas y tomar decisiones razonadas. Por ejemplo, al leer una noticia en el periódico, un persona con pensamiento crítico podría analizar los datos presentados, verificar la fuente y considerar diferentes interpretaciones antes de tomar una opinión.\n\nAlgunas características clave del pensamiento crítico incluyen:\n\n- Análisis de la información\n- Evaluación de la evidencia\n- Cuestionamiento de suposiciones\n- Consideración de perspectivas alternativas\n- Formación de opiniones informadas.",
-      "fecha": "2025-12-28T19:41:31.711Z"
-    },
     {
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras que se utilizan para indicar la relación entre un objeto o una acción y otro elemento en una oración. Estas palabras sirven para establecer la ubicación, el tiempo, la causa, la finalidad o la relación entre los diferentes elementos que componen una oración. Por ejemplo, la preposición \"en\" se utiliza para indicar ubicación, como en \"Estoy en el parque\", mientras que la preposición \"para\" se utiliza para indicar finalidad, como en \"Estoy estudiando para pasar la prueba\".",
@@ -3512,8 +3508,13 @@
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es la habilidad de analizar información, evaluar evidencia y formar juicios informados sobre un tema o problema. Implica cuestionar suposiciones, considerar diferentes perspectivas y tomar decisiones basadas en evidencia sólida. Por ejemplo, al leer un artículo científico, un pensador crítico evaluaría la metodología utilizada, la validez de la evidencia y la conclusión que se extrae, en lugar de aceptar la información de manera ciega.",
       "fecha": "2025-12-28T21:09:39.705Z"
+    },
+    {
+      "pregunta": "¿Qué son los conectores y cómo se usan?",
+      "respuesta": "Los conectores son palabras o expresiones que se utilizan para unir oraciones, frases o ideas para crear una secuencia lógica y coherente en el discurso. Por ejemplo, \"y\", \"pero\", \"sin embargo\", \"además\", \"por tanto\", entre otros. \n\nConectores como \"y\" se utilizan para agregar información, \"pero\" para contrastar ideas, y \"sin embargo\" para señalar una oposición entre dos puntos de vista. \n\nPor ejemplo: \"Me encanta leer libros y escribir poemas\" (conector \"y\" para agregar información).",
+      "fecha": "2025-12-28T21:09:47.718Z"
     }
   ],
-  "ultimaActualizacion": 1766956179706,
-  "preguntasHechas": 282
+  "ultimaActualizacion": 1766956187719,
+  "preguntasHechas": 283
 }
