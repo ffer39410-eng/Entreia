@@ -1,5 +1,5 @@
 {
-  "iq": 478,
+  "iq": 481,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1237,7 +1237,11 @@
     "enfermo",
     "médica",
     "formales",
-    "diarios"
+    "diarios",
+    "determinado",
+    "economía",
+    "según",
+    "región"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1661,8 +1665,13 @@
       "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
       "respuesta": "El vocabulario técnico se refiere a términos y expresiones especiales utilizados en un campo o industria determinada, como la medicina, la ingeniería o la finanza. Por ejemplo, en la medicina, los términos \"angioplastia\" y \"catéterismo\" son parte del vocabulario técnico.\n\nPor otro lado, el lenguaje coloquial o informal se utiliza en la vida cotidiana para comunicarse con amigos, familiares o en contextos sociales. En este ámbito, se utilizan expresiones como \"estar enfermo\" en lugar de \"tener una condición médica\".\n\nLa clave está en que el vocabulario técnico se utiliza en contextos formales y especializados, mientras que el lenguaje coloquial se utiliza en contextos informales y diarios.",
       "fecha": "2025-12-28T19:14:22.084Z"
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
+      "respuesta": "El vocabulario técnico se refiere a los términos y conceptos especializados utilizados en un campo determinado, como la medicina, la ingeniería o la economía, con precisión y claridad para comunicarse con otros expertos en el mismo área. Por otro lado, el vocabulario coloquial se refiere a las palabras y expresiones comunes utilizadas en la vida diaria, que pueden variar según la región o el país. Es decir, el vocabulario técnico es más formal y especializado, mientras que el coloquial es más informal y común.",
+      "fecha": "2025-12-28T19:14:30.213Z"
     }
   ],
-  "ultimaActualizacion": 1766949265282,
-  "preguntasHechas": 10
+  "ultimaActualizacion": 1766949270215,
+  "preguntasHechas": 11
 }
