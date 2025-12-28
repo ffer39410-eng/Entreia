@@ -1,5 +1,5 @@
 {
-  "iq": 2475,
+  "iq": 2479,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2897,11 +2897,6 @@
   "conversaciones": 6,
   "conocimiento": [
     {
-      "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
-      "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de pensar de manera clara, coherente y racional para llegar a conclusiones fundadas en argumentos y hechos. Implica analizar información, identificar patrones y relaciones, y hacer inferencias precisas. Por ejemplo, si alguien afirma que \"la lluvia hace que el tráfico sea peor\", un razonamiento lógico podría consistir en pensar: \"Si la lluvia causa que las personas conduzcan más lentamente, entonces es probable que el tráfico sea más lento también\".",
-      "fecha": "2025-12-28T20:44:43.729Z"
-    },
-    {
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "Excelente pregunta. Los sinónimos son palabras que tienen el mismo significado o nearly el mismo significado que otra palabra, pero con diferentes sonidos o estructuras gramaticales. Por ejemplo, \"feliz\" y \"alegre\" son sinónimos. \n\nPor otro lado, los antónimos son palabras que tienen significados opuestos o casi opuestos. Por ejemplo, \"largo\" y \"corto\" son antónimos.",
       "fecha": "2025-12-28T20:44:51.736Z"
@@ -3895,8 +3890,13 @@
       "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
       "respuesta": "Las metáforas son un tipo de figuras literarias que permiten comparar dos conceptos o ideas muy diferentes, creando una representación creativa y original de la realidad. Se utilizan para describir y explicar fenómenos complejos de manera más accesible y emotiva. Por ejemplo, \"la vida es un viaje\" es una metáfora que compara la experiencia humana con un trayecto, enfatizando la idea de que la vida es un proceso dinámico y lleno de desafíos.",
       "fecha": "2025-12-28T21:25:39.710Z"
+    },
+    {
+      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
+      "respuesta": "Las preposiciones son palabras que se utilizan para indicar la relación entre un sustantivo o un pronombre y otros elementos en una oración, como lugar, tiempo, modo, causa, etc. Por ejemplo, en la oración \"El libro está sobre la mesa\", la preposición \"sobre\" indica la relación de lugar entre el libro y la mesa. Las preposiciones ayudan a proporcionar información adicional sobre el significado de la oración y a establecer la conexión entre diferentes elementos.",
+      "fecha": "2025-12-28T21:25:47.999Z"
     }
   ],
-  "ultimaActualizacion": 1766957139713,
-  "preguntasHechas": 402
+  "ultimaActualizacion": 1766957147999,
+  "preguntasHechas": 403
 }
