@@ -1,5 +1,5 @@
 {
-  "iq": 1937,
+  "iq": 1943,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2566,16 +2566,18 @@
     "hablaba",
     "adolescencia",
     "propia",
-    "hablantes"
+    "hablantes",
+    "tormenta",
+    "daños",
+    "sabríamos",
+    "físicos",
+    "materiales",
+    "explica",
+    "política"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo funcionan los tiempos verbales?",
-      "respuesta": "Los tiempos verbales son fundamentales en la gramática española y ayudan a determinar el momento en que se realiza la acción descrita por el verbo. Hay varios tiempos verbales, como el presente, pasado simple, pasado perfecto, futuro simple, futuro perfecto, condicional, imperfecto y más.\n\nPor ejemplo, el verbo \"hablar\" en presente se utiliza para describir una acción que se realiza en el momento del habla, como \"ella habla español\". En cambio, el verbo \"hablar\" en pasado simple se utiliza para describir una acción que se realizó en un momento anterior, como \"ella habló ayer\".",
-      "fecha": "2025-12-28T20:10:52.171Z"
-    },
     {
       "pregunta": "¿Cómo funciona la comprensión del contexto?",
       "respuesta": "La comprensión del contexto es un proceso mental que implica analizar y evaluar las circunstancias y detalles que rodean una situación o un mensaje. Esto nos permite captar la intención, el sentido y la relevancia de la información, y así poder comprenderla de manera efectiva. Por ejemplo, al leer una noticia, podemos considerar el título, los subtítulos, las fechas y los detalles específicos para comprender el contexto de la historia. De esta manera, podemos distinguir entre información relevante e irrelevante y obtener una comprensión clara del tema.",
@@ -3570,8 +3572,13 @@
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales son una parte fundamental de la gramática en las lenguas, y se utilizan para indicar el momento en el que se desarrolla una acción. En español, hay varios tiempos verbales, como el presente, pasado, futuro, condicional, subjuntivo, etc. Por ejemplo, el verbo \"hablar\" en el presente se utiliza para describir una acción que se está realizando en ese momento, como \"hablo español\".\n\nEl verbo \"hablar\" en el pasado, por ejemplo, se utiliza para describir una acción que se completó en el pasado, como \"hablaba español en mi adolescencia\". Cada tiempo verbal tiene su propia forma y significado específico, lo que permite a los hablantes expresar ideas y eventos de manera clara y precisa.\n\nAdemás, los tiempos verbales pueden variar dependiendo del contexto en el que se utilicen,",
       "fecha": "2025-12-28T21:11:55.795Z"
+    },
+    {
+      "pregunta": "¿Cómo funciona la comprensión del contexto?",
+      "respuesta": "La comprensión del contexto es la capacidad de interpretar y analizar el significado de un texto, imagen o situación en función de la información que nos rodea. Esto implica considerar el lenguaje, el tono, el estilo y la intención detrás del mensaje. Por ejemplo, si se nos presenta una oración como \"La tormenta ha causado daños en la ciudad\", sin contexto sabríamos que se refiere a daños físicos o materiales. Pero si se nos explica que \"La tormenta\" se refiere a una tormenta política, el significado cambia completamente. La comprensión del contexto permite entender que la tormenta se refiere al movimiento político o a la situación política en la ciudad.",
+      "fecha": "2025-12-28T21:12:03.723Z"
     }
   ],
-  "ultimaActualizacion": 1766956315797,
-  "preguntasHechas": 299
+  "ultimaActualizacion": 1766956323727,
+  "preguntasHechas": 300
 }
