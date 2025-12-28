@@ -1,5 +1,5 @@
 {
-  "iq": 2441,
+  "iq": 2448,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2882,11 +2882,6 @@
   "conversaciones": 6,
   "conocimiento": [
     {
-      "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
-      "respuesta": "Expresar emociones de forma efectiva implica comunicar tus sentimientos de manera clara y respetuosa, sin dañar a los demás ni hacerte sentir mal. Puedes hacerlo mediante la comunicación verbal, como diciendo \"Me siento molesto\" o \"Me alegra que hayas ayudado\", o mediante la no verbal, como un gesto de agradecimiento o un abrazo. Lo importante es ser auténtico y evitar juzgar o culpar a los demás por tus emociones. Por ejemplo, en lugar de decir \"Eres muy insensible\", podrías decir \"Me hace sentir mal que no hayas considerado mi opinión\".",
-      "fecha": "2025-12-28T20:43:55.702Z"
-    },
-    {
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "Excelente pregunta, estudiante. Los sinónimos son palabras o expresiones que tienen el mismo significado o que se refieren a la misma realidad. Por ejemplo, \"feliz\" y \"alegre\" son sinónimos ya que ambos describen una emoción positiva. En cambio, los antónimos son palabras o expresiones que tienen significados opuestos. Por ejemplo, \"frio\" y \"calor\" son antónimos, ya que se refieren a temperaturas opuestas.",
       "fecha": "2025-12-28T20:44:03.701Z"
@@ -3880,8 +3875,13 @@
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual se refiere a la capacidad de una pieza de escritura de transmitir una idea o mensaje claro y lógico a través de la estructura y la concatenación de las ideas. Implica que cada oración se conecta con la siguiente de manera natural y sin saltos abruptos, permitiendo al lector seguir la línea de razonamiento con facilidad. Un buen ejemplo de coherencia textual es una redacción que presenta una idea principal, la desarrolla con detalles y ejemplos, y culmina con una conclusión lógica.",
       "fecha": "2025-12-28T21:24:51.656Z"
+    },
+    {
+      "pregunta": "¿Cuáles son las reglas de la gramática española?",
+      "respuesta": "La gramática española se rige por reglas específicas para la conjugación de verbos, el uso de género y número, la formación de palabras compuestas y la correcta estructura de oraciones. Algunas de las reglas clave incluyen la conjugación de verbos en presente, pretérito y futuro, el uso de pronombres personales y posesivos, y la correcta formación de oraciones sustantivas y adjetivas. Por ejemplo, en la conjugación de verbos, \"hablar\" en presente del yo es \"hablo\", pero en futuro del yo es \"hablaré\".",
+      "fecha": "2025-12-28T21:24:59.771Z"
     }
   ],
-  "ultimaActualizacion": 1766957091657,
-  "preguntasHechas": 396
+  "ultimaActualizacion": 1766957099772,
+  "preguntasHechas": 397
 }
