@@ -1,5 +1,5 @@
 {
-  "iq": 1045,
+  "iq": 1050,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1877,7 +1877,15 @@
     "veraz",
     "falsa",
     "controvertida",
-    "respalda"
+    "respalda",
+    "conecta",
+    "adicionales",
+    "quiero",
+    "dinero",
+    "pagar",
+    "impuesto",
+    "creo",
+    "efect"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2876,8 +2884,13 @@
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar información, argumentos y creencias de manera objetiva y reflexiva, para llegar a conclusiones informadas y bien fundamentadas. Esta habilidad implica cuestionar suposiciones, identificar sesgos y considerar múltiples perspectivas para tomar decisiones sensatas y efectivas. A través del pensamiento crítico, podemos distinguir entre la información veraz y la falsa, y hacer juicios informados sobre la base de evidencia sólida. Por ejemplo, cuando alguien nos presenta una noticia controvertida, el pensamiento crítico nos permite investigar y evaluar la fuente, el contexto y la evidencia que la respalda.",
       "fecha": "2025-12-28T20:16:03.810Z"
+    },
+    {
+      "pregunta": "¿Qué son los conectores y cómo se usan?",
+      "respuesta": "Los conectores son palabras o expresiones que se utilizan para unir ideas, oraciones o frases de manera clara y lógica en un texto. Ayudan a establecer relaciones entre diferentes ideas y a crear una estructura coherente en la escritura. Por ejemplo:\n\n- \"Y\" (conecta ideas adicionales): \"Me gusta leer libros y ver películas en mi tiempo libre.\"\n- \"Pero\" (conecta ideas opuestas): \"Quiero ir al mar, pero no tengo dinero para el viaje.\"\n- \"Sin embargo\" (conecta ideas opuestas): \"Me gustaría tener un coche, sin embargo, no puedo pagar el impuesto de tráfico.\"\n- \"Por lo tanto\" (conecta ideas lógicas): \"He estudiado mucho para el examen, por lo tanto, creo que voy a aprobar.\"\n\nLos conectores son fundamentales en la escritura y la comunicación efect",
+      "fecha": "2025-12-28T20:16:12.005Z"
     }
   ],
-  "ultimaActualizacion": 1766952963812,
-  "preguntasHechas": 125
+  "ultimaActualizacion": 1766952972006,
+  "preguntasHechas": 126
 }
