@@ -1,5 +1,5 @@
 {
-  "iq": 126,
+  "iq": 129,
   "vocabulario": [
     "claro",
     "sofia",
@@ -179,9 +179,33 @@
     "recuerda",
     "mientras",
     "expresando",
-    "juzgando"
+    "juzgando",
+    "dominado",
+    "razonamiento",
+    "lógico",
+    "argumentación",
+    "pensar",
+    "lógica",
+    "sistémica",
+    "utilizando",
+    "reglas",
+    "principios",
+    "llegar",
+    "conclusiones",
+    "porque",
+    "hice",
+    "creía",
+    "mejor",
+    "opción",
+    "solución",
+    "posible",
+    "demostrar",
+    "dedicación",
+    "presentar",
+    "razonamientos",
+    "convencer"
   ],
-  "lecciones": 7,
+  "lecciones": 8,
   "conversaciones": 1,
   "conocimiento": [
     {
@@ -218,7 +242,12 @@
       "tema": "pensamiento crítico expresado",
       "leccion": "**Pensamiento crítico expresado en español**\n\nSofia, ahora que has aprendido sobre metáforas y la estructura de oraciones complejas, vamos a profundizar en el pensamiento crítico y cómo expresarlo en español.\n\n**Opinar y evaluar**\n\nRecuerda que \"opinar\" significa \"expresar una opinión o juicio\", mientras que \"evaluar\" significa \"cualificar o juzgar algo\". Por ejemplo:\n\n * \"Opino que la nueva ley es justa\" (expresando una opinión)\n * \"Evalué la calidad del servicio en el restaurante y me pareció excelente\" (juzgando algo)\n * \"Mi opinión es que la película es muy divertida\" (expresando una opinión)\n * \"Evalué la presentación del proyecto y",
       "fecha": "2025-12-28T18:53:52.201Z"
+    },
+    {
+      "tema": "razonamiento lógico y argumentación",
+      "leccion": "Sofia, ahora que has dominado el pensamiento crítico y la estructura de oraciones complejas, vamos a explorar el razonamiento lógico y la argumentación en español.\n\n**Razonamiento lógico**\n\nEl razonamiento lógico es la capacidad de pensar de manera lógica y sistémica, utilizando reglas y principios para llegar a conclusiones. En español, podemos expresar el razonamiento lógico utilizando palabras y frases como:\n\n* **Porque**: \"Lo hice porque creía que era la mejor opción\".\n* **Ya que**: \"Lo hice ya que era la única solución posible\".\n* **Como**: \"Lo hice como forma de demostrar mi dedicación\".\n\n**Argumentación**\n\nLa argumentación es la capacidad de presentar razonamientos y evidencia para convencer",
+      "fecha": "2025-12-28T18:54:01.938Z"
     }
   ],
-  "ultimaActualizacion": 1766948032201
+  "ultimaActualizacion": 1766948041939
 }
