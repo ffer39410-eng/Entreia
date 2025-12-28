@@ -1,5 +1,5 @@
 {
-  "iq": 2465,
+  "iq": 2469,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2881,16 +2881,17 @@
     "contrapuestos",
     "sistemático",
     "recuerdo",
-    "presencia"
+    "presencia",
+    "jerga",
+    "diagnóstico",
+    "efectuado",
+    "realización",
+    "resonancia",
+    "magnética"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
-      "respuesta": "El vocabulario técnico se refiere a términos y expresiones especializados utilizados en un campo específico, como la medicina, la ingeniería o la economía, y están diseñados para transmitir información precisa y objetiva. Por otro lado, el vocabulario coloquial se refiere a la forma en que las personas hablan en su vida diaria, utilizando expresiones informales y comunes que pueden variar según la región o la cultura.\n\nPor ejemplo, un médico usaría el término \"cirugía de bypass\" para describir una operación cardiovascular, mientras que un amigo comúnmente diría \"operación de corazón\" o \"bypass\". Ambas expresiones se refieren a la misma operación, pero la primera es más técnica y precisa, mientras que la segunda es más coloquial y accesible.",
-      "fecha": "2025-12-28T20:44:27.870Z"
-    },
     {
       "pregunta": "¿Cómo se usa la puntuación correctamente?",
       "respuesta": "La puntuación es esencial para comunicar ideas de manera clara y efectiva. Utiliza comas para separar elementos en una lista o para indicar pausas breves en la oración. Utiliza puntos para separar ideas principales o para indicar la conclusión de una oración. Utiliza signos de interrogación y exclamación para expresar preguntas y emociones, respectivamente. Por ejemplo, \"Voy al parque, el parque es muy grande, y allí hay un lago.\"",
@@ -3885,8 +3886,13 @@
       "pregunta": "¿Cómo se construyen oraciones complejas en español?",
       "respuesta": "Una oración compleja en español se construye mediante la combinación de una oración simple y una oración subordinada. La oración subordinada proporciona información adicional o circunstancial sobre la oración principal. Por ejemplo: \"Yo fui al cine porque quería ver la película\". En esta oración, \"fui al cine\" es la oración principal y \"porque quería ver la película\" es la oración subordinada introducida por la conjunción \"porque\".",
       "fecha": "2025-12-28T21:25:23.930Z"
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
+      "respuesta": "El vocabulario técnico se refiere a las palabras y expresiones utilizadas en un campo específico de conocimiento o industria, como la medicina, la ingeniería o la finanza, y está diseñado para ser preciso y claro en su significado. Por otro lado, el vocabulario coloquial se utiliza en la comunicación informal y cotidiana, y puede incluir expresiones idiomáticas, jerga y lenguaje coloquial.\n\nPor ejemplo, en la medicina, \"cirugía\" es un vocabulario técnico, mientras que en la conversación coloquial, \"operación\" es un sinónimo más común y familiar.\n\nEn la práctica, un ejemplo de vocabulario técnico sería: \"El diagnóstico del paciente fue efectuado mediante la realización de una resonancia magnética\". En cambio, en una conversación coloquial, se podría decir",
+      "fecha": "2025-12-28T21:25:32.020Z"
     }
   ],
-  "ultimaActualizacion": 1766957123931,
-  "preguntasHechas": 400
+  "ultimaActualizacion": 1766957132022,
+  "preguntasHechas": 401
 }
