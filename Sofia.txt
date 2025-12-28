@@ -1,5 +1,5 @@
 {
-  "iq": 709,
+  "iq": 714,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1532,7 +1532,15 @@
     "realizan",
     "desarrollan",
     "realizar",
-    "mañana"
+    "mañana",
+    "formular",
+    "sólidos",
+    "buen",
+    "confianza",
+    "incluso",
+    "debates",
+    "discusiones",
+    "apasionadas"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2181,8 +2189,13 @@
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales son una parte fundamental de la gramática en cualquier idioma y nos permiten expresar diferentes momentos en el tiempo en que se realizan las acciones. Hay varios tiempos verbales, como el presente, pasado, futuro, condicional, subjuntivo, modo imperativo, entre otros. Por ejemplo, el tiempo presente se utiliza para describir acciones que se desarrollan en el momento actual, como \"Ella come una manzana\".\n\nEl tiempo pasado, por otro lado, se utiliza para describir acciones que ya han terminado, como \"Ella comió una manzana ayer\". El tiempo futuro se utiliza para describir acciones que se van a realizar en el futuro, como \"Ella comerá una manzana mañana\".\n\nEs importante tener en cuenta que el uso correcto de los tiempos verbales depende del contexto en el que se utiliza el verbo.",
       "fecha": "2025-12-28T19:20:22.957Z"
+    },
+    {
+      "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
+      "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de pensar y expresar ideas de manera clara, coherente y racional, evitando contradicciones y errores lógicos. Esto implica formular argumentos sólidos, utilizar ejemplos y pruebas para respaldar las afirmaciones, y responder a preguntas y objeciones de manera efectiva. Un buen razonamiento lógico ayuda a establecer credibilidad y confianza en la comunicación, incluso en debates y discusiones apasionadas.",
+      "fecha": "2025-12-28T19:20:30.980Z"
     }
   ],
-  "ultimaActualizacion": 1766949622958,
-  "preguntasHechas": 55
+  "ultimaActualizacion": 1766949630981,
+  "preguntasHechas": 56
 }
