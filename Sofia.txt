@@ -1,5 +1,5 @@
 {
-  "iq": 1669,
+  "iq": 1675,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2400,16 +2400,13 @@
     "mínimamente",
     "elección",
     "dirige",
-    "real"
+    "real",
+    "estandarizados",
+    "necesariamente"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
-      "respuesta": "Las preposiciones son palabras que se utilizan para indicar la relación entre un sustantivo y otro, o entre un sustantivo y un verbo. Por ejemplo, la preposición \"en\" indica un lugar o una situación, como en la oración \"Estoy en la casa\". La preposición \"con\" indica una acción o una compañía, como en la oración \"Voy con mis amigos al cine\". Las preposiciones ayudan a clarificar el significado de las oraciones y a proporcionar información sobre la ubicación, la acción o el estado de los seres o objetos.",
-      "fecha": "2025-12-28T19:23:44.335Z"
-    },
     {
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual se refiere a la capacidad de un texto para transmitir una idea o un mensaje claro y logico, sin confusiones o contradicciones entre sus diferentes partes. Esto incluye la relación entre las ideas, las oraciones y los párrafos, que deben estar bien conectados para que el lector pueda seguir el flujo de pensamiento de manera fácil.\n\nPor ejemplo, si se presenta un argumento en un texto, la coherencia textual implica que la introducción, el desarrollo y la conclusión estén bien relacionadas y no contengan errores o contradicciones que puedan confundir al lector.\n\nLa coherencia textual es fundamental en la escritura académica, ya que ayuda a los lectores a entender y recordar los contenidos.",
@@ -3404,8 +3401,13 @@
       "pregunta": "¿Cómo funciona la comprensión del contexto?",
       "respuesta": "La comprensión del contexto es el proceso de analizar y interpretar información en función de la situación o contexto en el que se encuentra. Esto implica considerar el lenguaje, la cultura, la experiencia y la intención de la persona que la está presentando. Por ejemplo, cuando lees un texto, debes considerar el propósito para el cual fue escrito, el público objetivo y la cultura en la que se encuentra. De esta forma, puedes entender mejor el significado real detrás de las palabras.",
       "fecha": "2025-12-28T21:02:11.843Z"
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
+      "respuesta": "El vocabulario técnico se refiere a palabras y términos específicos utilizados en un campo o profesión determinada, como por ejemplo la medicina, la ingeniería o la química. Estos términos son precisos y están estandarizados para evitar confusiones y asegurar una comunicación clara entre expertos.\n\nPor el contrario, el vocabulario coloquial se refiere a palabras y expresiones comunes en la conversación cotidiana, que pueden variar según la región o la cultura. Estos términos suelen ser más informales y no están necesariamente relacionados con un campo específico.",
+      "fecha": "2025-12-28T21:02:19.688Z"
     }
   ],
-  "ultimaActualizacion": 1766955731844,
-  "preguntasHechas": 247
+  "ultimaActualizacion": 1766955739690,
+  "preguntasHechas": 248
 }
