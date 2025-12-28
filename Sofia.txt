@@ -1,5 +1,5 @@
 {
-  "iq": 241,
+  "iq": 247,
   "vocabulario": [
     "claro",
     "sofia",
@@ -674,7 +674,18 @@
     "come",
     "manzana",
     "comer",
-    "sucediendo"
+    "sucediendo",
+    "preposiciones",
+    "indican",
+    "funcionan",
+    "ubicación",
+    "duración",
+    "cantidad",
+    "consecuencia",
+    "evento",
+    "biblioteca",
+    "preposición",
+    "indica"
   ],
   "lecciones": 14,
   "conversaciones": 1,
@@ -853,8 +864,13 @@
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales son un aspecto fundamental de la gramática en cualquier idioma, y su función es indicar el momento en que se desarrolla una acción o un estado. Hay diferentes tiempos verbales, como el pasado simple, el presente simple, el futuro simple, el pasado perfecto y el futuro perfecto, entre otros. Por ejemplo, la oración \"Ella come una manzana\" utiliza el presente simple para indicar que la acción de comer una manzana está sucediendo en el momento actual.",
       "fecha": "2025-12-28T19:03:48.196Z"
+    },
+    {
+      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
+      "respuesta": "Las preposiciones son palabras que indican la relación entre un sustantivo (el objeto) y otro sustantivo, un verbo o una acción en una oración. Funcionan como conectores y ayudan a establecer la ubicación, la duración, la cantidad, la causa o la consecuencia de un evento. Por ejemplo, en la oración \"La biblioteca está en la calle principal\", la preposición \"en\" indica la ubicación de la biblioteca.",
+      "fecha": "2025-12-28T19:03:56.361Z"
     }
   ],
-  "ultimaActualizacion": 1766948628197,
+  "ultimaActualizacion": 1766948636361,
   "preguntasHechas": null
 }
