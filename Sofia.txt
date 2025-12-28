@@ -1,5 +1,5 @@
 {
-  "iq": 2369,
+  "iq": 2373,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2828,16 +2828,13 @@
     "respaldadas",
     "proposiciones",
     "pesar",
-    "duerme"
+    "duerme",
+    "electrocardiograma",
+    "pulso"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué son los sinónimos y antónimos?",
-      "respuesta": "Excelente pregunta. Los sinónimos son palabras que tienen el mismo significado o casi el mismo significado que otra palabra, pero con un tono o connotación ligeramente diferente. Por ejemplo, \"frio\" y \"helado\" son sinónimos porque se refieren a la misma temperatura. Los antónimos, por otro lado, son palabras que tienen un significado opuesto. Por ejemplo, \"grande\" y \"pequeño\" son antónimos porque se refieren a tamaños opuestos.\n\nEjemplo: \n\"Estoy muy enfadado\" (enfadado es un sinónimo de iracundo o enojado), \n\"Estoy enfadado pero mi amigo está contento\" (enfadado y contento son antónimos).\n\nLos sinónimos y antónimos son herramientas útiles para enriquecer nuestra expresión y comunicación, ya que nos permiten describir",
-      "fecha": "2025-12-28T20:40:43.735Z"
-    },
     {
       "pregunta": "¿Cómo se estructura una buena argumentación?",
       "respuesta": "Una buena argumentación se estructura en cuatro pasos fundamentales: Tesis, argumentos, refutación y conclusión. La tesis es la declaración inicial que expresa la idea central del argumento, los argumentos son los datos, hechos o razones que apoyan la tesis, la refutación es la respuesta a las posibles objeciones o críticas a la tesis y la conclusión es la reiteración de la tesis y la síntesis de los argumentos presentados.",
@@ -3832,8 +3829,13 @@
       "pregunta": "¿Cómo se construyen oraciones complejas en español?",
       "respuesta": "Una oración compleja en español se construye combinando una oración simple con una subordinada, mediante un conjunción de coordinación o subordinación. Por ejemplo: \"Mientras leo un libro, mi hermano duerme\". En esta oración, \"Mientras leo un libro\" es una oración subordinada, que funciona como complemento de la oración principal \"mi hermano duerme\". Otra forma es usar conjunciones de coordinación, como \"y\" o \"pero\", para unir oraciones simples que expresan ideas relacionadas, pero diferentes.",
       "fecha": "2025-12-28T21:22:51.667Z"
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
+      "respuesta": "El vocabulario técnico se refiere a palabras y expresiones utilizadas en un determinado campo o profesional, como la medicina, la ingeniería o la tecnología, y están diseñadas para transmitir información precisa y específica. Por otro lado, el vocabulario coloquial se refiere a las palabras y expresiones comúnmente utilizadas en la vida cotidiana, en la conversación informal y social.\n\nPor ejemplo, en medicina, un técnico utiliza términos como \"electrocardiograma\" (ECG) para describir un examen de corazón, mientras que en la vida cotidiana, uno podría decir \"tomar el pulso\" para describir la misma acción.\n\nEste tipo de vocabulario permite a los profesionales comunicarse de manera efectiva y precisa con sus colegas, mientras que el vocabulario coloquial se utiliza para comunicarse con la gente en general de manera más informal",
+      "fecha": "2025-12-28T21:22:59.781Z"
     }
   ],
-  "ultimaActualizacion": 1766956971669,
-  "preguntasHechas": 381
+  "ultimaActualizacion": 1766956979783,
+  "preguntasHechas": 382
 }
