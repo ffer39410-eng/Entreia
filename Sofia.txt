@@ -1,5 +1,5 @@
 {
-  "iq": 2096,
+  "iq": 2101,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2677,16 +2677,15 @@
     "pidiendo",
     "muevas",
     "oficina",
-    "grosero"
+    "grosero",
+    "estimado",
+    "denotan",
+    "inmenso",
+    "sano"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
-      "respuesta": "El vocabulario técnico se refiere a las palabras y expresiones específicas utilizadas en un campo de conocimiento o profesión, como la medicina, la ingeniería o la economía. Por otro lado, el vocabulario coloquial es el lenguaje común y cotidiano que se utiliza en la comunicación informal con amigos, familiares o en la vida diaria.\n\nPor ejemplo, en la medicina, el término \"cirugía\" se utiliza para describir un procedimiento quirúrgico, mientras que en la vida cotidiana se puede referir a una reparación o una modificación en un objeto.",
-      "fecha": "2025-12-28T20:24:11.925Z"
-    },
     {
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales son una parte fundamental de la gramática, y permiten expresar diferentes momentos en el tiempo en los que se realiza una acción. Hay varios tipos de tiempos verbales, como el presente, pasado, futuro, condicional, imperfecto, perfecto, etc. Por ejemplo, el tiempo presente se utiliza para describir acciones que ocurren en el momento actual, como \"estoy estudiando\".",
@@ -3681,8 +3680,13 @@
       "pregunta": "¿Cómo funciona la comprensión del contexto?",
       "respuesta": "La comprensión del contexto es el proceso de analizar y comprender el significado de un texto o comunicación en relación con el contexto en el que se utiliza, incluyendo la situación, los hablantes involucrados, el propósito y el tema. Este proceso implica considerar la lengua, el tono, el entorno y las intenciones de los interlocutores.\n\nPor ejemplo, si se dice \"¡Eh, déjame pasar!\", en un contexto de una discoteca llena de gente, su significado es que alguien te está pidiendo que te muevas para que puedan pasar. Sin embargo, en un ambiente formal como una oficina, el mismo mensaje podría ser considerado grosero.",
       "fecha": "2025-12-28T21:16:04.415Z"
+    },
+    {
+      "pregunta": "¿Qué son los sinónimos y antónimos?",
+      "respuesta": "Excelente pregunta, estimado alumno. Los sinónimos son palabras que tienen el mismo significado o denotan la misma cosa, pero con una forma de expresión diferente. Por ejemplo, \"gran\" y \"inmenso\" son sinónimos, ya que se refieren a algo que es muy grande. Los antónimos, por otro lado, son palabras que tienen significados opuestos, como \"sano\" y \"enfermo\", que se refieren a estados de salud contrarios.",
+      "fecha": "2025-12-28T21:16:11.672Z"
     }
   ],
-  "ultimaActualizacion": 1766956564417,
-  "preguntasHechas": 330
+  "ultimaActualizacion": 1766956571674,
+  "preguntasHechas": 331
 }
