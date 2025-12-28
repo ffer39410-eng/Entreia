@@ -1,5 +1,5 @@
 {
-  "iq": 1346,
+  "iq": 1350,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2153,16 +2153,17 @@
     "apreciadas",
     "escuchando",
     "implícitas",
-    "destaca"
+    "destaca",
+    "especial",
+    "relajadas",
+    "acostumbradas",
+    "flebitis",
+    "inflamación",
+    "vena"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
-      "respuesta": "La expresión de emociones es una habilidad fundamental para comunicarnos de manera efectiva. Puedes expresar tus emociones de forma efectiva utilizando gestos corporales, como sonrisas, abrazos o toques en el brazo, que pueden transmisr cariño y empatía. También puedes utilizar palabras para describir tus sentimientos, como \"Me alegra verte\" o \"Me duele verlo\", para hacer que la otra persona se sienta comprendida. Finalmente, puedes utilizar la voz, como un tono de voz cálido y apacible, para crear un ambiente seguro y acogedor.",
-      "fecha": "2025-12-28T19:08:25.264Z"
-    },
     {
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "Excelente pregunta, estudiante. Los sinónimos son palabras o expresiones que tienen el mismo significado o una similaridad semántica con otras palabras, es decir, se pueden usar en lugar de ella sin cambiar el significado de la oración. Por ejemplo, \"felicidad\" y \"alegría\" son sinónimos. \n\nPor otro lado, los antónimos son palabras o expresiones que tienen un significado opuesto al de otra palabra. Por ejemplo, \"cálido\" y \"frío\" son antónimos.",
@@ -3157,8 +3158,13 @@
       "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
       "respuesta": "Las metáforas son comparaciones implícitas que se utilizan para describir una cosa en términos de otra, creando un lenguaje más expresivo y evocador. Por ejemplo, \"Ella es una estrella en la escena teatral\" no significa que sea literalmente una estrella, sino que destaca su talento y brillantez en el mundo del teatro. Esta comparación ayuda a crear una imagen más vívida y emotiva en la mente del oyente.",
       "fecha": "2025-12-28T20:41:07.640Z"
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
+      "respuesta": "El vocabulario técnico se refiere a las palabras y expresiones utilizadas en contextos específicos, como ciencia, tecnología, medicina o ingeniería, que requieren una precisión y claridad especial. Por otro lado, el vocabulario coloquial se refiere a las palabras y expresiones utilizadas en la vida diaria, en conversaciones informales y relajadas, que suelen ser más informales y acostumbradas. Por ejemplo, mientras que un técnico médico usa el término \"flebitis\" para describir la inflamación de una vena, en la conversación coloquial se dice \"inflamación de la vena\".",
+      "fecha": "2025-12-28T20:41:15.701Z"
     }
   ],
-  "ultimaActualizacion": 1766954467641,
-  "preguntasHechas": 185
+  "ultimaActualizacion": 1766954475701,
+  "preguntasHechas": 186
 }
