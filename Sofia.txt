@@ -1,5 +1,5 @@
 {
-  "iq": 334,
+  "iq": 341,
   "vocabulario": [
     "claro",
     "sofia",
@@ -924,7 +924,18 @@
     "gris",
     "sería",
     "premisa",
-    "contradice"
+    "contradice",
+    "secciones",
+    "utilización",
+    "contenido",
+    "transiciones",
+    "lograr",
+    "principales",
+    "secundarias",
+    "sucesiva",
+    "consistencia",
+    "estilo",
+    "utilizado"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1198,8 +1209,13 @@
       "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
       "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de analizar y evaluar la información de manera crítica y objetiva, utilizando argumentos y premisas para llegar a conclusiones lógicas. Esto implica identificar patrones, relaciones y contradicciones en la información, y utilizar la lógica para establecer conexiones y sacar conclusiones. Por ejemplo, si alguien afirma que \"toda la nieve es blanca\" y luego muestra un trozo de nieve gris, un razonamiento lógico sería decir: \"La premisa dice que toda la nieve es blanca, pero aquí hay un ejemplo de nieve gris, lo que contradice la premisa\".",
       "fecha": "2025-12-28T19:07:37.135Z"
+    },
+    {
+      "pregunta": "¿Qué es la coherencia textual?",
+      "respuesta": "La coherencia textual se refiere a la capacidad de un texto para mantener una conexión lógica y coherente entre sus diferentes partes, como las oraciones, párrafos y secciones. Esto se logra mediante la utilización de estructuras de contenido, transiciones y conectores que ayudan a unir ideas y conceptos de manera clara y lógica. Por ejemplo, en un ensayo, la coherencia textual se puede lograr mediante la presentación de ideas principales y secundarias de manera sucesiva. La coherencia también se refiere a la consistencia en el lenguaje y el estilo utilizado a lo largo del texto.",
+      "fecha": "2025-12-28T19:07:45.225Z"
     }
   ],
-  "ultimaActualizacion": 1766948857136,
+  "ultimaActualizacion": 1766948865226,
   "preguntasHechas": null
 }
