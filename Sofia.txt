@@ -1,5 +1,5 @@
 {
-  "iq": 2984,
+  "iq": 2987,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3122,16 +3122,16 @@
     "acusaciones",
     "hiriste",
     "molest",
-    "ofendido"
+    "ofendido",
+    "saludable",
+    "verbalización",
+    "estúpido",
+    "empatéticamente",
+    "desconcertado"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo funciona la comprensión del contexto?",
-      "respuesta": "La comprensión del contexto es la capacidad de interpretar y analizar el significado de un texto, imagen o situación en función de la información que nos rodea. Esto implica considerar el lenguaje, el tono, el estilo y la intención detrás del mensaje. Por ejemplo, si se nos presenta una oración como \"La tormenta ha causado daños en la ciudad\", sin contexto sabríamos que se refiere a daños físicos o materiales. Pero si se nos explica que \"La tormenta\" se refiere a una tormenta política, el significado cambia completamente. La comprensión del contexto permite entender que la tormenta se refiere al movimiento político o a la situación política en la ciudad.",
-      "fecha": "2025-12-28T21:12:03.723Z"
-    },
     {
       "pregunta": "¿Cómo funciona la comprensión del contexto?",
       "respuesta": "La comprensión del contexto es un proceso psicológico que permite a las personas percibir, procesar y utilizar la información que se encuentra en el entorno a fin de comprender el significado de un mensaje. Esto se logra gracias a la interacción entre la información ambiental, la memoria y la experiencia personal. Por ejemplo, si alguien te dice \"¿Quieres un vaso de agua?\", es probable que respondas \"Sí, por favor\" si estás sediento y hay un vaso de agua cerca. La comprensión del contexto te permitió percibir el entorno y utilizar la información para responder adecuadamente.",
@@ -4126,8 +4126,13 @@
       "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
       "respuesta": "Para expresar emociones de forma efectiva, es importante ser auténtico y comunicar tus sentimientos de manera clara y respetuosa. Puedes hacer esto utilizando el lenguaje corporal, como mantener contacto visual, sonreír o mostrar gestos de empatía. También es importante utilizar palabras que describan tus emociones, como \"me siento triste\" o \"estoy nervioso\", y evitar acusaciones o críticas. Por ejemplo, en lugar de decir \"me hiriste\", puedes decir \"me molestó ese comentario, me sentí ofendido\".",
       "fecha": "2025-12-28T21:50:52.717Z"
+    },
+    {
+      "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
+      "respuesta": "La expresión emocional efectiva implica reconocer y comunicar tus sentimientos de manera saludable y respetuosa. Esto puede lograrse mediante la verbalización de tus emociones, como decir \"me siento enojado\" en lugar de \"eres un estúpido\". Además, es importante escuchar empatéticamente a los demás y reconocer sus sentimientos para crear un ambiente de comunicación abierta y receptiva. Por ejemplo, puedes decir \"entiendo que te sientas desconcertado\" para mostrar comprensión y apoyo.",
+      "fecha": "2025-12-28T21:51:00.162Z"
     }
   ],
-  "ultimaActualizacion": 1766958652719,
-  "preguntasHechas": 499
+  "ultimaActualizacion": 1766958660163,
+  "preguntasHechas": 500
 }
