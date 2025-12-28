@@ -1,5 +1,5 @@
 {
-  "iq": 1317,
+  "iq": 1322,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2126,16 +2126,14 @@
     "diferenciar",
     "audiencia",
     "diseñado",
-    "amigable"
+    "amigable",
+    "larga",
+    "vivo",
+    "profesor"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
-      "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de analizar y evaluar la información de manera crítica y objetiva, utilizando argumentos y premisas para llegar a conclusiones lógicas. Esto implica identificar patrones, relaciones y contradicciones en la información, y utilizar la lógica para establecer conexiones y sacar conclusiones. Por ejemplo, si alguien afirma que \"toda la nieve es blanca\" y luego muestra un trozo de nieve gris, un razonamiento lógico sería decir: \"La premisa dice que toda la nieve es blanca, pero aquí hay un ejemplo de nieve gris, lo que contradice la premisa\".",
-      "fecha": "2025-12-28T19:07:37.135Z"
-    },
     {
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual se refiere a la capacidad de un texto para mantener una conexión lógica y coherente entre sus diferentes partes, como las oraciones, párrafos y secciones. Esto se logra mediante la utilización de estructuras de contenido, transiciones y conectores que ayudan a unir ideas y conceptos de manera clara y lógica. Por ejemplo, en un ensayo, la coherencia textual se puede lograr mediante la presentación de ideas principales y secundarias de manera sucesiva. La coherencia también se refiere a la consistencia en el lenguaje y el estilo utilizado a lo largo del texto.",
@@ -3130,8 +3128,13 @@
       "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
       "respuesta": "El vocabulario técnico se refiere a las palabras y expresiones utilizadas en contextos profesionales o especializados, como en la medicina, la ingeniería o las ciencias. Por ejemplo, términos como \"cirugía reconstructiva\" o \"microprocesador\" son vocabulario técnico.\n\nPor otro lado, el vocabulario coloquial se refiere a las palabras y expresiones utilizadas en la comunicación informal, como en conversaciones cotidianas con amigos o familiares. Por ejemplo, frases como \"¿Qué tal si vamos al parque?\" o \"Eso es un chiste muy gracioso\" son vocabulario coloquial.\n\nLa clave para diferenciar entre ambos es considerar el contexto y la audiencia objetivo. El vocabulario técnico está diseñado para ser preciso y técnico, mientras que el vocabulario coloquial está diseñado para ser accesible y amigable.",
       "fecha": "2025-12-28T20:39:16.016Z"
+    },
+    {
+      "pregunta": "¿Cómo se usa la puntuación correctamente?",
+      "respuesta": "La puntuación es esencial para comunicar ideas de manera clara y efectiva en la escritura y la lectura. Utiliza comas para separar elementos en una oración larga, como en el caso de \"Vivo en Madrid, donde trabajo como profesor\". Utiliza puntos para separar ideas o oraciones independientes, como en el caso de \"Me encanta leer. Me gusta escribir también\". Los signos de interrogación y exclamación se utilizan para expresar sorpresa o emoción, como en el caso de \"¿Qué hora es?\" o \"¡Estoy emocionado!\".",
+      "fecha": "2025-12-28T20:39:23.698Z"
     }
   ],
-  "ultimaActualizacion": 1766954356017,
-  "preguntasHechas": 179
+  "ultimaActualizacion": 1766954363699,
+  "preguntasHechas": 180
 }
