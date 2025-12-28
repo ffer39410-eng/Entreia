@@ -1,5 +1,5 @@
 {
-  "iq": 2700,
+  "iq": 2703,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2993,16 +2993,14 @@
     "anuncio",
     "publicitario",
     "formarse",
-    "practica"
+    "practica",
+    "ajusten",
+    "sucedi",
+    "escucharme"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo se construyen oraciones complejas en español?",
-      "respuesta": "Las oraciones complejas en español se construyen utilizando concesiones, comparaciones, causales, temporales, condicionales, finales, consecutivos, contrastivos o subordinadas sustantivas. Por ejemplo, \"Cuando llegué a casa, llamé a mi mamá\" es una oración compuesta con una subordinada temporal.\n\nTambién se utilizan conjunciones o conjunciones subordinantes para conectar oraciones sencillas y crear oraciones más complejas, como \"Estudiaré para el examen, a menos que tenga un compromiso previo\".\n\nAdemás, las oraciones complejas pueden ser estructuradas con oraciones principales y subordinadas y diferentes tipos de cláusulas.",
-      "fecha": "2025-12-28T21:01:55.829Z"
-    },
     {
       "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
       "respuesta": "El vocabulario técnico se refiere a las palabras y expresiones utilizadas en un campo específico de conocimiento, como la medicina, la ingeniería o la economía, que requieren una comprensión especializada y precisa. Por otro lado, el vocabulario coloquial se utiliza en la comunicación informal y se caracteriza por ser más relajado y accesible al público en general.\n\nEjemplo: Un médico utiliza el vocabulario técnico \"cirugía laparoscópica\" para describir una operación, mientras que un paciente comúnmente diría \"cirugía mínimamente invasiva\".\n\nLa elección entre vocabulario técnico y coloquial depende del contexto y del público al que se dirige la comunicación.",
@@ -3997,8 +3995,13 @@
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar información, ideas y argumentos de manera objetiva y lógica, buscando respuestas a preguntas como \"¿Por qué?\", \"¿Qué implica?\", \"¿Es verdadero?\" y \"¿Qué consecuencias tiene?\". Este proceso implica cuestionar suposiciones, buscar evidencia y considerar diferentes perspectivas para formarse una opinión informada. El pensamiento crítico se practica a través de la evaluación de fuentes, la identificación de sesgos y la resolución de problemas complejos. Un ejemplo de pensamiento crítico sería analizar un artículo de noticias y evaluar la credibilidad de las fuentes citadas.",
       "fecha": "2025-12-28T21:38:03.877Z"
+    },
+    {
+      "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
+      "respuesta": "Para expresar emociones de forma efectiva, es importante ser auténtico y genuino en tu comunicación. Puedes comenzar identificando cómo te sientes en un momento determinado, ya sea tristeza, enfado o alegría. Luego, busca formas de comunicar esa emoción de manera clara y respetuosa, utilizando gestos corporales, palabras y tono de voz que se ajusten a tu estado emocional. Por ejemplo, si estás triste, puedes decir \"Me siento triste debido a lo que sucedió, ¿puedes escucharme?\"",
+      "fecha": "2025-12-28T21:38:11.790Z"
     }
   ],
-  "ultimaActualizacion": 1766957883879,
-  "preguntasHechas": 444
+  "ultimaActualizacion": 1766957891793,
+  "preguntasHechas": 445
 }
