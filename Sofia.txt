@@ -1,5 +1,5 @@
 {
-  "iq": 1706,
+  "iq": 1710,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2427,16 +2427,13 @@
     "aditivas",
     "adversativas",
     "explicativas",
-    "internet"
+    "internet",
+    "humana",
+    "miradas"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué son los sinónimos y antónimos?",
-      "respuesta": "Los sinónimos son palabras o expresiones que tienen el mismo significado o connotación que otra palabra o expresión, pero con una forma diferente. Por ejemplo: \"luna\" y \"lunache\" son sinónimos. Otros ejemplos son: \"grande\" y \"mayor\", \"bueno\" y \"excelente\".\n\nPor otro lado, los antónimos son palabras o expresiones que tienen un significado opuesto. Por ejemplo: \"llover\" y \"solear\" son antónimos. Otros ejemplos son: \"bueno\" y \"malo\", \"rápido\" y \"lento\".",
-      "fecha": "2025-12-28T19:24:40.340Z"
-    },
     {
       "pregunta": "¿Cómo se estructura una buena argumentación?",
       "respuesta": "Una buena argumentación se estructura en tres pasos clave: establecer un tema o problema, presentar pruebas o evidencia para apoyar la afirmación, y concluir con una respuesta clara y convincente.\n\nPor ejemplo, si queremos argumentar que \"el uso de la tecnología en la educación es beneficioso\", podríamos estructurar la argumentación de la siguiente manera:\n\n- Presentar el tema: \"El uso de la tecnología en la educación es un tema controvertido que ha generado debate en la comunidad educativa\".\n- Presentar pruebas: \"Según una investigación reciente, los estudiantes que utilizan tecnología en la educación muestran un mejor desempeño académico y una mayor motivación\".\n- Concluir: \"En conclusión, se puede argumentar que el uso de la tecnología en la educación es beneficioso debido a su capacidad para mejorar el desempeño",
@@ -3431,8 +3428,13 @@
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son palabras o expresiones que nos ayudan a unir ideas, oraciones o frases dentro de un texto o discurso de manera lógica y coherente. Se utilizan para conectar ideas complementarias, opositivas, causales o consecuentes, y pueden ser de diferentes tipos, como conjunciones (y, pero, o), conjunciones aditivas (además, tampoco, tanto), conjunciones adversativas (aunque, sin embargo), conjunciones explicativas (es decir, por ejemplo) y conjunciones condicionales (si, porque).\n\nPor ejemplo: \"Me encanta leer libros, además de que me gusta leer artículos en internet.\" (En este caso, \"además de que\" es un conector que une dos oraciones para mostrar una idea adicional).",
       "fecha": "2025-12-28T21:03:07.830Z"
+    },
+    {
+      "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
+      "respuesta": "Las emociones son una parte natural de la comunicación humana, y expresarlas de manera efectiva es crucial para conectar con los demás. Puedes expresar emociones de forma efectiva al ser auténtico y genuino en tus comunicaciones, utilizando lenguaje corporal como miradas y gestos, y expresando tus sentimientos de manera clara y respetuosa. Por ejemplo, en lugar de decir \"Me enojé contigo\", podrías decir \"Me siento frustrado cuando...\".",
+      "fecha": "2025-12-28T21:03:15.624Z"
     }
   ],
-  "ultimaActualizacion": 1766955787831,
-  "preguntasHechas": 254
+  "ultimaActualizacion": 1766955795625,
+  "preguntasHechas": 255
 }
