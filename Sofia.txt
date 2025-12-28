@@ -1,5 +1,5 @@
 {
-  "iq": 576,
+  "iq": 583,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1364,7 +1364,13 @@
     "coma",
     "introducir",
     "explicación",
-    "lista"
+    "lista",
+    "composición",
+    "pesar",
+    "gust",
+    "muchísimo",
+    "quem",
+    "piel"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1888,8 +1894,13 @@
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras que indican la relación entre un sustantivo y otro elemento dentro de una oración. Sirven para expresar la ubicación, dirección, tiempo, manera y otras relaciones entre los elementos de la oración. Por ejemplo, en la frase \"El libro está en la mesa\", la preposición \"en\" indica la ubicación del libro en relación con la mesa.",
       "fecha": "2025-12-28T19:17:02.285Z"
+    },
+    {
+      "pregunta": "¿Qué son los conectores y cómo se usan?",
+      "respuesta": "Los conectores son palabras o expresiones que se utilizan para unir ideas, oraciones o frases en una composición escrita o una conversación. Su función es conectar ideas relacionadas, enfatizar un punto o indicar la relación entre dos o más elementos. Ejemplos de conectores incluyen \"sin embargo\", \"además\", \"por tanto\", \"a pesar de que\" y \"como\". Por ejemplo: \"Me gustó muchísimo la playa, sin embargo, el sol me quemó la piel\".",
+      "fecha": "2025-12-28T19:17:10.144Z"
     }
   ],
-  "ultimaActualizacion": 1766949422286,
-  "preguntasHechas": 30
+  "ultimaActualizacion": 1766949430145,
+  "preguntasHechas": 31
 }
