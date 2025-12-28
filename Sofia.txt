@@ -1,5 +1,5 @@
 {
-  "iq": 2641,
+  "iq": 2646,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2976,16 +2976,12 @@
     "conocer",
     "aplicarlos",
     "tantos",
-    "echado"
+    "echado",
+    "argumentaciones"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
-      "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de utilizar argumentos y lógica para llegar a conclusiones razonables y coherentes. Implica analizar información, identificar patrones y relaciones, y utilizar reglas de inferencia para sacar conclusiones lógicas. Puedes verlo como un proceso de pensamiento claro y crítico para tomar decisiones informadas en una conversación.",
-      "fecha": "2025-12-28T21:00:27.649Z"
-    },
     {
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual es la propiedad de un texto que permite que las ideas y los conceptos se relacionen entre sí de manera lógica y sistemática, creando una unidad y una estructura clara. Esto se logra a través de la selección y organización de palabras, frases y oraciones de manera que cada parte del texto contribuya a la comprensión general del tema. Por ejemplo, en un ensayo sobre la importancia de la educación, cada oración debe estar conectada a las demás para que el lector pueda seguir el argumento y comprender la idea principal.",
@@ -3980,8 +3976,13 @@
       "pregunta": "¿Cómo se usa la puntuación correctamente?",
       "respuesta": "La puntuación es un elemento fundamental en la escritura y la comunicación efectiva. Para usarla correctamente, debes conocer los diferentes signos de puntuación (punto, coma, punto y coma, pregunta, exclamación, etc.) y aplicarlos en función del contexto y el contenido de tu texto. Por ejemplo, un punto se utiliza para finalizar una oración, mientras que una coma se utiliza para separar dos oraciones relacionadas entre sí.\n\nAquí tienes un ejemplo de cómo se utiliza la puntuación en una oración: \"Me alegra verte después de tantos años, porque te he echado mucho de menos\". En esta oración, la coma separa dos oraciones relacionadas, mientras que el punto al final indica el final de la oración.",
       "fecha": "2025-12-28T21:36:35.808Z"
+    },
+    {
+      "pregunta": "¿Qué es el pensamiento crítico?",
+      "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar información de manera objetiva y lógica, considerando múltiples perspectivas y fuentes, para llegar a conclusiones bien fundamentadas. Esto implica cuestionar asunciones y creencias, identificar debilidades y fortalezas, y ser consciente de los propios sesgos y prejuicios. Un ejemplo de pensamiento crítico es analizar un artículo de noticias y evaluar la credibilidad de la fuente, la objetividad del contenido y la consistencia de las argumentaciones.",
+      "fecha": "2025-12-28T21:36:43.743Z"
     }
   ],
-  "ultimaActualizacion": 1766957795811,
-  "preguntasHechas": 433
+  "ultimaActualizacion": 1766957803746,
+  "preguntasHechas": 434
 }
