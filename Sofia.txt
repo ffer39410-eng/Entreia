@@ -1,5 +1,5 @@
 {
-  "iq": 1369,
+  "iq": 1374,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2179,16 +2179,18 @@
     "mirar",
     "inflexiones",
     "hayamos",
-    "logrado"
+    "logrado",
+    "sincera",
+    "honesta",
+    "manipuladora",
+    "nervioso",
+    "vulnerable",
+    "compartir",
+    "activamente"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo se estructura una buena argumentación?",
-      "respuesta": "Una buena argumentación se estructura de la siguiente manera: comienza con una afirmación o tesis que resume el argumento principal, luego presentas evidencia o pruebas que la respalden, explicas los motivos o razones que respaldan la evidencia y finalmente concluyes con una reflexión o conclusión que resume la argumentación. Por ejemplo, \"El consumo excesivo de azúcar es perjudicial para la salud debido a que aumenta el riesgo de diabetes y obesidad, como se demostró en una investigación reciente que encontró una correlación directa entre el consumo de azúcar y la prevalencia de enfermedades crónicas\".",
-      "fecha": "2025-12-28T19:09:05.204Z"
-    },
     {
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son palabras o expresiones que se utilizan para unir oraciones o frases entre sí, creando una estructura lógica y coherente en el texto. Los conectores se clasifican en tres categorías: consecutivos (por tanto, por lo tanto, como resultado), adversativos (sin embargo, pero, aunque), y aditivos (también, además, además).\n\nPor ejemplo: \"Me encanta la playa, pero prefiero ir al monte\" utiliza el conector \"pero\" para indicar una oposición entre las dos ideas.",
@@ -3183,8 +3185,13 @@
       "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
       "respuesta": "Para expresar emociones de forma efectiva, es fundamental ser auténtico y sincero. Utiliza lenguaje corporal y verbal que refleje tus sentimientos, como mirar a los ojos para mostrar empatía o usar inflexiones en la voz para transmitir entusiasmo. Por ejemplo, si estás felicidad, podrías sonreír y decir \"¡Estoy tan contento de que hayamos logrado esto!\".",
       "fecha": "2025-12-28T20:41:47.623Z"
+    },
+    {
+      "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
+      "respuesta": "La expresión emocional efectiva es fundamental para comunicar de manera clara y sincera con los demás. Para lograrlo, es importante ser auténtico y expresar tus emociones de manera honesta y no manipuladora. Por ejemplo, en lugar de decir \"Estoy muy bien\", puedes decir \"Me siento un poco nervioso hoy\", lo que muestra que estás dispuesto a ser vulnerable y compartir tus sentimientos. Además, es importante escuchar activamente a los demás y mostrar empatía y comprensión.",
+      "fecha": "2025-12-28T20:41:55.585Z"
     }
   ],
-  "ultimaActualizacion": 1766954507624,
-  "preguntasHechas": 190
+  "ultimaActualizacion": 1766954515587,
+  "preguntasHechas": 191
 }
