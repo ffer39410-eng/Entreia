@@ -1,5 +1,5 @@
 {
-  "iq": 697,
+  "iq": 703,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1518,7 +1518,17 @@
     "bocadillo",
     "delicioso",
     "sent",
-    "satisfecho"
+    "satisfecho",
+    "semánticos",
+    "diferencias",
+    "grandioso",
+    "imponente",
+    "majestuoso",
+    "impresiona",
+    "inspira",
+    "respeto",
+    "temperaturas",
+    "opuestas"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2157,8 +2167,13 @@
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual se refiere a la capacidad de un texto para mantener una conexión lógica y clara entre sus ideas y oraciones, asegurando que el lector pueda seguir el hilo de razonamiento o la argumentación presentada. Esto se logra mediante la utilización de conectores lógicos, como \"por lo tanto\", \"en cambio\" o \"además\", que ayudan a unir las diferentes ideas y crear un flujo coherente. Por ejemplo, en la frase \"Yo tenía hambre, así que pedí un bocadillo. El bocadillo era delicioso, por lo tanto, me sentí satisfecho\". La coherencia textual es fundamental para comunicar ideas de manera efectiva.",
       "fecha": "2025-12-28T19:20:07.135Z"
+    },
+    {
+      "pregunta": "¿Qué son los sinónimos y antónimos?",
+      "respuesta": "Excelente pregunta. Los sinónimos son palabras o expresiones que tienen el mismo significado o matices semánticos, pero con diferencias en su forma o estructura. Por ejemplo, \"grandioso\", \"imponente\" y \"majestuoso\" son sinónimos que describen algo que impresiona o inspira respeto.\n\nPor otro lado, los antónimos son palabras o expresiones que tienen significados opuestos o contrarios. Por ejemplo, \"frio\" y \"calor\" son antónimos que describen temperaturas opuestas.",
+      "fecha": "2025-12-28T19:20:14.868Z"
     }
   ],
-  "ultimaActualizacion": 1766949607136,
-  "preguntasHechas": 53
+  "ultimaActualizacion": 1766949614869,
+  "preguntasHechas": 54
 }
