@@ -1,5 +1,5 @@
 {
-  "iq": 662,
+  "iq": 666,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1470,7 +1470,11 @@
     "eficaz",
     "alcanzar",
     "objetivos",
-    "educativos"
+    "educativos",
+    "escrito",
+    "estructurar",
+    "gebruja",
+    "sumar"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2074,8 +2078,13 @@
       "pregunta": "¿Cómo se estructura una buena argumentación?",
       "respuesta": "Una buena argumentación se estructura en tres partes fundamentales: la afirmación o tesis, que establece el punto central de la argumentación; la evidencia o razones, que apoyan y justifican la tesis; y la conclusión, que resume y reafirma la tesis a partir de la evidencia presentada. Por ejemplo, si se argumenta que \"La educación en línea es más efectiva que la tradicional\", la tesis sería esta afirmación, la evidencia podrían ser estudios y datos que demuestran una mejor asistencia y rendimiento de los estudiantes en línea, y la conclusión podría ser que \"Por lo tanto, la educación en línea es una opción más eficaz para alcanzar los objetivos educativos\".",
       "fecha": "2025-12-28T19:19:10.248Z"
+    },
+    {
+      "pregunta": "¿Qué son los conectores y cómo se usan?",
+      "respuesta": "Los conectores son palabras o expresiones que unen oraciones, ideas o conceptos dentro de un escrito o una conversación de manera lógica y clara. Son fundamentales para estructurar el contenido y transmitir ideas de manera eficaz. Por ejemplo, el conector \"y\" se gebruja para sumar ideas: \"Me gusta leer libros y escuchar música\".",
+      "fecha": "2025-12-28T19:19:18.167Z"
     }
   ],
-  "ultimaActualizacion": 1766949550250,
-  "preguntasHechas": 46
+  "ultimaActualizacion": 1766949558168,
+  "preguntasHechas": 47
 }
