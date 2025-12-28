@@ -1,5 +1,5 @@
 {
-  "iq": 481,
+  "iq": 486,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1241,7 +1241,9 @@
     "determinado",
     "economía",
     "según",
-    "región"
+    "región",
+    "sistema",
+    "conjugar"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1670,8 +1672,13 @@
       "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
       "respuesta": "El vocabulario técnico se refiere a los términos y conceptos especializados utilizados en un campo determinado, como la medicina, la ingeniería o la economía, con precisión y claridad para comunicarse con otros expertos en el mismo área. Por otro lado, el vocabulario coloquial se refiere a las palabras y expresiones comunes utilizadas en la vida diaria, que pueden variar según la región o el país. Es decir, el vocabulario técnico es más formal y especializado, mientras que el coloquial es más informal y común.",
       "fecha": "2025-12-28T19:14:30.213Z"
+    },
+    {
+      "pregunta": "¿Cómo funcionan los tiempos verbales?",
+      "respuesta": "El sistema de tiempos verbales es un aspecto fundamental de la gramática. Los tiempos verbales se usan para expresar cuando se realiza una acción, ya sea en el pasado, presente o futuro. Por ejemplo, la palabra \"hablar\" se puede conjugar en presente como \"hablo\", en pretérito como \"hablé\" y en futuro como \"hablaré\". De esta forma, podemos comunicar con precisión la relación entre el sujeto y el momento en el que se realiza la acción.",
+      "fecha": "2025-12-28T19:14:38.162Z"
     }
   ],
-  "ultimaActualizacion": 1766949270215,
-  "preguntasHechas": 11
+  "ultimaActualizacion": 1766949278164,
+  "preguntasHechas": 12
 }
