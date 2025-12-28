@@ -1,5 +1,5 @@
 {
-  "iq": 2010,
+  "iq": 2013,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2637,16 +2637,12 @@
     "sonar",
     "animado",
     "oscuro",
-    "antón"
+    "antón",
+    "adecuadas"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo funciona la comprensión del contexto?",
-      "respuesta": "La comprensión del contexto es un proceso mental que nos permite comprender el significado de las palabras y frases en función de la situación en la que se encuentran. Implica considerar el contexto en el que se está comunicando, incluyendo la situación, los sentimientos y las intenciones de las personas involucradas. Por ejemplo, si alguien dice \"Estoy harto\", el contexto puede determinar si se refiere a estar cansado o frustrado.",
-      "fecha": "2025-12-28T20:12:51.704Z"
-    },
     {
       "pregunta": "¿Cómo se usa la puntuación correctamente?",
       "respuesta": "La puntuación es un elemento clave en la escritura y el lenguaje, ya que nos ayuda a expresar ideas de manera clara y concisa. Algunas de las reglas básicas de puntuación incluyen el uso de comas para separar ideas o elementos en una oración, los puntos suspensivos para indicar una pausa o una interrogación, y los signos de exclamación para expresar emociones.\n\nPor ejemplo, en la oración \"Me encanta leer libros de aventuras, especialmente los de Cervantes\", el uso de la coma separa las ideas de que me gusta leer libros de aventuras y que me encanta especialmente los de Cervantes.",
@@ -3641,8 +3637,13 @@
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "Los sinónimos son palabras o expresiones que tienen el mismo significado que otra palabra u expresión, pero pueden variar en tono, contexto o estilo. Por ejemplo, \"feliz\" y \"alegre\" son sinónimos porque describen la misma emoción, aunque \"feliz\" puede sonar más formal y \"alegre\" más animado.\n\nLos antónimos, por otro lado, son palabras o expresiones que tienen significados opuestos, como \"gran\" y \"pequeño\", \"largo\" y \"corto\", o \"claro\" y \"oscuro\". En general, los antónimos se utilizan para resaltar la diferencia o la oposición entre dos ideas o conceptos.\n\nPor ejemplo, \"frio\" y \"calor\" son antónimos porque describen condiciones opuestas en términos de temperatura, mientras que \"rápido\" y \"lento\" son antón",
       "fecha": "2025-12-28T21:13:55.909Z"
+    },
+    {
+      "pregunta": "¿Qué es la coherencia textual?",
+      "respuesta": "La coherencia textual se refiere a la capacidad del texto de presentar un mensaje claro y lógico, donde las ideas se conectan de manera natural y sin contradicciones. Esto se logra mediante la estructura lógica de las ideas, la elección de palabras adecuadas y la claridad en la comunicación. Por ejemplo, en un ensayo, la idea principal se desarrolla con sub ideas que respaldan y conectan entre sí de manera lógica. De esta forma, el lector puede seguir fácilmente la línea de razonamiento del autor.",
+      "fecha": "2025-12-28T21:14:03.751Z"
     }
   ],
-  "ultimaActualizacion": 1766956435911,
-  "preguntasHechas": 314
+  "ultimaActualizacion": 1766956443753,
+  "preguntasHechas": 315
 }
