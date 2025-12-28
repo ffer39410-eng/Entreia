@@ -1,5 +1,5 @@
 {
-  "iq": 522,
+  "iq": 528,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1283,7 +1283,20 @@
     "ubicarse",
     "ecocardiograma",
     "cardíacas",
-    "exhausto"
+    "exhausto",
+    "reciben",
+    "teniendo",
+    "marco",
+    "cuidado",
+    "puerta",
+    "abre",
+    "cierra",
+    "rápidamente",
+    "eliminar",
+    "ambig",
+    "edad",
+    "interpretación",
+    "precisa"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1752,8 +1765,13 @@
       "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
       "respuesta": "El vocabulario técnico se refiere a los términos y conceptos específicos utilizados en un campo o industria particular, como la medicina, la informática o la ingeniería. Por ejemplo, en la medicina, el término \"ecocardiograma\" se utiliza para describir una prueba de imágenes cardíacas. En cambio, el vocabulario coloquial se refiere a las palabras y expresiones comunes utilizadas en la vida diaria, como \"me siento exhausto\" o \"la vida es un laberinto\". La clave es que el vocabulario técnico es más formal y especializado, mientras que el coloquial es más informal y común.",
       "fecha": "2025-12-28T19:15:34.223Z"
+    },
+    {
+      "pregunta": "¿Cómo funciona la comprensión del contexto?",
+      "respuesta": "La comprensión del contexto es un proceso mental que permite a las personas interpretar y dar sentido a la información que reciben, teniendo en cuenta el marco en el que se produce. Esto implica considerar elementos como el lenguaje, la cultura, la situación y la intención de la comunicación. Por ejemplo, cuando se nos dice \"¡Cuidado con la puerta!\", podemos entender que se refiere a una puerta que se abre o se cierra rápidamente, y no a una puerta en general. La comprensión del contexto nos permite eliminar la ambigüedad y obtener una interpretación más precisa.",
+      "fecha": "2025-12-28T19:15:42.220Z"
     }
   ],
-  "ultimaActualizacion": 1766949334224,
-  "preguntasHechas": 19
+  "ultimaActualizacion": 1766949342221,
+  "preguntasHechas": 20
 }
