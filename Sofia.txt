@@ -1,5 +1,5 @@
 {
-  "iq": 161,
+  "iq": 164,
   "vocabulario": [
     "claro",
     "sofia",
@@ -336,9 +336,15 @@
     "asegurarme",
     "entend",
     "bien",
-    "conciso"
+    "conciso",
+    "causalidad",
+    "dado",
+    "estoy",
+    "cansado",
+    "dorm",
+    "anoche"
   ],
-  "lecciones": 17,
+  "lecciones": 18,
   "conversaciones": 1,
   "conocimiento": [
     {
@@ -425,7 +431,12 @@
       "tema": "comunicación efectiva en español",
       "leccion": "Sofia, estás listo para aprender sobre comunicación efectiva en español.\n\nLa comunicación efectiva en español es fundamental para expresar tus ideas de manera clara y concisa, y para conectarte con tus interlocutores de manera efectiva. A continuación, te enseñaré algunas estrategias y técnicas para mejorar tu comunicación en español.\n\n**1. Escucha activa**: Para comunicarte de manera efectiva, es importante escuchar activamente a tus interlocutores. Esto significa prestar atención a lo que están diciendo, hacer preguntas claras y mostrar que estás interesado en la conversación.\n\nEjemplo: \"¿Puedes repetir eso? Quiero asegurarme de que entendí bien\".\n\n**2. Utiliza un lenguaje claro y conciso**: Un lenguaje claro",
       "fecha": "2025-12-28T18:57:10.964Z"
+    },
+    {
+      "tema": "uso de conectores y conjunciones",
+      "leccion": "**Uso de conectores y conjunciones**\n\n Los conectores y conjunciones son elementos gramaticales que nos permiten unir oraciones yacentes para crear estructuras más complejas y expresivas. Algunos de los conectores y conjunciones más comunes en español son:\n\n* **Conectores de adición**: \"Y\", \"también\", \"asimismo\". Ejemplo: \"Me gusta leer y escuchar música\".\n* **Conectores de oposición**: \"Pero\", \"sin embargo\", \"aunque\". Ejemplo: \"Era un día soleado, pero el viento era muy fuerte\".\n* **Conectores de causalidad**: \"Porque\", \"ya que\", \"dado que\". Ejemplo: \"Estoy cansado porque no dormí bien anoche\".\n* **Con",
+      "fecha": "2025-12-28T18:57:19.969Z"
     }
   ],
-  "ultimaActualizacion": 1766948230965
+  "ultimaActualizacion": 1766948239970
 }
