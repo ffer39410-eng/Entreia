@@ -1,5 +1,5 @@
 {
-  "iq": 1650,
+  "iq": 1654,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2378,16 +2378,17 @@
     "sufrir",
     "cambios",
     "bruscos",
-    "inesperados"
+    "inesperados",
+    "cancel",
+    "laboral",
+    "imprevistas",
+    "familiar",
+    "descubrir",
+    "explicitan"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo funcionan los tiempos verbales?",
-      "respuesta": "Los tiempos verbales son una forma de expresar la relación entre el momento al que se hace referencia (el momento de la acción) y el momento en que se habla o se escribe. Hay varios tiempos verbales, como el presente, pasado simple, pasado perfecto, futuro, entre otros, cada uno de ellos con una función específica y reglas de uso. Por ejemplo, el presente se utiliza para describir acciones o estados que suceden en el momento actual, como \"Escribo una carta\". Mientras que el pasado simple se utiliza para describir acciones o estados que sucedieron en el pasado, como \"Escribí una carta\".",
-      "fecha": "2025-12-28T19:23:12.457Z"
-    },
     {
       "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
       "respuesta": "Para expresar emociones de forma efectiva, es importante ser auténtico y genuino en tu comunicación. Puedes hacer esto utilizando lenguaje corporal como la postura, los gestos y los ojos para reflejar la intensidad de tus emociones. Por ejemplo, si estás hablando de un evento emocionante, puedes usar gestos amplios y una postura erguida para mostrar entusiasmo.",
@@ -3382,8 +3383,13 @@
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual se refiere a la capacidad de un texto para transmitir una idea o mensaje claro y consistente a través de toda su estructura. Esto significa que el lector puede seguir con facilidad la línea de razonamiento o la conexión lógica entre las ideas presentadas en el texto, sin sufrir cambios bruscos o inesperados en la narrativa. Por ejemplo, en un ensayo, la coherencia textual se logra cuando el autor conecta sus ideas con frases de transición y utiliza conceptos relacionados para mantener la lógica del texto.",
       "fecha": "2025-12-28T21:01:39.843Z"
+    },
+    {
+      "pregunta": "¿Cómo funciona la comprensión del contexto?",
+      "respuesta": "La comprensión del contexto implica analizar el lenguaje y la información proporcionada para determinar su significado y relevancia en un contexto específico. Esto requiere considerar el tema, el tono, el objetivo y el público destinatario del mensaje. Por ejemplo, si se lee una oración que dice \"La reunión se canceló\", en un contexto laboral, se puede inferir que la reunión se canceló debido a circunstancias imprevistas, mientras que en un contexto familiar, podría ser debido a problemas personales. La comprensión del contexto ayuda a descubrir detalles importantes que no se explicitan en el texto.",
+      "fecha": "2025-12-28T21:01:47.913Z"
     }
   ],
-  "ultimaActualizacion": 1766955699844,
-  "preguntasHechas": 243
+  "ultimaActualizacion": 1766955707915,
+  "preguntasHechas": 244
 }
