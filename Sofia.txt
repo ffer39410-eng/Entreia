@@ -1,5 +1,5 @@
 {
-  "iq": 2079,
+  "iq": 2086,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2667,16 +2667,14 @@
     "deje",
     "llevar",
     "fundamento",
-    "obtiene"
+    "obtiene",
+    "stica",
+    "alterar",
+    "luces"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo se estructura una buena argumentación?",
-      "respuesta": "Una buena argumentación se estructura a través de varias fases clave. Primero, se define el tema a debatir o el problema a resolver, seguido de una tesis clara y concisa que resume la posición del hablante. A continuación, se presentan pruebas y evidencias sólidas que respaldan la tesis, tales como datos, estadísticas o citas de expertos. Finalmente, se refutan posibles objeciones y contrapuntos para robustecer la argumentación y demostrar la solidez del razonamiento.",
-      "fecha": "2025-12-28T20:16:27.716Z"
-    },
     {
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras que indican la relación entre un sustantivo o un grupo de palabras y otros elementos de la oración, como lugares, tiempos, maneras, etc. Algunas preposiciones comunes son \"en\", \"a\", \"de\", \"con\", \"sin\", \"entre\", etc. Estas palabras ayudan a dar contexto y claridad a la oración, permitiendo al lector o oyente entender mejor la información que se transmite.\n\nPor ejemplo: \"La casa está en la calle principal\" (la preposición \"en\" indica la ubicación de la casa).",
@@ -3671,8 +3669,13 @@
       "pregunta": "¿Cómo se estructura una buena argumentación?",
       "respuesta": "Una buena argumentación se estructura en cuatro componentes básicos: Tesis, Premisas, Inferencia y Conclusión. La tesis es el enunciado principal que se pretende demostrar o refutar. Las premisas son los hechos o ideas que se utilizan como base para apoyar la tesis. La inferencia es el proceso de razonamiento que se utiliza para conectar las premisas con la tesis. Finalmente, la conclusión es la respuesta final que se obtiene al combinar la tesis y las premisas.",
       "fecha": "2025-12-28T21:15:39.833Z"
+    },
+    {
+      "pregunta": "¿Qué son los sinónimos y antónimos?",
+      "respuesta": "En la lingüística, los sinónimos son palabras o expresiones que tienen un significado similar y pueden ser utilizadas para reemplazar a otra palabra sin alterar el sentido de la oración. Por ejemplo, \"luz\", \"iluminación\" y \"luces\" son sinónimos.\n\nPor otro lado, los antónimos son palabras o expresiones que tienen sentidos opuestos. Por ejemplo, \"grande\" y \"pequeño\" son antónimos.",
+      "fecha": "2025-12-28T21:15:47.659Z"
     }
   ],
-  "ultimaActualizacion": 1766956539835,
-  "preguntasHechas": 327
+  "ultimaActualizacion": 1766956547661,
+  "preguntasHechas": 328
 }
