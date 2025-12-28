@@ -816,7 +816,7 @@
     "presentadas"
   ],
   "lecciones": 14,
-  "conversaciones": 3,
+  "conversaciones": 4,
   "conocimiento": [
     {
       "tema": "vocabulario técnico y coloquial",
@@ -1039,6 +1039,6 @@
       "fecha": "2025-12-28T19:05:00.260Z"
     }
   ],
-  "ultimaActualizacion": 1766948717567,
+  "ultimaActualizacion": 1766948728012,
   "preguntasHechas": null
 }
