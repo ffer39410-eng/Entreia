@@ -1,5 +1,5 @@
 {
-  "iq": 2957,
+  "iq": 2964,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3122,11 +3122,6 @@
   "conocimiento": [
     {
       "pregunta": "¿Qué es la coherencia textual?",
-      "respuesta": "La coherencia textual se refiere a la calidad de que el texto fluya suavemente, sin saltos ni contradicciones, y que cada idea se conecte lógicamente con las anteriores y siguientes. Un texto coherente tiene una estructura clara y un lenguaje consistente, lo que facilita la comprensión del lector. Por ejemplo, una redacción de un ensayo coherente podría describir el tema principal, luego presentar los argumentos y, finalmente, concluir con una reflexión. La coherencia textual es fundamental para comunicar ideas de manera efectiva.",
-      "fecha": "2025-12-28T21:11:23.847Z"
-    },
-    {
-      "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual se refiere a la capacidad de un texto para mantener una conexión lógica y consistente entre las ideas, conceptos y oraciones que lo componen. Es la habilidad de expresar pensamientos y opiniones de manera clara y ordenada, sin saltos ni contradicciones. Por ejemplo, si escribimos sobre un viaje a la playa, la coherencia textual nos permite describir la llegada, la estancia y la partida de manera lógica y consecutiva. Esto ayuda a los lectores a seguir y comprender el texto de manera fácil.",
       "fecha": "2025-12-28T21:11:31.703Z"
     },
@@ -4119,8 +4114,13 @@
       "pregunta": "¿Cuáles son las reglas de la gramática española?",
       "respuesta": "La gramática española es un conjunto de reglas que rigen la estructura y el uso de la lengua. Algunas de las reglas más importantes incluyen la declinación de los substantivos, los adjetivos y los verbos, así como las reglas de concordancia y de concordancia de género y número. Por ejemplo, el substantivo \"la casa\" es femenino, por lo que se concuerda con el artículo \"la\", mientras que el substantivo \"el libro\" es masculino, por lo que se concuerda con el artículo \"el\".",
       "fecha": "2025-12-28T21:50:11.771Z"
+    },
+    {
+      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
+      "respuesta": "Las preposiciones son palabras que se utilizan para indicar la relación entre un objeto o un sujeto y otro elemento en una oración. Sirven para expresar conceptos como ubicación, dirección, tiempo, cantidad, propósito, causa, etc. Por ejemplo: \"Estoy en la biblioteca\" (ubicación), \"Voy hacia la playa\" (dirección), \"Tengo tres libros\" (cantidad).",
+      "fecha": "2025-12-28T21:50:19.621Z"
     }
   ],
-  "ultimaActualizacion": 1766958611774,
-  "preguntasHechas": 494
+  "ultimaActualizacion": 1766958619621,
+  "preguntasHechas": 495
 }
