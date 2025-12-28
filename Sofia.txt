@@ -1,5 +1,5 @@
 {
-  "iq": 1449,
+  "iq": 1454,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2241,16 +2241,17 @@
     "conectivo",
     "dependen",
     "quise",
-    "condicionales"
+    "condicionales",
+    "analogía",
+    "bebe",
+    "energético",
+    "siente",
+    "parece",
+    "sentirme"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué es la coherencia textual?",
-      "respuesta": "La coherencia textual se refiere a la capacidad de un texto para mantener una relación lógica y clara entre las diferentes ideas, conceptos y oraciones que lo componen. Esto implica que cada idea se relaciona con las anteriores y posteriores de manera coherente, facilitando la comprensión y la navegación del lector. Por ejemplo, un texto sobre un viaje en el que se describe el itinerario de la ruta, la descripción de las atracciones visitadas y la experiencia personal obtenida, tendría una buena coherencia textual si cada oración se relacionara lógicamente con las anteriores. En otros términos, la coherencia textual es como una historia bien hilada, donde cada capítulo se ajusta perfectamente al anterior.",
-      "fecha": "2025-12-28T19:11:18.894Z"
-    },
     {
       "pregunta": "¿Cuáles son las reglas de la gramática española?",
       "respuesta": "La gramática española es la base del lenguaje y se compone de varias reglas que rigen la estructura y el uso de las palabras. Algunas de las reglas más importantes incluyen:\n\n- El uso de los artículos (el, la, los, las) antes de los sustantivos.\n- La concordancia de género y número entre el sustantivo y la adjetivación.\n- El uso de los verbos en pasado (fue, vino) y en presente (soy, hago).\n\nEstas reglas ayudan a crear oraciones claras y comprensibles que expresan ideas y pensamientos de manera efectiva.",
@@ -3245,8 +3246,13 @@
       "pregunta": "¿Cómo se construyen oraciones complejas en español?",
       "respuesta": "Para construir oraciones complejas en español, debemos utilizar conectivos como \"y\", \"pero\", \"porque\", \"aunque\" y \"si\" para unir oraciones independientes. Por ejemplo: \"Estudié todo el día y pasé la noche haciendo mi tarea\". En esta oración, \"estudié todo el día\" y \"pasé la noche haciendo mi tarea\" son dos oraciones independientes unidas por el conectivo \"y\".\n\nOtra forma de crear oraciones complejas es utilizando subordinadas, es decir, oraciones que dependen de otra oración principal. Por ejemplo: \"Quise ir al parque porque el tiempo estaba soleado\". En esta oración, \"el tiempo estaba soleado\" es una subordinada que depende de \"Quise ir al parque\".\n\nAdemás, podemos crear oraciones complejas utilizando oraciones condicionales, como \"si... entonces\" o \"",
       "fecha": "2025-12-28T20:44:59.757Z"
+    },
+    {
+      "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
+      "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de analizar y evaluar información, llegar a conclusiones lógicas y mantener una argumentación coherente. Implica utilizar principios de lógica, como la causalidad, la correlación y la analogía, para llegar a una conclusión razonable. Por ejemplo, si alguien afirma que \"cuanto más se bebe café, más energético se siente\", un razonamiento lógico podría ser \"si bebo café, me siento más energético, por lo que parece que el café me ayuda a sentirme más energético\".",
+      "fecha": "2025-12-28T20:45:07.626Z"
     }
   ],
-  "ultimaActualizacion": 1766954699759,
-  "preguntasHechas": 205
+  "ultimaActualizacion": 1766954707627,
+  "preguntasHechas": 206
 }
