@@ -1,5 +1,5 @@
 {
-  "iq": 1608,
+  "iq": 1612,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2352,16 +2352,15 @@
     "viernes",
     "sábado",
     "domingo",
-    "conectada"
+    "conectada",
+    "directamente",
+    "enriquecedora",
+    "recorrido",
+    "explícita"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo se usa la puntuación correctamente?",
-      "respuesta": "La puntuación es un elemento fundamental en la escritura para comunicar ideas de manera clara y eficaz. Utiliza la puntuación para separar oraciones entre sí, como el punto (.), el signo de interrogación (?) y el signo de exclamación (!). También puedes usar comas (,) para separar ideas dentro de una oración, como en la frase \"Vine a la ciudad, donde me esperaba un amigo\".",
-      "fecha": "2025-12-28T19:22:08.456Z"
-    },
     {
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual se refiere a la capacidad de un texto para mantener una estructura lógica y un enlace entre sus diferentes partes, lo que permite a los lectores seguir la línea de razonamiento y comprender el mensaje de manera efectiva. Una buena coherencia textual se logra a través de la selección de palabras y frases que trabajen juntas para crear una narrativa clara y cohesiva. Por ejemplo, en un texto científico, la coherencia textual puede lograrse al presentar información de manera sistemática y relacionada, utilizando transiciones y conectores lingüísticos para conectar ideas y conceptos.",
@@ -3356,8 +3355,13 @@
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual es la propiedad de un texto que permite que las ideas y los conceptos se relacionen entre sí de manera lógica y sistemática, creando una unidad y una estructura clara. Esto se logra a través de la selección y organización de palabras, frases y oraciones de manera que cada parte del texto contribuya a la comprensión general del tema. Por ejemplo, en un ensayo sobre la importancia de la educación, cada oración debe estar conectada a las demás para que el lector pueda seguir el argumento y comprender la idea principal.",
       "fecha": "2025-12-28T21:00:35.696Z"
+    },
+    {
+      "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
+      "respuesta": "Las metáforas son comparaciones implícitas entre dos conceptos o ideas que no están relacionados directamente, utilizadas para describir o explicar algo de manera creativa y enriquecedora. Por ejemplo, \"la vida es un viaje\" es una metáfora que compara la vida con un recorrido a través de diferentes lugares, destacando la idea de que la vida tiene sus propias etapas y desafíos. Esta comparación no se establece de manera explícita, pero ayuda a crear una imagen mental más vívida y evocadora del concepto en cuestión.",
+      "fecha": "2025-12-28T21:00:43.746Z"
     }
   ],
-  "ultimaActualizacion": 1766955635697,
-  "preguntasHechas": 235
+  "ultimaActualizacion": 1766955643748,
+  "preguntasHechas": 236
 }
