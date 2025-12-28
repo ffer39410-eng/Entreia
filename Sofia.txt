@@ -1,5 +1,5 @@
 {
-  "iq": 2330,
+  "iq": 2337,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2811,16 +2811,15 @@
     "experimentando",
     "regla",
     "conjugue",
-    "conc"
+    "conc",
+    "aceptaría",
+    "consideraría",
+    "caer",
+    "aceptación"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué es el pensamiento crítico?",
-      "respuesta": "El pensamiento crítico es la habilidad de analizar información, evaluar evidencia y tomar decisiones informadas de manera objetiva. Implica cuestionar suposiciones, reconocer sesgos y considerar múltiples perspectivas para llegar a conclusiones bien fundadas. Por ejemplo, al leer un artículo de noticias, un pensador crítico no solo leería la información, sino que también analizaría la fuente, buscando señales de sesgo o parcialidad, y evaluaría la evidencia presentada para verificar su validez. Este proceso de pensamiento ayuda a evitar la toma de decisiones precipitada y a adoptar una postura más informada y reflexiva.",
-      "fecha": "2025-12-28T20:35:39.678Z"
-    },
     {
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual es una propiedad de la escritura que se refiere a la conexión lógica entre las ideas y oraciones que se presentan en un texto. Un texto coherente debe tener una estructura clara y una secuencia de ideas que se relacionan entre sí de manera lógica. Por ejemplo, cuando se describe un proceso, como cómo preparar un plato de comida, la coherencia textual implica que cada paso esté relacionado con el anterior y que el lector pueda seguir con facilidad la secuencia de acciones.",
@@ -3815,8 +3814,13 @@
       "pregunta": "¿Cuáles son las reglas de la gramática española?",
       "respuesta": "La gramática española tiene varias reglas fundamentales que ayudan a estructurar la lengua y a comunicar ideas de manera efectiva. Una de las reglas básicas es la concordancia de género y número en el sustantivo y el adjetivo, es decir, que tanto el sustantivo como el adjetivo deben ser masculino o femenino y singular o plural. Por ejemplo, \"el libro\" (masculino singular) debe ir con el adjetivo \"bueno\" (masculino singular) en lugar de \"buena\".\n\nOtra regla importante es la concordancia de número en el verbo, que se refiere a la forma en que el verbo se conjugue según el número de sujeto. Por ejemplo, \"yo como\" (singular) se convierte en \"nosotros comemos\" (plural) cuando el sujeto es plural.\n\nLa regla de la conc",
       "fecha": "2025-12-28T21:21:55.958Z"
+    },
+    {
+      "pregunta": "¿Qué es el pensamiento crítico?",
+      "respuesta": "El pensamiento crítico es un proceso mental que implica analizar y evaluar información, ideas y argumentos de manera objetiva y reflexiva. Se trata de cuestionar suposiciones, identificar debilidades y fortalezas, y considerar múltiples perspectivas para llegar a conclusiones informadas. Por ejemplo, al leer un artículo periodístico, un pensador crítico no solo aceptaría la información que se presenta, sino que también buscaría verificar sus fuentes y consideraría posibles sesgos y prejuicios. Esto permite tomar decisiones más informadas y no caer en la aceptación ciega de información.",
+      "fecha": "2025-12-28T21:22:03.712Z"
     }
   ],
-  "ultimaActualizacion": 1766956915961,
-  "preguntasHechas": 374
+  "ultimaActualizacion": 1766956923715,
+  "preguntasHechas": 375
 }
