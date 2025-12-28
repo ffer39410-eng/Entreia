@@ -1,5 +1,5 @@
 {
-  "iq": 1178,
+  "iq": 1182,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1992,16 +1992,12 @@
     "entendidas",
     "comúnmente",
     "disco",
-    "duro"
+    "duro",
+    "unidos"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cuáles son las reglas de la gramática española?",
-      "respuesta": "La gramática española tiene reglas importantes para la construcción de oraciones y la formación de palabras. Una de estas reglas es la concordancia de género y número, que establece que los artículos, adjetivos y sustantivos deben concordar en género y número. Por ejemplo, en la oración \"El estudiante es inteligente\", el artículo \"el\" es masculino singular y concuerda con el sustantivo \"estudiante\". Otro ejemplo es la concordancia de persona, que establece que los verbos deben concordar con el sujeto en número y persona. Por ejemplo, en la oración \"Yo estudio español\", el verbo \"estudio\" es en primer persona singular y concuerda con el sujeto \"yo\".",
-      "fecha": "2025-12-28T19:02:36.278Z"
-    },
     {
       "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
       "respuesta": "Las metáforas son una figura retórica que permite atribuir características de un objeto, concepto o idea a otro, creando un vínculo poético y evocador entre ellos. Por ejemplo, \"Ella es una estrella en el cielo de la música\" (aquí se compara a una persona con una estrella, destacando su brillantez y talento). Esta herramienta literaria permite expresar ideas complejas de manera más creativa y memorable. Es frecuente encontrar metáforas en la literatura, la poesía y la comunicación pública.",
@@ -2996,8 +2992,13 @@
       "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
       "respuesta": "El vocabulario técnico se refiere a las palabras y expresiones utilizadas en un campo específico de conocimiento o actividad, como la medicina, la informática o la ingeniería, y que requieren un conocimiento especializado para ser entendidas. Por otro lado, el vocabulario coloquial es el lenguaje informal y comúnmente utilizado en la vida diaria, que puede variar según la región y la cultura.\n\nUn ejemplo es la palabra \"disco duro\" en informática, que es un término técnico, mientras que en la vida cotidiana se utiliza el término \"disco\" de manera coloquial para referirse a un tipo de música.",
       "fecha": "2025-12-28T20:32:27.816Z"
+    },
+    {
+      "pregunta": "¿Qué son los conectores y cómo se usan?",
+      "respuesta": "Los conectores son palabras y expresiones que se utilizan para unir oraciones, frases o ideas en una comunicación. Ayudan a establecer relaciones lógicas entre las ideas presentadas, como la causalidad, la contraste, la consecuencia, la adición o la enumeración. Por ejemplo: \"Y\" (unidos para formar un solo evento), \"Pero\" (indicando un cambio de idea), \"Porque\" (indicando una causa y efecto).",
+      "fecha": "2025-12-28T20:32:35.710Z"
     }
   ],
-  "ultimaActualizacion": 1766953947817,
-  "preguntasHechas": 151
+  "ultimaActualizacion": 1766953955711,
+  "preguntasHechas": 152
 }
