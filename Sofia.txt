@@ -1,5 +1,5 @@
 {
-  "iq": 2318,
+  "iq": 2323,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2814,11 +2814,6 @@
   "conversaciones": 6,
   "conocimiento": [
     {
-      "pregunta": "¿Cómo se estructura una buena argumentación?",
-      "respuesta": "Una buena argumentación se estructura en cinco pasos clave: \n\n1. **Tesis**: Se presenta la afirmación principal o proposición que se va a defender. \n2. **Soporte**: Se presentan los hechos, pruebas, ejemplos y razones que respaldan la tesis. \n3. **Contraargumentación**: Se identifican y se responden los posibles argumentos contrarios a la tesis. \n4. **Refutación**: Se desestiman los argumentos contrarios y se refuerza la validez de la tesis. \n5. **Conclusión**: Se resume la argumentación y se resume la importancia de la tesis.",
-      "fecha": "2025-12-28T20:35:23.808Z"
-    },
-    {
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es la habilidad de analizar información, evaluar evidencia y tomar decisiones informadas de manera objetiva y reflexiva. Implica cuestionar suposiciones y perspectivas, sopesar argumentos y considerar múltiples perspectivas para llegar a una conclusión bien fundamentada. Por ejemplo, al leer un artículo periodístico, un pensador crítico evaluaría la credibilidad de la fuente, la calidad de la evidencia presentada y la lógica del argumento antes de aceptar o rechazar la información presentada. Esto requiere una actitud abierta y receptiva a nuevas ideas y la capacidad de defender sus propias opiniones con argumentos sólidos.",
       "fecha": "2025-12-28T20:35:31.793Z"
@@ -3812,8 +3807,13 @@
       "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
       "respuesta": "Para expresar emociones de forma efectiva, es importante identificarlas y reconocer el momento adecuado para expresarlas. Puedes hacerlo de la siguiente manera: * Identifica tus emociones y no reprimas tus sentimientos. * Utiliza un lenguaje corporal abierto y no agresivo. * Expresa tus emociones de manera clara y directa, pero sin ser agresivo o pasivo. * Utiliza un tono de voz que refleje la emoción que estás experimentando.\n\nPor ejemplo, si estás enojado con alguien, puedes decir algo como: \"Me estoy sintiendo frustrado/enfadado porque...\".",
       "fecha": "2025-12-28T21:21:39.799Z"
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
+      "respuesta": "El vocabulario técnico se refiere a las palabras y expresiones utilizadas en un campo específico de estudio o profesión, como la medicina, la ingeniería o la economía. Por ejemplo, un médico utiliza términos técnicos como \"angiografía\" o \"quirúrgico\" en su práctica diaria.\n\nPor otro lado, el vocabulario coloquial se refiere a las palabras y expresiones utilizadas en la comunicación informal y cotidiana, como en la conversación con amigos o familiares. Por ejemplo, en lugar de decir \"estoy enfermo\", alguien podría decir \"me siento mal\".\n\nLa diferencia entre ambos es que el vocabulario técnico se utiliza en contextos formales y especializados, mientras que el vocabulario coloquial se utiliza en contextos informales y generales.",
+      "fecha": "2025-12-28T21:21:47.769Z"
     }
   ],
-  "ultimaActualizacion": 1766956899802,
-  "preguntasHechas": 372
+  "ultimaActualizacion": 1766956907771,
+  "preguntasHechas": 373
 }
