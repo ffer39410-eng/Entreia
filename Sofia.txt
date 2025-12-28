@@ -1,5 +1,5 @@
 {
-  "iq": 1561,
+  "iq": 1568,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2312,16 +2312,14 @@
     "separación",
     "ligeras",
     "diferencias",
-    "financieras"
+    "financieras",
+    "ilumin",
+    "habitación",
+    "reemplazar"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo se usa la puntuación correctamente?",
-      "respuesta": "La puntuación es esencial en la escritura para transmitir ideas y mensajes de manera clara y efectiva. Se utiliza para separar las oraciones, indicar pausas y enfatizar puntos importantes. Algunos ejemplos son el uso de la coma para separar detalles en una oración, el punto y coma para separar oraciones que están relacionadas, y el signo de exclamación para expresar emoción o sorpresa.",
-      "fecha": "2025-12-28T19:20:56.032Z"
-    },
     {
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar información, argumentos y creencias de manera objetiva y sistemática, buscando evidencia y fundamentos lógicos que respalden las afirmaciones. Esto implica cuestionar suposiciones y asunciones, identificar sesgos y parcialidades, y considerar diferentes perspectivas y perspectivas. Por ejemplo, al leer un artículo periodístico, un pensador crítico evaluaría la fuente de la información, el lenguaje utilizado y la coherencia del argumento para determinar la validez y la credibilidad del contenido.",
@@ -3316,8 +3314,13 @@
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "Los sinónimos son palabras que tienen el mismo significado o expresan una idea similar, aunque pueden tener ligeras diferencias en su tono o contexto. Por ejemplo, la palabra \"feliz\" es sinónimo de \"alegre\" o \"contento\". \n\nLos antónimos, por otro lado, son palabras que expresan ideas opuestas. Por ejemplo, \"rico\" y \"pobre\" son antónimos, ya que se refieren a situaciones financieras opuestas.",
       "fecha": "2025-12-28T20:55:00.114Z"
+    },
+    {
+      "pregunta": "¿Qué son los sinónimos y antónimos?",
+      "respuesta": "Los sinónimos son palabras que tienen el mismo significado o una acepción similar, como \"luz\" y \"iluminación\". Por ejemplo, en la oración \"La luz del sol iluminó la habitación\", podemos reemplazar \"luz\" con \"iluminación\" sin cambiar el significado de la oración.\n\nPor otro lado, los antónimos son palabras que tienen significados opuestos, como \"feliz\" y \"triste\". Por ejemplo, en la oración \"Ella estaba feliz, mientras que él estaba triste\", la palabra \"feliz\" y \"triste\" se utilizan para expresar dos sentimientos opuestos.",
+      "fecha": "2025-12-28T20:56:35.838Z"
     }
   ],
-  "ultimaActualizacion": 1766955300115,
-  "preguntasHechas": 226
+  "ultimaActualizacion": 1766955395839,
+  "preguntasHechas": 227
 }
