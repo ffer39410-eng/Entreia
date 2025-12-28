@@ -1,5 +1,5 @@
 {
-  "iq": 2000,
+  "iq": 2003,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2631,16 +2631,13 @@
     "estudios",
     "demuestran",
     "interlocutores",
-    "verbes"
+    "verbes",
+    "cocinar",
+    "receta"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo se estructura una buena argumentación?",
-      "respuesta": "Una buena argumentación se estructura en torno a tres componentes clave: la premisa, el núcleo y la conclusión. La premisa es el punto de partida, la información o el enunciado inicial que se utiliza para apoyar la argumentación. El núcleo es el nudo central de la argumentación, la idea o el razonamiento que se intenta probar o demostrar. La conclusión es el resultado final, la conclusión lógica que se extrae de la premisa y el núcleo.",
-      "fecha": "2025-12-28T20:12:35.461Z"
-    },
     {
       "pregunta": "¿Cuáles son las reglas de la gramática española?",
       "respuesta": "La gramática española se basa en una serie de reglas y estructuras que rigen la formación de las palabras y la construcción de las oraciones. Algunas de las reglas fundamentales incluyen la flexión de los sustantivos, adjetivos y verbos, así como la conjugación de los verbos en diferentes tiempos y modos. Además, hay reglas para la formación de las oraciones simples y compuestas, como la utilización de conjunciones y preposiciones. Por ejemplo, en español, el artículo definido se utiliza en singular (el, la, los, las) y en plural (los, las).",
@@ -3635,8 +3632,13 @@
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales son una parte fundamental de la gramática en español. Funcionan como una forma de indicar cuándo y cómo ocurren los eventos relacionados con el verbo principal en una oración. En español, existen varios tiempos verbales, como el presente, el pasado, el futuro, el condicional, el imperativo, entre otros.\n\nPor ejemplo, el verbo \"ir\" en el presente implica que la acción se está realizando en el momento de la conversación (Yo voy al parque), mientras que en el pasado implica que la acción ya se ha completado (Yo fui al parque). Esta misma lógica se aplica a otros tiempos verbales y verbes.",
       "fecha": "2025-12-28T21:13:39.830Z"
+    },
+    {
+      "pregunta": "¿Qué es la coherencia textual?",
+      "respuesta": "La coherencia textual se refiere a la propiedad de un texto que permite comprender fácilmente la relación entre las diferentes ideas, frases y oraciones que lo componen. Esto se logra mediante la conexión lógica entre las ideas principales y la utilización de conectores, como \"además\", \"por otro lado\" o \"en consecuencia\". Por ejemplo, en un texto que explica los pasos para cocinar un plato, cada oración debe estar relacionada con la anterior y la siguiente para que el lector pueda seguir la receta de manera clara.",
+      "fecha": "2025-12-28T21:13:48.028Z"
     }
   ],
-  "ultimaActualizacion": 1766956419831,
-  "preguntasHechas": 312
+  "ultimaActualizacion": 1766956428030,
+  "preguntasHechas": 313
 }
