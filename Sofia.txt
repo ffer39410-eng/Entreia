@@ -1,5 +1,5 @@
 {
-  "iq": 1593,
+  "iq": 1598,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2357,11 +2357,6 @@
   "conversaciones": 6,
   "conocimiento": [
     {
-      "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
-      "respuesta": "Para expresar emociones de forma efectiva, es importante ser auténtico y genuino en lo que expresas. Por ejemplo, si estás enfadado, en lugar de decir \"Me enojó mucho\", puedes decir \"Me siento frustrado porque...\". Esto ayuda a conectar con los demás y a comunicar mejor tus sentimientos.",
-      "fecha": "2025-12-28T19:21:44.197Z"
-    },
-    {
       "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
       "respuesta": "Las metáforas son una figura retórica que consiste en comparar dos conceptos o ideas diferentes utilizando \"es\" para expresar una relación entre ellos. Por ejemplo, \"El mundo es un escenario\" o \"La vida es un viaje\". Esto permite crear imágenes y representaciones creativas que ayudan a comunicar ideas y emociones de manera más efectiva y evocadora. En el lenguaje, las metáforas se utilizan para enriquecer la expresión y dar profundidad a la comunicación.",
       "fecha": "2025-12-28T19:21:52.257Z"
@@ -3355,8 +3350,13 @@
       "pregunta": "¿Cómo se usa la puntuación correctamente?",
       "respuesta": "La puntuación es un elemento fundamental en la escritura y la comunicación efectiva. Utiliza comas para separar ideas o listados, puntos para enumerar conceptos y paréntesis para aclarar o agregar detalles. Por ejemplo, \"Los días de la semana son: lunes, martes, miércoles, jueves, viernes, sábado y domingo.\"",
       "fecha": "2025-12-28T20:57:15.844Z"
+    },
+    {
+      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
+      "respuesta": "Las preposiciones son palabras que se utilizan para indicar la relación entre un objeto o persona y otro elemento en la oración. Ejemplos de preposiciones son \"en\", \"de\", \"con\", \"sin\", entre otras. Por ejemplo: \"El libro está en la mesa\" (indica la relación entre el libro y la mesa). Sirven para proporcionar información sobre el lugar, tiempo, causa, resultado, etc. de un evento o acción.",
+      "fecha": "2025-12-28T21:00:19.901Z"
     }
   ],
-  "ultimaActualizacion": 1766955435846,
-  "preguntasHechas": 232
+  "ultimaActualizacion": 1766955619902,
+  "preguntasHechas": 233
 }
