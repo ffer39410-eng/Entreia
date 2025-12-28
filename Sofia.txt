@@ -1,5 +1,5 @@
 {
-  "iq": 2238,
+  "iq": 2245,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2760,16 +2760,12 @@
     "militar",
     "cantidades",
     "geografía",
-    "origen"
+    "origen",
+    "frecuencia"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo funciona la comprensión del contexto?",
-      "respuesta": "La comprensión del contexto es el proceso de identificar y analizar la información relevante que rodea un texto, oración o situación para entender su significado y propósito. Esto implica considerar el contexto social, cultural, histórico y emocional en el que se produce la comunicación. Por ejemplo, si lees una oración que dice \"La casa es azul\", sin contexto, podrías interpretar que la casa es literalmente azul. Sin embargo, si sabes que la oración forma parte de una historia de fantasía donde las casas pueden tener colores mágicos, entonces el contexto cambia y la interpretación también.\n\nLa comprensión del contexto es fundamental en la comunicación para evitar malentendidos y asegurarnos de que entendemos la información de manera precisa.",
-      "fecha": "2025-12-28T20:33:23.792Z"
-    },
     {
       "pregunta": "¿Cómo se usa la puntuación correctamente?",
       "respuesta": "La puntuación es fundamental para expresar claramente el significado de un texto. Utiliza los signos de puntuación para separar ideas, indicar pausas y enfatizar ciertas palabras o frases. Por ejemplo, utiliza la coma (,) para separar elementos en una lista o la puntuación en frases independientes, como en \"Voy a la tienda, comprare un libro y regresaré a casa\".\n\nUna buena puntuación también ayuda a evitar la ambigüedad y a mejorar la claridad de un texto. Algunos ejemplos de puntuación incorrecta incluyen la falta de puntos finales en las oraciones completas o el uso excesivo de comas.\n\nRecuerda que la puntuación es un aspecto importante del lenguaje escrito y que su uso correcto puede hacer una gran diferencia en la claridad y la eficacia de tus comunicaciones escrit",
@@ -3764,8 +3760,13 @@
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras que indican la relación entre un sustantivo o un grupo de palabras y otro elemento en la oración, como un lugar, un tiempo, una cantidad o una relación. Algunas preposiciones comunes son \"en\", \"de\", \"con\", \"para\" y \"entre\". Por ejemplo: \"Estoy en la playa\" (indica el lugar donde estoy), \"Tengo un libro de geografía\" (indica el origen del libro), o \"Me reuniré con mis amigos mañana\" (indica la relación con los demás).\n\nLas preposiciones ayudan a establecer la conexión entre los diferentes elementos en la oración y a darle claridad y coherencia al mensaje.",
       "fecha": "2025-12-28T21:19:39.764Z"
+    },
+    {
+      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
+      "respuesta": "Las preposiciones son palabras que se utilizan para indicar la relación entre un sustantivo o un grupo de palabras y otro sustantivo, un lugar, un tiempo o una acción. Sirven para especificar la ubicación, la dirección, la relación, la duración o la frecuencia de un evento o una acción. Por ejemplo: \"La casa está en la calle principal\" (indicando ubicación), \"El libro está sobre la mesa\" (indicando relación de posición) o \"Me voy a la playa mañana\" (indicando tiempo).",
+      "fecha": "2025-12-28T21:19:47.864Z"
     }
   ],
-  "ultimaActualizacion": 1766956779765,
-  "preguntasHechas": 357
+  "ultimaActualizacion": 1766956787865,
+  "preguntasHechas": 358
 }
