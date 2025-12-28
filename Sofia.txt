@@ -1,5 +1,5 @@
 {
-  "iq": 234,
+  "iq": 241,
   "vocabulario": [
     "claro",
     "sofia",
@@ -667,7 +667,14 @@
     "idioma",
     "produce",
     "realizando",
-    "amigo"
+    "amigo",
+    "aspecto",
+    "desarrolla",
+    "perfecto",
+    "come",
+    "manzana",
+    "comer",
+    "sucediendo"
   ],
   "lecciones": 14,
   "conversaciones": 1,
@@ -841,8 +848,13 @@
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales son una parte fundamental de la gramática en cualquier idioma, y su función es indicar el momento en que se produce una acción o el estado en que se encuentra algo. Existen varios tiempos verbales, como el presente, el pasado, el futuro, etc., y cada uno de ellos tiene un significado específico. Por ejemplo, el verbo \"hablar\" en el presente se utiliza para describir una acción que se está realizando en el momento actual, como \"Estoy hablando con mi amigo\".",
       "fecha": "2025-12-28T19:03:40.285Z"
+    },
+    {
+      "pregunta": "¿Cómo funcionan los tiempos verbales?",
+      "respuesta": "Los tiempos verbales son un aspecto fundamental de la gramática en cualquier idioma, y su función es indicar el momento en que se desarrolla una acción o un estado. Hay diferentes tiempos verbales, como el pasado simple, el presente simple, el futuro simple, el pasado perfecto y el futuro perfecto, entre otros. Por ejemplo, la oración \"Ella come una manzana\" utiliza el presente simple para indicar que la acción de comer una manzana está sucediendo en el momento actual.",
+      "fecha": "2025-12-28T19:03:48.196Z"
     }
   ],
-  "ultimaActualizacion": 1766948620286,
+  "ultimaActualizacion": 1766948628197,
   "preguntasHechas": null
 }
