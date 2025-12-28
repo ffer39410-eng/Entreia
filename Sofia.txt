@@ -1,5 +1,5 @@
 {
-  "iq": 1647,
+  "iq": 1650,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2374,16 +2374,15 @@
     "escritorio",
     "cama",
     "indicamos",
-    "pasajes"
+    "pasajes",
+    "sufrir",
+    "cambios",
+    "bruscos",
+    "inesperados"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
-      "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de analizar y evaluar información, utilizar reglas y principios, y llegar a conclusiones razonables y precisas. Se trata de pensar críticamente y de utilizar argumentos sólidos para defender una idea o una opinión. Por ejemplo, si alguien dice \"La mayoría de los estudiantes de la universidad prefieren leer libros digitales en lugar de libros impresas\", un argumento lógico podría ser: \"Si la mayoría de los estudiantes prefieren leer en digital, es probable que su edad media sea relativamente joven y que estén acostumbrados a usar tecnología\".\n\nUn razonamiento lógico implica la siguiente secuencia:\n\n* Una afirmación o premisa\n* Una inferencia o conclusión lógica basada en esa afirmación\n* Una justificación o explicación de por qué la conclusión es razonable\n\nAl",
-      "fecha": "2025-12-28T19:23:04.575Z"
-    },
     {
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales son una forma de expresar la relación entre el momento al que se hace referencia (el momento de la acción) y el momento en que se habla o se escribe. Hay varios tiempos verbales, como el presente, pasado simple, pasado perfecto, futuro, entre otros, cada uno de ellos con una función específica y reglas de uso. Por ejemplo, el presente se utiliza para describir acciones o estados que suceden en el momento actual, como \"Escribo una carta\". Mientras que el pasado simple se utiliza para describir acciones o estados que sucedieron en el pasado, como \"Escribí una carta\".",
@@ -3378,8 +3377,13 @@
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual se refiere a la calidad de un texto en términos de la relación lógica y coherente entre sus ideas, ideas o pasajes. Un texto coherente tiene un hilo conductor claro y una estructura lógica que permite al lector seguir y comprender fácilmente el mensaje. Por ejemplo, en un ensayo sobre la importancia de la educación, cada párrafo debe estar relacionado con el anterior para que el lector pueda seguir la línea de argumentación.",
       "fecha": "2025-12-28T21:01:32.687Z"
+    },
+    {
+      "pregunta": "¿Qué es la coherencia textual?",
+      "respuesta": "La coherencia textual se refiere a la capacidad de un texto para transmitir una idea o mensaje claro y consistente a través de toda su estructura. Esto significa que el lector puede seguir con facilidad la línea de razonamiento o la conexión lógica entre las ideas presentadas en el texto, sin sufrir cambios bruscos o inesperados en la narrativa. Por ejemplo, en un ensayo, la coherencia textual se logra cuando el autor conecta sus ideas con frases de transición y utiliza conceptos relacionados para mantener la lógica del texto.",
+      "fecha": "2025-12-28T21:01:39.843Z"
     }
   ],
-  "ultimaActualizacion": 1766955692687,
-  "preguntasHechas": 242
+  "ultimaActualizacion": 1766955699844,
+  "preguntasHechas": 243
 }
