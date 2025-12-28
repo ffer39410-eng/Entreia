@@ -1,5 +1,5 @@
 {
-  "iq": 675,
+  "iq": 680,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1499,7 +1499,8 @@
     "independientes",
     "separadas",
     "tampoco",
-    "siquiera"
+    "siquiera",
+    "propio"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2123,8 +2124,13 @@
       "pregunta": "¿Cómo se construyen oraciones complejas en español?",
       "respuesta": "Una oración compleja se construye mediante la combinación de una oración simple con otra oración simple o una frase subordinada, utilizando conectores como \"pues\", \"ya que\", \"aunque\" o \"pero\". Por ejemplo: \"Ella estudió durante horas porque quería aprobar el examen\". En esta oración, \"Ella estudió durante horas\" es la oración principal y \"porque quería aprobar el examen\" es la frase subordinada.\n\nTambién se pueden construir oraciones complejas utilizando oraciones simples independientes, separadas por conectores como \"tampoco\", \"ni\", \"ni siquiera\", etc. Por ejemplo: \"Ella se fue a la playa, pero el sol estaba muy fuerte\". En esta oración, \"Ella se fue a la playa\" es una oración simple y \"pero el sol estaba muy fuerte\" es otra",
       "fecha": "2025-12-28T19:24:00.383Z"
+    },
+    {
+      "pregunta": "¿Cómo funcionan los tiempos verbales?",
+      "respuesta": "Los tiempos verbales en español se refieren a la forma en que se indican las acciones o estados en relación con el tiempo. Hay varios tiempos verbales, como el presente, pasado, futuro, pasado perfecto, futuro perfecto, etc. Por ejemplo, \"yo como\" (presente), \"yo comí\" (pretérito), \"yo comeré\" (futuro simple). Cada tiempo verbal tiene su propio uso y contexto.",
+      "fecha": "2025-12-28T19:24:08.335Z"
     }
   ],
-  "ultimaActualizacion": 1766949840384,
-  "preguntasHechas": 50
+  "ultimaActualizacion": 1766949848335,
+  "preguntasHechas": 51
 }
