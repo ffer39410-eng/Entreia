@@ -1,5 +1,5 @@
 {
-  "iq": 3012,
+  "iq": 3018,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3137,16 +3137,19 @@
     "ocultas",
     "externos",
     "previos",
-    "ayudaría"
+    "ayudaría",
+    "eficiencia",
+    "renovable",
+    "inversión",
+    "eólica",
+    "solar",
+    "asequible",
+    "sostenible",
+    "plazo"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo funcionan los tiempos verbales?",
-      "respuesta": "Los tiempos verbales se utilizan para expresar momentos pasados, presentes o futuros en un lenguaje. Existen varios tiempos verbales, como el presente simple, el presente continuo, el pasado simple y el futuro simple, entre otros. Por ejemplo, la oración \"Yo como\" es en presente simple, mientras que \"Yo comía\" es en pasado simple.",
-      "fecha": "2025-12-28T21:12:51.620Z"
-    },
     {
       "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
       "respuesta": "Las metáforas son comparaciones implícitas que establecen una conexión entre dos realidades diferentes, creando un lenguaje más vivo y expresivo. Por ejemplo, \"Ella es una estrella en el escenario\", lo que sugiere que ella brilla con talento y destaca entre la multitud. Estas comparaciones permiten a los hablantes transmitir ideas complejas de manera más accesible y emocionante.",
@@ -4141,8 +4144,13 @@
       "pregunta": "¿Cómo funciona la comprensión del contexto?",
       "respuesta": "La comprensión de contexto es un proceso mental que permite al lector o oyente entender el significado de un texto o una conversación considerando el entorno en el que se produce. Esto implica tomar en cuenta datos externos como el lugar, el momento, las personas involucradas y los temas previos. Por ejemplo, si alguien dice \"El tren se retrasó\", el contexto ayudaría a entender que es un tren que se está refiriendo y no un avión.",
       "fecha": "2025-12-28T21:51:39.692Z"
+    },
+    {
+      "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
+      "respuesta": "El razonamiento lógico en conversaciones es el proceso de utilizar argumentos, hechos y razones para llegar a una conclusión lógica y coherente. Implica analizar información, identificar patrones y relaciones entre ideas, y llegar a conclusiones que se basan en evidencia y razones sólidas. Por ejemplo, en una conversación sobre la eficiencia de la energía renovable, un razonamiento lógico podría implicar utilizar estadísticas y estudios para demostrar que la inversión en energía eólica o solar es más asequible y sostenible a largo plazo.",
+      "fecha": "2025-12-28T21:51:48.851Z"
     }
   ],
-  "ultimaActualizacion": 1766958699693,
-  "preguntasHechas": 505
+  "ultimaActualizacion": 1766958708852,
+  "preguntasHechas": 506
 }
