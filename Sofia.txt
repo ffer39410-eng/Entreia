@@ -1,5 +1,5 @@
 {
-  "iq": 714,
+  "iq": 717,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1537,7 +1537,11 @@
     "citadas",
     "evalúa",
     "objetividad",
-    "aspectos"
+    "aspectos",
+    "acontece",
+    "expresada",
+    "sucede",
+    "termin"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2201,8 +2205,13 @@
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras que indican la relación entre un objeto o lugar y otro en una oración. Sirven para indicar la ubicación, la dirección, la relación de causalidad, la duración y otros aspectos del texto. Por ejemplo, en la oración \"El libro está sobre la mesa\", la preposición \"sobre\" indica la ubicación del libro en relación con la mesa.",
       "fecha": "2025-12-28T19:25:04.356Z"
+    },
+    {
+      "pregunta": "¿Cómo funcionan los tiempos verbales?",
+      "respuesta": "Los tiempos verbales describen cuando acontece una acción expresada por el verbo. Hay varios tiempos verbales, como el presente, pasado simple, pasado perfecto, futuro simple, entre otros. Por ejemplo, la oración \"Ella come un manzana\" describe una acción que sucede en el presente, mientras que \"Ella comió una manzana\" describe una acción que ya terminó.",
+      "fecha": "2025-12-28T19:25:12.338Z"
     }
   ],
-  "ultimaActualizacion": 1766949904356,
-  "preguntasHechas": 58
+  "ultimaActualizacion": 1766949912340,
+  "preguntasHechas": 59
 }
