@@ -1,5 +1,5 @@
 {
-  "iq": 1225,
+  "iq": 1230,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2035,16 +2035,15 @@
     "nfasis",
     "tomás",
     "sofía",
-    "carlos"
+    "carlos",
+    "regulan",
+    "gato",
+    "masc",
+    "gata"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
-      "respuesta": "Para expresar emociones de forma efectiva, es importante ser auténtico y genuino en tu comunicación. Esto significa reconocer y aceptar tus emociones, y luego exprésalar de manera clara y específica. Por ejemplo, en lugar de decir \"Me siento mal\", podrías decir \"Estoy molesto porque no me respetaron mis necesidades\". Esto ayuda a que los demás entiendan mejor tu punto de vista y te sientas escuchado. Además, es importante escuchar atentamente a los demás y responder de manera empática.",
-      "fecha": "2025-12-28T19:04:04.251Z"
-    },
     {
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "Excelente pregunta, estudiantes. Los sinónimos son palabras o expresiones que tienen el mismo significado o referencia, pero con diferentes sonidos o estructuras. Por ejemplo, \"amigo\" y \"compañero\" son sinónimos. \n\nPor otro lado, los antónimos son palabras o expresiones que tienen significados opuestos. Por ejemplo, \"frio\" y \"calor\" son antónimos.",
@@ -3039,8 +3038,13 @@
       "pregunta": "¿Cómo se usa la puntuación correctamente?",
       "respuesta": "La puntuación es un elemento fundamental en la escritura para expresar ideas y emociones de manera clara y efectiva. Algunas de las reglas básicas para usar la puntuación correctamente incluyen:\n\n- Utilizar la coma (\",\") para separar elementos en una lista o para introducir una explicación adicional.\n- Utilizar el punto (\".\") para finalizar una oración o para indicar un cambio de pensamiento.\n- Utilizar los signos de preguntas (\"?\", \"!\") para solicitar información o para expresar énfasis.\n- Utilizar los signos de exclamación para expresar sorpresa o emoción.\n\nPor ejemplo: \"Voy a la playa con mis amigos: Tomás, Sofía y Carlos. ¡Es mi primer viaje este año!\"",
       "fecha": "2025-12-28T20:33:55.746Z"
+    },
+    {
+      "pregunta": "¿Cuáles son las reglas de la gramática española?",
+      "respuesta": "La gramática española se rige por un conjunto de reglas y patrones que regulan la estructura y el uso de la lengua. Algunas de las reglas más importantes incluyen la declinación de los verbos, la concordancia de género y número de los adjetivos y sustantivos, y la utilización de las preposiciones y conjunciones.\n\nPor ejemplo, en español, el adjetivo debe concordar en género y número con el sustantivo al que modifica. Así, \"el gato\" (masc.) se conjuga con \"feliz\" (masc.), mientras que \"la gata\" (fem.) se conjuga con \"feliz\" (fem.).\n\nAdemás, la gramática española también regula la forma en que se construyen oraciones y frases, incluyendo la utilización de verbos en presente, pretérito y",
+      "fecha": "2025-12-28T20:34:03.923Z"
     }
   ],
-  "ultimaActualizacion": 1766954035749,
-  "preguntasHechas": 162
+  "ultimaActualizacion": 1766954043924,
+  "preguntasHechas": 163
 }
