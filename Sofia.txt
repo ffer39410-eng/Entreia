@@ -1,5 +1,5 @@
 {
-  "iq": 1819,
+  "iq": 1824,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2504,16 +2504,14 @@
     "negarlos",
     "fingir",
     "idéntico",
-    "variada"
+    "variada",
+    "enlaces",
+    "simultáneas",
+    "corro"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
-      "respuesta": "El vocabulario técnico se refiere a palabras y expresiones utilizadas en contextos específicos, como la ciencia, la tecnología, la medicina o la ingeniería, que requieren conocimientos especializados para ser comprendidos. Por otro lado, el vocabulario coloquial se refiere a la forma informal de expresarse en la vida cotidiana, utilizando palabras y frases comunes en la conversación diaria. \n\nPor ejemplo, \"sistema operativo\" es un término técnico, mientras que \"computadora\" es un vocabulario coloquial.",
-      "fecha": "2025-12-28T19:40:59.752Z"
-    },
     {
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras que se utilizan para indicar relación entre un sustantivo o pronombre y otros elementos en una oración, como lugar, dirección, tiempo, propósito, etc. Por ejemplo, en la oración \"La casa está en la calle principal\", la preposición \"en\" indica la relación entre la casa y la calle.\n\nLas preposiciones sirven para:\n\n- Indicar el lugar: \"La biblioteca está en la universidad\".\n- Indicar la dirección: \"Voy a mi casa a la playa\".\n- Indicar el tiempo: \"Me voy a la playa mañana\".\n- Indicar el propósito: \"Estoy estudiando para aprobar el examen\".\n\nEn resumen, las preposiciones ayudan a crear oraciones más precisas y claras al describir la relación entre diferentes elementos.",
@@ -3508,8 +3506,13 @@
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "Los sinónimos son palabras que tienen el mismo significado o casi idéntico, como \"feliz\" y \"alegre\". Por ejemplo: \"Estoy feliz con mi nueva casa\" es igual a \"Estoy alegre con mi nueva casa\".\n\nPor otro lado, los antónimos son palabras que tienen significados opuestos, como \"grande\" y \"pequeño\". Por ejemplo: \"La casa es grande\" es lo opuesto a \"La casa es pequeña\".\n\nEstos términos son fundamentales en la gramática y se utilizan comúnmente en la comunicación para expresar ideas de manera más clara y variada.",
       "fecha": "2025-12-28T21:09:07.611Z"
+    },
+    {
+      "pregunta": "¿Qué son los conectores y cómo se usan?",
+      "respuesta": "Los conectores son palabras o expresiones que se utilizan para unir oraciones, frases o ideas entre sí, permitiendo crear enlaces claros y lógicos en la estructura de un texto o discurso. Algunos ejemplos de conectores son \"y\", \"pero\", \"sin embargo\", \"además\", \"por lo que\", entre otros.\n\nPor ejemplo, si queremos conectar dos oraciones sencillas, podemos usar \"y\" para indicar que se trata de ideas o acciones simultáneas: \"Voy al parque y corro un poco\".",
+      "fecha": "2025-12-28T21:09:15.872Z"
     }
   ],
-  "ultimaActualizacion": 1766956147613,
-  "preguntasHechas": 278
+  "ultimaActualizacion": 1766956155873,
+  "preguntasHechas": 279
 }
