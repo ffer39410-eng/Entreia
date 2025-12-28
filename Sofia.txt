@@ -1,5 +1,5 @@
 {
-  "iq": 1307,
+  "iq": 1310,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2111,16 +2111,18 @@
     "basura",
     "tropezar",
     "piedra",
-    "suelo"
+    "suelo",
+    "recurrir",
+    "crees",
+    "citar",
+    "científicos",
+    "aumento",
+    "gases",
+    "empírica"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo funcionan los tiempos verbales?",
-      "respuesta": "Los tiempos verbales son una parte fundamental de la gramática para expresar diferentes momentos en el tiempo en que se realiza una acción. Hay varios tiempos verbales, como el presente, el pasado simple, el pasado perfecto, el futuro simple, el futuro perfecto, el condicional y el imperativo, cada uno con sus propias reglas y usos.\n\nPor ejemplo, el tiempo presente se utiliza para describir acciones que suceden en el momento actual, como \"Ella come un sandwich\" o \"Él estudió para su examen\". En cambio, el tiempo pasado simple se utiliza para describir acciones que ya han terminado, como \"Ella comió un sandwich ayer\" o \"Él estudió para su examen el año pasado\".",
-      "fecha": "2025-12-28T19:07:21.163Z"
-    },
     {
       "pregunta": "¿Cómo se estructura una buena argumentación?",
       "respuesta": "Una buena argumentación se estructura siguiendo los siguientes pasos: \n\nPrimero, presentas un enunciado o tesis clara y concisa que establece la posición o afirmación principal sobre el tema. Después, presentas razones o pruebas que respaldan esta afirmación, utilizando evidencia y hechos verificables. A continuación, debes refutar posibles objeciones o contrapuntos, demostrando que la argumentación sigue siendo sólida y razonable. Finalmente, concluyes reafirmando la tesis y resaltando la fuerza de la argumentación.",
@@ -3115,8 +3117,13 @@
       "pregunta": "¿Cómo funciona la comprensión del contexto?",
       "respuesta": "La comprensión del contexto es un proceso mental que nos permite entender el significado de un mensaje, texto o situación en función de las circunstancias y condiciones en las que se produce. Esto implica considerar factores como la tono, el entorno, la intención del hablante o escritor y la información previa relevante. Por ejemplo, si alguien te dice \"¡Cuidado!\", mientras estás caminando por una zona con mucha basura, podrías comprender que se refiere a la posibilidad de tropezar con una piedra o un objeto en el suelo.",
       "fecha": "2025-12-28T20:35:55.690Z"
+    },
+    {
+      "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
+      "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de pensar de manera clara y sistemática, analizar información, identificar patrones y conclusiones lógicas, y expresarlas de manera coherente y convincente. Esto implica utilizar argumentos, hechos y razones para apoyar nuestras afirmaciones y respuestas, en lugar de recurrir a suposiciones, emociones o opiniones personales.\n\nPor ejemplo, si alguien te pregunta \"¿Por qué crees que el clima está cambiando?\", un razonamiento lógico podría implicar citar hechos científicos sobre el aumento de gases de efecto invernadero, el calentamiento global y la evidencia empírica que respalda estas afirmaciones. De esta manera, podemos presentar una argumentación clara y convincente que respalde nuestra opinión.\n\nEl razonamiento lógico en conversaciones también",
+      "fecha": "2025-12-28T20:36:03.948Z"
     }
   ],
-  "ultimaActualizacion": 1766954155691,
-  "preguntasHechas": 177
+  "ultimaActualizacion": 1766954163949,
+  "preguntasHechas": 178
 }
