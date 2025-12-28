@@ -1,5 +1,5 @@
 {
-  "iq": 998,
+  "iq": 1002,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1829,7 +1829,10 @@
     "encuentran",
     "incluyendo",
     "intenciones",
-    "harto"
+    "harto",
+    "pausa",
+    "especialmente",
+    "cervantes"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2778,8 +2781,13 @@
       "pregunta": "¿Cómo funciona la comprensión del contexto?",
       "respuesta": "La comprensión del contexto es un proceso mental que nos permite comprender el significado de las palabras y frases en función de la situación en la que se encuentran. Implica considerar el contexto en el que se está comunicando, incluyendo la situación, los sentimientos y las intenciones de las personas involucradas. Por ejemplo, si alguien dice \"Estoy harto\", el contexto puede determinar si se refiere a estar cansado o frustrado.",
       "fecha": "2025-12-28T20:12:51.704Z"
+    },
+    {
+      "pregunta": "¿Cómo se usa la puntuación correctamente?",
+      "respuesta": "La puntuación es un elemento clave en la escritura y el lenguaje, ya que nos ayuda a expresar ideas de manera clara y concisa. Algunas de las reglas básicas de puntuación incluyen el uso de comas para separar ideas o elementos en una oración, los puntos suspensivos para indicar una pausa o una interrogación, y los signos de exclamación para expresar emociones.\n\nPor ejemplo, en la oración \"Me encanta leer libros de aventuras, especialmente los de Cervantes\", el uso de la coma separa las ideas de que me gusta leer libros de aventuras y que me encanta especialmente los de Cervantes.",
+      "fecha": "2025-12-28T20:12:59.727Z"
     }
   ],
-  "ultimaActualizacion": 1766952771705,
-  "preguntasHechas": 115
+  "ultimaActualizacion": 1766952779729,
+  "preguntasHechas": 116
 }
