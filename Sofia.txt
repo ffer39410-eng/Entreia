@@ -1,5 +1,5 @@
 {
-  "iq": 2614,
+  "iq": 2619,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2957,16 +2957,16 @@
     "años",
     "sombra",
     "escuela",
-    "ampliar"
+    "ampliar",
+    "quirúrgica",
+    "cortar",
+    "grasa",
+    "eliminación",
+    "cintura"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
-      "respuesta": "Las preposiciones son palabras gramaticales que se utilizan para indicar la relación entre un sustantivo o un pronombre y otro elemento en una oración. Sirven para describir la ubicación, el movimiento, la relación, la causa, el efecto, etc. de los elementos en una oración. Por ejemplo: \"Estoy bajo el árbol\" (indicando ubicación), \"La casa está detrás de la iglesia\" (indicando relación), \"Me voy hacia el parque\" (indicando movimiento).\n\nExisten muchas preposiciones en español, como: a, ante, bajo, con, de, desde, en, entre, hasta, por, desde, bajo, según, sin, etc.",
-      "fecha": "2025-12-28T20:56:52.333Z"
-    },
     {
       "pregunta": "¿Cómo se estructura una buena argumentación?",
       "respuesta": "Una buena argumentación se estructura en cuatro pasos clave: definir el tema, presentar evidencia, analizar la evidencia y concluir. Primero, debes definir claramente el tema en cuestión, para que la audiencia comprenda de inmediato a qué se refiere tu argumentación. Luego, presentas evidencia sólida y relevante para apoyar tu punto de vista. A continuación, analizas críticamente esa evidencia, destacando sus puntos fuertes y débiles. Finalmente, concluyes reafirmando tu argumento inicial y resumiendo los principales puntos presentados.",
@@ -3961,8 +3961,13 @@
       "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
       "respuesta": "El vocabulario técnico se refiere a las palabras y expresiones utilizadas en un campo específico de conocimiento, como la medicina, la ingeniería o la química, y que requieren una comprensión profunda del concepto o del proceso que se está describiendo. Por otro lado, el vocabulario coloquial se refiere a las palabras y expresiones utilizadas en la comunicación cotidiana, en un tono informal y accesible a todos.\n\nPor ejemplo, en la medicina, el término \"angioplastia\" es técnico y se refiere a un procedimiento médico para ampliar las arterias obstruidas. En cambio, en un contexto coloquial, alguien podría decir \"me hice un angioplastia\" para referirse a una cirugía que se le hizo.",
       "fecha": "2025-12-28T21:35:55.874Z"
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
+      "respuesta": "El vocabulario técnico se refiere a las palabras y expresiones específicas utilizadas en un campo de conocimiento o industria particular, como la medicina, la informática o la ingeniería, y que requieren un alto nivel de precisión y complejidad. Por otro lado, el vocabulario coloquial es el lenguaje común y cotidiano que se utiliza en la comunicación informal y que puede variar según la región o el grupo social.\n\nPor ejemplo, en la medicina, el término \"angioplastia\" es un vocabulario técnico que se utiliza para describir una técnica quirúrgica específica, mientras que el término \"cortar la grasa\" es un vocabulario coloquial que se utiliza para describir la eliminación de grasa en la cintura.",
+      "fecha": "2025-12-28T21:36:03.840Z"
     }
   ],
-  "ultimaActualizacion": 1766957755877,
-  "preguntasHechas": 428
+  "ultimaActualizacion": 1766957763842,
+  "preguntasHechas": 429
 }
