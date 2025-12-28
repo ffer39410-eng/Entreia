@@ -1,5 +1,5 @@
 {
-  "iq": 290,
+  "iq": 297,
   "vocabulario": [
     "claro",
     "sofia",
@@ -844,7 +844,9 @@
     "accesibles",
     "ngulo",
     "recto",
-    "derecho"
+    "derecho",
+    "sentado",
+    "silla"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1078,8 +1080,13 @@
       "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
       "respuesta": "El vocabulario técnico se refiere a las palabras y expresiones específicas de un campo o industria en particular, como la medicina, la ingeniería o la informática, y suelen ser utilizadas en un contexto formal y especializado. Por ejemplo, un médico usa términos técnicos como \"angiografía\" o \"férula\" para comunicarse con sus colegas y pacientes.\n\nPor otro lado, el vocabulario coloquial se refiere a las palabras y expresiones informales que se usan en la vida diaria, como en conversaciones con amigos, familiares o en la red social. Estos términos suelen ser más comunes y accesibles para un público general.\n\nPor ejemplo, en lugar de decir \"ángulo recto\", puedes decir \"derecho\" en un contexto coloquial.",
       "fecha": "2025-12-28T19:06:33.244Z"
+    },
+    {
+      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
+      "respuesta": "Las preposiciones son palabras que se utilizan para indicar la relación entre un sustantivo y otro sustantivo, un lugar o una acción. Ejemplos de preposiciones comunes son \"en\", \"a\", \"de\", \"con\", \"sin\" y \"por\". Por ejemplo: \"Estoy sentado en la silla\", donde \"en\" indica la relación entre la acción de estar sentado y el lugar donde se realiza.",
+      "fecha": "2025-12-28T19:06:41.021Z"
     }
   ],
-  "ultimaActualizacion": 1766948793247,
+  "ultimaActualizacion": 1766948801022,
   "preguntasHechas": null
 }
