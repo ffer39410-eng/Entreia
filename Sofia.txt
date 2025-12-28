@@ -1,5 +1,5 @@
 {
-  "iq": 2795,
+  "iq": 2799,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3044,11 +3044,6 @@
   "conversaciones": 6,
   "conocimiento": [
     {
-      "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
-      "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de pensar críticamente y racionalmente para llegar a conclusiones fundadas en argumentos y hechos. Implica analizar información, identificar patrones y relaciones lógicas, y hacer inferencias precisas. Por ejemplo, si alguien afirma que \"todos los países de Europa tienen un clima templado\", un razonamiento lógico podría ser: \"Si un país es de Europa, entonces probablemente tenga un clima templado, pero no todos los países de Europa tienen un clima templado\".",
-      "fecha": "2025-12-28T21:07:24.808Z"
-    },
-    {
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras que indican la relación entre un sustantivo o un pronombre y otro sustantivo, lugar o acción en una oración. Sirven para indicar lugares, direcciones, tiempos, causas, medios, etc. Por ejemplo, la preposición \"en\" se utiliza para indicar un lugar o posición, como en \"Estoy en la biblioteca\" o \"La biblioteca está en el centro de la ciudad\".",
       "fecha": "2025-12-28T21:07:31.595Z"
@@ -4042,8 +4037,13 @@
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras que indican la relación entre un sustantivo o un grupo de palabras y otros elementos en una oración. Por ejemplo, la preposición \"en\" en la oración \"El libro está en la mesa\" indica que el libro está ubicado en un lugar específico, en este caso, en la mesa. Las preposiciones ayudan a establecer la posición, el movimiento, la relación o la conexión entre los elementos de la oración.",
       "fecha": "2025-12-28T21:46:11.904Z"
+    },
+    {
+      "pregunta": "¿Cómo se usa la puntuación correctamente?",
+      "respuesta": "La puntuación es esencial en la escritura para expresar ideas y emociones de manera clara. Utiliza comas para separar elementos en una lista o para enfatizar una pausa en una oración. Utiliza puntos suspensivos para indicar una interrupción en la narrativa o una pregunta. Utiliza signos de admiración para enfatizar un pensamiento o una exclamación. Recuerda que cada signo tiene un propósito específico en la escritura.",
+      "fecha": "2025-12-28T21:46:19.695Z"
     }
   ],
-  "ultimaActualizacion": 1766958371906,
-  "preguntasHechas": 464
+  "ultimaActualizacion": 1766958379696,
+  "preguntasHechas": 465
 }
