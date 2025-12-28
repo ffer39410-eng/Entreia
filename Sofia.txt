@@ -1,5 +1,5 @@
 {
-  "iq": 2884,
+  "iq": 2889,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3079,16 +3079,14 @@
     "conjetivos",
     "deja",
     "llovía",
-    "completos"
+    "completos",
+    "conciencia",
+    "singulares",
+    "plurales"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué es el pensamiento crítico?",
-      "respuesta": "El pensamiento crítico es la habilidad de analizar información, evaluar evidencia y formar juicios informados sobre un tema o problema. Implica cuestionar suposiciones, considerar diferentes perspectivas y tomar decisiones basadas en evidencia sólida. Por ejemplo, al leer un artículo científico, un pensador crítico evaluaría la metodología utilizada, la validez de la evidencia y la conclusión que se extrae, en lugar de aceptar la información de manera ciega.",
-      "fecha": "2025-12-28T21:09:39.705Z"
-    },
     {
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son palabras o expresiones que se utilizan para unir oraciones, frases o ideas para crear una secuencia lógica y coherente en el discurso. Por ejemplo, \"y\", \"pero\", \"sin embargo\", \"además\", \"por tanto\", entre otros. \n\nConectores como \"y\" se utilizan para agregar información, \"pero\" para contrastar ideas, y \"sin embargo\" para señalar una oposición entre dos puntos de vista. \n\nPor ejemplo: \"Me encanta leer libros y escribir poemas\" (conector \"y\" para agregar información).",
@@ -4083,8 +4081,13 @@
       "pregunta": "¿Cuáles son las reglas de la gramática española?",
       "respuesta": "La gramática española es una estructura compleja que incluye reglas para formar palabras, oraciones y textos completos. Algunas de las reglas más importantes incluyen el uso de los tiempos verbales, como el presente, pasado e imperfecto, así como el uso de los géneros (masculino y femenino) y los números (singular y plural). Además, es importante recordar las reglas de concordancia, como la concordancia de género y número entre sujetos y verbos. Por ejemplo, \"el estudiante\" (masculino singular) se conjuga como \"estudia\", mientras que \"la estudiante\" (femenino singular) se conjuga como \"estudia\" también",
       "fecha": "2025-12-28T21:48:28.442Z"
+    },
+    {
+      "pregunta": "¿Cuáles son las reglas de la gramática española?",
+      "respuesta": "La gramática española tiene varias reglas básicas que ayudan a formar oraciones coherentes. Una de las reglas más importantes es la conciencia de género y número, donde los artículos, adjetivos y sustantivos varían dependiendo del género y si son singulares o plurales. Por ejemplo, \"el libro\" es masculino y singular, mientras que \"los libros\" es masculino y plural. Además, la regla de concordancia de verbos y adjetivos con el sujeto es fundamental.",
+      "fecha": "2025-12-28T21:48:35.710Z"
     }
   ],
-  "ultimaActualizacion": 1766958515135,
-  "preguntasHechas": 481
+  "ultimaActualizacion": 1766958520790,
+  "preguntasHechas": 482
 }
