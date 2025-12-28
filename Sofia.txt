@@ -1,5 +1,5 @@
 {
-  "iq": 2504,
+  "iq": 2511,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2902,16 +2902,14 @@
     "reforzando",
     "brevemente",
     "dejando",
-    "interlocutor"
+    "interlocutor",
+    "expuestas",
+    "produciendo",
+    "dirigido"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
-      "respuesta": "Las metáforas son comparaciones implícitas que establecen una relación entre dos conceptos o ideas diferentes, creando una nueva percepción o comprensión de uno de ellos. Por ejemplo, \"Ella es una estrella en el escenario\" implica que la persona es brillante y destacada en su campo. Las metáforas se usan para hacer que el lenguaje sea más expresivo y creativo, y pueden ayudar a comunicar ideas complejas de manera más sencilla y atractiva. Algunas metáforas son tan comunes y profundamente arraigadas en nuestra cultura que hemos internalizado su significado sin siquiera darse cuenta.",
-      "fecha": "2025-12-28T20:45:31.748Z"
-    },
     {
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar información, ideas y argumentos para llegar a conclusiones informadas y reflexivas. Implica cuestionar suposiciones, identificar sesgos y considerar diferentes perspectivas para tomar decisiones efectivas. Esto requiere habilidades como la observación, la evaluación y la resolución de problemas, así como la capacidad de comunicar ideas de manera clara y concisa. Por ejemplo, cuando se analiza un artículo periodístico, el pensamiento crítico implica considerar la fuente, la metodología y los argumentos presentados para formar una opinión informada.",
@@ -3906,8 +3904,13 @@
       "pregunta": "¿Cómo se estructura una buena argumentación?",
       "respuesta": "Una buena argumentación se estructura en cuatro etapas clave: \n\n1. Introducción: Presenta el tema y establece el contexto, mostrando la importancia de la discusión.\n2. Desarrollo: Presenta los puntos clave de apoyo que sustentan tu argumentación, utilizando ejemplos y pruebas para reforzar tus afirmaciones.\n3. Reclamación: Resume los puntos clave presentados y establece la conclusión, reforzando tu argumento con evidencia y razonamiento lógico.\n4. Conclusión: Resume brevemente los puntos clave y reafirma la importancia de tu argumentación, dejando un impacto en el lector o interlocutor.",
       "fecha": "2025-12-28T21:27:47.659Z"
+    },
+    {
+      "pregunta": "¿Cómo funciona la comprensión del contexto?",
+      "respuesta": "La comprensión del contexto es un proceso psicológico que permite a las personas interpretar y dar sentido a la información a la que están expuestas. Implica considerar las circunstancias, el entorno y la situación en la que se están produciendo los eventos para lograr una comprensión más profunda y precisa de lo que está sucediendo. Por ejemplo, cuando se lee un texto, la comprensión del contexto implica considerar el tono, el propósito y el público al que va dirigido para entender el significado real de la información. De esta manera, la comprensión del contexto puede ayudar a evitar malentendidos y a tomar decisiones informadas.",
+      "fecha": "2025-12-28T21:27:55.806Z"
     }
   ],
-  "ultimaActualizacion": 1766957267662,
-  "preguntasHechas": 408
+  "ultimaActualizacion": 1766957275807,
+  "preguntasHechas": 409
 }
