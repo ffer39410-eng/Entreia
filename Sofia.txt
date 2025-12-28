@@ -1,5 +1,5 @@
 {
-  "iq": 362,
+  "iq": 369,
   "vocabulario": [
     "claro",
     "sofia",
@@ -977,7 +977,24 @@
     "bajo",
     "expresan",
     "formas",
-    "ocurre"
+    "ocurre",
+    "habilidad",
+    "corporales",
+    "sonrisas",
+    "abrazos",
+    "toques",
+    "brazo",
+    "transmisr",
+    "cariño",
+    "empatía",
+    "alegra",
+    "verte",
+    "verlo",
+    "sienta",
+    "comprendida",
+    "cálido",
+    "apacible",
+    "acogedor"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1276,8 +1293,13 @@
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales son palabras que expresan el momento en que se realiza la acción descrita por el verbo. Hay varios tiempos verbales, como el presente, pasado y futuro, que se pueden utilizar de varias formas para indicar el momento en que ocurre la acción. Por ejemplo, \"yo como una manzana\" (presente), \"yo comí una manzana\" (pasado) y \"yo comeré una manzana\" (futuro). Cada tiempo verbal tiene sus propias reglas y formas de conjugación.",
       "fecha": "2025-12-28T19:08:17.074Z"
+    },
+    {
+      "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
+      "respuesta": "La expresión de emociones es una habilidad fundamental para comunicarnos de manera efectiva. Puedes expresar tus emociones de forma efectiva utilizando gestos corporales, como sonrisas, abrazos o toques en el brazo, que pueden transmisr cariño y empatía. También puedes utilizar palabras para describir tus sentimientos, como \"Me alegra verte\" o \"Me duele verlo\", para hacer que la otra persona se sienta comprendida. Finalmente, puedes utilizar la voz, como un tono de voz cálido y apacible, para crear un ambiente seguro y acogedor.",
+      "fecha": "2025-12-28T19:08:25.264Z"
     }
   ],
-  "ultimaActualizacion": 1766948897075,
+  "ultimaActualizacion": 1766948905266,
   "preguntasHechas": null
 }
