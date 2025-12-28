@@ -1,5 +1,5 @@
 {
-  "iq": 1959,
+  "iq": 1964,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2591,16 +2591,22 @@
     "difícil",
     "navegar",
     "imaginar",
-    "conectarse"
+    "conectarse",
+    "supongamos",
+    "coches",
+    "beneficiosos",
+    "combustible",
+    "fósil",
+    "presentaría",
+    "necesidad",
+    "emisiones",
+    "menor",
+    "emisión",
+    "económicos"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué son los sinónimos y antónimos?",
-      "respuesta": "Los sinónimos son palabras o expresiones que tienen el mismo significado o connotación que otras palabras. Por ejemplo, \"gran\" y \"enorme\" son sinónimos porque se refieren a algo de gran tamaño. Otro ejemplo es \"feliz\" y \"alegre\", que se refieren a un estado emocional positivo.\n\nPor otro lado, los antónimos son palabras o expresiones que tienen un significado opuesto o contradictorio. Por ejemplo, \"rápido\" y \"lento\" son antónimos porque se refieren a velocidades opuestas. Otro ejemplo es \"grande\" y \"pequeño\", que se refieren a tamaños opuestos.",
-      "fecha": "2025-12-28T20:11:23.665Z"
-    },
     {
       "pregunta": "¿Cómo se usa la puntuación correctamente?",
       "respuesta": "La puntuación es una herramienta fundamental para comunicar claramente y de manera efectiva en la escritura. Se utiliza para separar ideas, indicar la relación entre oraciones, enfatizar puntos importantes y guiar a los lectores a través del texto. Por ejemplo, el punto y coma (;) se utiliza para separar oraciones que no son completas, mientras que la coma (,) se utiliza para separar ideas dentro de una oración.",
@@ -3595,8 +3601,13 @@
       "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
       "respuesta": "Las metáforas son utilizadas para crear conexiones inusuales entre conceptos y objetos, permitiendo a los hablantes describir ideas y emociones de manera más poética y evocadora. Por ejemplo, decir \"estoy atrapado en un laberinto\" no solo describe una sensación de confusión, sino que también evoca una imagen visual de un lugar desconocido y difícil de navegar. Esto permite a los oyentes imaginar y conectarse con la Idea más fácilmente.",
       "fecha": "2025-12-28T21:12:27.848Z"
+    },
+    {
+      "pregunta": "¿Cómo se estructura una buena argumentación?",
+      "respuesta": "Una buena argumentación se estructura en tres componentes fundamentales: la introducción, la argumentación en sí y la conclusión. La introducción presenta el tema y la perspectiva del argumento. La argumentación en sí presenta los hechos, los datos y los análisis que respaldan la tesis. La conclusión resume los argumentos presentados y presenta la conclusión final.\n\nPor ejemplo, supongamos que queremos argumentar que los coches eléctricos son más beneficiosos que los coches de combustible fósil. La introducción presentaría la importancia del cambio climático y la necesidad de reducir las emisiones de gases de efecto invernadero. La argumentación en sí presentaría estadísticas que muestran la menor emisión de gases de efecto invernadero de los coches eléctricos, así como beneficios económicos y de salud. La conclusión resume los argumentos",
+      "fecha": "2025-12-28T21:12:35.934Z"
     }
   ],
-  "ultimaActualizacion": 1766956347850,
-  "preguntasHechas": 303
+  "ultimaActualizacion": 1766956355938,
+  "preguntasHechas": 304
 }
