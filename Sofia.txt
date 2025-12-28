@@ -1,5 +1,5 @@
 {
-  "iq": 636,
+  "iq": 643,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1434,7 +1434,12 @@
     "enlace",
     "desconocido",
     "haciéndolo",
-    "comprensible"
+    "comprensible",
+    "relacionándose",
+    "compuestos",
+    "escribo",
+    "ocurri",
+    "escrib"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2013,8 +2018,13 @@
       "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
       "respuesta": "Las metáforas son comparaciones implícitas que unen dos conceptos diferentes, creando una imagen o una idea nueva y original. En el lenguaje, las metáforas se usan para describir objetos, ideas o emociones de manera creativa y evocadora. Por ejemplo, \"el sol es un rey radiante\" o \"mi corazón late como un tambor\". Al hacer esto, las metáforas ayudan a crear un enlace entre lo familiar y lo desconocido, haciéndolo más accesible y comprensible.",
       "fecha": "2025-12-28T19:18:30.122Z"
+    },
+    {
+      "pregunta": "¿Cómo funcionan los tiempos verbales?",
+      "respuesta": "Los tiempos verbales son formas en que se expresan las acciones o estados de ser en el lenguaje, relacionándose con momentos específicos del tiempo. Hay tiempos verbales simples (presente, pasado y futuro) y compuestos (futuro perfecto, condicional, etc.), cada uno con su estructura y función en la oración. Por ejemplo, el presente describe una acción que ocurre ahora, como \"yo escribo\", mientras que el pasado describe una acción que ya ocurrió, como \"yo escribí\".",
+      "fecha": "2025-12-28T19:18:38.335Z"
     }
   ],
-  "ultimaActualizacion": 1766949510124,
-  "preguntasHechas": 41
+  "ultimaActualizacion": 1766949518336,
+  "preguntasHechas": 42
 }
