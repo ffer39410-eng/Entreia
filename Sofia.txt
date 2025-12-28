@@ -1,5 +1,5 @@
 {
-  "iq": 185,
+  "iq": 188,
   "vocabulario": [
     "claro",
     "sofia",
@@ -489,7 +489,44 @@
     "llega",
     "finalmente",
     "hace",
-    "llegado"
+    "llegado",
+    "expresiones",
+    "contextos",
+    "específicos",
+    "especializados",
+    "ciencia",
+    "tecnología",
+    "medicina",
+    "ingeniería",
+    "desconocidas",
+    "público",
+    "general",
+    "hipertensión",
+    "término",
+    "condición",
+    "presión",
+    "arterial",
+    "alta",
+    "lado",
+    "coloquial",
+    "lengua",
+    "hablada",
+    "escrita",
+    "informales",
+    "amigos",
+    "redes",
+    "sociales",
+    "noticias",
+    "actualidad",
+    "estoy",
+    "poco",
+    "atascado",
+    "expresión",
+    "estado",
+    "frustración",
+    "aburrimiento",
+    "resumen",
+    "especializado"
   ],
   "lecciones": 14,
   "conversaciones": 1,
@@ -608,8 +645,13 @@
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual se refiere a la propiedad de un texto de ser claro, lógico y fácil de seguir, en el sentido de que cada oración o idea se relaciona con las demás de manera natural y consecuente. Un texto coherente ayuda al lector a entender el pensamiento o la idea que se quiere transmitir. Por ejemplo, en un texto sobre un viaje, la coherencia se logra al describir primero el lugar de destino, luego cómo se llega allí y finalmente qué se hace una vez que se ha llegado.",
       "fecha": "2025-12-28T19:02:12.207Z"
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
+      "respuesta": "El vocabulario técnico se refiere a las palabras y expresiones utilizadas en contextos específicos y especializados, como la ciencia, la tecnología, la medicina o la ingeniería, que pueden ser desconocidas para el público en general. Por ejemplo, en la medicina, \"hipertensión\" es un término técnico que se refiere a la condición de presión arterial alta.\n\nPor otro lado, el vocabulario coloquial se refiere a las palabras y expresiones comunes utilizadas en la lengua hablada y escrita en contextos informales, como conversaciones con amigos, redes sociales o noticias de actualidad. Por ejemplo, \"estoy un poco atascado\" es una expresión coloquial que se utiliza para describir un estado de frustración o aburrimiento.\n\nEn resumen, el vocabulario técnico es especializado y técnico, mientras que el",
+      "fecha": "2025-12-28T19:02:20.281Z"
     }
   ],
-  "ultimaActualizacion": 1766948532209,
+  "ultimaActualizacion": 1766948540282,
   "preguntasHechas": null
 }
