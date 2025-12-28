@@ -1,5 +1,5 @@
 {
-  "iq": 2469,
+  "iq": 2475,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2887,16 +2887,15 @@
     "efectuado",
     "realización",
     "resonancia",
-    "magnética"
+    "magnética",
+    "original",
+    "fenómenos",
+    "trayecto",
+    "lleno"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo se usa la puntuación correctamente?",
-      "respuesta": "La puntuación es esencial para comunicar ideas de manera clara y efectiva. Utiliza comas para separar elementos en una lista o para indicar pausas breves en la oración. Utiliza puntos para separar ideas principales o para indicar la conclusión de una oración. Utiliza signos de interrogación y exclamación para expresar preguntas y emociones, respectivamente. Por ejemplo, \"Voy al parque, el parque es muy grande, y allí hay un lago.\"",
-      "fecha": "2025-12-28T20:44:35.823Z"
-    },
     {
       "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
       "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de pensar de manera clara, coherente y racional para llegar a conclusiones fundadas en argumentos y hechos. Implica analizar información, identificar patrones y relaciones, y hacer inferencias precisas. Por ejemplo, si alguien afirma que \"la lluvia hace que el tráfico sea peor\", un razonamiento lógico podría consistir en pensar: \"Si la lluvia causa que las personas conduzcan más lentamente, entonces es probable que el tráfico sea más lento también\".",
@@ -3891,8 +3890,13 @@
       "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
       "respuesta": "El vocabulario técnico se refiere a las palabras y expresiones utilizadas en un campo específico de conocimiento o industria, como la medicina, la ingeniería o la finanza, y está diseñado para ser preciso y claro en su significado. Por otro lado, el vocabulario coloquial se utiliza en la comunicación informal y cotidiana, y puede incluir expresiones idiomáticas, jerga y lenguaje coloquial.\n\nPor ejemplo, en la medicina, \"cirugía\" es un vocabulario técnico, mientras que en la conversación coloquial, \"operación\" es un sinónimo más común y familiar.\n\nEn la práctica, un ejemplo de vocabulario técnico sería: \"El diagnóstico del paciente fue efectuado mediante la realización de una resonancia magnética\". En cambio, en una conversación coloquial, se podría decir",
       "fecha": "2025-12-28T21:25:32.020Z"
+    },
+    {
+      "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
+      "respuesta": "Las metáforas son un tipo de figuras literarias que permiten comparar dos conceptos o ideas muy diferentes, creando una representación creativa y original de la realidad. Se utilizan para describir y explicar fenómenos complejos de manera más accesible y emotiva. Por ejemplo, \"la vida es un viaje\" es una metáfora que compara la experiencia humana con un trayecto, enfatizando la idea de que la vida es un proceso dinámico y lleno de desafíos.",
+      "fecha": "2025-12-28T21:25:39.710Z"
     }
   ],
-  "ultimaActualizacion": 1766957132022,
-  "preguntasHechas": 401
+  "ultimaActualizacion": 1766957139713,
+  "preguntasHechas": 402
 }
