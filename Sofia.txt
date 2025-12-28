@@ -1,5 +1,5 @@
 {
-  "iq": 2814,
+  "iq": 2820,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3054,16 +3054,15 @@
     "primeras",
     "sabio",
     "sabia",
-    "ustedes"
+    "ustedes",
+    "flexibilidad",
+    "variabilidad",
+    "fiebre",
+    "elevada"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo funciona la comprensión del contexto?",
-      "respuesta": "La comprensión del contexto es la capacidad de analizar y evaluar la situación en la que se encuentra un texto, un discurso o una situación para entender su significado y contenido. Implica considerar factores como la intención del hablante o escritor, el público objetivo, el entorno y las circunstancias en las que se está comunicando. Por ejemplo, en una reunión de negocios, es importante comprender el contexto para saber si se está hablando de un acuerdo formal o de una discusión informal.",
-      "fecha": "2025-12-28T21:07:55.665Z"
-    },
     {
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales son una parte fundamental de la gramática en muchos idiomas, incluido el español. Se refieren al momento en que se produce la acción o el estado descrito por el verbo. La principal clasificación es en tres grupos: tiempos simples, tiempos compuestos y tiempos compuestos perfectos.\n\n- Los tiempos simples describen las acciones en un momento específico, como el presente \"comemos\", el pasado \"comí\" o el futuro \"comeré\".\n\n- Los tiempos compuestos se forman con el auxiliar \"haber\" o \"ser\" y un participio, para describir acciones que comienzan antes de la acción principal. Ejemplos son \"he comido\" o \"estaba comiendo\".\n\n- Los tiempos compuestos perfectos también combinan un auxiliar con un participio, pero con un enfoque en el momento de la acción final",
@@ -4058,8 +4057,13 @@
       "pregunta": "¿Cuáles son las reglas de la gramática española?",
       "respuesta": "La gramática española tiene reglas fundamentales que rigen la construcción de las oraciones. Una de las primeras reglas es la concordancia de género y número, que establece que los adjetivos y sustantivos deben concordar en género (masculino o femenino) y número (singular o plural) con el sustantivo que modifican. Por ejemplo, \"el estudiante sabio\" es correcto, pero \"la estudiante sabia\" no, ya que el adjetivo \"sabio\" no concuerda con el sustantivo \"estudiante\" en género.\n\nOtra regla importante es la concordancia de persona, que establece que los verbos deben concordar en persona (yo, tú, él/ella/usted, nosotros/as, vosotros/as, ellos/as/ustedes) con el sujeto de la oración. Por ejemplo, \"",
       "fecha": "2025-12-28T21:46:43.813Z"
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
+      "respuesta": "El vocabulario técnico se refiere a las palabras y expresiones utilizadas en contextos profesionales específicos, como la medicina, la ingeniería o la economía, donde cada término tiene un significado preciso y bien definido. Por otro lado, el vocabulario coloquial se utiliza en la conversación informal y se caracteriza por ser más flexibilidad y variabilidad en el lenguaje. Por ejemplo, en medicina, \"fiebre\" es un término técnico que se utiliza para describir una temperatura corporal elevada, mientras que en la conversación coloquial, alguien podría decir \"tengo fiebre\" para referirse a un estado general de mal humor.",
+      "fecha": "2025-12-28T21:46:51.842Z"
     }
   ],
-  "ultimaActualizacion": 1766958403814,
-  "preguntasHechas": 468
+  "ultimaActualizacion": 1766958411843,
+  "preguntasHechas": 469
 }
