@@ -1,5 +1,5 @@
 {
-  "iq": 227,
+  "iq": 234,
   "vocabulario": [
     "claro",
     "sofia",
@@ -662,7 +662,12 @@
     "podría",
     "planeta",
     "girando",
-    "alrededor"
+    "alrededor",
+    "cualquier",
+    "idioma",
+    "produce",
+    "realizando",
+    "amigo"
   ],
   "lecciones": 14,
   "conversaciones": 1,
@@ -831,8 +836,13 @@
       "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
       "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de utilizar argumentos y conclusiones lógicas para comunicarse de manera efectiva y convincente. Implica analizar información, identificar patrones y relaciones, y llegar a conclusiones precisas y justificadas. Por ejemplo, si alguien dice \"El sol sale al este y se pone al oeste\", un razonamiento lógico podría ser \"Por lo tanto, el planeta debe estar girando alrededor del sol\".",
       "fecha": "2025-12-28T19:03:32.150Z"
+    },
+    {
+      "pregunta": "¿Cómo funcionan los tiempos verbales?",
+      "respuesta": "Los tiempos verbales son una parte fundamental de la gramática en cualquier idioma, y su función es indicar el momento en que se produce una acción o el estado en que se encuentra algo. Existen varios tiempos verbales, como el presente, el pasado, el futuro, etc., y cada uno de ellos tiene un significado específico. Por ejemplo, el verbo \"hablar\" en el presente se utiliza para describir una acción que se está realizando en el momento actual, como \"Estoy hablando con mi amigo\".",
+      "fecha": "2025-12-28T19:03:40.285Z"
     }
   ],
-  "ultimaActualizacion": 1766948612151,
+  "ultimaActualizacion": 1766948620286,
   "preguntasHechas": null
 }
