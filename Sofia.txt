@@ -1,5 +1,5 @@
 {
-  "iq": 926,
+  "iq": 930,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1751,7 +1751,14 @@
     "fechas",
     "distinguir",
     "relevante",
-    "irrelevante"
+    "irrelevante",
+    "asegurando",
+    "transición",
+    "continuidad",
+    "cadena",
+    "conectadas",
+    "pieza",
+    "encaja"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2630,8 +2637,13 @@
       "pregunta": "¿Cómo funciona la comprensión del contexto?",
       "respuesta": "La comprensión del contexto es un proceso mental que implica analizar y evaluar las circunstancias y detalles que rodean una situación o un mensaje. Esto nos permite captar la intención, el sentido y la relevancia de la información, y así poder comprenderla de manera efectiva. Por ejemplo, al leer una noticia, podemos considerar el título, los subtítulos, las fechas y los detalles específicos para comprender el contexto de la historia. De esta manera, podemos distinguir entre información relevante e irrelevante y obtener una comprensión clara del tema.",
       "fecha": "2025-12-28T20:10:59.773Z"
+    },
+    {
+      "pregunta": "¿Qué es la coherencia textual?",
+      "respuesta": "La coherencia textual se refiere a la capacidad de un texto para mantener una conexión lógica y clara entre sus diferentes partes, asegurando que el mensaje sea fácil de seguir y comprender. Esto incluye la transición entre ideas, la continuidad del tema y la precisión en la comunicación. Un texto coherente es como una cadena de ideas bien conectadas, donde cada pieza encaja en su lugar adecuado. La coherencia es fundamental para transmitir una idea claro y convincente.",
+      "fecha": "2025-12-28T20:11:07.670Z"
     }
   ],
-  "ultimaActualizacion": 1766952659774,
-  "preguntasHechas": 101
+  "ultimaActualizacion": 1766952667671,
+  "preguntasHechas": 102
 }
