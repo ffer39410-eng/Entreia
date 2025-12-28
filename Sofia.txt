@@ -1,5 +1,5 @@
 {
-  "iq": 1775,
+  "iq": 1781,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2479,16 +2479,19 @@
     "comido",
     "comiendo",
     "combinan",
-    "enfoque"
+    "enfoque",
+    "hermano",
+    "ingeniero",
+    "trabajar",
+    "despacho",
+    "prefiere",
+    "empresa",
+    "subordinado",
+    "repita"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cuáles son las reglas de la gramática española?",
-      "respuesta": "La gramática española se basa en varias reglas que rigen la estructura y el uso de la lengua. Algunas de las reglas más importantes incluyen la declinación de los artículos (el, la, los, las), el uso de los verbos en tiempo pasado e imperfecto, y la construcción de oraciones con sujetos y verbos. Por ejemplo, en español, se utiliza el artículo \"el\" para referirse a un objeto masculino singular y \"la\" para referirse a un objeto femenino singular. Además, los verbos en tiempo pasado se conjugan con la forma \"é\", \"aste\", \"ó\" en primer persona singular.",
-      "fecha": "2025-12-28T19:26:48.423Z"
-    },
     {
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son palabras gramaticales que conectan ideas o frases entre sí, permitiendo expresar relaciones lógicas y semánticas en un texto. Hay varios tipos de conectores, como de coordinación (y, pero, o), de subordinación (porque, si, aunque), de adición (también, además, entre otros) y de conclusión (por lo tanto, en consecuencia, por ende).\n\nPor ejemplo: \"Me gusta leer libros (conector de adición), pero también ver películas (conector de contrastación), porque me permite expresar mi creatividad (conector de subordinación)\".\n\nAl usar conectores, puedes construir oraciones más complejas y claras, y expresar tus ideas de manera más efectiva.",
@@ -3483,8 +3486,13 @@
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales son una parte fundamental de la gramática en muchos idiomas, incluido el español. Se refieren al momento en que se produce la acción o el estado descrito por el verbo. La principal clasificación es en tres grupos: tiempos simples, tiempos compuestos y tiempos compuestos perfectos.\n\n- Los tiempos simples describen las acciones en un momento específico, como el presente \"comemos\", el pasado \"comí\" o el futuro \"comeré\".\n\n- Los tiempos compuestos se forman con el auxiliar \"haber\" o \"ser\" y un participio, para describir acciones que comienzan antes de la acción principal. Ejemplos son \"he comido\" o \"estaba comiendo\".\n\n- Los tiempos compuestos perfectos también combinan un auxiliar con un participio, pero con un enfoque en el momento de la acción final",
       "fecha": "2025-12-28T21:08:03.785Z"
+    },
+    {
+      "pregunta": "¿Cómo se construyen oraciones complejas en español?",
+      "respuesta": "Las oraciones complejas en español se construyen utilizando conectivos como \"y\", \"pero\", \"y aunque\", \"aunque\", \"sin embargo\", que unen dos o más oraciones simples o compuestas. Por ejemplo: \"Mi hermano es ingeniero y aunque no quiere trabajar en un despacho, prefiere trabajar en una empresa de tecnología\".\n\nPara formar una oración compleja, debes identificar el verbo principal y el verbo subordinado, y asegurarte de que el verbo subordinado no repita la acción del verbo principal. En el ejemplo anterior, \"prefiere trabajar\" es el verbo subordinado y \"ser ingeniero\" es el verbo principal.",
+      "fecha": "2025-12-28T21:08:11.846Z"
     }
   ],
-  "ultimaActualizacion": 1766956083788,
-  "preguntasHechas": 270
+  "ultimaActualizacion": 1766956091848,
+  "preguntasHechas": 271
 }
