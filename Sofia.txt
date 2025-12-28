@@ -1,5 +1,5 @@
 {
-  "iq": 1280,
+  "iq": 1284,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2080,16 +2080,18 @@
     "supermercado",
     "necesito",
     "comprar",
-    "formular"
+    "formular",
+    "proposición",
+    "contraargumentación",
+    "identifican",
+    "responden",
+    "refutación",
+    "desestiman",
+    "refuerza"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
-      "respuesta": "Las preposiciones son palabras que se utilizan para indicar la relación entre un sustantivo y otro sustantivo, un lugar o una acción. Ejemplos de preposiciones comunes son \"en\", \"a\", \"de\", \"con\", \"sin\" y \"por\". Por ejemplo: \"Estoy sentado en la silla\", donde \"en\" indica la relación entre la acción de estar sentado y el lugar donde se realiza.",
-      "fecha": "2025-12-28T19:06:41.021Z"
-    },
     {
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son palabras o expresiones que se utilizan para unir oraciones, frases o ideas en la escritura y la comunicación oral, facilitando la conexión lógica entre ellas. Existen diferentes tipos de conectores, como \"y\", \"pero\", \"o\", \"porque\", \"sin embargo\", entre otros. Por ejemplo, \"Voy al parque y me voy a sentar en un banco\" (conector \"y\"), donde se une la acción de ir al parque con la acción de sentarse en un banco.",
@@ -3084,8 +3086,13 @@
       "pregunta": "¿Cómo se usa la puntuación correctamente?",
       "respuesta": "La puntuación es fundamental en la escritura para transmitir ideas de manera clara y precisa. Una coma (,) se utiliza para separar dos oraciones independientes que están relacionadas, como en \"Voy al supermercado, porque necesito comprar algo\". Un punto (.) se utiliza al final de una oración para indicar su finalización, como en \"Me encanta leer libros\". Un signo de exclamación (!) se utiliza para expresar énfasis o sorpresa, como en \"¡Estoy emocionado!\". Un signo de interrogación (?) se utiliza para formular una pregunta, como en \"¿Qué hora es?\".",
       "fecha": "2025-12-28T20:35:15.820Z"
+    },
+    {
+      "pregunta": "¿Cómo se estructura una buena argumentación?",
+      "respuesta": "Una buena argumentación se estructura en cinco pasos clave: \n\n1. **Tesis**: Se presenta la afirmación principal o proposición que se va a defender. \n2. **Soporte**: Se presentan los hechos, pruebas, ejemplos y razones que respaldan la tesis. \n3. **Contraargumentación**: Se identifican y se responden los posibles argumentos contrarios a la tesis. \n4. **Refutación**: Se desestiman los argumentos contrarios y se refuerza la validez de la tesis. \n5. **Conclusión**: Se resume la argumentación y se resume la importancia de la tesis.",
+      "fecha": "2025-12-28T20:35:23.808Z"
     }
   ],
-  "ultimaActualizacion": 1766954115823,
-  "preguntasHechas": 172
+  "ultimaActualizacion": 1766954123810,
+  "preguntasHechas": 173
 }
