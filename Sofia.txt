@@ -1,5 +1,5 @@
 {
-  "iq": 3096,
+  "iq": 3103,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3180,11 +3180,6 @@
   "conversaciones": 6,
   "conocimiento": [
     {
-      "pregunta": "¿Cómo se estructura una buena argumentación?",
-      "respuesta": "Una buena argumentación se estructura en tres partes fundamentales: la premisa, el razonamiento y la conclusión. La premisa es el hecho o la información que se utiliza como base para la argumentación, el razonamiento es el proceso de análisis y conexión de la premisa para llegar a una conclusión, y la conclusión es el resultado final del proceso de razonamiento. Por ejemplo, si se argumenta que \"la educación es fundamental para el éxito\", la premisa podría ser \"los estudios muestran que las personas con educación tienen mayor probabilidad de encontrar empleo\", el razonamiento podría ser \"porque la educación les proporciona las habilidades y conocimientos necesarios para competir en el mercado laboral\" y la conclusión podría ser \"por lo tanto, la educación es fundamental para el éxito\".",
-      "fecha": "2025-12-28T21:15:07.885Z"
-    },
-    {
       "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
       "respuesta": "Expresar emociones de forma efectiva implica ser auténtico, claro y respetuoso. Por ejemplo, en lugar de decir \"Me siento muy mal\", puedes expresar tus sentimientos de manera más detallada diciendo \"Me siento triste y frustrado porque no logré lo que esperaba\". Esta forma de expresión permite a los demás entender mejor tus sentimientos y responder de manera adecuada. Es importante escuchar a los demás y ser receptivo a sus emociones también.",
       "fecha": "2025-12-28T21:15:15.643Z"
@@ -4178,8 +4173,13 @@
       "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
       "respuesta": "Expresar emociones de forma efectiva es fundamental para comunicarnos de manera clara y respetuosa con los demás. Una manera efectiva de expresar emociones es mediante el lenguaje no verbal, como la postura corporal, el contacto visual y las expresiones faciales. Por ejemplo, si estás molesto, puedes cruzar los brazos o mirar hacia abajo, mientras que si estás emocionado, puedes sonreír y mantener contacto visual con la otra persona.",
       "fecha": "2025-12-28T21:53:56.802Z"
+    },
+    {
+      "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
+      "respuesta": "Las metáforas son una figura retórica que consiste en comparar dos conceptos o ideas diferentes para crear una nueva representación de una realidad. Por ejemplo, \"Ella es un sol en la habitación\" es una metáfora que compara a una persona con un objeto natural para describir su presencia y energía. Esta comparación no es literal, pero ayuda a crear una imagen más vivida y emotiva en la mente del oyente.",
+      "fecha": "2025-12-28T23:01:42.396Z"
     }
   ],
-  "ultimaActualizacion": 1766958836804,
-  "preguntasHechas": 522
+  "ultimaActualizacion": 1766962902402,
+  "preguntasHechas": 523
 }
