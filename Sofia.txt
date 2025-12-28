@@ -1,5 +1,5 @@
 {
-  "iq": 1739,
+  "iq": 1744,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2448,16 +2448,12 @@
     "enfatizando",
     "nuestros",
     "memorables",
-    "emotivos"
+    "emotivos",
+    "colina"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo funcionan los tiempos verbales?",
-      "respuesta": "Los tiempos verbales en la gramática española se refieren a la forma en que se expresan acciones en el tiempo. Hay tres categorías principales: pasado, presente y futuro. Por ejemplo, el verbo \"hablar\" en la forma de presente se utiliza para describir acciones que ocurren en el momento actual, como \"Hablo con mi amigo\". En el presente progresivo, se utiliza para describir acciones que ocurren en un momento específico, como \"Estoy estudiando ahora\".",
-      "fecha": "2025-12-28T19:25:44.264Z"
-    },
     {
       "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
       "respuesta": "El vocabulario técnico se refiere a términos y expresiones utilizados en contextos específicos y profesionales, como la medicina, la informática o la ingeniería, y están diseñados para ser precisos y precisos. Por otro lado, el vocabulario coloquial se refiere a la forma en que hablamos en nuestra vida diaria, utilizando expresiones informales y locales. \n\nPor ejemplo, un médico utiliza términos como \"fibrilación ventricular\" para describir un tipo de ritmo cardíaco anormal, mientras que en la conversación cotidiana, alguien podría decir \"mi corazón está latiendo muy rápido\".",
@@ -3452,8 +3448,13 @@
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras que se utilizan para indicar la relación entre un objeto o una persona y su entorno, como lugar, tiempo, dirección, cantidad, etc. Por ejemplo, en la frase \"La biblioteca está en la esquina\", la preposición \"en\" indica la ubicación de la biblioteca. También se utilizan para expresar la relación entre dos elementos, como en \"Me gustan los perros grandes\", donde \"de\" indica la clase o tipo de perros.",
       "fecha": "2025-12-28T21:04:19.825Z"
+    },
+    {
+      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
+      "respuesta": "Las preposiciones son palabras que indican la relación entre un sustantivo o pronombre y otros elementos en la oración, como lugares, acciones o conceptos. Sirven para especificar la ubicación, el tiempo, la causa, el modo o la compañía de algo. Por ejemplo, en la oración \"La casa está sobre la colina\", la preposición \"sobre\" indica la ubicación de la casa en relación con la colina.",
+      "fecha": "2025-12-28T21:04:27.694Z"
     }
   ],
-  "ultimaActualizacion": 1766955859826,
-  "preguntasHechas": 262
+  "ultimaActualizacion": 1766955867696,
+  "preguntasHechas": 263
 }
