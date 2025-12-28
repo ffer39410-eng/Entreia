@@ -1,5 +1,5 @@
 {
-  "iq": 1761,
+  "iq": 1764,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2460,16 +2460,13 @@
     "entienden",
     "cotidianos",
     "reparar",
-    "descanso"
+    "descanso",
+    "comunicarlos",
+    "afecto"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo funcionan los tiempos verbales?",
-      "respuesta": "Los tiempos verbales son una parte fundamental de la gramática en español, y se utilizan para expresar diferentes momentos en el tiempo. Hay varios tiempos verbales, como el presente, pasado simple, pasado perfecto, futuro simple, futuro perfecto, entre otros. Por ejemplo, el verbo \"hablar\" en presente se utiliza para expresar una acción que está sucediendo en el momento actual, como \"Hablo con mi amigo\". En cambio, el verbo \"hablar\" en pasado se utiliza para expresar una acción que ya ocurrió, como \"Hablé con mi amigo ayer\".",
-      "fecha": "2025-12-28T19:26:24.358Z"
-    },
     {
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son palabras o expresiones que nos ayudan a unir ideas, oraciones o frases para crear una estructura lógica y coherente en el discurso. Los conectores se clasifican en tres tipos: consecutivos (porque, sin embargo, además), adversativos (aunque, pero, sin embargo) y causales (porque, ya que, debido a). Por ejemplo, \"Iba al parque, pero estaba cerrado\" o \"Me gusta leer porque me ayuda a relajarme\".",
@@ -3464,8 +3461,13 @@
       "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
       "respuesta": "El vocabulario técnico se utiliza en contextos específicos como la medicina, la ingeniería o la ciencia, y se refiere a términos especializados que solo entienden los expertos en el campo. Por otro lado, el vocabulario coloquial se utiliza en situaciones informales y se refiere a términos comunes y cotidianos que se entienden en el lenguaje hablado.\n\nPor ejemplo, en la medicina, el término \"angioplastia\" es técnico y se refiere a un procedimiento para reparar las arterias, mientras que en la conversación informal se utiliza \"tomar un descanso\" para referirse a una pausa en la actividad.\n\nLa elección del vocabulario técnico o coloquial depende del contexto y del público al que se dirige la comunicación.",
       "fecha": "2025-12-28T21:07:39.852Z"
+    },
+    {
+      "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
+      "respuesta": "Para expresar emociones de forma efectiva, es importante reconocer y aceptar tus sentimientos, así como comunicarlos de manera clara y respetuosa. Puedes expresar tus emociones de manera verbal, utilizando frases como \"Me siento frustrado porque...\" o \"Me alegra verte\", o de manera no verbal, como mediante la postura corporal, el lenguaje del cuerpo y el tono de voz. Por ejemplo, un simple \"Gracias\" o un abrazo pueden expresar agradecimiento y afecto de manera efectiva.",
+      "fecha": "2025-12-28T21:07:47.685Z"
     }
   ],
-  "ultimaActualizacion": 1766956059854,
-  "preguntasHechas": 267
+  "ultimaActualizacion": 1766956067687,
+  "preguntasHechas": 268
 }
