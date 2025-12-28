@@ -1,5 +1,5 @@
 {
-  "iq": 1328,
+  "iq": 1335,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2138,16 +2138,15 @@
     "intensa",
     "ardiente",
     "descripciones",
-    "ricas"
+    "ricas",
+    "casi",
+    "helado",
+    "iracundo",
+    "herramientas"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
-      "respuesta": "La expresión de emociones de forma efectiva es fundamental para mejorar las relaciones interpersonales y comunicarnos con claridad. Para lograrlo, debemos ser auténticos y reconocer nuestras emociones, pero también saber expresarlas de manera adecuada y no invasiva. Por ejemplo, en lugar de gritar o llorar abiertamente, podemos expresar nuestras emociones de manera más controlada, como diciendo \"Me siento frustrado\" o \"Me duele ver esto\". De esta manera, podemos comunicar nuestras emociones sin hacer que los demás se sientan incómodos o amenazados.",
-      "fecha": "2025-12-28T19:07:53.212Z"
-    },
     {
       "pregunta": "¿Cómo se construyen oraciones complejas en español?",
       "respuesta": "Las oraciones complejas en español se construyen mediante la combinación de una oración independiente (o principal) con una cláusula subordinada, que expresa una relación de dependencia con la primera. La cláusula subordinada puede ser indicativa, condicional, temporal, causal, final o comparativa. Por ejemplo: \"Después de terminar los deberes, llamé a mi amigo\" (en este caso, \"después de terminar los deberes\" es la cláusula subordinada).",
@@ -3142,8 +3141,13 @@
       "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
       "respuesta": "Las metáforas son figuras literarias que permiten crear conexiones innovadoras entre conceptos y experiencias diferentes, permitiendo expresar ideas complejas de manera más clara y vívida. Se usan para describir objetos, sentimientos o ideas de manera creativa, como en la metáfora \"el amor es un incendio\" que sugiere una pasión intensa y ardiente. Las metáforas pueden ser verbales o visuales, y se encuentran en la literatura, la poesía y el lenguaje cotidiano. Al usar metáforas, se pueden crear descripciones más ricas y significativas, como en la frase \"la vida es un viaje\".",
       "fecha": "2025-12-28T20:40:36.899Z"
+    },
+    {
+      "pregunta": "¿Qué son los sinónimos y antónimos?",
+      "respuesta": "Excelente pregunta. Los sinónimos son palabras que tienen el mismo significado o casi el mismo significado que otra palabra, pero con un tono o connotación ligeramente diferente. Por ejemplo, \"frio\" y \"helado\" son sinónimos porque se refieren a la misma temperatura. Los antónimos, por otro lado, son palabras que tienen un significado opuesto. Por ejemplo, \"grande\" y \"pequeño\" son antónimos porque se refieren a tamaños opuestos.\n\nEjemplo: \n\"Estoy muy enfadado\" (enfadado es un sinónimo de iracundo o enojado), \n\"Estoy enfadado pero mi amigo está contento\" (enfadado y contento son antónimos).\n\nLos sinónimos y antónimos son herramientas útiles para enriquecer nuestra expresión y comunicación, ya que nos permiten describir",
+      "fecha": "2025-12-28T20:40:43.735Z"
     }
   ],
-  "ultimaActualizacion": 1766954436900,
-  "preguntasHechas": 181
+  "ultimaActualizacion": 1766954443737,
+  "preguntasHechas": 182
 }
