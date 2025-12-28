@@ -1,5 +1,5 @@
 {
-  "iq": 871,
+  "iq": 876,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1691,7 +1691,11 @@
     "lograría",
     "presentaran",
     "acontecimientos",
-    "cronológica"
+    "cronológica",
+    "unión",
+    "sustantiva",
+    "noche",
+    "tenía"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2510,8 +2514,13 @@
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual se refiere a la propiedad de un texto de ser lógico, claro y fácil de seguir. Implica que las ideas y oraciones están relacionadas entre sí de manera natural y consecuente, permitiendo al lector entender el contenido sin dificultades. Por ejemplo, en un texto informativo sobre la historia de una ciudad, la coherencia textual se lograría si se presentaran los acontecimientos de manera cronológica y lógica. De esta manera, el lector puede seguir fácilmente la secuencia de los acontecimientos.",
       "fecha": "2025-12-28T19:59:39.740Z"
+    },
+    {
+      "pregunta": "¿Cómo se construyen oraciones complejas en español?",
+      "respuesta": "Las oraciones complejas en español se construyen mediante la unión de dos oraciones sencillas, independientes, mediante una conjunción subordinante, como \"ya que\", \"pues\", \"dado que\", \"ya que\", etc., o mediante una subordinada sustantiva, como \"cuando\", \"mientras\", \"aunque\", etc. Por ejemplo: \"Estudié toda la noche (oración principal) porque tenía un examen importante (oración subordinada)\".",
+      "fecha": "2025-12-28T19:59:47.725Z"
     }
   ],
-  "ultimaActualizacion": 1766951979741,
-  "preguntasHechas": 89
+  "ultimaActualizacion": 1766951987727,
+  "preguntasHechas": 90
 }
