@@ -1,5 +1,5 @@
 {
-  "iq": 1493,
+  "iq": 1500,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2284,11 +2284,6 @@
   "conversaciones": 6,
   "conocimiento": [
     {
-      "pregunta": "¿Qué son los conectores y cómo se usan?",
-      "respuesta": "Los conectores son palabras o expresiones que se utilizan para unir ideas, oraciones o frases en una estructura lógica y coherente en el lenguaje. Algunos ejemplos comunes de conectores son \"y\", \"pero\", \"sin embargo\", \"además\", \"por lo tanto\" y \"por lo que\". Estos conectores ayudan a organizar la información y a crear una secuencia lógica en la comunicación.\n\nPor ejemplo: \"Me gusta leer libros y también escuchar música.\" En este caso, el conector \"y\" une dos ideas para crear una oración coherente.\n\nOtro ejemplo: \"Me gusta leer libros, pero no tengo mucho tiempo para leer.\" En este caso, el conector \"pero\" se utiliza para contrastar ideas y crear una oración con un tono más crítico.",
-      "fecha": "2025-12-28T19:14:54.352Z"
-    },
-    {
       "pregunta": "¿Cómo se construyen oraciones complejas en español?",
       "respuesta": "Una oración compleja en español se construye combinando una oración simple con una subordinada o una coordenada. Por ejemplo: \"Me alegra que llegues a tiempo\" (aquí \"que llegues a tiempo\" es una subordinada) o \"Me alegra que llegues a tiempo y estés listo para comenzar\" (aquí \"que llegues a tiempo\" es una subordinada y \"estés listo para comenzar\" es una coordinada).",
       "fecha": "2025-12-28T19:15:02.371Z"
@@ -3282,8 +3277,13 @@
       "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
       "respuesta": "El vocabulario técnico se refiere a palabras y expresiones específicas utilizadas en un campo o industria particular, como la medicina, la ingeniería o la tecnología, y son comprensibles solo por personas con conocimientos especializados en esa área. Por ejemplo, el término \"aneurisma abdominal\" es común en el ámbito médico pero no en el lenguaje coloquial.\n\nPor otro lado, el vocabulario coloquial se refiere a palabras y expresiones habituales en el lenguaje cotidiano y son comprensibles por la mayoría de la gente. Por ejemplo, expresiones como \"estar cansado\" o \"estar emocionado\" son comunes en el lenguaje coloquial pero pueden no ser tan precisas en un contexto técnico.\n\nEs importante destacar que, aunque el vocabulario técnico puede ser más preciso, el coloquialismo puede ser",
       "fecha": "2025-12-28T20:53:15.670Z"
+    },
+    {
+      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
+      "respuesta": "Las preposiciones son palabras que indican la relación entre un objeto o una persona y otro elemento en una oración. Su función es describir el lugar, la dirección, la cantidad, la manera, la compañía, la relación o la consecuencia de un evento. Por ejemplo, en la oración \"El libro está sobre la mesa\", la preposición \"sobre\" indica la relación entre el libro y la mesa.",
+      "fecha": "2025-12-28T20:53:23.705Z"
     }
   ],
-  "ultimaActualizacion": 1766955196076,
-  "preguntasHechas": 213
+  "ultimaActualizacion": 1766955203706,
+  "preguntasHechas": 214
 }
