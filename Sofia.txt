@@ -1,5 +1,5 @@
 {
-  "iq": 677,
+  "iq": 684,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1485,7 +1485,14 @@
     "permitiendo",
     "completas",
     "servir",
-    "enumeración"
+    "enumeración",
+    "opiniones",
+    "automáticamente",
+    "investigaría",
+    "fuentes",
+    "analizaría",
+    "argumentaciones",
+    "motivaciones"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2109,8 +2116,13 @@
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son palabras o expresiones que conectan ideas o oraciones en una oración, permitiendo la presentación de una secuencia lógica de pensamientos. Se utilizan para unir fragmentos de oraciones, como palabras, frases o oraciones completas, y pueden servir para indicar causa-efecto, tiempo, contraste, enumeración, etc. Por ejemplo, \"Sin embargo\", \"Por lo tanto\", \"Además\", \"Por ejemplo\" son algunos conectores comunes utilizados en la escritura y la conversación.",
       "fecha": "2025-12-28T19:19:42.148Z"
+    },
+    {
+      "pregunta": "¿Qué es el pensamiento crítico?",
+      "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar información, ideas y argumentos de manera objetiva, lógica y reflexiva. Implica cuestionar suposiciones, identificar sesgos y prejuicios, y considerar múltiples perspectivas al tomar decisiones o formar opiniones. Por ejemplo, al leer un artículo en un periódico, un pensador crítico no solo aceptaría automáticamente la información presentada, sino que también investigaría fuentes secundarias, analizaría las argumentaciones y consideraría posibles sesgos o motivaciones del autor.",
+      "fecha": "2025-12-28T19:19:50.102Z"
     }
   ],
-  "ultimaActualizacion": 1766949582149,
-  "preguntasHechas": 50
+  "ultimaActualizacion": 1766949590104,
+  "preguntasHechas": 51
 }
