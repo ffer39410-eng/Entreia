@@ -1,5 +1,5 @@
 {
-  "iq": 1364,
+  "iq": 1369,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2173,16 +2173,17 @@
     "unificado",
     "partir",
     "posiciónes",
-    "ticas"
+    "ticas",
+    "sincero",
+    "refleje",
+    "mirar",
+    "inflexiones",
+    "hayamos",
+    "logrado"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué son los sinónimos y antónimos?",
-      "respuesta": "Los sinónimos son palabras que tienen el mismo significado o se refieren a la misma idea, pero pueden variar en tono o estilo. Por ejemplo: \"frio\" y \"frío\" son sinónimos.\n\nLos antónimos, por otra parte, son palabras que tienen significados opuestos o contrarios. Por ejemplo: \"grandes\" y \"pequeños\" son antónimos. \n\nEstos conceptos se utilizan en la gramática y la retórica para crear textos más ricos y expresivos.",
-      "fecha": "2025-12-28T19:08:57.008Z"
-    },
     {
       "pregunta": "¿Cómo se estructura una buena argumentación?",
       "respuesta": "Una buena argumentación se estructura de la siguiente manera: comienza con una afirmación o tesis que resume el argumento principal, luego presentas evidencia o pruebas que la respalden, explicas los motivos o razones que respaldan la evidencia y finalmente concluyes con una reflexión o conclusión que resume la argumentación. Por ejemplo, \"El consumo excesivo de azúcar es perjudicial para la salud debido a que aumenta el riesgo de diabetes y obesidad, como se demostró en una investigación reciente que encontró una correlación directa entre el consumo de azúcar y la prevalencia de enfermedades crónicas\".",
@@ -3177,8 +3178,13 @@
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar información, argumentos y perspectivas de manera objetiva y lógica, identificando fortalezas y debilidades, y tomando decisiones informadas. Esto requiere la capacidad de cuestionar supuestos, considerar múltiples perspectivas y utilizar evidencia para apoyar conclusiones. El pensamiento crítico es esencial para tomar decisiones informadas, resolver problemas complejos y tomar posiciónes éticas. Por ejemplo, al evaluar un artículo de noticias, un estudiante con pensamiento crítico analizaría la fuente, el objetivo del artículo y la presentación de los datos para determinar su validez y relevancia.",
       "fecha": "2025-12-28T20:41:39.733Z"
+    },
+    {
+      "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
+      "respuesta": "Para expresar emociones de forma efectiva, es fundamental ser auténtico y sincero. Utiliza lenguaje corporal y verbal que refleje tus sentimientos, como mirar a los ojos para mostrar empatía o usar inflexiones en la voz para transmitir entusiasmo. Por ejemplo, si estás felicidad, podrías sonreír y decir \"¡Estoy tan contento de que hayamos logrado esto!\".",
+      "fecha": "2025-12-28T20:41:47.623Z"
     }
   ],
-  "ultimaActualizacion": 1766954499737,
-  "preguntasHechas": 189
+  "ultimaActualizacion": 1766954507624,
+  "preguntasHechas": 190
 }
