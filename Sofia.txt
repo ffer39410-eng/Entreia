@@ -1,5 +1,5 @@
 {
-  "iq": 1612,
+  "iq": 1616,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2356,16 +2356,15 @@
     "directamente",
     "enriquecedora",
     "recorrido",
-    "explícita"
+    "explícita",
+    "indirecta",
+    "tristeza",
+    "querido",
+    "defensa"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué es la coherencia textual?",
-      "respuesta": "La coherencia textual se refiere a la capacidad de un texto para mantener una estructura lógica y un enlace entre sus diferentes partes, lo que permite a los lectores seguir la línea de razonamiento y comprender el mensaje de manera efectiva. Una buena coherencia textual se logra a través de la selección de palabras y frases que trabajen juntas para crear una narrativa clara y cohesiva. Por ejemplo, en un texto científico, la coherencia textual puede lograrse al presentar información de manera sistemática y relacionada, utilizando transiciones y conectores lingüísticos para conectar ideas y conceptos.",
-      "fecha": "2025-12-28T19:22:16.447Z"
-    },
     {
       "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
       "respuesta": "Las metáforas son una figura retórica que consiste en comparar dos conceptos o ideas sin utilizar términos como \"como\" o \"similar a\". En el lenguaje, se utilizan para crear connotaciones emocionales, hacer que las ideas sean más comprensibles y atractivas. Por ejemplo, \"Ella es una estrella en la escena social\" o \"El tiempo es un río que fluye sin detenerse\".",
@@ -3360,8 +3359,13 @@
       "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
       "respuesta": "Las metáforas son comparaciones implícitas entre dos conceptos o ideas que no están relacionados directamente, utilizadas para describir o explicar algo de manera creativa y enriquecedora. Por ejemplo, \"la vida es un viaje\" es una metáfora que compara la vida con un recorrido a través de diferentes lugares, destacando la idea de que la vida tiene sus propias etapas y desafíos. Esta comparación no se establece de manera explícita, pero ayuda a crear una imagen mental más vívida y evocadora del concepto en cuestión.",
       "fecha": "2025-12-28T21:00:43.746Z"
+    },
+    {
+      "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
+      "respuesta": "Para expresar emociones de forma efectiva, es importante ser auténtico y honesto sobre tus sentimientos. Puedes hacerlo de manera directa o indirecta, dependiendo del contexto y la audiencia. Por ejemplo, si sientes tristeza después de una pérdida, puedes decir \"Me siento triste\" o \"Me hace falta mucho a mi ser querido\". También puedes expresar tus emociones a través del lenguaje no verbal, como sonreír para mostrar alegría o cruzar los brazos para indicar defensa.",
+      "fecha": "2025-12-28T21:00:51.726Z"
     }
   ],
-  "ultimaActualizacion": 1766955643748,
-  "preguntasHechas": 236
+  "ultimaActualizacion": 1766955651728,
+  "preguntasHechas": 237
 }
