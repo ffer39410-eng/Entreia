@@ -1,5 +1,5 @@
 {
-  "iq": 2568,
+  "iq": 2575,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2934,16 +2934,15 @@
     "posterior",
     "pastel",
     "locura",
-    "medida"
+    "medida",
+    "período",
+    "vive",
+    "invitado",
+    "cumpleaños"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
-      "respuesta": "El razonamiento lógico en conversaciones es la capacidad de obtener conclusiones lógicas y coherentes a partir de información y argumentos presentados. Implica utilizar principios de lógica y razón para analizar y evaluar la validez de las afirmaciones y argumentos. Por ejemplo, al discutir sobre un tema complejo, un razonamiento lógico podría implicar identificar prejuicios, analizar las causas y efectos, y establecer conexiones lógicas entre ideas.",
-      "fecha": "2025-12-28T20:54:19.573Z"
-    },
     {
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "Los sinónimos son palabras que tienen el mismo significado que otra palabra, pero con una forma diferente. Por ejemplo, \"fuerte\" y \"potente\" son sinónimos. Los antónimos, por otro lado, son palabras que tienen significados opuestos. Por ejemplo, \"grande\" y \"pequeño\" son antónimos.\n\nEjemplo: Si alguien describe algo como \"fuerte\", podría también usar \"potente\" para describir lo mismo, pero \"fuerte\" y \"débil\" son antónimos porque tienen significados opuestos.",
@@ -3938,8 +3937,13 @@
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "Los sinónimos y antónimos son términos que se utilizan en la lingüística para describir las palabras que tienen una relación semántica con otras.\n\n**Sinónimos**: Son palabras que tienen el mismo significado o nearly el mismo significado que otra palabra. Por ejemplo: \"felicidad\" y \"alegría\" son sinónimos porque expresan un sentimiento positivo.\n\n**Antónimos**: Son palabras que tienen un significado opuesto a otra palabra. Por ejemplo: \"largo\" y \"corto\" son antónimos porque expresan una medida o tamaño opuesto.",
       "fecha": "2025-12-28T21:31:47.743Z"
+    },
+    {
+      "pregunta": "¿Cómo se construyen oraciones complejas en español?",
+      "respuesta": "Una oración compleja se construye combinando una oración simple con otra oración simple o con un período subordinado. Por ejemplo: \"Mi amiga, que vive en Madrid, me ha invitado a su cumpleaños\" donde \"que vive en Madrid\" es una oración subordinada y \"a su cumpleaños\" es un período subordinado.",
+      "fecha": "2025-12-28T21:31:55.732Z"
     }
   ],
-  "ultimaActualizacion": 1766957507744,
-  "preguntasHechas": 420
+  "ultimaActualizacion": 1766957515734,
+  "preguntasHechas": 421
 }
