@@ -1,5 +1,5 @@
 {
-  "iq": 2889,
+  "iq": 2896,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3082,16 +3082,12 @@
     "completos",
     "conciencia",
     "singulares",
-    "plurales"
+    "plurales",
+    "extremos"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué son los conectores y cómo se usan?",
-      "respuesta": "Los conectores son palabras o expresiones que se utilizan para unir oraciones, frases o ideas para crear una secuencia lógica y coherente en el discurso. Por ejemplo, \"y\", \"pero\", \"sin embargo\", \"además\", \"por tanto\", entre otros. \n\nConectores como \"y\" se utilizan para agregar información, \"pero\" para contrastar ideas, y \"sin embargo\" para señalar una oposición entre dos puntos de vista. \n\nPor ejemplo: \"Me encanta leer libros y escribir poemas\" (conector \"y\" para agregar información).",
-      "fecha": "2025-12-28T21:09:47.718Z"
-    },
     {
       "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
       "respuesta": "Las metáforas son una figura retórica que consiste en comparar dos conceptos diferentes, no equivalentes, para crear una nueva descripción. Por ejemplo, \"la vida es un viaje\" o \"el tiempo es un río\". Esta comparación permite describir emociones o situaciones complejas de manera más clara y comprensible. Las metáforas se usan en la literatura, la poesía, la oratoria y la comunicación cotidiana para crear imágenes mentales y evocar sentimientos en el receptor.",
@@ -4086,8 +4082,13 @@
       "pregunta": "¿Cuáles son las reglas de la gramática española?",
       "respuesta": "La gramática española tiene varias reglas básicas que ayudan a formar oraciones coherentes. Una de las reglas más importantes es la conciencia de género y número, donde los artículos, adjetivos y sustantivos varían dependiendo del género y si son singulares o plurales. Por ejemplo, \"el libro\" es masculino y singular, mientras que \"los libros\" es masculino y plural. Además, la regla de concordancia de verbos y adjetivos con el sujeto es fundamental.",
       "fecha": "2025-12-28T21:48:35.710Z"
+    },
+    {
+      "pregunta": "¿Qué son los sinónimos y antónimos?",
+      "respuesta": "Los sinónimos son palabras que tienen el mismo significado que otra palabra, pero con diferentes sonidos y formas de expresión. Por ejemplo, \"feliz\" y \"alegre\" son sinónimos porque describen la misma emoción positiva. Los antónimos, por otro lado, son palabras que tienen un significado opuesto. Por ejemplo, \"frio\" y \"calor\" son antónimos porque describen extremos opuestos en términos de temperatura.",
+      "fecha": "2025-12-28T21:48:43.617Z"
     }
   ],
-  "ultimaActualizacion": 1766958520790,
-  "preguntasHechas": 482
+  "ultimaActualizacion": 1766958523618,
+  "preguntasHechas": 483
 }
