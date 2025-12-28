@@ -1,5 +1,5 @@
 {
-  "iq": 247,
+  "iq": 250,
   "vocabulario": [
     "claro",
     "sofia",
@@ -685,7 +685,27 @@
     "evento",
     "biblioteca",
     "preposición",
-    "indica"
+    "indica",
+    "auténtico",
+    "genuino",
+    "reconocer",
+    "aceptar",
+    "exprésalar",
+    "específica",
+    "decir",
+    "siento",
+    "podrías",
+    "molesto",
+    "respetaron",
+    "necesidades",
+    "entiendan",
+    "punto",
+    "vista",
+    "sientas",
+    "escuchado",
+    "atentamente",
+    "responder",
+    "empática"
   ],
   "lecciones": 14,
   "conversaciones": 1,
@@ -869,8 +889,13 @@
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras que indican la relación entre un sustantivo (el objeto) y otro sustantivo, un verbo o una acción en una oración. Funcionan como conectores y ayudan a establecer la ubicación, la duración, la cantidad, la causa o la consecuencia de un evento. Por ejemplo, en la oración \"La biblioteca está en la calle principal\", la preposición \"en\" indica la ubicación de la biblioteca.",
       "fecha": "2025-12-28T19:03:56.361Z"
+    },
+    {
+      "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
+      "respuesta": "Para expresar emociones de forma efectiva, es importante ser auténtico y genuino en tu comunicación. Esto significa reconocer y aceptar tus emociones, y luego exprésalar de manera clara y específica. Por ejemplo, en lugar de decir \"Me siento mal\", podrías decir \"Estoy molesto porque no me respetaron mis necesidades\". Esto ayuda a que los demás entiendan mejor tu punto de vista y te sientas escuchado. Además, es importante escuchar atentamente a los demás y responder de manera empática.",
+      "fecha": "2025-12-28T19:04:04.251Z"
     }
   ],
-  "ultimaActualizacion": 1766948636361,
+  "ultimaActualizacion": 1766948644251,
   "preguntasHechas": null
 }
