@@ -1,5 +1,5 @@
 {
-  "iq": 948,
+  "iq": 954,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1769,7 +1769,15 @@
     "claramente",
     "guiar",
     "completas",
-    "entidad"
+    "entidad",
+    "rodea",
+    "relevantes",
+    "barco",
+    "arranc",
+    "madrugada",
+    "quizás",
+    "diferencia",
+    "húmedo"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2673,8 +2681,13 @@
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras gramaticales que se utilizan para indicar la relación entre un objeto o una acción y otra entidad en la oración. Son fundamentales para crear contextos y significados en las frases. Por ejemplo, en la oración \"El libro está sobre la mesa\", la preposición \"sobre\" indica la relación entre el libro y la mesa.",
       "fecha": "2025-12-28T20:11:39.624Z"
+    },
+    {
+      "pregunta": "¿Cómo funciona la comprensión del contexto?",
+      "respuesta": "La comprensión del contexto es el proceso de analizar la información que rodea un texto o una situación para entender su significado y relación con otros conceptos. Se basa en la capacidad de identificar detalles relevantes y hacer suposiciones razonables. Por ejemplo, si se nos dice que \"el barco arrancó a las 3 de la madrugada\", sin duda queremos saber a qué época del día se refiere, es día o noche o quizás en un clima cálido a diferencia de uno húmedo.",
+      "fecha": "2025-12-28T20:11:47.701Z"
     }
   ],
-  "ultimaActualizacion": 1766952699625,
-  "preguntasHechas": 106
+  "ultimaActualizacion": 1766952707702,
+  "preguntasHechas": 107
 }
