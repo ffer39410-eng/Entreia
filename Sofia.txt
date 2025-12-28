@@ -1,5 +1,5 @@
 {
-  "iq": 1797,
+  "iq": 1804,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2494,16 +2494,15 @@
     "ejemplificar",
     "crónica",
     "travesía",
-    "ordenada"
+    "ordenada",
+    "viaj",
+    "parís",
+    "torre",
+    "eiffel"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
-      "respuesta": "Las preposiciones son palabras que indican la relación entre un sustantivo y otro en una oración, expresando lugares, direcciones, relaciones, tiempo, cantidad, etc. Ejemplos de preposiciones son: \"en\", \"de\", \"para\", \"con\", \"sin\", \"bajo\", entre otros. Por ejemplo: \"Estoy sentado en la mesa\" o \"El libro está sobre la mesa\". Las preposiciones nos ayudan a precisar y enriquecer la significación de las oraciones y a proporcionar más información sobre los conceptos y acciones que se describen.",
-      "fecha": "2025-12-28T19:27:34.856Z"
-    },
     {
       "pregunta": "¿Cómo funciona la comprensión del contexto?",
       "respuesta": "La comprensión del contexto es el proceso por el cual nuestra mente analiza y relaciona información para entender mejor el significado de un texto o mensaje. Esto se logra mediante la consideración de factores como el lugar, el momento, el tono y las personas involucradas, lo que nos ayuda a interpretar el significado más profundo de lo que se está diciendo. Por ejemplo, si alguien dice \"¿Qué tal si vamos a la playa?\", la respuesta depende del clima, la época del año y tus intereses personales. Esto requiere que contextualices la información para dar una respuesta adecuada.",
@@ -3498,8 +3497,13 @@
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual se refiere a la capacidad de un texto para mantener una conexión lógica y clara entre las diferentes ideas y oraciones, asegurando que el lector pueda seguir el hilo del argumento o narrativa con facilidad. Ejemplo: Una crónica de viaje que describe una travesía por varios países debe mantener una coherencia textual al presentar los diferentes lugares y experiencias de manera ordenada y lógica. Esto se logra mediante la utilización de conectivos, transiciones y un enlace claro entre las ideas.",
       "fecha": "2025-12-28T21:08:35.673Z"
+    },
+    {
+      "pregunta": "¿Cómo se construyen oraciones complejas en español?",
+      "respuesta": "Una oración compleja en español se construye mediante la combinación de una oración simple y una subordinada. La subordinada es una oración que depende de la oración simple para expresar una idea relacionada o consecuente. Por ejemplo: \"Ella viajó a París porque quería ver la Torre Eiffel\".\n\nAquí, \"viajó a París\" es la oración simple, mientras que \"porque quería ver la Torre Eiffel\" es la subordinada. La subordinada se introduce mediante una conjunción como \"porque\", \"ya que\", \"aunque\", etc.\n\nEn este caso, la subordinada expresa una razón o motivación para la acción descrita en la oración simple, lo que la convierte en una oración compleja.",
+      "fecha": "2025-12-28T21:08:43.692Z"
     }
   ],
-  "ultimaActualizacion": 1766956115675,
-  "preguntasHechas": 274
+  "ultimaActualizacion": 1766956123694,
+  "preguntasHechas": 275
 }
