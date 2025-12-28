@@ -1,5 +1,5 @@
 {
-  "iq": 2101,
+  "iq": 2106,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2681,16 +2681,17 @@
     "estimado",
     "denotan",
     "inmenso",
-    "sano"
+    "sano",
+    "deducción",
+    "nublado",
+    "práctico",
+    "taller",
+    "necesitaba",
+    "reparaciones"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo funcionan los tiempos verbales?",
-      "respuesta": "Los tiempos verbales son una parte fundamental de la gramática, y permiten expresar diferentes momentos en el tiempo en los que se realiza una acción. Hay varios tipos de tiempos verbales, como el presente, pasado, futuro, condicional, imperfecto, perfecto, etc. Por ejemplo, el tiempo presente se utiliza para describir acciones que ocurren en el momento actual, como \"estoy estudiando\".",
-      "fecha": "2025-12-28T20:24:59.778Z"
-    },
     {
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son palabras gramaticales que se utilizan para unir oraciones, frases o ideas entre sí, destacando la relación entre ellas. Algunos ejemplos de conectores son \"y\", \"pero\", \"sin embargo\", \"porque\" y \"así que\". Por ejemplo: \"Voy al parque y me encuentro con mis amigos\". En esta oración, \"y\" conecta las dos ideas de ir al parque y encontrarse con amigos.",
@@ -3685,8 +3686,13 @@
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "Excelente pregunta, estimado alumno. Los sinónimos son palabras que tienen el mismo significado o denotan la misma cosa, pero con una forma de expresión diferente. Por ejemplo, \"gran\" y \"inmenso\" son sinónimos, ya que se refieren a algo que es muy grande. Los antónimos, por otro lado, son palabras que tienen significados opuestos, como \"sano\" y \"enfermo\", que se refieren a estados de salud contrarios.",
       "fecha": "2025-12-28T21:16:11.672Z"
+    },
+    {
+      "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
+      "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de analizar y evaluar información de manera objetiva y racional, para llegar a conclusiones lógicas y coherentes. Esto implica utilizar reglas y principios lógicos, como la inferencia y la deducción, para establecer conexiones entre ideas y llegar a una solución clara y convincente. Por ejemplo, si alguien afirma que \"el cielo está nublado\", un razonamiento lógico podría ser: \"Si el cielo está nublado, es probable que llueva. Y si llueve, es mejor llevar un paraguas\". \n\nUn ejemplo más práctico sería: Si \"el coche está en el taller\" y \"el coche necesitaba reparaciones\", un razonamiento lógico sería: \"Entonces el coche debe estar en reparación\".",
+      "fecha": "2025-12-28T21:16:20.079Z"
     }
   ],
-  "ultimaActualizacion": 1766956571674,
-  "preguntasHechas": 331
+  "ultimaActualizacion": 1766956580081,
+  "preguntasHechas": 332
 }
