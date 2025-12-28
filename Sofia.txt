@@ -1,5 +1,5 @@
 {
-  "iq": 1340,
+  "iq": 1343,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2145,16 +2145,17 @@
     "herramientas",
     "declaración",
     "críticas",
-    "reiteración"
+    "reiteración",
+    "ansioso",
+    "repetir",
+    "resumir",
+    "asegurarte",
+    "apreciadas",
+    "escuchando"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
-      "respuesta": "Las preposiciones son palabras que indican la relación entre un objeto, lugar o tiempo y otro elemento en una oración. A modo de ejemplo, \"en la playa\" o \"con mi amigo\" son expresiones que utilizan la preposición \"en\" y \"con\" para indicar la relación entre el objeto o lugar y el resto de la oración.\n\nLas preposiciones sirven para proporcionar contexto y claridad a las oraciones, y pueden indicar lugares, direcciones, tiempo, maneras de hacer algo, etc. Algunas preposiciones comunes son \"en\", \"de\", \"con\", \"sin\", \"bajo\", etc.",
-      "fecha": "2025-12-28T19:08:09.292Z"
-    },
     {
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales son palabras que expresan el momento en que se realiza la acción descrita por el verbo. Hay varios tiempos verbales, como el presente, pasado y futuro, que se pueden utilizar de varias formas para indicar el momento en que ocurre la acción. Por ejemplo, \"yo como una manzana\" (presente), \"yo comí una manzana\" (pasado) y \"yo comeré una manzana\" (futuro). Cada tiempo verbal tiene sus propias reglas y formas de conjugación.",
@@ -3149,8 +3150,13 @@
       "pregunta": "¿Cómo se estructura una buena argumentación?",
       "respuesta": "Una buena argumentación se estructura en cuatro pasos fundamentales: Tesis, argumentos, refutación y conclusión. La tesis es la declaración inicial que expresa la idea central del argumento, los argumentos son los datos, hechos o razones que apoyan la tesis, la refutación es la respuesta a las posibles objeciones o críticas a la tesis y la conclusión es la reiteración de la tesis y la síntesis de los argumentos presentados.",
       "fecha": "2025-12-28T20:40:51.708Z"
+    },
+    {
+      "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
+      "respuesta": "La expresión de emociones es fundamental para comunicarnos de manera efectiva. Puedes expresar tus emociones de forma clara al usar lenguaje corporal, como mantener contacto visual, sonreír o demostrar comprensión mediante gestos, y mediante palabras, utilizando verbos como \"me alegra\" o \"me siento ansioso\", para dar a entender tus sentimientos. Además, puedes utilizar técnicas de comunicación activa, como repetir y resumir, para asegurarte de que tus palabras sean entendidas y apreciadas por los demás. Por ejemplo, si alguien te dice que te sientes triste, puedes responder con \"Sí, me siento un poco triste hoy\" para mostrar que estás escuchando y que te importa cómo te sientes.",
+      "fecha": "2025-12-28T20:40:59.781Z"
     }
   ],
-  "ultimaActualizacion": 1766954451709,
-  "preguntasHechas": 183
+  "ultimaActualizacion": 1766954459782,
+  "preguntasHechas": 184
 }
