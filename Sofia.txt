@@ -1,5 +1,5 @@
 {
-  "iq": 954,
+  "iq": 959,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1777,7 +1777,15 @@
     "madrugada",
     "quizás",
     "diferencia",
-    "húmedo"
+    "húmedo",
+    "inferencias",
+    "comparaciones",
+    "clasificaciones",
+    "articular",
+    "convincentes",
+    "animales",
+    "perrito",
+    "animal"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2686,8 +2694,13 @@
       "pregunta": "¿Cómo funciona la comprensión del contexto?",
       "respuesta": "La comprensión del contexto es el proceso de analizar la información que rodea un texto o una situación para entender su significado y relación con otros conceptos. Se basa en la capacidad de identificar detalles relevantes y hacer suposiciones razonables. Por ejemplo, si se nos dice que \"el barco arrancó a las 3 de la madrugada\", sin duda queremos saber a qué época del día se refiere, es día o noche o quizás en un clima cálido a diferencia de uno húmedo.",
       "fecha": "2025-12-28T20:11:47.701Z"
+    },
+    {
+      "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
+      "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de analizar información, identificar relaciones lógicas y sacar conclusiones coherentes y racionales. Implica utilizar patrones de pensamiento lógicos, como inferencias, comparaciones y clasificaciones, para estructurar y articular argumentos claros y convincentes. Por ejemplo, si alguien afirma que \"todos los perros son animales\" y luego dice que \"mi perrito es un animal\", un razonamiento lógico le permitiría concluir que \"entonces mi perrito es un perro\".",
+      "fecha": "2025-12-28T20:11:55.691Z"
     }
   ],
-  "ultimaActualizacion": 1766952707702,
-  "preguntasHechas": 107
+  "ultimaActualizacion": 1766952715693,
+  "preguntasHechas": 108
 }
