@@ -1,5 +1,5 @@
 {
-  "iq": 2060,
+  "iq": 2064,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2659,16 +2659,13 @@
     "probabilidad",
     "empleo",
     "necesarios",
-    "competir"
+    "competir",
+    "logr",
+    "receptivo"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
-      "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de pensar y comunicarse de manera clara, coherente y racional al discutir temas o resolver problemas. Implica analizar información, identificar patrones y hacer conexiones lógicas entre ideas para llegar a conclusiones sólidas. Por ejemplo, al discutir sobre si un producto es eficiente, un razonamiento lógico podría implicar comparar los beneficios con los costos y evaluar la relación entre ambos.",
-      "fecha": "2025-12-28T20:15:55.831Z"
-    },
     {
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar información, argumentos y creencias de manera objetiva y reflexiva, para llegar a conclusiones informadas y bien fundamentadas. Esta habilidad implica cuestionar suposiciones, identificar sesgos y considerar múltiples perspectivas para tomar decisiones sensatas y efectivas. A través del pensamiento crítico, podemos distinguir entre la información veraz y la falsa, y hacer juicios informados sobre la base de evidencia sólida. Por ejemplo, cuando alguien nos presenta una noticia controvertida, el pensamiento crítico nos permite investigar y evaluar la fuente, el contexto y la evidencia que la respalda.",
@@ -3663,8 +3660,13 @@
       "pregunta": "¿Cómo se estructura una buena argumentación?",
       "respuesta": "Una buena argumentación se estructura en tres partes fundamentales: la premisa, el razonamiento y la conclusión. La premisa es el hecho o la información que se utiliza como base para la argumentación, el razonamiento es el proceso de análisis y conexión de la premisa para llegar a una conclusión, y la conclusión es el resultado final del proceso de razonamiento. Por ejemplo, si se argumenta que \"la educación es fundamental para el éxito\", la premisa podría ser \"los estudios muestran que las personas con educación tienen mayor probabilidad de encontrar empleo\", el razonamiento podría ser \"porque la educación les proporciona las habilidades y conocimientos necesarios para competir en el mercado laboral\" y la conclusión podría ser \"por lo tanto, la educación es fundamental para el éxito\".",
       "fecha": "2025-12-28T21:15:07.885Z"
+    },
+    {
+      "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
+      "respuesta": "Expresar emociones de forma efectiva implica ser auténtico, claro y respetuoso. Por ejemplo, en lugar de decir \"Me siento muy mal\", puedes expresar tus sentimientos de manera más detallada diciendo \"Me siento triste y frustrado porque no logré lo que esperaba\". Esta forma de expresión permite a los demás entender mejor tus sentimientos y responder de manera adecuada. Es importante escuchar a los demás y ser receptivo a sus emociones también.",
+      "fecha": "2025-12-28T21:15:15.643Z"
     }
   ],
-  "ultimaActualizacion": 1766956507887,
-  "preguntasHechas": 323
+  "ultimaActualizacion": 1766956515645,
+  "preguntasHechas": 324
 }
