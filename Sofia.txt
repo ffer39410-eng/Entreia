@@ -1,5 +1,5 @@
 {
-  "iq": 1910,
+  "iq": 1914,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2549,16 +2549,15 @@
     "demasiado",
     "fría",
     "record",
-    "resaltar"
+    "resaltar",
+    "fluya",
+    "suavemente",
+    "conecte",
+    "redacción"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
-      "respuesta": "Las preposiciones son palabras que indican la relación entre un sustantivo o un pronombre y otros elementos en una oración, como lugares, momentos, direcciones o causas. Por ejemplo, en la frase \"El libro está sobre la mesa\", la preposición \"sobre\" indica la relación entre el libro y la mesa. Las preposiciones ayudan a clarificar la estructura y el significado de la oración, haciendo que sea más fácil de entender y de construir.",
-      "fecha": "2025-12-28T20:06:37.808Z"
-    },
     {
       "pregunta": "¿Cómo funciona la comprensión del contexto?",
       "respuesta": "La comprensión del contexto es el proceso de analizar el entorno social, cultural y situacional en el que se comunica un mensaje. Esto implica considerar factores como el idioma, las creencias, las normas y las expectativas de las personas involucradas. Al comprender el contexto, podemos interpretar de manera más precisa y efectiva el significado de las palabras, las acciones y las expresiones. Por ejemplo, en un entorno profesional, un comentario que podría ser considerado chiste en un ambiente casual podría ser mal interpretado en un foro de trabajo formal.",
@@ -3553,8 +3552,13 @@
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "Los sinónimos son palabras que tienen el mismo significado o casi idéntico, como \"fácil\" y \"sencillo\". Por ejemplo: \"La prueba fue muy fácil, una cuestión de hacerlo con facilidad\".\n\nLos antónimos, por otro lado, son palabras que tienen un sentido opuesto, como \"muy frío\" y \"caloroso\". Por ejemplo: \"La habitación estaba demasiado fría, lo que me recordó el calor de la playa en verano\".\n\nEn resumen, los sinónimos se utilizan para expresar la misma idea, mientras que los antónimos se utilizan para resaltar la diferencia o la oposición.",
       "fecha": "2025-12-28T21:11:15.963Z"
+    },
+    {
+      "pregunta": "¿Qué es la coherencia textual?",
+      "respuesta": "La coherencia textual se refiere a la calidad de que el texto fluya suavemente, sin saltos ni contradicciones, y que cada idea se conecte lógicamente con las anteriores y siguientes. Un texto coherente tiene una estructura clara y un lenguaje consistente, lo que facilita la comprensión del lector. Por ejemplo, una redacción de un ensayo coherente podría describir el tema principal, luego presentar los argumentos y, finalmente, concluir con una reflexión. La coherencia textual es fundamental para comunicar ideas de manera efectiva.",
+      "fecha": "2025-12-28T21:11:23.847Z"
     }
   ],
-  "ultimaActualizacion": 1766956275964,
-  "preguntasHechas": 294
+  "ultimaActualizacion": 1766956283848,
+  "preguntasHechas": 295
 }
