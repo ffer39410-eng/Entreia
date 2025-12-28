@@ -1,5 +1,5 @@
 {
-  "iq": 807,
+  "iq": 813,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1631,7 +1631,15 @@
     "buen",
     "presentado",
     "válido",
-    "contrario"
+    "contrario",
+    "aplican",
+    "predicado",
+    "complementos",
+    "acentuación",
+    "cesura",
+    "sílaba",
+    "tónica",
+    "conjugado"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2390,8 +2398,13 @@
       "pregunta": "¿Cómo funciona la comprensión del contexto?",
       "respuesta": "La comprensión del contexto es la capacidad de entender el significado de un texto, una conversación o una situación a través del marco en el que se desarrolla. Implica considerar el entorno, la cultura, la intención y los sentimientos involucrados. Por ejemplo, en una reunión de trabajo, alguien puede decir \"Eso es un buen punto\", lo que podría significar que el punto presentado es interesante o válido, pero también podría significar el contrario dependiendo del tono y la intención de la persona.",
       "fecha": "2025-12-28T19:40:44.450Z"
+    },
+    {
+      "pregunta": "¿Cuáles son las reglas de la gramática española?",
+      "respuesta": "La gramática española está regida por una serie de reglas que se aplican a la estructura y forma de las palabras, frases y oraciones. Algunas de las reglas más importantes incluyen la declinación de los artículos (el, la, los, las), la conjugación de los verbos (presente, pretérito, futuro, condicional, etc.), la formación de las oraciones (sujeto, predicado, complementos, etc.) y la reglas de acentuación, como la cesura y la sílaba tónica. Por ejemplo, en la oración \"El estudiante estudia en la biblioteca\", \"el\" es el artículo masculino determinado, \"estudiante\" es el sujeto y \"estudia\" es el verbo conjugado en el presente de indicativo.",
+      "fecha": "2025-12-28T19:40:51.930Z"
     }
   ],
-  "ultimaActualizacion": 1766950844453,
-  "preguntasHechas": 77
+  "ultimaActualizacion": 1766950851932,
+  "preguntasHechas": 78
 }
