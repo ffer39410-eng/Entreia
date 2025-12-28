@@ -1,5 +1,5 @@
 {
-  "iq": 2458,
+  "iq": 2465,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2887,11 +2887,6 @@
   "conversaciones": 6,
   "conocimiento": [
     {
-      "pregunta": "¿Qué son los conectores y cómo se usan?",
-      "respuesta": "Los conectores son palabras o expresiones que unen oraciones o ideas para crear una secuencia lógica y coherente en un texto o discurso. Se usan para conectar ideas, ideas y detalles, ideas y oraciones, o incluso oraciones y oraciones.\n\nPor ejemplo, \"Sin embargo\", \"Aunque\", \"Pero\" son conectores de oposición, mientras que \"Y\", \"O\", \"También\" son conectores de acumulación, y \"Porque\", \"Ya que\", \"Pues\" son conectores de causalidad.\n\nAdemás, existen conectores de contrastación, como \"En lugar de\", \"En cambio\", y conectores de enumeración, como \"Luego\", \"Más adelante\", \"Por último\".",
-      "fecha": "2025-12-28T20:44:19.776Z"
-    },
-    {
       "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
       "respuesta": "El vocabulario técnico se refiere a términos y expresiones especializados utilizados en un campo específico, como la medicina, la ingeniería o la economía, y están diseñados para transmitir información precisa y objetiva. Por otro lado, el vocabulario coloquial se refiere a la forma en que las personas hablan en su vida diaria, utilizando expresiones informales y comunes que pueden variar según la región o la cultura.\n\nPor ejemplo, un médico usaría el término \"cirugía de bypass\" para describir una operación cardiovascular, mientras que un amigo comúnmente diría \"operación de corazón\" o \"bypass\". Ambas expresiones se refieren a la misma operación, pero la primera es más técnica y precisa, mientras que la segunda es más coloquial y accesible.",
       "fecha": "2025-12-28T20:44:27.870Z"
@@ -3885,8 +3880,13 @@
       "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
       "respuesta": "Las metáforas son una figura retórica que consiste en comparar dos conceptos o ideas diferentes para crear una nueva representación mental. En el lenguaje, se utilizan para describir conceptos abstractos de manera más visual y emocional, facilitando la comprensión y el recuerdo. Por ejemplo, \"ser el sol para alguien\" es una metáfora que compara la presencia de una persona con la luz y el calor del sol. Esto no solo Describe la importancia de la persona, sino que también evoca sentimientos de calor y conexión.",
       "fecha": "2025-12-28T21:25:15.746Z"
+    },
+    {
+      "pregunta": "¿Cómo se construyen oraciones complejas en español?",
+      "respuesta": "Una oración compleja en español se construye mediante la combinación de una oración simple y una oración subordinada. La oración subordinada proporciona información adicional o circunstancial sobre la oración principal. Por ejemplo: \"Yo fui al cine porque quería ver la película\". En esta oración, \"fui al cine\" es la oración principal y \"porque quería ver la película\" es la oración subordinada introducida por la conjunción \"porque\".",
+      "fecha": "2025-12-28T21:25:23.930Z"
     }
   ],
-  "ultimaActualizacion": 1766957115748,
-  "preguntasHechas": 399
+  "ultimaActualizacion": 1766957123931,
+  "preguntasHechas": 400
 }
