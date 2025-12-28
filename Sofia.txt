@@ -1,5 +1,5 @@
 {
-  "iq": 111,
+  "iq": 113,
   "vocabulario": [
     "claro",
     "sofia",
@@ -116,9 +116,40 @@
     "llegu",
     "casa",
     "estaba",
-    "lloviendo"
+    "lloviendo",
+    "expresar",
+    "pensamiento",
+    "crítico",
+    "capacidad",
+    "analizar",
+    "información",
+    "evaluar",
+    "evidencia",
+    "formar",
+    "juicios",
+    "informados",
+    "varias",
+    "frases",
+    "podemos",
+    "opinar",
+    "opinión",
+    "juicio",
+    "opino",
+    "justa",
+    "película",
+    "divertida",
+    "cualificar",
+    "juzgar",
+    "evalu",
+    "calidad",
+    "servicio",
+    "restaurante",
+    "pareci",
+    "excelente",
+    "presentación",
+    "proyecto"
   ],
-  "lecciones": 3,
+  "lecciones": 4,
   "conversaciones": 1,
   "conocimiento": [
     {
@@ -135,7 +166,12 @@
       "tema": "construcción de oraciones complejas",
       "leccion": "Sofia, ahora que has aprendido sobre metáforas, vamos a explorar la construcción de oraciones complejas en español. Una oración compleja es una oración que contiene una oración subordinada y una oración principal. La oración subordinada depende de la oración principal y expresa una idea relacionada pero no independiente.\n\n**Oraciones compuestas**: Una oración compuesta se puede dividir en dos partes: la oración principal y la oración subordinada. La oración subordinada puede ser de tiempo (condicional, causal, final), de lugar o de modo. Por ejemplo:\n\n * \"Cuando llegué a la casa, estaba lloviendo\": aquí, \"cuando llegué a la casa\" es la oración subordinada de tiempo, que depende de la oración",
       "fecha": "2025-12-28T18:53:16.875Z"
+    },
+    {
+      "tema": "pensamiento crítico expresado",
+      "leccion": "Sofia, ahora vamos a aprender a expresar el pensamiento crítico en español. El pensamiento crítico es la capacidad de analizar información, evaluar evidencia y formar juicios informados. En español, hay varias palabras y frases que podemos utilizar para expresar el pensamiento crítico.\n\n**Palabras y frases para expresar pensamiento crítico**\n\n1. **Opinar significa \"expresar una opinión o juicio\"**: Por ejemplo, \"Opino que la nueva ley es justa\" o \"Mi opinión es que la película es muy divertida\".\n2. **Evaluar significa \"cualificar o juzgar algo\"**: Por ejemplo, \"Evalué la calidad del servicio en el restaurante y me pareció excelente\" o \"Evalué la presentación del proyecto y me pareció",
+      "fecha": "2025-12-28T18:53:25.685Z"
     }
   ],
-  "ultimaActualizacion": 1766947996876
+  "ultimaActualizacion": 1766948005685
 }
