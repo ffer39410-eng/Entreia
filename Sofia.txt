@@ -1,5 +1,5 @@
 {
-  "iq": 2967,
+  "iq": 2974,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3116,16 +3116,12 @@
     "trabajando",
     "substantivos",
     "substantivo",
-    "determinan"
+    "determinan",
+    "distinción"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
-      "respuesta": "Las preposiciones son palabras que indican la relación entre un sustantivo o un grupo de palabras y otros elementos en una oración, como lugares, tiempo, causas, medios, etc. Por ejemplo: \"La casa está en la calle principal\" (indica la ubicación de la casa). Las preposiciones más comunes son: \"en\", \"de\", \"a\", \"con\", \"sin\", \"por\", \"para\", \"como\", \"sin\".",
-      "fecha": "2025-12-28T21:11:39.718Z"
-    },
     {
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son palabras o expresiones que unen ideas, oraciones o frases en una oración para mostrar la relación entre ellas. Por ejemplo, los conectores de coordinación como \"y\" o \"pero\" se usan para unir oraciones semejantes, como en \"Voy al parque y paseo con mis amigos\".\n\nLos conectores de subordinación, como \"porque\" o \"aunque\", se usan para unir oraciones de diferente naturaleza, como en \"Me alegra que vengas porque te extrañé\". Los conectores de adición como \"además\" o \"también\" se emplean para añadir más información, como en \"Me encanta leer libros, además me gusta la música\".\n\nEn resumen, los conectores son fundamentales en la construcción de oraciones complejas y claras, permitiendo al hablante expresar ideas más ricas",
@@ -4120,8 +4116,13 @@
       "pregunta": "¿Cuáles son las reglas de la gramática española?",
       "respuesta": "La gramática española se rige por reglas que determinan la estructura y el uso correcto de la lengua. Algunas de las reglas más importantes incluyen el uso correcto de género (masculino y femenino) y número (singular y plural), el orden de las palabras en una oración (Sujeto-Verbo-Complemento), el uso de artículos (el/la, los/las), y el empleo adecuado de conjugación verbal (presente, pretérito, futuro, etc.). Además, es fundamental conocer las reglas de uso de los tiempos verbales, como el pretérito perfecto y el pretérito imperfecto.",
       "fecha": "2025-12-28T21:50:28.051Z"
+    },
+    {
+      "pregunta": "¿Qué son los sinónimos y antónimos?",
+      "respuesta": "Excelente pregunta, estudiantes. Los sinónimos son palabras o expresiones que tienen el mismo significado o connotación que otra palabra o expresión, por ejemplo: \"feliz\" y \"alegre\" son sinónimos. Los antónimos, por otro lado, son palabras o expresiones que tienen un significado opuesto al de otra palabra o expresión, por ejemplo: \"grande\" y \"pequeño\" son antónimos. Esta distinción es fundamental en el lenguaje y la comunicación efectiva.",
+      "fecha": "2025-12-28T21:50:35.781Z"
     }
   ],
-  "ultimaActualizacion": 1766958628053,
-  "preguntasHechas": 496
+  "ultimaActualizacion": 1766958635786,
+  "preguntasHechas": 497
 }
