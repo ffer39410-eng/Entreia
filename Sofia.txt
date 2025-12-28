@@ -1,5 +1,5 @@
 {
-  "iq": 1213,
+  "iq": 1216,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2018,16 +2018,18 @@
     "mágicos",
     "malentendidos",
     "asegurarnos",
-    "entendemos"
+    "entendemos",
+    "tienda",
+    "comprare",
+    "regresar",
+    "incorrecta",
+    "eficacia",
+    "comunicaciones",
+    "escrit"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
-      "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de utilizar argumentos y conclusiones lógicas para comunicarse de manera efectiva y convincente. Implica analizar información, identificar patrones y relaciones, y llegar a conclusiones precisas y justificadas. Por ejemplo, si alguien dice \"El sol sale al este y se pone al oeste\", un razonamiento lógico podría ser \"Por lo tanto, el planeta debe estar girando alrededor del sol\".",
-      "fecha": "2025-12-28T19:03:32.150Z"
-    },
     {
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales son una parte fundamental de la gramática en cualquier idioma, y su función es indicar el momento en que se produce una acción o el estado en que se encuentra algo. Existen varios tiempos verbales, como el presente, el pasado, el futuro, etc., y cada uno de ellos tiene un significado específico. Por ejemplo, el verbo \"hablar\" en el presente se utiliza para describir una acción que se está realizando en el momento actual, como \"Estoy hablando con mi amigo\".",
@@ -3022,8 +3024,13 @@
       "pregunta": "¿Cómo funciona la comprensión del contexto?",
       "respuesta": "La comprensión del contexto es el proceso de identificar y analizar la información relevante que rodea un texto, oración o situación para entender su significado y propósito. Esto implica considerar el contexto social, cultural, histórico y emocional en el que se produce la comunicación. Por ejemplo, si lees una oración que dice \"La casa es azul\", sin contexto, podrías interpretar que la casa es literalmente azul. Sin embargo, si sabes que la oración forma parte de una historia de fantasía donde las casas pueden tener colores mágicos, entonces el contexto cambia y la interpretación también.\n\nLa comprensión del contexto es fundamental en la comunicación para evitar malentendidos y asegurarnos de que entendemos la información de manera precisa.",
       "fecha": "2025-12-28T20:33:23.792Z"
+    },
+    {
+      "pregunta": "¿Cómo se usa la puntuación correctamente?",
+      "respuesta": "La puntuación es fundamental para expresar claramente el significado de un texto. Utiliza los signos de puntuación para separar ideas, indicar pausas y enfatizar ciertas palabras o frases. Por ejemplo, utiliza la coma (,) para separar elementos en una lista o la puntuación en frases independientes, como en \"Voy a la tienda, comprare un libro y regresaré a casa\".\n\nUna buena puntuación también ayuda a evitar la ambigüedad y a mejorar la claridad de un texto. Algunos ejemplos de puntuación incorrecta incluyen la falta de puntos finales en las oraciones completas o el uso excesivo de comas.\n\nRecuerda que la puntuación es un aspecto importante del lenguaje escrito y que su uso correcto puede hacer una gran diferencia en la claridad y la eficacia de tus comunicaciones escrit",
+      "fecha": "2025-12-28T20:33:31.962Z"
     }
   ],
-  "ultimaActualizacion": 1766954003795,
-  "preguntasHechas": 158
+  "ultimaActualizacion": 1766954011964,
+  "preguntasHechas": 159
 }
