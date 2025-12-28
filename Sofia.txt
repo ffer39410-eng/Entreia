@@ -1,5 +1,5 @@
 {
-  "iq": 381,
+  "iq": 384,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1023,7 +1023,17 @@
     "global",
     "contribuya",
     "evitar",
-    "malentend"
+    "malentend",
+    "cuatro",
+    "consecutivos",
+    "aditivos",
+    "adversativos",
+    "causales",
+    "encanta",
+    "libros",
+    "tengo",
+    "hacerlo",
+    "contrarias"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1337,8 +1347,13 @@
       "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
       "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de pensar y expresar ideas de manera clara, coherente y lógica, utilizando argumentos bien fundamentados y evitando confusiones o contradicciones. Este tipo de razonamiento implica analizar información, identificar patrones y relaciones, y llegar a conclusiones precisas y razonables. \n\nPor ejemplo, si en una conversación alguien afirma que \"el clima cambio está causado por la quema de petróleo\", un razonamiento lógico podría implicar argumentar que \"la quema de petróleo libera dióxido de carbono, que es un gas de efecto invernadero que contribuye al calentamiento global, por lo que es probable que la quema de petróleo contribuya al cambio climático\".\n\nEl razonamiento lógico es fundamental en conversaciones para evitar malentend",
       "fecha": "2025-12-28T19:08:41.137Z"
+    },
+    {
+      "pregunta": "¿Qué son los conectores y cómo se usan?",
+      "respuesta": "Los conectores son palabras o expresiones que se utilizan para unir oraciones o ideas en un texto o una conversación. Se dividen en cuatro categorías principales: consecutivos (por lo tanto, sin embargo, además), aditivos (además, sin embargo, por lo tanto), adversativos (pero, sin embargo, aunque), y causales (porque, ya que, ya que).\n\nPor ejemplo, en la oración \"Me encanta leer libros, pero no tengo mucho tiempo para hacerlo\", el conector \"pero\" une dos ideas contrarias.",
+      "fecha": "2025-12-28T19:08:49.087Z"
     }
   ],
-  "ultimaActualizacion": 1766948921138,
+  "ultimaActualizacion": 1766948929088,
   "preguntasHechas": null
 }
