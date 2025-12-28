@@ -1,5 +1,5 @@
 {
-  "iq": 876,
+  "iq": 882,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1695,7 +1695,8 @@
     "unión",
     "sustantiva",
     "noche",
-    "tenía"
+    "tenía",
+    "influenciados"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2519,8 +2520,13 @@
       "pregunta": "¿Cómo se construyen oraciones complejas en español?",
       "respuesta": "Las oraciones complejas en español se construyen mediante la unión de dos oraciones sencillas, independientes, mediante una conjunción subordinante, como \"ya que\", \"pues\", \"dado que\", \"ya que\", etc., o mediante una subordinada sustantiva, como \"cuando\", \"mientras\", \"aunque\", etc. Por ejemplo: \"Estudié toda la noche (oración principal) porque tenía un examen importante (oración subordinada)\".",
       "fecha": "2025-12-28T19:59:47.725Z"
+    },
+    {
+      "pregunta": "¿Qué es el pensamiento crítico?",
+      "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar información, ideas y argumentos de manera objetiva y sistemática, sin ser influenciados por prejuicios o creencias personales. Implica cuestionar suposiciones, identificar debilidades y fortalezas en la argumentación, y considerar múltiples perspectivas. Por ejemplo, cuando se evalúa un artículo de noticias, un buen pensamiento crítico implica verificar la fuente, analizar la presentación de la información y considerar posibles sesgos o prejuicios. De esta manera, se puede tomar decisiones informadas y bien fundamentadas.",
+      "fecha": "2025-12-28T19:59:55.776Z"
     }
   ],
-  "ultimaActualizacion": 1766951987727,
-  "preguntasHechas": 90
+  "ultimaActualizacion": 1766951995776,
+  "preguntasHechas": 91
 }
