@@ -1,5 +1,5 @@
 {
-  "iq": 1374,
+  "iq": 1377,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2192,11 +2192,6 @@
   "conversaciones": 6,
   "conocimiento": [
     {
-      "pregunta": "¿Qué son los conectores y cómo se usan?",
-      "respuesta": "Los conectores son palabras o expresiones que se utilizan para unir oraciones o frases entre sí, creando una estructura lógica y coherente en el texto. Los conectores se clasifican en tres categorías: consecutivos (por tanto, por lo tanto, como resultado), adversativos (sin embargo, pero, aunque), y aditivos (también, además, además).\n\nPor ejemplo: \"Me encanta la playa, pero prefiero ir al monte\" utiliza el conector \"pero\" para indicar una oposición entre las dos ideas.",
-      "fecha": "2025-12-28T19:09:13.192Z"
-    },
-    {
       "pregunta": "¿Cómo se construyen oraciones complejas en español?",
       "respuesta": "Excelente pregunta. Una oración compleja en español se construye mediante la combinación de dos o más oraciones sencillas utilizando conectores como \"y\" (coordinación), \"pero\" (contraposición) o \"porque\" (subordinación). Por ejemplo: \"Voy al parque porque hace un día hermoso\" (oración compleja con subordinación) o \"Voy al parque y juego con amigos\" (oración compleja con coordinación).\n\nCualquier frase principal con al menos un complemento, una oración subordinada o una oración relativa se considera una oración compleja.",
       "fecha": "2025-12-28T19:09:21.068Z"
@@ -3190,8 +3185,13 @@
       "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
       "respuesta": "La expresión emocional efectiva es fundamental para comunicar de manera clara y sincera con los demás. Para lograrlo, es importante ser auténtico y expresar tus emociones de manera honesta y no manipuladora. Por ejemplo, en lugar de decir \"Estoy muy bien\", puedes decir \"Me siento un poco nervioso hoy\", lo que muestra que estás dispuesto a ser vulnerable y compartir tus sentimientos. Además, es importante escuchar activamente a los demás y mostrar empatía y comprensión.",
       "fecha": "2025-12-28T20:41:55.585Z"
+    },
+    {
+      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
+      "respuesta": "Las preposiciones son palabras que indican la relación entre un sustantivo o pronombre y otros elementos en una oración, como lugares, direcciones, tiempos, maneras, etc. Ejemplos de preposiciones comunes son \"de\", \"en\", \"con\", \"por\", \"para\", \"entre\", \"sobre\", \"bajo\", etc. Sirven para proporcionar contexto y claridad a la oración, por ejemplo: \"Estoy sentado en la silla\" o \"Me gusta leer con mis amigos\".",
+      "fecha": "2025-12-28T20:42:03.699Z"
     }
   ],
-  "ultimaActualizacion": 1766954515587,
-  "preguntasHechas": 191
+  "ultimaActualizacion": 1766954523699,
+  "preguntasHechas": 192
 }
