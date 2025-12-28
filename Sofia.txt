@@ -1,5 +1,5 @@
 {
-  "iq": 2586,
+  "iq": 2592,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2945,16 +2945,16 @@
     "obtienes",
     "mejores",
     "combinaciones",
-    "ocurrida"
+    "ocurrida",
+    "suplicaciones",
+    "políticos",
+    "diagnósticos",
+    "médicos",
+    "curiosidad"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo se usa la puntuación correctamente?",
-      "respuesta": "La puntuación es un aspecto fundamental en la escritura y la comunicación efectiva. Utiliza comas para separar ideas en una oración larga, como en el ejemplo: \"Me encanta leer libros de historia, aprender sobre diferentes culturas y explorar nuevos lugares.\" Utiliza puntos para indicar el final de una oración o lista, como en el ejemplo: \"Los beneficios de la lectura son: mejorar la comprensión, aumentar la vocabulario y reducir el estrés.\"",
-      "fecha": "2025-12-28T20:54:46.978Z"
-    },
     {
       "pregunta": "¿Cómo se usa la puntuación correctamente?",
       "respuesta": "La puntuación es un elemento fundamental en la escritura y la comunicación efectiva. Usar la puntuación correctamente implica separar ideas y oraciones con signos de puntuación adecuados, como comas, puntos, signos de interrogación, exclamación, puntos suspensivos, etc. Por ejemplo, al separar ideas dentro de una oración, se pueden usar comas, como en \"Voy al supermercado, pero no tengo dinero\".\n\nAdemás, es importante utilizar la puntuación para indicar la separación entre oraciones, como con puntos, que se utilizan para indicar el final de una oración. Por ejemplo, \"Voy al supermercado. Necesito comprar comida para hoy\".\n\nEs importante recordar que la puntuación ayuda a enfatizar y clarificar el significado de un texto, por lo que es fundamental usarla correctamente para transmitir la idea de manera efectiva",
@@ -3949,8 +3949,13 @@
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales son palabras o combinaciones de palabras que indican el momento en que se realiza una acción. En la oración, un verbo puede ser utilizado en diferentes tiempos para expresar diferentes situaciones, como el pasado, el presente o el futuro.\n\nPor ejemplo, el verbo \"ir\" puede ser utilizado de las siguientes maneras:\n\n- Presente: Yo voy al parque (acción ocurrida en este momento).\n- Pasado: Yo fui al parque (acción ocurrida en el pasado).\n- Futuro: Yo iré al parque (acción que ocurrirá en el futuro).\n\nCada tiempo verbal tiene su propia forma y uso en la oración.",
       "fecha": "2025-12-28T21:32:11.842Z"
+    },
+    {
+      "pregunta": "¿Qué es el pensamiento crítico?",
+      "respuesta": "El pensamiento crítico es un proceso mental que implica analizar y evaluar información de manera objetiva, identificar los puntos fuertes y débiles, y tomar decisiones informadas. Implica cuestionar suposiciones y suplicaciones, buscar evidencia y considerar diferentes perspectivas para llegar a una conclusión bien fundamentada. Algunos ejemplos de pensamiento crítico incluyen analizar argumentos políticos, evaluar la credibilidad de fuentes de información y hacer diagnósticos médicos precisos. Esto requiere una mente abierta, curiosidad y habilidades de razonamiento lógico.",
+      "fecha": "2025-12-28T21:32:20.002Z"
     }
   ],
-  "ultimaActualizacion": 1766957531843,
-  "preguntasHechas": 423
+  "ultimaActualizacion": 1766957540006,
+  "preguntasHechas": 424
 }
