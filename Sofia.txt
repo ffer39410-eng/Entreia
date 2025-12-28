@@ -1,5 +1,5 @@
 {
-  "iq": 1725,
+  "iq": 1728,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2438,16 +2438,14 @@
     "juan",
     "sinti",
     "fuese",
-    "malestar"
+    "malestar",
+    "presento",
+    "corre",
+    "concuerdan"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo funcionan los tiempos verbales?",
-      "respuesta": "Los tiempos verbales describen cuando acontece una acción expresada por el verbo. Hay varios tiempos verbales, como el presente, pasado simple, pasado perfecto, futuro simple, entre otros. Por ejemplo, la oración \"Ella come un manzana\" describe una acción que sucede en el presente, mientras que \"Ella comió una manzana\" describe una acción que ya terminó.",
-      "fecha": "2025-12-28T19:25:12.338Z"
-    },
     {
       "pregunta": "¿Cómo se construyen oraciones complejas en español?",
       "respuesta": "Para construir oraciones complejas en español, debemos utilizar conectores y modificadores que permitan expresar ideas o eventos relacionados entre sí. Un ejemplo de oración compleja es: \"La casa, que estaba vacía, se vendió a un comprador que la remodeló con gusto\".\n\nEsta oración es compleja porque contiene una oración subordinada (que estaba vacía) que modifica a la oración principal (se vendió a un comprador). El conector \"que\" permite conectar las dos ideas.",
@@ -3442,8 +3440,13 @@
       "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
       "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de analizar información, identificar relaciones lógicas y llegar a conclusiones razonables y coherentes. Esto implica utilizar reglas lógicas, como el uso de premisas verdaderas para llegar a conclusiones verdaderas, y evitar falacias lógicas, como pasar de lo particular a lo general sin evidencia. Por ejemplo, si alguien dice \"Juan comió un sandwich y luego se sintió mal\", un razonamiento lógico podría ser \"Es posible que el sandwich fuese la causa de su malestar\".",
       "fecha": "2025-12-28T21:03:47.753Z"
+    },
+    {
+      "pregunta": "¿Cuáles son las reglas de la gramática española?",
+      "respuesta": "La gramática española es rica y compleja, pero aquí te presento algunas de las reglas básicas:\n\nLa gramática española se basa en los principios de la sintaxis, que se refiere a la estructura y organización de las oraciones. Una oración debe tener un sujeto (la persona o cosa que realiza la acción) y un verbo (la acción que se realiza). Por ejemplo, en la oración \"El perro corre\", \"El perro\" es el sujeto y \"corre\" es el verbo.\n\nTambién es importante recordar las reglas de concordancia, que se refieren a la forma en que los sustantivos y adjetivos se concuerdan con el verbo y con otros sustantivos en la oración. Por ejemplo, en la oración \"El perro es feliz\", el sustantivo \"perro\" es masculino singular y se",
+      "fecha": "2025-12-28T21:03:55.746Z"
     }
   ],
-  "ultimaActualizacion": 1766955827754,
-  "preguntasHechas": 258
+  "ultimaActualizacion": 1766955835748,
+  "preguntasHechas": 259
 }
