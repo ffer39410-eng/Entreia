@@ -1,5 +1,5 @@
 {
-  "iq": 1541,
+  "iq": 1547,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2297,16 +2297,16 @@
     "asegurar",
     "apeguen",
     "complejo",
-    "potente"
+    "potente",
+    "derivan",
+    "razonablemente",
+    "jugar",
+    "fútbol",
+    "conocidas"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué es el pensamiento crítico?",
-      "respuesta": "El pensamiento crítico es la habilidad de analizar y evaluar información, ideas y argumentos de manera objetiva y lógica, considerando múltiples perspectivas y evidencia. Permite identificar debilidades y fortalezas, y tomar decisiones informadas. Por ejemplo, un estudiante que analiza una fuente de información puede considerar la credibilidad del autor, la fecha de publicación y la relevancia de la información para llegar a una conclusión bien fundamentada.",
-      "fecha": "2025-12-28T19:20:24.088Z"
-    },
     {
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras que indican la relación entre un sustantivo y el resto de la oración. Sirven para expresar la ubicación, el movimiento, la relación entre los elementos, entre otras cosas. Por ejemplo: \"Estoy detrás de la casa\" (ubicación), \"Voy hacia el parque\" (movimiento), \"La amistad entre ellos es fuerte\" (relación).",
@@ -3301,8 +3301,13 @@
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "Los sinónimos son palabras que tienen el mismo significado que otra palabra, pero con una forma diferente. Por ejemplo, \"fuerte\" y \"potente\" son sinónimos. Los antónimos, por otro lado, son palabras que tienen significados opuestos. Por ejemplo, \"grande\" y \"pequeño\" son antónimos.\n\nEjemplo: Si alguien describe algo como \"fuerte\", podría también usar \"potente\" para describir lo mismo, pero \"fuerte\" y \"débil\" son antónimos porque tienen significados opuestos.",
       "fecha": "2025-12-28T20:54:27.623Z"
+    },
+    {
+      "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
+      "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de analizar información, establecer conexiones lógicas y llegar a conclusiones precisas. Esto implica identificar premisas, establecer relaciones lógicas y sacar conclusiones que se derivan razonablemente de ellas. Por ejemplo, si alguien dice \"Si llueve, no puedo jugar al fútbol fuera. Hoy llueve, entonces no puedo jugar al fútbol\". En este caso, la persona está utilizando un razonamiento lógico para llegar a una conclusión basada en premisas conocidas.",
+      "fecha": "2025-12-28T20:54:36.213Z"
     }
   ],
-  "ultimaActualizacion": 1766955267624,
-  "preguntasHechas": 222
+  "ultimaActualizacion": 1766955276215,
+  "preguntasHechas": 223
 }
