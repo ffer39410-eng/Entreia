@@ -1,5 +1,5 @@
 {
-  "iq": 597,
+  "iq": 600,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1394,7 +1394,16 @@
     "representaciones",
     "creativas",
     "enriquecer",
-    "profundidad"
+    "profundidad",
+    "profesional",
+    "ortopedia",
+    "especialidades",
+    "médicas",
+    "onda",
+    "tope",
+    "cansancio",
+    "ambos",
+    "tiles"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1938,8 +1947,13 @@
       "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
       "respuesta": "Las metáforas son una figura retórica que consiste en comparar dos conceptos o ideas diferentes utilizando \"es\" para expresar una relación entre ellos. Por ejemplo, \"El mundo es un escenario\" o \"La vida es un viaje\". Esto permite crear imágenes y representaciones creativas que ayudan a comunicar ideas y emociones de manera más efectiva y evocadora. En el lenguaje, las metáforas se utilizan para enriquecer la expresión y dar profundidad a la comunicación.",
       "fecha": "2025-12-28T19:21:52.257Z"
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
+      "respuesta": "El vocabulario técnico se refiere a palabras y expresiones específicas utilizadas en un contexto profesional o científico determinado, como en la medicina, la ingeniería o la economía. Por ejemplo, un médico utiliza términos como \"angiografía\" o \"ortopedia\" para describir procedimientos o especialidades médicas.\n\nPor otro lado, el vocabulario coloquial se refiere a palabras y expresiones utilizadas en la vida cotidiana y en la comunicación informal, como en conversaciones con amigos o familiares. Por ejemplo, expresiones como \"¿Qué onda?\" o \"Estoy a tope\" se utilizan para expresar sorpresa o cansancio en un contexto social.\n\nEs importante destacar que ambos tipos de vocabulario son importantes y útiles en diferentes contextos, y que la capacidad de utilizar el vocabulario adecuado puede variar según la situación y el público al",
+      "fecha": "2025-12-28T19:22:00.483Z"
     }
   ],
-  "ultimaActualizacion": 1766949712258,
-  "preguntasHechas": 34
+  "ultimaActualizacion": 1766949720484,
+  "preguntasHechas": 35
 }
