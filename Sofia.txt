@@ -1,5 +1,5 @@
 {
-  "iq": 2245,
+  "iq": 2251,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2761,16 +2761,15 @@
     "cantidades",
     "geografía",
     "origen",
-    "frecuencia"
+    "frecuencia",
+    "permitiéndonos",
+    "destruy",
+    "encontremos",
+    "vivienda"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo se usa la puntuación correctamente?",
-      "respuesta": "La puntuación es fundamental para expresar claramente el significado de un texto. Utiliza los signos de puntuación para separar ideas, indicar pausas y enfatizar ciertas palabras o frases. Por ejemplo, utiliza la coma (,) para separar elementos en una lista o la puntuación en frases independientes, como en \"Voy a la tienda, comprare un libro y regresaré a casa\".\n\nUna buena puntuación también ayuda a evitar la ambigüedad y a mejorar la claridad de un texto. Algunos ejemplos de puntuación incorrecta incluyen la falta de puntos finales en las oraciones completas o el uso excesivo de comas.\n\nRecuerda que la puntuación es un aspecto importante del lenguaje escrito y que su uso correcto puede hacer una gran diferencia en la claridad y la eficacia de tus comunicaciones escrit",
-      "fecha": "2025-12-28T20:33:31.962Z"
-    },
     {
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son palabras que se utilizan para unir oraciones, frases o ideas dentro de un texto. Hay varios tipos de conectores, como \"y\" para indicar adición, \"pero\" para señalar oposición, \"o\" para dar alternativas, y \"porque\" para explicar una razón. Por ejemplo: \"Me encanta leer y escribir, porque disfruto mucho creando historias\".",
@@ -3765,8 +3764,13 @@
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras que se utilizan para indicar la relación entre un sustantivo o un grupo de palabras y otro sustantivo, un lugar, un tiempo o una acción. Sirven para especificar la ubicación, la dirección, la relación, la duración o la frecuencia de un evento o una acción. Por ejemplo: \"La casa está en la calle principal\" (indicando ubicación), \"El libro está sobre la mesa\" (indicando relación de posición) o \"Me voy a la playa mañana\" (indicando tiempo).",
       "fecha": "2025-12-28T21:19:47.864Z"
+    },
+    {
+      "pregunta": "¿Cómo funciona la comprensión del contexto?",
+      "respuesta": "La comprensión del contexto implica analizar información a partir de los detalles que rodean un texto o situación, permitiéndonos entender el significado y la intención detrás de las palabras. Por ejemplo, cuando se lee una frase \"La tormenta destruyó la casa\", es probable que nos encontremos en un contexto de desastres naturales, lo que nos permite inferir que la casa se refiere a una vivienda.",
+      "fecha": "2025-12-28T21:19:55.693Z"
     }
   ],
-  "ultimaActualizacion": 1766956787865,
-  "preguntasHechas": 358
+  "ultimaActualizacion": 1766956795695,
+  "preguntasHechas": 359
 }
