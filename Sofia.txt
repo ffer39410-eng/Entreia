@@ -1,5 +1,5 @@
 {
-  "iq": 668,
+  "iq": 675,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1491,7 +1491,15 @@
     "puedan",
     "confundir",
     "académica",
-    "contenidos"
+    "contenidos",
+    "pues",
+    "durante",
+    "horas",
+    "aprobar",
+    "independientes",
+    "separadas",
+    "tampoco",
+    "siquiera"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2110,8 +2118,13 @@
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual se refiere a la capacidad de un texto para transmitir una idea o un mensaje claro y logico, sin confusiones o contradicciones entre sus diferentes partes. Esto incluye la relación entre las ideas, las oraciones y los párrafos, que deben estar bien conectados para que el lector pueda seguir el flujo de pensamiento de manera fácil.\n\nPor ejemplo, si se presenta un argumento en un texto, la coherencia textual implica que la introducción, el desarrollo y la conclusión estén bien relacionadas y no contengan errores o contradicciones que puedan confundir al lector.\n\nLa coherencia textual es fundamental en la escritura académica, ya que ayuda a los lectores a entender y recordar los contenidos.",
       "fecha": "2025-12-28T19:23:52.302Z"
+    },
+    {
+      "pregunta": "¿Cómo se construyen oraciones complejas en español?",
+      "respuesta": "Una oración compleja se construye mediante la combinación de una oración simple con otra oración simple o una frase subordinada, utilizando conectores como \"pues\", \"ya que\", \"aunque\" o \"pero\". Por ejemplo: \"Ella estudió durante horas porque quería aprobar el examen\". En esta oración, \"Ella estudió durante horas\" es la oración principal y \"porque quería aprobar el examen\" es la frase subordinada.\n\nTambién se pueden construir oraciones complejas utilizando oraciones simples independientes, separadas por conectores como \"tampoco\", \"ni\", \"ni siquiera\", etc. Por ejemplo: \"Ella se fue a la playa, pero el sol estaba muy fuerte\". En esta oración, \"Ella se fue a la playa\" es una oración simple y \"pero el sol estaba muy fuerte\" es otra",
+      "fecha": "2025-12-28T19:24:00.383Z"
     }
   ],
-  "ultimaActualizacion": 1766949832304,
-  "preguntasHechas": 49
+  "ultimaActualizacion": 1766949840384,
+  "preguntasHechas": 50
 }
