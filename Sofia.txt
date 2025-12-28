@@ -1,5 +1,5 @@
 {
-  "iq": 734,
+  "iq": 737,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1562,7 +1562,8 @@
     "juntos",
     "requiere",
     "supuestos",
-    "permitiría"
+    "permitiría",
+    "progresivo"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2246,8 +2247,13 @@
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar información, argumentos y puntos de vista de manera objetiva y lógica, para llegar a conclusiones informadas y bien fundamentadas. Requiere la capacidad de cuestionar supuestos, identificar sesgos y considerar múltiples perspectivas. Por ejemplo, al leer un artículo periodístico, el pensamiento crítico te permitiría analizar si el autor presenta evidencia sólida, si sus argumentos están bien fundamentados y si hay sesgos en su perspectiva.",
       "fecha": "2025-12-28T19:25:36.281Z"
+    },
+    {
+      "pregunta": "¿Cómo funcionan los tiempos verbales?",
+      "respuesta": "Los tiempos verbales en la gramática española se refieren a la forma en que se expresan acciones en el tiempo. Hay tres categorías principales: pasado, presente y futuro. Por ejemplo, el verbo \"hablar\" en la forma de presente se utiliza para describir acciones que ocurren en el momento actual, como \"Hablo con mi amigo\". En el presente progresivo, se utiliza para describir acciones que ocurren en un momento específico, como \"Estoy estudiando ahora\".",
+      "fecha": "2025-12-28T19:25:44.264Z"
     }
   ],
-  "ultimaActualizacion": 1766949936283,
-  "preguntasHechas": 62
+  "ultimaActualizacion": 1766949944265,
+  "preguntasHechas": 63
 }
