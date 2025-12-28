@@ -1,5 +1,5 @@
 {
-  "iq": 540,
+  "iq": 543,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1306,7 +1306,13 @@
     "cambian",
     "pronombres",
     "personales",
-    "reemplazar"
+    "reemplazar",
+    "comprendidas",
+    "usaría",
+    "quirúrgica",
+    "operación",
+    "utilizaría",
+    "simplemente"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1790,8 +1796,13 @@
       "pregunta": "¿Cuáles son las reglas de la gramática española?",
       "respuesta": "La gramática española es compleja y rica en reglas, pero algunas de las más básicas son:\n\n- Los artículos se clasifican en definitivos (el, los, la, las) y indefinidos (un, una, unos, unas).\n- Los verbos cambian de conjugación según la persona (yo, tú, él/ella, nosotros/as, vosotros/as, ellos/as) y el tiempo (presente, pretérito, futuro).\n- Los pronombres personales se utilizan para reemplazar a los sustantivos en la oración.\n- La concordancia de género y número entre el sujeto y el verbo es fundamental en la oración.\n\nPor ejemplo, en la oración \"Ella come una manzana\", el artículo \"una\" concuerda en género y número con el sustantivo \"manzana\".",
       "fecha": "2025-12-28T19:15:58.383Z"
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
+      "respuesta": "El vocabulario técnico se refiere a las palabras y expresiones utilizadas en un campo específico, como la medicina, la ingeniería o la economía, y que requieren conocimientos especializados para ser comprendidas. Por otro lado, el vocabulario coloquial se refiere a las palabras y expresiones utilizadas en la comunicación cotidiana, y que son comunes en la conversación informal. Un ejemplo es que un médico usaría el término \"cirugía quirúrgica\" para describir una operación, mientras que en la conversación coloquial se utilizaría simplemente \"operación\".",
+      "fecha": "2025-12-28T19:16:06.474Z"
     }
   ],
-  "ultimaActualizacion": 1766949358384,
-  "preguntasHechas": 22
+  "ultimaActualizacion": 1766949366476,
+  "preguntasHechas": 23
 }
