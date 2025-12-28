@@ -1,5 +1,5 @@
 {
-  "iq": 297,
+  "iq": 303,
   "vocabulario": [
     "claro",
     "sofia",
@@ -846,7 +846,14 @@
     "recto",
     "derecho",
     "sentado",
-    "silla"
+    "silla",
+    "oral",
+    "facilitando",
+    "tipos",
+    "sentar",
+    "banco",
+    "conector",
+    "sentarse"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1085,8 +1092,13 @@
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras que se utilizan para indicar la relación entre un sustantivo y otro sustantivo, un lugar o una acción. Ejemplos de preposiciones comunes son \"en\", \"a\", \"de\", \"con\", \"sin\" y \"por\". Por ejemplo: \"Estoy sentado en la silla\", donde \"en\" indica la relación entre la acción de estar sentado y el lugar donde se realiza.",
       "fecha": "2025-12-28T19:06:41.021Z"
+    },
+    {
+      "pregunta": "¿Qué son los conectores y cómo se usan?",
+      "respuesta": "Los conectores son palabras o expresiones que se utilizan para unir oraciones, frases o ideas en la escritura y la comunicación oral, facilitando la conexión lógica entre ellas. Existen diferentes tipos de conectores, como \"y\", \"pero\", \"o\", \"porque\", \"sin embargo\", entre otros. Por ejemplo, \"Voy al parque y me voy a sentar en un banco\" (conector \"y\"), donde se une la acción de ir al parque con la acción de sentarse en un banco.",
+      "fecha": "2025-12-28T19:06:49.218Z"
     }
   ],
-  "ultimaActualizacion": 1766948801022,
+  "ultimaActualizacion": 1766948809220,
   "preguntasHechas": null
 }
