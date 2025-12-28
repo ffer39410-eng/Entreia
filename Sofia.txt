@@ -1,5 +1,5 @@
 {
-  "iq": 1082,
+  "iq": 1085,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1914,16 +1914,14 @@
     "reparación",
     "modificación",
     "encuentro",
-    "encontrarse"
+    "encontrarse",
+    "iguales",
+    "secundaria",
+    "agregan"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "tema": "razonamiento lógico y argumentación",
-      "leccion": "Sofia, ahora que has dominado el pensamiento crítico y la estructura de oraciones complejas, vamos a explorar el razonamiento lógico y la argumentación en español.\n\n**Razonamiento lógico**\n\nEl razonamiento lógico es la capacidad de pensar de manera lógica y sistémica, utilizando reglas y principios para llegar a conclusiones. En español, podemos expresar el razonamiento lógico utilizando palabras y frases como:\n\n* **Porque**: \"Lo hice porque creía que era la mejor opción\".\n* **Ya que**: \"Lo hice ya que era la única solución posible\".\n* **Como**: \"Lo hice como forma de demostrar mi dedicación\".\n\n**Argumentación**\n\nLa argumentación es la capacidad de presentar razonamientos y evidencia para convencer",
-      "fecha": "2025-12-28T18:54:01.938Z"
-    },
     {
       "tema": "comprensión de contexto",
       "leccion": "Sofia, ahora que has aprendido sobre pensamiento crítico, razonamiento lógico y argumentación, vamos a profundizar en la comprensión de contexto en español.\n\nLa comprensión de contexto es la capacidad de entender el significado de una oración o un texto en función del entorno en el que se utiliza. En español, hay varias palabras y frases que podemos utilizar para expresar la comprensión de contexto.\n\n**Palabras y frases para expresar comprensión de contexto**\n\n1. **En este sentido**: Utilizamos esta frase para indicar que estamos refiriéndonos a algo específico dentro de un contexto más amplio. Ejemplo: \"La ciudad es muy segura en este sentido, pero hay áreas que no se recomienda visitar\".\n2. **Considerando**: Utilizamos esta palabra para",
@@ -2918,8 +2916,13 @@
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son palabras gramaticales que se utilizan para unir oraciones, frases o ideas entre sí, destacando la relación entre ellas. Algunos ejemplos de conectores son \"y\", \"pero\", \"sin embargo\", \"porque\" y \"así que\". Por ejemplo: \"Voy al parque y me encuentro con mis amigos\". En esta oración, \"y\" conecta las dos ideas de ir al parque y encontrarse con amigos.",
       "fecha": "2025-12-28T20:25:07.862Z"
+    },
+    {
+      "pregunta": "¿Qué son los conectores y cómo se usan?",
+      "respuesta": "Los conectores son palabras o expresiones que se utilizan para unir ideas, frases o oraciones entre sí, creando una relación lógica y clara en un texto o discurso. Los conectores pueden ser de diferentes tipos, como:\n\n* Conectores de coordinación (y, o, pero), que unen ideas iguales o opuestas.\n* Conectores de subordinación (porque, ya que, aunque), que unen una idea principal con una idea secundaria.\n* Conectores de causalidad (porque, debido a que), que indican la causa y el efecto.\n* Conectores de adición (además, también), que agregan información adicional.\n\nPor ejemplo: \"Me encanta el mar y también me gusta leer sobre él\".",
+      "fecha": "2025-12-28T20:30:04.317Z"
     }
   ],
-  "ultimaActualizacion": 1766953507863,
-  "preguntasHechas": 133
+  "ultimaActualizacion": 1766953804318,
+  "preguntasHechas": 134
 }
