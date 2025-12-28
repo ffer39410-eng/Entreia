@@ -1,5 +1,5 @@
 {
-  "iq": 1642,
+  "iq": 1647,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2373,16 +2373,12 @@
     "debajo",
     "escritorio",
     "cama",
-    "indicamos"
+    "indicamos",
+    "pasajes"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué es la coherencia textual?",
-      "respuesta": "La coherencia textual se refiere a la relación lógica y consistente entre las ideas, conceptos y oraciones presentes en un texto. Implica que cada oración debe estar relacionada con el resto y contribuir de manera significativa al desarrollo del tema principal. Por ejemplo, en un ensayo sobre el efecto del clima en la agricultura, cada oración debe explicar o proporcionar evidencia que respalde la idea central.",
-      "fecha": "2025-12-28T19:22:56.207Z"
-    },
     {
       "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
       "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de analizar y evaluar información, utilizar reglas y principios, y llegar a conclusiones razonables y precisas. Se trata de pensar críticamente y de utilizar argumentos sólidos para defender una idea o una opinión. Por ejemplo, si alguien dice \"La mayoría de los estudiantes de la universidad prefieren leer libros digitales en lugar de libros impresas\", un argumento lógico podría ser: \"Si la mayoría de los estudiantes prefieren leer en digital, es probable que su edad media sea relativamente joven y que estén acostumbrados a usar tecnología\".\n\nUn razonamiento lógico implica la siguiente secuencia:\n\n* Una afirmación o premisa\n* Una inferencia o conclusión lógica basada en esa afirmación\n* Una justificación o explicación de por qué la conclusión es razonable\n\nAl",
@@ -3377,8 +3373,13 @@
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras que indican la relación entre un objeto y otro elemento en una oración, como lugar, tiempo, movimiento, etc. Por ejemplo, \"en la biblioteca\" o \"debajo del escritorio\". Estas palabras sirven para indicar la ubicación, dirección o relación entre los elementos en una oración.\n\nAlgunas preposiciones comunes en español son \"en\", \"de\", \"con\", \"sin\", \"entre\", etc. Por ejemplo: \"Leo un libro en la cama\" (indicamos la ubicación donde se está realizando la acción de leer).\n\nLas preposiciones ayudan a crear oraciones claras y precisas, y son fundamentales para la construcción de la gramática en español.\n\nPor ejemplo: \"Estoy sentado en el sofá.\" (indicamos la ubicación de la persona)",
       "fecha": "2025-12-28T21:01:24.198Z"
+    },
+    {
+      "pregunta": "¿Qué es la coherencia textual?",
+      "respuesta": "La coherencia textual se refiere a la calidad de un texto en términos de la relación lógica y coherente entre sus ideas, ideas o pasajes. Un texto coherente tiene un hilo conductor claro y una estructura lógica que permite al lector seguir y comprender fácilmente el mensaje. Por ejemplo, en un ensayo sobre la importancia de la educación, cada párrafo debe estar relacionado con el anterior para que el lector pueda seguir la línea de argumentación.",
+      "fecha": "2025-12-28T21:01:32.687Z"
     }
   ],
-  "ultimaActualizacion": 1766955684200,
-  "preguntasHechas": 241
+  "ultimaActualizacion": 1766955692687,
+  "preguntasHechas": 242
 }
