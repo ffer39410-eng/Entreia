@@ -1,5 +1,5 @@
 {
-  "iq": 2018,
+  "iq": 2023,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2645,11 +2645,6 @@
   "conversaciones": 6,
   "conocimiento": [
     {
-      "pregunta": "¿Qué es el pensamiento crítico?",
-      "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar información de manera objetiva y lógica, considerando múltiples perspectivas y fuentes para llegar a conclusiones informadas. Esto implica cuestionar suposiciones, identificar sesgos y equilibrar la evidencia con las opiniones personales. Por ejemplo, al leer un artículo que afirma que un producto es eficaz, un pensamiento crítico implicaría investigar la fuente, verificar las pruebas y considerar posibles sesgos de interés o perspectiva. De esta manera, se puede llegar a una comprensión más completa y precisa de la realidad.",
-      "fecha": "2025-12-28T20:13:49.561Z"
-    },
-    {
       "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
       "respuesta": "Las metáforas son una herramienta literaria y comunicativa que consiste en comparar dos conceptos o ideas que no están relacionados de manera directa, para crear una nueva percepción o entender mejor una idea compleja. Por ejemplo, la metáfora \"Vida es un viaje\" nos ayuda a visualizar la existencia como una aventura con sus altibajos y desafíos. Algunas otras metáforas comunes son \"el tiempo es un río\" (que fluye sin cesar) o \"el miedo es un peso\" (que puede oprimir). Estas metáforas enriquecen nuestra forma de expresarnos y de entender el mundo que nos rodea.",
       "fecha": "2025-12-28T20:13:56.718Z"
@@ -3643,8 +3638,13 @@
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar la información de manera objetiva, identificando fortalezas y debilidades, y considerando múltiples perspectivas. Permite evaluar críticamente ideas, argumentos y evidencia, sin comprometer la empatía ni la comprensión. Un ejemplo de pensamiento crítico es analizar el contenido de un artículo de periódico y cuestionar los supuestos y fuentes citadas. Esto permite formar opiniones informadas y tomar decisiones bien fundamentadas.",
       "fecha": "2025-12-28T21:14:11.785Z"
+    },
+    {
+      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
+      "respuesta": "Las preposiciones son palabras que se utilizan para indicar la relación entre un objeto o una acción y otros elementos en una oración. Por ejemplo, en la oración \"El libro está sobre la mesa\", la preposición \"sobre\" muestra la relación entre el libro y la mesa. \n\nLas preposiciones también pueden indicar la dirección, el lugar o el tiempo de una acción. Por ejemplo, en la oración \"Voy al parque\", la preposición \"al\" indica la dirección hacia el parque. \n\nAlgunas preposiciones comunes en español son: a, ante, con, de, desde, en, entre, para, por y bajo.",
+      "fecha": "2025-12-28T21:14:20.121Z"
     }
   ],
-  "ultimaActualizacion": 1766956451786,
-  "preguntasHechas": 316
+  "ultimaActualizacion": 1766956460122,
+  "preguntasHechas": 317
 }
