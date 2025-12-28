@@ -1,5 +1,5 @@
 {
-  "iq": 3021,
+  "iq": 3028,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3149,16 +3149,18 @@
     "teorías",
     "reflexionar",
     "absorbiría",
-    "contradictorias"
+    "contradictorias",
+    "figuraciones",
+    "lámpara",
+    "inteligencia",
+    "esperanza",
+    "poetas",
+    "escritores",
+    "oradores"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo funciona la comprensión del contexto?",
-      "respuesta": "La comprensión del contexto se refiere a la habilidad de identificar, analizar y comprender la información implícita y explícita que rodea una situación, texto o comunicación. Esto implica considerar el significado de los eventos, personas, lugares y tiempos relevantes, así como las relaciones entre ellos. Por ejemplo, en un texto que describe una reunión de negocios, la comprensión del contexto permitiría entender quiénes están presentes, qué se está discutiendo y qué consecuencias puede tener el resultado de la reunión.",
-      "fecha": "2025-12-28T21:13:07.746Z"
-    },
     {
       "pregunta": "¿Cómo se estructura una buena argumentación?",
       "respuesta": "Una buena argumentación se estructura en tres etapas clave: presente la afirmación de tesis, presentes los argumentos y respuestas. La tesis debe ser clara y concisa, mientras que los argumentos deben ser sólidos y bien apoyados. Finalmente, es importante responder a posibles objeciones y críticas para demostrar la debilidad o fortaleza de la argumentación.",
@@ -4153,8 +4155,13 @@
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es un proceso mental que implica analizar y evaluar la información, ideas y argumentos de manera objetiva y sistemática. Esto requiere no solo comprender conceptos y teorías, sino también cuestionar y reflexionar sobre ellos. Por ejemplo, al leer un artículo periodístico, un pensador crítico no solo absorbiría la información, sino que también buscaría evidencias, evaluaría la fuente y consideraría diferentes perspectivas.\n\nAl aplicar el pensamiento crítico, podemos desarrollar argumentaciones sólidas y tomar decisiones informadas basadas en evidencias. Esto nos permite resolver problemas complejos y navegar en un mundo lleno de información y opiniones contradictorias.",
       "fecha": "2025-12-28T21:51:55.811Z"
+    },
+    {
+      "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
+      "respuesta": "Las metáforas son figuraciones literarias que permiten comparar dos conceptos o ideas diferentes, creando una imagen o una comprensión más rica y compleja. Por ejemplo, \"Ella es una lámpara en la oscuridad\" no solo describe a alguien que brilla con inteligencia, sino que transmite una sensación de esperanza y luz en un entorno difícil. Los poetas, escritores y oradores suelen utilizar metáforas para evocar emociones y crear imágenes vívidas en la mente del lector o del oyente.",
+      "fecha": "2025-12-28T21:52:04.093Z"
     }
   ],
-  "ultimaActualizacion": 1766958715813,
-  "preguntasHechas": 507
+  "ultimaActualizacion": 1766958724096,
+  "preguntasHechas": 508
 }
