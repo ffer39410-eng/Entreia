@@ -1,5 +1,5 @@
 {
-  "iq": 449,
+  "iq": 452,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1163,7 +1163,20 @@
     "organizativas",
     "flujo",
     "fluida",
-    "empezar"
+    "empezar",
+    "hipótesis",
+    "defender",
+    "conciso",
+    "antecedentes",
+    "presentan",
+    "apoyan",
+    "evaluación",
+    "analiza",
+    "interpreta",
+    "recopilada",
+    "reitera",
+    "puntos",
+    "clave"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1552,8 +1565,13 @@
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual se refiere a la capacidad de un texto para mantener una conexión lógica y clara entre sus ideas y oraciones. Esto se logra mediante la utilización de conectores, transiciones y estructuras organizativas que permiten al lector seguir el flujo de la información de manera fluida. Por ejemplo, en un texto, una oración puede empezar con \"Además\", \"Por lo tanto\" o \"Sin embargo\" para indicar la relación con la oración anterior y mantener la coherencia.",
       "fecha": "2025-12-28T19:10:54.870Z"
+    },
+    {
+      "pregunta": "¿Cómo se estructura una buena argumentación?",
+      "respuesta": "Una buena argumentación se estructura a través de una presentación clara y lógica de ideas, que sigue un orden lógico: \n\n1. **Tesis**: Se establece el enunciado principal o hipótesis a defender, que debe ser claro y conciso.\n2. **Antecedentes**: Se presentan los datos, hechos y razones que apoyan la tesis.\n3. **Evaluación de la información**: Se analiza y se interpreta la información recopilada para demostrar cómo se relaciona con la tesis.\n4. **Conclusión**: Se reitera y se resume la idea principal, resaltando los puntos clave y los argumentos más importantes.",
+      "fecha": "2025-12-28T19:11:02.792Z"
     }
   ],
-  "ultimaActualizacion": 1766949054871,
-  "preguntasHechas": 3
+  "ultimaActualizacion": 1766949062793,
+  "preguntasHechas": 4
 }
