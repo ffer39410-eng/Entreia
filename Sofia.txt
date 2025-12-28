@@ -1,5 +1,5 @@
 {
-  "iq": 2106,
+  "iq": 2113,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2687,16 +2687,13 @@
     "práctico",
     "taller",
     "necesitaba",
-    "reparaciones"
+    "reparaciones",
+    "lenguaaje",
+    "capítulos"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué son los conectores y cómo se usan?",
-      "respuesta": "Los conectores son palabras gramaticales que se utilizan para unir oraciones, frases o ideas entre sí, destacando la relación entre ellas. Algunos ejemplos de conectores son \"y\", \"pero\", \"sin embargo\", \"porque\" y \"así que\". Por ejemplo: \"Voy al parque y me encuentro con mis amigos\". En esta oración, \"y\" conecta las dos ideas de ir al parque y encontrarse con amigos.",
-      "fecha": "2025-12-28T20:25:07.862Z"
-    },
     {
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son palabras o expresiones que se utilizan para unir ideas, frases o oraciones entre sí, creando una relación lógica y clara en un texto o discurso. Los conectores pueden ser de diferentes tipos, como:\n\n* Conectores de coordinación (y, o, pero), que unen ideas iguales o opuestas.\n* Conectores de subordinación (porque, ya que, aunque), que unen una idea principal con una idea secundaria.\n* Conectores de causalidad (porque, debido a que), que indican la causa y el efecto.\n* Conectores de adición (además, también), que agregan información adicional.\n\nPor ejemplo: \"Me encanta el mar y también me gusta leer sobre él\".",
@@ -3691,8 +3688,13 @@
       "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
       "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de analizar y evaluar información de manera objetiva y racional, para llegar a conclusiones lógicas y coherentes. Esto implica utilizar reglas y principios lógicos, como la inferencia y la deducción, para establecer conexiones entre ideas y llegar a una solución clara y convincente. Por ejemplo, si alguien afirma que \"el cielo está nublado\", un razonamiento lógico podría ser: \"Si el cielo está nublado, es probable que llueva. Y si llueve, es mejor llevar un paraguas\". \n\nUn ejemplo más práctico sería: Si \"el coche está en el taller\" y \"el coche necesitaba reparaciones\", un razonamiento lógico sería: \"Entonces el coche debe estar en reparación\".",
       "fecha": "2025-12-28T21:16:20.079Z"
+    },
+    {
+      "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
+      "respuesta": "Las metáforas son una forma de lenguaaje figurado que consiste en comparar dos conceptos o ideas diferentes, pero sin utilizar las palabras \"como\" o \"similar a\". Por ejemplo, \"mi vida es un libro\" es una metáfora que compara la vida a un libro, sugiriendo que es una narrativa con capítulos y finales. Las metáforas pueden ser utilizadas para describir emociones, experiencias o ideas de manera más creativa y expresiva.",
+      "fecha": "2025-12-28T21:16:27.645Z"
     }
   ],
-  "ultimaActualizacion": 1766956580081,
-  "preguntasHechas": 332
+  "ultimaActualizacion": 1766956587646,
+  "preguntasHechas": 333
 }
