@@ -1,5 +1,5 @@
 {
-  "iq": 630,
+  "iq": 636,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1434,7 +1434,13 @@
     "habr",
     "inundaciones",
     "funciones",
-    "estudia"
+    "estudia",
+    "presentes",
+    "contribuir",
+    "desarrollo",
+    "agricultura",
+    "explicar",
+    "central"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2013,8 +2019,13 @@
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales son una parte fundamental del lenguaje y se refieren a la forma en que se expresan las acciones en el tiempo. Hay diferentes tiempos verbales, como el presente, pasado, futuro, condicional, subjuntivo, imperativo, entre otros, cada uno con sus propias funciones y usos. Por ejemplo, \"Ella estudia\" es un tiempo verbal presente, mientras que \"Ella estudió\" es un tiempo verbal pasado.",
       "fecha": "2025-12-28T19:22:48.293Z"
+    },
+    {
+      "pregunta": "¿Qué es la coherencia textual?",
+      "respuesta": "La coherencia textual se refiere a la relación lógica y consistente entre las ideas, conceptos y oraciones presentes en un texto. Implica que cada oración debe estar relacionada con el resto y contribuir de manera significativa al desarrollo del tema principal. Por ejemplo, en un ensayo sobre el efecto del clima en la agricultura, cada oración debe explicar o proporcionar evidencia que respalde la idea central.",
+      "fecha": "2025-12-28T19:22:56.207Z"
     }
   ],
-  "ultimaActualizacion": 1766949768293,
-  "preguntasHechas": 41
+  "ultimaActualizacion": 1766949776208,
+  "preguntasHechas": 42
 }
