@@ -1,5 +1,5 @@
 {
-  "iq": 937,
+  "iq": 944,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1765,7 +1765,10 @@
     "contigo",
     "separa",
     "contradictorio",
-    "velocidades"
+    "velocidades",
+    "claramente",
+    "guiar",
+    "completas"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2659,8 +2662,13 @@
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "Los sinónimos son palabras o expresiones que tienen el mismo significado o connotación que otras palabras. Por ejemplo, \"gran\" y \"enorme\" son sinónimos porque se refieren a algo de gran tamaño. Otro ejemplo es \"feliz\" y \"alegre\", que se refieren a un estado emocional positivo.\n\nPor otro lado, los antónimos son palabras o expresiones que tienen un significado opuesto o contradictorio. Por ejemplo, \"rápido\" y \"lento\" son antónimos porque se refieren a velocidades opuestas. Otro ejemplo es \"grande\" y \"pequeño\", que se refieren a tamaños opuestos.",
       "fecha": "2025-12-28T20:11:23.665Z"
+    },
+    {
+      "pregunta": "¿Cómo se usa la puntuación correctamente?",
+      "respuesta": "La puntuación es una herramienta fundamental para comunicar claramente y de manera efectiva en la escritura. Se utiliza para separar ideas, indicar la relación entre oraciones, enfatizar puntos importantes y guiar a los lectores a través del texto. Por ejemplo, el punto y coma (;) se utiliza para separar oraciones que no son completas, mientras que la coma (,) se utiliza para separar ideas dentro de una oración.",
+      "fecha": "2025-12-28T20:11:31.669Z"
     }
   ],
-  "ultimaActualizacion": 1766952683666,
-  "preguntasHechas": 104
+  "ultimaActualizacion": 1766952691670,
+  "preguntasHechas": 105
 }
