@@ -1,5 +1,5 @@
 {
-  "iq": 583,
+  "iq": 589,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1899,8 +1899,13 @@
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son palabras o expresiones que se utilizan para unir ideas, oraciones o frases en una composición escrita o una conversación. Su función es conectar ideas relacionadas, enfatizar un punto o indicar la relación entre dos o más elementos. Ejemplos de conectores incluyen \"sin embargo\", \"además\", \"por tanto\", \"a pesar de que\" y \"como\". Por ejemplo: \"Me gustó muchísimo la playa, sin embargo, el sol me quemó la piel\".",
       "fecha": "2025-12-28T19:17:10.144Z"
+    },
+    {
+      "pregunta": "¿Qué son los sinónimos y antónimos?",
+      "respuesta": "Los sinónimos son palabras o expresiones que tienen el mismo significado en una situación determinada. Por ejemplo, \"feliz\" y \"alegre\" son sinónimos ya que describen un estado emocional positivo. Los antónimos, por su parte, son palabras o expresiones que tienen un significado opuesto. Por ejemplo, \"grandes\" y \"pequeños\" son antónimos ya que describen tamaños opuestos.",
+      "fecha": "2025-12-28T19:17:18.051Z"
     }
   ],
-  "ultimaActualizacion": 1766949430145,
-  "preguntasHechas": 31
+  "ultimaActualizacion": 1766949438052,
+  "preguntasHechas": 32
 }
