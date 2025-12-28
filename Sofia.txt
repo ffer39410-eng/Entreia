@@ -1,5 +1,5 @@
 {
-  "iq": 1117,
+  "iq": 1122,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1939,16 +1939,16 @@
     "subjetivas",
     "mostrando",
     "espacial",
-    "cuándo"
+    "cuándo",
+    "literales",
+    "creativo",
+    "abstractos",
+    "emotivo",
+    "visuales"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo funcionan los tiempos verbales?",
-      "respuesta": "Los tiempos verbales son una parte fundamental de la gramática española y permiten indicar el momento en el que se realiza la acción descrita por el verbo. Existen varios tiempos verbales básicos, como el presente, el pasado y el futuro, que pueden ser utilizados de manera simple o combinados con otros elementos para indicar diferentes matices de tiempo.\n\nPor ejemplo, en el presente, el verbo \"hablar\" se usa de la siguiente manera: \"Yo hablo\" (acción actual). En el pasado, se usa \"hablé\" (acción pasada), mientras que en el futuro, se usa \"hablaré\" (acción futura).",
-      "fecha": "2025-12-28T19:01:08.537Z"
-    },
     {
       "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
       "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de analizar y evaluar información de manera clara y objetiva, utilizando principios y reglas lógicas para llegar a conclusiones informadas. Esto implica identificar patrones, relaciones y causas-efectos, y utilizar argumentos y razones para apoyar las afirmaciones. Por ejemplo, si alguien dice \"El clima está cambiando y eso provoca más desastres naturales\", un razonamiento lógico implicaría analizar la relación entre el cambio climático y los desastres naturales, y considerar evidencia científica para respaldar esta afirmación.",
@@ -2943,8 +2943,13 @@
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras que indican la relación entre un sustantivo o un grupo de palabras y otros elementos en la oración, como lugares, tiempo, cantidad, etc. Por ejemplo, en la oración \"El libro está en la mesa\", la preposición \"en\" indica la relación entre el libro y la mesa, mostrando la ubicación del libro.\n\nLas preposiciones sirven para proporcionar información sobre la relación espacial (donde está, hacia dónde va, etc.), temporal (cuándo ocurre), causal (por qué), comparativa (cómo se relacionan dos cosas), entre otras.\n\nAlgunas preposiciones comunes son \"en\", \"de\", \"a\", \"con\", \"por\", entre otras.",
       "fecha": "2025-12-28T20:30:51.829Z"
+    },
+    {
+      "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
+      "respuesta": "Las metáforas son expresiones literales que compara dos conceptos incompatibles para crear un significado nuevo y creativo. Se utilizan para describir conceptos abstractos de manera más clara y accesible, haciendo que el lenguaje sea más expresivo y poético. Por ejemplo, \"la vida es un viaje\" es una metáfora que compara la vida con un viaje, creando un significado más profundo y emotivo. Esta figura literaria ayuda a crear imágenes visuales en la mente del oyente o lector, facilitando la comprensión y la emoción.",
+      "fecha": "2025-12-28T20:30:59.816Z"
     }
   ],
-  "ultimaActualizacion": 1766953851831,
-  "preguntasHechas": 140
+  "ultimaActualizacion": 1766953859818,
+  "preguntasHechas": 141
 }
