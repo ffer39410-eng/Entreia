@@ -1,5 +1,5 @@
 {
-  "iq": 1464,
+  "iq": 1471,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2255,16 +2255,18 @@
     "sentencia",
     "cohesión",
     "poesías",
-    "presentando"
+    "presentando",
+    "establecen",
+    "destacada",
+    "profundamente",
+    "arraigadas",
+    "hemos",
+    "internalizado",
+    "darse"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
-      "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de pensar de manera sistemática y coherente al expresar ideas y argumentos. Implica establecer conexiones lógicas entre pensamientos, evitar contradicciones y utilizar evidencia para apoyar afirmaciones. Por ejemplo, cuando alguien dice \"Si todos los robots son inteligentes, y este robot es inteligente, entonces debemos concluir que es un robot\". Este tipo de razonamiento ayuda a evitar confusiones y a llegar a conclusiones precisas.",
-      "fecha": "2025-12-28T19:14:21.206Z"
-    },
     {
       "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
       "respuesta": "El vocabulario técnico se refiere a términos y expresiones especiales utilizados en un campo o industria determinada, como la medicina, la ingeniería o la finanza. Por ejemplo, en la medicina, los términos \"angioplastia\" y \"catéterismo\" son parte del vocabulario técnico.\n\nPor otro lado, el lenguaje coloquial o informal se utiliza en la vida cotidiana para comunicarse con amigos, familiares o en contextos sociales. En este ámbito, se utilizan expresiones como \"estar enfermo\" en lugar de \"tener una condición médica\".\n\nLa clave está en que el vocabulario técnico se utiliza en contextos formales y especializados, mientras que el lenguaje coloquial se utiliza en contextos informales y diarios.",
@@ -3259,8 +3261,13 @@
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son palabras o expresiones que se utilizan para unir ideas, oraciones o frases en una sentencia, proporcionando una estructura lógica y cohesión en la comunicación. Algunos ejemplos de conectores incluyen \"y\", \"pero\", \"o\", \"aunque\", \"sin embargo\", entre otros. Por ejemplo: \"Me gusta leer libros y escribir poesías\".\n\nSe pueden clasificar en:\n\n- Conectores aditivos: indican que se están presentando ideas adicionales. Ejemplos: \"y\", \"también\".\n- Conectores adversativos: indican que se están presentando ideas opuestas. Ejemplos: \"pero\", \"aunque\".\n- Conectores causales: indican la causa y el efecto. Ejemplos: \"porque\", \"ya que\".",
       "fecha": "2025-12-28T20:45:23.935Z"
+    },
+    {
+      "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
+      "respuesta": "Las metáforas son comparaciones implícitas que establecen una relación entre dos conceptos o ideas diferentes, creando una nueva percepción o comprensión de uno de ellos. Por ejemplo, \"Ella es una estrella en el escenario\" implica que la persona es brillante y destacada en su campo. Las metáforas se usan para hacer que el lenguaje sea más expresivo y creativo, y pueden ayudar a comunicar ideas complejas de manera más sencilla y atractiva. Algunas metáforas son tan comunes y profundamente arraigadas en nuestra cultura que hemos internalizado su significado sin siquiera darse cuenta.",
+      "fecha": "2025-12-28T20:45:31.748Z"
     }
   ],
-  "ultimaActualizacion": 1766954723936,
-  "preguntasHechas": 208
+  "ultimaActualizacion": 1766954731750,
+  "preguntasHechas": 209
 }
