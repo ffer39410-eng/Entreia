@@ -1,5 +1,5 @@
 {
-  "iq": 690,
+  "iq": 697,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1513,7 +1513,12 @@
     "laboral",
     "bienestar",
     "gobiernos",
-    "inviertan"
+    "inviertan",
+    "tenía",
+    "bocadillo",
+    "delicioso",
+    "sent",
+    "satisfecho"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2147,8 +2152,13 @@
       "pregunta": "¿Cómo se estructura una buena argumentación?",
       "respuesta": "Una buena argumentación se estructura mediante cinco componentes fundamentales: el planteamiento del problema o tema, la presentación de la posición o tesis, la recopilación de evidencia o pruebas, la respuesta a posibles objeciones o contrapuntos, y la conclusión sólida. Por ejemplo, si se trata de una discusión sobre la importancia de la educación en la sociedad, una buena estructura de argumentación podría ser: \"El acceso a la educación es fundamental para el crecimiento económico y social. Esto se debe a que la educación proporciona herramientas y conocimientos esenciales para el desarrollo de habilidades y la toma de decisiones informadas. Muchos estudios demuestran que los individuos con mayor educación tienen mejor desempeño laboral y mayor nivel de bienestar. Por lo tanto, es imperativo que los gobiernos inviertan en programas",
       "fecha": "2025-12-28T19:19:58.409Z"
+    },
+    {
+      "pregunta": "¿Qué es la coherencia textual?",
+      "respuesta": "La coherencia textual se refiere a la capacidad de un texto para mantener una conexión lógica y clara entre sus ideas y oraciones, asegurando que el lector pueda seguir el hilo de razonamiento o la argumentación presentada. Esto se logra mediante la utilización de conectores lógicos, como \"por lo tanto\", \"en cambio\" o \"además\", que ayudan a unir las diferentes ideas y crear un flujo coherente. Por ejemplo, en la frase \"Yo tenía hambre, así que pedí un bocadillo. El bocadillo era delicioso, por lo tanto, me sentí satisfecho\". La coherencia textual es fundamental para comunicar ideas de manera efectiva.",
+      "fecha": "2025-12-28T19:20:07.135Z"
     }
   ],
-  "ultimaActualizacion": 1766949598410,
-  "preguntasHechas": 52
+  "ultimaActualizacion": 1766949607136,
+  "preguntasHechas": 53
 }
