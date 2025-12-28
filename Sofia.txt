@@ -1,5 +1,5 @@
 {
-  "iq": 3093,
+  "iq": 3096,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3173,16 +3173,12 @@
     "preparada",
     "adversativa",
     "subordinativa",
-    "gustaba"
+    "gustaba",
+    "abajo"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué son los conectores y cómo se usan?",
-      "respuesta": "Los conectores son palabras o expresiones que unen oraciones, frases o ideas para crear un enlace lógico y coherente en un texto o una conversación. Los conectores se utilizan para indicar relaciones entre los diferentes elementos de una oración, como causalidad, consecuencia, contraste, adición, etc.\n\nPor ejemplo, el conector \"porque\" se utiliza para indicar causalidad: \"Me levanté temprano porque tenía que ir al trabajo\". El conector \"entonces\" se utiliza para indicar consecuencia: \"Me mojé porque no llevaba paraguas, entonces me quedé con la ropa empapada\".",
-      "fecha": "2025-12-28T21:14:59.900Z"
-    },
     {
       "pregunta": "¿Cómo se estructura una buena argumentación?",
       "respuesta": "Una buena argumentación se estructura en tres partes fundamentales: la premisa, el razonamiento y la conclusión. La premisa es el hecho o la información que se utiliza como base para la argumentación, el razonamiento es el proceso de análisis y conexión de la premisa para llegar a una conclusión, y la conclusión es el resultado final del proceso de razonamiento. Por ejemplo, si se argumenta que \"la educación es fundamental para el éxito\", la premisa podría ser \"los estudios muestran que las personas con educación tienen mayor probabilidad de encontrar empleo\", el razonamiento podría ser \"porque la educación les proporciona las habilidades y conocimientos necesarios para competir en el mercado laboral\" y la conclusión podría ser \"por lo tanto, la educación es fundamental para el éxito\".",
@@ -4177,8 +4173,13 @@
       "pregunta": "¿Cómo se construyen oraciones complejas en español?",
       "respuesta": "Para construir oraciones complejas en español, debes utilizar conectores y subordinadas. Un conector es una palabra que relaciona dos oraciones independientes, como \"y\", \"o\", \"pero\", \"y sin embargo\", etc. Una subordinada es una oración que completa a otra oración principal y comienza con una conjunción subordinativa, como \"porque\", \"ya que\", \"aunque\", etc. Por ejemplo: \"Ella se fue al cine, porque quería ver la película que tanto le gustaba\". En esta oración, \"se fue al cine\" es la oración principal y \"porque quería ver la película que tanto le gustaba\" es la subordinada.",
       "fecha": "2025-12-28T21:53:48.672Z"
+    },
+    {
+      "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
+      "respuesta": "Expresar emociones de forma efectiva es fundamental para comunicarnos de manera clara y respetuosa con los demás. Una manera efectiva de expresar emociones es mediante el lenguaje no verbal, como la postura corporal, el contacto visual y las expresiones faciales. Por ejemplo, si estás molesto, puedes cruzar los brazos o mirar hacia abajo, mientras que si estás emocionado, puedes sonreír y mantener contacto visual con la otra persona.",
+      "fecha": "2025-12-28T21:53:56.802Z"
     }
   ],
-  "ultimaActualizacion": 1766958828673,
-  "preguntasHechas": 521
+  "ultimaActualizacion": 1766958836804,
+  "preguntasHechas": 522
 }
