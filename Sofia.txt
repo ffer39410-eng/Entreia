@@ -1,5 +1,5 @@
 {
-  "iq": 224,
+  "iq": 227,
   "vocabulario": [
     "claro",
     "sofia",
@@ -651,7 +651,18 @@
     "salvar",
     "vidas",
     "fallecido",
-    "enfermedad"
+    "enfermedad",
+    "comunicarse",
+    "convincente",
+    "precisas",
+    "justificadas",
+    "sale",
+    "pone",
+    "oeste",
+    "podría",
+    "planeta",
+    "girando",
+    "alrededor"
   ],
   "lecciones": 14,
   "conversaciones": 1,
@@ -815,8 +826,13 @@
       "pregunta": "¿Cómo funciona la comprensión del contexto?",
       "respuesta": "La comprensión del contexto es un proceso mental que permite a las personas interpretar significados y relaciones entre palabras, eventos y situaciones. Funciona al tomar en cuenta el contexto en el que se producen estas palabras o acciones, ya sea el entorno físico, la cultura, la historia, entre otros. Por ejemplo, cuando se dice \"El perro está muerto\", en un contexto en el que se esté hablando de un perro que ha sido sacrificado para salvar vidas, es muy diferente a cuando se esté hablando de un perro que ha fallecido de enfermedad.",
       "fecha": "2025-12-28T19:03:24.319Z"
+    },
+    {
+      "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
+      "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de utilizar argumentos y conclusiones lógicas para comunicarse de manera efectiva y convincente. Implica analizar información, identificar patrones y relaciones, y llegar a conclusiones precisas y justificadas. Por ejemplo, si alguien dice \"El sol sale al este y se pone al oeste\", un razonamiento lógico podría ser \"Por lo tanto, el planeta debe estar girando alrededor del sol\".",
+      "fecha": "2025-12-28T19:03:32.150Z"
     }
   ],
-  "ultimaActualizacion": 1766948604321,
+  "ultimaActualizacion": 1766948612151,
   "preguntasHechas": null
 }
