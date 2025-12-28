@@ -1,5 +1,5 @@
 {
-  "iq": 2540,
+  "iq": 2547,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2928,16 +2928,12 @@
     "planificar",
     "visita",
     "agradable",
-    "seis"
+    "seis",
+    "estación"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué es el pensamiento crítico?",
-      "respuesta": "El pensamiento crítico es la capacidad de analizar, evaluar y sintetizar información de manera objetiva y reflexiva, con el objetivo de formar juicios informados y tomar decisiones bien fundadas. Implica cuestionar suposiciones, identificar sesgos y prejuicios, y considerar múltiples perspectivas para llegar a una conclusión sólida. Es esencial en la toma de decisiones personales, académicas y profesionales, ya que nos permite distinguir entre información veraz y falsa, y reconocer los riesgos y beneficios de diferentes opciones.",
-      "fecha": "2025-12-28T20:53:39.750Z"
-    },
     {
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es la capacidad de analizar información, evaluar argumentos y tomar decisiones informadas de manera objetiva y reflexiva. Implica cuestionar suposiciones, buscar evidencia y considerar diferentes perspectivas para formar una opinión bien fundamentada. Por ejemplo, al estudiar una noticias, un estudiante que utiliza pensamiento crítico analizaría la fuente, la información presentada y las conclusiones a las que se llega. De esta manera, puede identificar posibles sesgos y tomar una decisión más informada sobre la veracidad de la información.",
@@ -3932,8 +3928,13 @@
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales son una parte fundamental del lenguaje y permiten expresar diferentes momentos en el tiempo en que se realizan las acciones. Hay seis tiempos verbales principales: presente, pretérito, futuro, subjuntivo, imperativo y condicional. Por ejemplo, el presente indica acciones que se están realizando en el momento actual, como \"estoy estudiando\".",
       "fecha": "2025-12-28T21:31:07.456Z"
+    },
+    {
+      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
+      "respuesta": "Las preposiciones son palabras que indican la relación entre un sustantivo u otro elemento de una oración y el resto de la oración. Sirven para indicar la ubicación, dirección, tiempo, manera, causa, consecuencia, entre otras relaciones entre elementos. Por ejemplo: en la casa, desde Madrid, para la estación.",
+      "fecha": "2025-12-28T21:31:15.703Z"
     }
   ],
-  "ultimaActualizacion": 1766957467732,
-  "preguntasHechas": 415
+  "ultimaActualizacion": 1766957475704,
+  "preguntasHechas": 416
 }
