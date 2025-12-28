@@ -1,5 +1,5 @@
 {
-  "iq": 746,
+  "iq": 751,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1579,7 +1579,17 @@
     "comienzo",
     "explique",
     "sociedad",
-    "relacionen"
+    "relacionen",
+    "gramaticalmente",
+    "correctas",
+    "definidos",
+    "indefinidos",
+    "unos",
+    "unas",
+    "géneros",
+    "números",
+    "feminino",
+    "casas"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2278,8 +2288,13 @@
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual se refiere a la capacidad de un texto para mantener una conexión lógica y clara entre las ideas y los conceptos presentados. Esto implica que el texto tiene una estructura lógica, con un comienzo, un desarrollo y un final coherentes. Por ejemplo, si un texto habla sobre la importancia de la educación, la coherencia textual implicaría que el texto explique cómo la educación es fundamental para mejorar la sociedad, y que los ejemplos y argumentos se relacionen de manera lógica con este tema.",
       "fecha": "2025-12-28T19:26:00.265Z"
+    },
+    {
+      "pregunta": "¿Cuáles son las reglas de la gramática española?",
+      "respuesta": "La gramática española se basa en reglas fundamentales que ayudan a construir oraciones coherentes y gramaticalmente correctas. Algunas de las reglas clave incluyen el uso de artículos definidos e indefinidos (el, la, los, las, un, una, unos, unas), el orden de los verbos (Sujeto + Verbo + Objeto) y el uso correcto de los géneros y números en la terminación de las palabras. Por ejemplo, \"la casa\" (feminino singular) vs. \"las casas\" (feminino plural).",
+      "fecha": "2025-12-28T19:26:08.287Z"
     }
   ],
-  "ultimaActualizacion": 1766949960266,
-  "preguntasHechas": 65
+  "ultimaActualizacion": 1766949968289,
+  "preguntasHechas": 66
 }
