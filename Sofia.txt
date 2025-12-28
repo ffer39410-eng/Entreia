@@ -1,5 +1,5 @@
 {
-  "iq": 269,
+  "iq": 273,
   "vocabulario": [
     "claro",
     "sofia",
@@ -786,7 +786,15 @@
     "ocurriendo",
     "espera",
     "sucedan",
-    "estudiar"
+    "estudiar",
+    "dirección",
+    "libro",
+    "mesa",
+    "donde",
+    "sirven",
+    "proporcionar",
+    "adicional",
+    "mejora"
   ],
   "lecciones": 14,
   "conversaciones": 1,
@@ -1000,8 +1008,13 @@
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales son fundamentalmente usados para indicar momentos en el tiempo, y se dividen en tres grandes categorías: pasado, presente y futuro. El pasado se utiliza para referirse a eventos o acciones que ya han ocurrido, como \"estudié\" o \"comí\". El presente se utiliza para describir acciones o estados que están ocurriendo en el momento actual, como \"estudio\" o \"como\". El futuro se utiliza para hablar sobre eventos o acciones que aún no han ocurrido, pero se espera que sucedan, como \"estudiaré\" o \"comeré\".",
       "fecha": "2025-12-28T19:04:44.292Z"
+    },
+    {
+      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
+      "respuesta": "Las preposiciones son palabras que se utilizan para indicar la relación entre un objeto o concepto y otro en una oración, como el lugar, la dirección, la cantidad, la relación, entre otros. Por ejemplo: \"El libro está en la mesa\" (la preposición \"en\" indica el lugar donde se encuentra el libro). Sirven para proporcionar información adicional sobre la relación entre los elementos de una oración, lo que mejora la comprensión del significado.",
+      "fecha": "2025-12-28T19:04:52.180Z"
     }
   ],
-  "ultimaActualizacion": 1766948684294,
+  "ultimaActualizacion": 1766948692181,
   "preguntasHechas": null
 }
