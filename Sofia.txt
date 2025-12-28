@@ -1,5 +1,5 @@
 {
-  "iq": 2857,
+  "iq": 2884,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3069,36 +3069,21 @@
     "cuentos",
     "montaña",
     "aplicación",
-    "verosímiles"
+    "verosímiles",
+    "conjuntivo",
+    "dieron",
+    "interpretamos",
+    "explícitamente",
+    "convenciones",
+    "llamados",
+    "conjetivos",
+    "deja",
+    "llovía",
+    "completos"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
-      "respuesta": "Para expresar emociones de forma efectiva, es importante ser congruente entre lo que sientes y lo que expresas. Esto significa que debes reconocer y aceptar tus sentimientos, en lugar de negarlos o fingir sentir algo que no sientes. Por ejemplo, en lugar de decir \"Estoy bien\" cuando en realidad estás enojado, podrías decir \"Estoy enojado porque...\" y explicar la razón detrás de tu emoción. De esta manera, puedes expresar tus sentimientos de manera clara y respetuosa.",
-      "fecha": "2025-12-28T21:08:59.645Z"
-    },
-    {
-      "pregunta": "¿Qué son los sinónimos y antónimos?",
-      "respuesta": "Los sinónimos son palabras que tienen el mismo significado o casi idéntico, como \"feliz\" y \"alegre\". Por ejemplo: \"Estoy feliz con mi nueva casa\" es igual a \"Estoy alegre con mi nueva casa\".\n\nPor otro lado, los antónimos son palabras que tienen significados opuestos, como \"grande\" y \"pequeño\". Por ejemplo: \"La casa es grande\" es lo opuesto a \"La casa es pequeña\".\n\nEstos términos son fundamentales en la gramática y se utilizan comúnmente en la comunicación para expresar ideas de manera más clara y variada.",
-      "fecha": "2025-12-28T21:09:07.611Z"
-    },
-    {
-      "pregunta": "¿Qué son los conectores y cómo se usan?",
-      "respuesta": "Los conectores son palabras o expresiones que se utilizan para unir oraciones, frases o ideas entre sí, permitiendo crear enlaces claros y lógicos en la estructura de un texto o discurso. Algunos ejemplos de conectores son \"y\", \"pero\", \"sin embargo\", \"además\", \"por lo que\", entre otros.\n\nPor ejemplo, si queremos conectar dos oraciones sencillas, podemos usar \"y\" para indicar que se trata de ideas o acciones simultáneas: \"Voy al parque y corro un poco\".",
-      "fecha": "2025-12-28T21:09:15.872Z"
-    },
-    {
-      "pregunta": "¿Cuáles son las reglas de la gramática española?",
-      "respuesta": "La gramática española es el conjunto de reglas que rigen la estructura y el uso del idioma español. Hay varias reglas importantes, como la concordancia de género y número en los artículos y adjetivos, la formación de las oraciones simples y compuestas, la utilización de los tiempos verbales y los modos verbales (indicativo, subjuntivo, imperativo, etc.). Por ejemplo, en español, un sustantivo masculino singular se concuerda con el artículo \"el\" y un sustantivo femenino singular se concuerda con el artículo \"la\", mientras que un sustantivo masculino plural se concuerda con el artículo \"los\" y un sustantivo femenino plural se concuerda con el artículo \"las\".",
-      "fecha": "2025-12-28T21:09:23.799Z"
-    },
-    {
-      "pregunta": "¿Cómo funcionan los tiempos verbales?",
-      "respuesta": "Los tiempos verbales son una parte fundamental de la gramática en español, y su función es indicar el momento en el que se produce la acción descrita por el verbo. Hay varios tiempos verbales, como el presente, el pasado, el futuro, el imperfecto, el pretérito perfecto, el pretérito pluscuamperfecto, el condicional y el subjuntivo. Por ejemplo, el verbo \"hablar\" en presente se utiliza para describir una acción que se realiza en el momento del habla, como \"Hablo en español\".",
-      "fecha": "2025-12-28T21:09:31.640Z"
-    },
     {
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es la habilidad de analizar información, evaluar evidencia y formar juicios informados sobre un tema o problema. Implica cuestionar suposiciones, considerar diferentes perspectivas y tomar decisiones basadas en evidencia sólida. Por ejemplo, al leer un artículo científico, un pensador crítico evaluaría la metodología utilizada, la validez de la evidencia y la conclusión que se extrae, en lugar de aceptar la información de manera ciega.",
@@ -4073,8 +4058,33 @@
       "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
       "respuesta": "El razonamiento lógico en conversaciones es la capacidad de analizar y evaluar información de manera objetiva, llegar a conclusiones racionales y evitar caer en errores de pensamiento. Esto implica la aplicación de principios lógicos, como la inferencia y la deducción, para establecer conexiones lógicas entre ideas y argumentos. Un ejemplo de razonamiento lógico es llegar a la conclusión de que \"si no hay nieve\" y \"el clima es cálido\", entonces \"no hace frío\". Esto implica una secuencia lógica de ideas que se basa en premisas verosímiles.",
       "fecha": "2025-12-28T21:47:47.853Z"
+    },
+    {
+      "pregunta": "¿Cómo se construyen oraciones complejas en español?",
+      "respuesta": "Una oración compleja en español se construye mediante la combinación de una oración principal y una oración subordinada. La oración principal es la que tiene un verbo en presente (o pasado si es un verbo en pasado) y es la idea central de la oración, mientras que la oración subordinada es la que expresa una idea relacionada con la principal, y comienza con un conjuntivo (porque, ya que, aunque, si). Por ejemplo: \"Mientras estudiaba, me dieron una tarea\".",
+      "fecha": "2025-12-28T21:47:56.215Z"
+    },
+    {
+      "pregunta": "¿Cómo funciona la comprensión del contexto?",
+      "respuesta": "La comprensión del contexto es el proceso mental por el que interpretamos un texto o una situación tomando en cuenta la información que no se expresa explícitamente, como la intención, el propósito y el entorno en el que se produce el evento o se escribe el texto. Esto se logra considerando la situación, el lenguaje utilizado, el tono y las convenciones culturales. Por ejemplo, cuando leemos una frase como \"Llegó el lunes\", podemos inferir que la persona se refiere a la primera hora del día debido al contexto.",
+      "fecha": "2025-12-28T21:48:27.944Z"
+    },
+    {
+      "pregunta": "¿Qué son los conectores y cómo se usan?",
+      "respuesta": "Los conectores (también llamados conjunciones o conjetivos) son palabras que se utilizan para unir oraciones, frases o ideas dentro de un texto. Ayudan a establecer relaciones entre elementos lingüísticos, como \"y\", \"o\", \"pero\", \"porque\", \"aunque\", etc. Por ejemplo:\n\n- \"Voy al parque y juego con amigos\" (usando \"y\" para unir dos ideas).\n- \"Me gusta leer libros o escuchar música\" (usando \"o\" para presentar alternativas).\n- \"Quiero ir al cine, pero mi hermano no está disponible\" (usando \"pero\" para señalar una oposición).\n\nEstos conectores funcionan como enlaces que ayudan a clarificar y organizar el pensamiento de manera lógica.",
+      "fecha": "2025-12-28T21:48:27.969Z"
+    },
+    {
+      "pregunta": "¿Qué son los conectores y cómo se usan?",
+      "respuesta": "Los conectores son palabras o expresiones que se utilizan para unir ideas, oraciones o frases en la oración, indicando la relación entre ellas. Algunos ejemplos de conectores se encuentran en la siguiente lista, siendo el más común \"y\" o \"pero\".\n\n- \"Y\" se utiliza para conectar ideas complementarias, al igual que \"ni\". Ejemplo: \"Voy al parque y juego con mis amigos\".\n- \"Pero\" se utiliza para conectar ideas o frases que se presentan como contrastantes o opuestas. Ejemplo: \"Quiero ir al cine, pero mi mamá no me deja\".\n- \"Porque\" se utiliza para conectar ideas o frases que se presentan como causas o motivos. Ejemplo: \"No salí porque llovía mucho\".\n- \"Por lo tanto\" se utiliza para conectar ideas o frases que se presentan como consecuencias",
+      "fecha": "2025-12-28T21:48:27.970Z"
+    },
+    {
+      "pregunta": "¿Cuáles son las reglas de la gramática española?",
+      "respuesta": "La gramática española es una estructura compleja que incluye reglas para formar palabras, oraciones y textos completos. Algunas de las reglas más importantes incluyen el uso de los tiempos verbales, como el presente, pasado e imperfecto, así como el uso de los géneros (masculino y femenino) y los números (singular y plural). Además, es importante recordar las reglas de concordancia, como la concordancia de género y número entre sujetos y verbos. Por ejemplo, \"el estudiante\" (masculino singular) se conjuga como \"estudia\", mientras que \"la estudiante\" (femenino singular) se conjuga como \"estudia\" también",
+      "fecha": "2025-12-28T21:48:28.442Z"
     }
   ],
-  "ultimaActualizacion": 1766958467854,
-  "preguntasHechas": 476
+  "ultimaActualizacion": 1766958515135,
+  "preguntasHechas": 481
 }
