@@ -1,5 +1,5 @@
 {
-  "iq": 214,
+  "iq": 218,
   "vocabulario": [
     "claro",
     "sofia",
@@ -615,7 +615,23 @@
     "calle",
     "mojada",
     "imposible",
-    "coche"
+    "coche",
+    "conjunto",
+    "pautas",
+    "rigen",
+    "correcto",
+    "varía",
+    "dependiendo",
+    "nosotros",
+    "vosotros",
+    "declinación",
+    "femenino",
+    "plural",
+    "determina",
+    "común",
+    "incluir",
+    "subordinadas",
+    "claras"
   ],
   "lecciones": 14,
   "conversaciones": 1,
@@ -769,8 +785,13 @@
       "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
       "respuesta": "El razonamiento lógico en conversaciones es la capacidad de utilizar argumentos y deducciones lógicas para llegar a conclusiones racionales y coherentes. Implica analizar información, identificar patrones y relaciones, y aplicar principios lógicos para llegar a un resultado. Por ejemplo, si alguien dice: \"Si llueve, la calle estará mojada. Y si la calle está mojada, es imposible ir en coche\", estás utilizando el razonamiento lógico para llegar a la conclusión de que es imposible ir en coche si llueve.",
       "fecha": "2025-12-28T19:03:08.440Z"
+    },
+    {
+      "pregunta": "¿Cuáles son las reglas de la gramática española?",
+      "respuesta": "La gramática española es un conjunto de reglas y pautas que rigen la estructura y el uso correcto de la lengua. Algunas de las reglas más importantes incluyen: \n\n- La conjugación de verbos, que varía dependiendo de la persona (yo, tú, él/ella, nosotros/as, vosotros/as, ellos/as) y el tiempo (presente, pasado, futuro).\n- La declinación de los sustantivos, que varía dependiendo de su género (masculino o femenino) y número (singular o plural).\n- El uso del artículo (el, la, los, las), que determina si un sustantivo es común o específico.\n- La formación de las oraciones complejas, que pueden incluir varios verbos y oraciones subordinadas.\n\nEstas reglas ayudan a crear oraciones claras y coherentes en la lengua",
+      "fecha": "2025-12-28T19:03:16.392Z"
     }
   ],
-  "ultimaActualizacion": 1766948588440,
+  "ultimaActualizacion": 1766948596394,
   "preguntasHechas": null
 }
