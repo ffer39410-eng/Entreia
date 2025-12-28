@@ -1,5 +1,5 @@
 {
-  "iq": 1143,
+  "iq": 1150,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1963,16 +1963,14 @@
     "síntesis",
     "débil",
     "pequeña",
-    "antónimas"
+    "antónimas",
+    "despidiéndose",
+    "bromeando",
+    "irónico"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
-      "respuesta": "Las metáforas son una figura retórica que consiste en comparar dos conceptos o ideas diferentes, pero con un objetivo de crear una nueva y más rica representación del mundo. Por ejemplo, \"Ella es una estrella en el escenario\" es una metáfora que compara a una persona con una estrella, destacando su importancia y belleza. Esta comparación no es literal, pero nos permite entender mejor la relación entre la persona y el escenario en el que se encuentra. Las metáforas pueden ser utilizadas para crear imágenes vívidas, enfatizar conceptos y emociones, y hacer que el lenguaje sea más expresivo y evocador.",
-      "fecha": "2025-12-28T19:01:48.266Z"
-    },
     {
       "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
       "respuesta": "Las metáforas son una figura retórica que permite transferir un concepto o un sentimiento de un dominio a otro, creando una nueva representación de la realidad. Se utilizan para describir objetos, ideas o situaciones de manera creativa y evocadora, como en la famosa frase \"Ella es una estrella\" que compara a una persona con una estrella brillante. Algunos ejemplos de metáforas en el lenguaje incluyen \"Su voz es miela sobre un tazón de té\" (comparando la voz con miel) o \"El mundo es un gran teatro\" (comparando el mundo con un escenario teatral).",
@@ -2967,8 +2965,13 @@
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "Los sinónimos son palabras que tienen el mismo significado que otra palabra en particular. Por ejemplo, \"feliz\" y \"alegre\" son sinónimos porque describen un estado emocional similar. Los antónimos, por otro lado, son palabras que tienen significados opuestos, como \"fuerte\" y \"débil\".\n\nEjemplo: \"La casa es grande\" y \"La casa es pequeña\" son frases que se podrían considerar antónimas porque expresan conceptos opuestos.\n\nPor ejemplo, el antónimo de \"caliente\" es \"frío\".",
       "fecha": "2025-12-28T20:31:39.856Z"
+    },
+    {
+      "pregunta": "¿Cómo funciona la comprensión del contexto?",
+      "respuesta": "La comprensión del contexto se refiere al proceso de identificar y analizar la información relevante que rodea un texto, una situación o una conversación. Esto implica considerar factores como el tono, el lenguaje, el propósito y la intención detrás de las palabras y acciones. Al entender el contexto, podemos mejorar nuestra comprensión de los mensajes y hacer inferencias más precisas. Por ejemplo, si alguien dice \"¡Hasta luego!\", es posible que esté despidiéndose, pero también es posible que esté bromeando o utilizando un tono irónico.",
+      "fecha": "2025-12-28T20:31:47.823Z"
     }
   ],
-  "ultimaActualizacion": 1766953899857,
-  "preguntasHechas": 145
+  "ultimaActualizacion": 1766953907825,
+  "preguntasHechas": 146
 }
