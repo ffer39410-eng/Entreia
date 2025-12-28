@@ -1,5 +1,5 @@
 {
-  "iq": 1002,
+  "iq": 1005,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1832,7 +1832,12 @@
     "harto",
     "pausa",
     "especialmente",
-    "cervantes"
+    "cervantes",
+    "equilibrar",
+    "producto",
+    "investigar",
+    "interés",
+    "completa"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2786,8 +2791,13 @@
       "pregunta": "¿Cómo se usa la puntuación correctamente?",
       "respuesta": "La puntuación es un elemento clave en la escritura y el lenguaje, ya que nos ayuda a expresar ideas de manera clara y concisa. Algunas de las reglas básicas de puntuación incluyen el uso de comas para separar ideas o elementos en una oración, los puntos suspensivos para indicar una pausa o una interrogación, y los signos de exclamación para expresar emociones.\n\nPor ejemplo, en la oración \"Me encanta leer libros de aventuras, especialmente los de Cervantes\", el uso de la coma separa las ideas de que me gusta leer libros de aventuras y que me encanta especialmente los de Cervantes.",
       "fecha": "2025-12-28T20:12:59.727Z"
+    },
+    {
+      "pregunta": "¿Qué es el pensamiento crítico?",
+      "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar información de manera objetiva y lógica, considerando múltiples perspectivas y fuentes para llegar a conclusiones informadas. Esto implica cuestionar suposiciones, identificar sesgos y equilibrar la evidencia con las opiniones personales. Por ejemplo, al leer un artículo que afirma que un producto es eficaz, un pensamiento crítico implicaría investigar la fuente, verificar las pruebas y considerar posibles sesgos de interés o perspectiva. De esta manera, se puede llegar a una comprensión más completa y precisa de la realidad.",
+      "fecha": "2025-12-28T20:13:49.561Z"
     }
   ],
-  "ultimaActualizacion": 1766952779729,
-  "preguntasHechas": 116
+  "ultimaActualizacion": 1766952829562,
+  "preguntasHechas": 117
 }
