@@ -1,5 +1,5 @@
 {
-  "iq": 685,
+  "iq": 691,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1502,7 +1502,9 @@
     "siquiera",
     "propio",
     "completado",
-    "suceda"
+    "suceda",
+    "idiotismos",
+    "conjugan"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2136,8 +2138,13 @@
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales son una parte fundamental de la gramática de una lengua y se refieren a la forma en que se expresa el tiempo en que se realiza una acción. Hay varios tiempos verbales, como el presente, pasado simple, pasado perfecto, futuro simple, entre otros. Por ejemplo, el verbo \"hablar\" en presente se expresa como \"hablo\", en pasado simple como \"hablé\", y en futuro simple como \"hablaré\".\n\nEs importante destacar que los tiempos verbales se utilizan para expresar diferentes relaciones entre la acción descrita y el momento en que se habla. Por ejemplo, el tiempo pasado simple se utiliza para describir una acción que ya se ha completado, mientras que el tiempo futuro simple se utiliza para describir una acción que aún no ha sucedido pero se espera que suceda en el futuro.",
       "fecha": "2025-12-28T19:24:16.354Z"
+    },
+    {
+      "pregunta": "¿Cuáles son las reglas de la gramática española?",
+      "respuesta": "La gramática española tiene varias reglas importantes, como la concordancia de género y número, la flexión de verbos e idiotismos. Por ejemplo, en español, el artículo determinado \"el\" se usa para referirse a un objeto masculino singular, mientras que \"la\" se usa para referirse a un objeto femenino singular. Además, los verbos en español se conjugan según la persona y el tiempo en que se realiza la acción.",
+      "fecha": "2025-12-28T19:24:24.312Z"
     }
   ],
-  "ultimaActualizacion": 1766949856355,
-  "preguntasHechas": 52
+  "ultimaActualizacion": 1766949864313,
+  "preguntasHechas": 53
 }
