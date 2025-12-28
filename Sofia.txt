@@ -1,5 +1,5 @@
 {
-  "iq": 1893,
+  "iq": 1899,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2532,16 +2532,15 @@
     "emergencia",
     "extra",
     "continu",
-    "unida"
+    "unida",
+    "proporcionan",
+    "fruta",
+    "ando",
+    "viene"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué son los sinónimos y antónimos?",
-      "respuesta": "Excelente pregunta. Los sinónimos son palabras o expresiones que tienen el mismo significado o connotación, pero con diferentes matices o tonos. Por ejemplo, \"feliz\" y \"contento\" son sinónimos, ya que ambos describen un estado de ánimo positivo.\n\nPor otro lado, los antónimos son palabras o expresiones que tienen significados opuestos o contrarios. Por ejemplo, \"grandes\" y \"pequeños\" son antónimos, ya que describen tamaños opuestos. Otro ejemplo es \"lento\" y \"rápido\", que son antónimos en términos de velocidad.\n\nEs importante tener en cuenta que a veces un sinónimo puede ser más adecuado que otro en un contexto específico, y que un antónimo puede ser más efectivo en ciertas situaciones.",
-      "fecha": "2025-12-28T20:00:03.900Z"
-    },
     {
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar información, ideas y argumentos de manera objetiva y lógica, identificando tanto los aspectos positivos como los negativos. Esto implica cuestionar suposiciones, considerar diferentes perspectivas y utilizar evidencia para tomar decisiones informadas. Por ejemplo, al leer un artículo periodístico, un pensador crítico analizaría la fuente, la objetividad del autor y la calidad de la evidencia presentada.",
@@ -3536,8 +3535,13 @@
       "pregunta": "¿Cómo se construyen oraciones complejas en español?",
       "respuesta": "Una oración compleja en español se construye utilizando un verbo principal y un verbo subordinado, unidas por una conjunción de subordinación como \"que\", \"ya que\", \"aunque\", etc. Por ejemplo: \"Aunque estaba cansado, continuó estudiando\". En esta oración, \"estudiando\" es la oración subordinada, unida a la oración principal \"estaba cansado\" a través de la conjunción \"aunque\".\n\nUna oración compleja también puede tener más de un verbo principal, unidas por conjunciones de coordinación como \"y\", \"o\", \"pero\", etc. Por ejemplo: \"Compró libros y luego los leyó\". En esta oración, \"compró libros\" y \"los leyó\" son dos oraciones principales, unidas por la conjunción \"y\".\n\nTambién es posible tener oraciones completas",
       "fecha": "2025-12-28T21:10:51.795Z"
+    },
+    {
+      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
+      "respuesta": "Las preposiciones son palabras que se utilizan para indicar la relación entre un sustantivo o pronombre y otro elemento en la oración, como un lugar, una acción, un tiempo o una manera. Sirven para establecer la conexión entre esos elementos y proporcionan información adicional sobre la acción o situación descrita. Por ejemplo, en la oración \"El libro está sobre la mesa\", la preposición \"sobre\" indica la relación entre el libro y la mesa.\n\nAlgunas de las preposiciones más comunes en español son:\n\n- En: \"El libro está en la biblioteca\".\n- De: \"La fruta es de la tierra\".\n- Con: \"Ando con mis amigos\".\n- Desde: \"Viene desde la ciudad\".\n- Hasta: \"Voy hasta el parque\".\n- Por: \"Vivo por la ciudad\".\n- Para: \"Voy para la universidad\".\n\nEstas son solo algunas",
+      "fecha": "2025-12-28T21:10:59.782Z"
     }
   ],
-  "ultimaActualizacion": 1766956251798,
-  "preguntasHechas": 291
+  "ultimaActualizacion": 1766956259784,
+  "preguntasHechas": 292
 }
