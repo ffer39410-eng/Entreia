@@ -1,5 +1,5 @@
 {
-  "iq": 829,
+  "iq": 834,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1645,7 +1645,11 @@
     "propósito",
     "pronombres",
     "conjugados",
-    "utilicen"
+    "utilicen",
+    "localización",
+    "posesión",
+    "regalo",
+    "destinatario"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2424,8 +2428,13 @@
       "pregunta": "¿Cuáles son las reglas de la gramática española?",
       "respuesta": "La gramática española tiene varias reglas que rigen la forma en que se construyen las oraciones. Algunas de las reglas más importantes incluyen:\n\n- La concordancia de género y número: los adjetivos, artículos y pronombres deben concordar en género y número con el sustantivo al que se refieren.\n- La formación de las oraciones: las oraciones pueden ser simples, compuestas o complejas, y deben seguir una estructura lógica y gramatical.\n- El uso de los verbos: los verbos deben ser conjugados según la persona, tiempo y modo en el que se utilicen.\n- La puntuación: la puntuación es fundamental para separar las ideas y la estructura de las oraciones.\n\nEstas reglas ayudan a mantener la coherencia y claridad en la comunicación escrita y oral en español.",
       "fecha": "2025-12-28T19:41:15.842Z"
+    },
+    {
+      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
+      "respuesta": "Las preposiciones son palabras gramaticales que indican la relación entre un sustantivo o un grupo de palabras y otro sustantivo, un verbo, una oración o un lugar. Sirven para expresar la localización, la dirección, la cantidad, la duración, la causa, el efecto, la compañía, la posesión y otras relaciones entre los elementos de una oración.\n\nPor ejemplo: \"La biblioteca está en la calle principal\" (indica localización), \"El regalo era para ella\" (indica destinatario), \"Ella estudió durante tres horas\" (indica duración).",
+      "fecha": "2025-12-28T19:41:23.818Z"
     }
   ],
-  "ultimaActualizacion": 1766950875844,
-  "preguntasHechas": 81
+  "ultimaActualizacion": 1766950883819,
+  "preguntasHechas": 82
 }
