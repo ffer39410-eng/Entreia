@@ -1,5 +1,5 @@
 {
-  "iq": 2204,
+  "iq": 2209,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2738,16 +2738,15 @@
     "vivida",
     "emplear",
     "transmitiendo",
-    "talentosa"
+    "talentosa",
+    "subjeto",
+    "nombradas",
+    "irregulares",
+    "práctica"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué son los conectores y cómo se usan?",
-      "respuesta": "Los conectores son palabras y expresiones que se utilizan para unir oraciones, frases o ideas en una comunicación. Ayudan a establecer relaciones lógicas entre las ideas presentadas, como la causalidad, la contraste, la consecuencia, la adición o la enumeración. Por ejemplo: \"Y\" (unidos para formar un solo evento), \"Pero\" (indicando un cambio de idea), \"Porque\" (indicando una causa y efecto).",
-      "fecha": "2025-12-28T20:32:35.710Z"
-    },
     {
       "pregunta": "¿Cómo se estructura una buena argumentación?",
       "respuesta": "Una buena argumentación se estructura en tres partes claves: la premisa (la afirmación inicial), el nexo (la relación entre la premisa y la conclusión) y la conclusión (el resultado lógico). Por ejemplo, \"Si el clima cambia (premisa), tendremos más sequías (nexus) y, por lo tanto, necesitaremos conservar agua (conclusión)\".",
@@ -3742,8 +3741,13 @@
       "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
       "respuesta": "Las metáforas son una figura retórica que permite transformar una idea o concepto abstracto en una imagen concreta y vivida. Al emplear metáforas, podemos describir complejas emociones o pensamientos de manera más accesible y comprensible. Por ejemplo, \"Ella es una estrella\" es una metáfora que compara a una persona con una estrella brillante, transmitiendo la idea de que es una persona destacada y talentosa.",
       "fecha": "2025-12-28T21:18:51.676Z"
+    },
+    {
+      "pregunta": "¿Cuáles son las reglas de la gramática española?",
+      "respuesta": "La gramática española es un conjunto de reglas que rigen la estructura y el orden de las palabras en una oración. Algunas de las reglas básicas incluyen:\n\n- La orden de las palabras: en español, se utiliza la estructura Subjeto-Verbo-Objeto (SVO), es decir, el sujeto de la oración viene antes del verbo y el objeto después.\n- El uso de los artículos: los artículos \"el\", \"la\", \"los\" y \"las\" se utilizan para referirse a personas o cosas nombradas.\n- El uso de los verbos: los verbos en español pueden ser regulares o irregulares, y su conjugación depende de la persona, el número y el tiempo en el que se utilizan.\n\nPor ejemplo: \"La casa es azul\" (SVO, artículo definido).\n\nRecuerda que la práctica es la mejor manera",
+      "fecha": "2025-12-28T21:18:59.828Z"
     }
   ],
-  "ultimaActualizacion": 1766956731678,
-  "preguntasHechas": 351
+  "ultimaActualizacion": 1766956739831,
+  "preguntasHechas": 352
 }
