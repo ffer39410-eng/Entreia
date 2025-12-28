@@ -1,5 +1,5 @@
 {
-  "iq": 2384,
+  "iq": 2388,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2837,16 +2837,14 @@
     "impactante",
     "sugerentes",
     "parecían",
-    "inmutables"
+    "inmutables",
+    "formula",
+    "defiende",
+    "soportar"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
-      "respuesta": "Las metáforas son comparaciones implícitas que se utilizan para describir una cosa en términos de otra, creando un lenguaje más expresivo y evocador. Por ejemplo, \"Ella es una estrella en la escena teatral\" no significa que sea literalmente una estrella, sino que destaca su talento y brillantez en el mundo del teatro. Esta comparación ayuda a crear una imagen más vívida y emotiva en la mente del oyente.",
-      "fecha": "2025-12-28T20:41:07.640Z"
-    },
     {
       "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
       "respuesta": "El vocabulario técnico se refiere a las palabras y expresiones utilizadas en contextos específicos, como ciencia, tecnología, medicina o ingeniería, que requieren una precisión y claridad especial. Por otro lado, el vocabulario coloquial se refiere a las palabras y expresiones utilizadas en la vida diaria, en conversaciones informales y relajadas, que suelen ser más informales y acostumbradas. Por ejemplo, mientras que un técnico médico usa el término \"flebitis\" para describir la inflamación de una vena, en la conversación coloquial se dice \"inflamación de la vena\".",
@@ -3841,8 +3839,13 @@
       "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
       "respuesta": "Las metáforas son una figura retórica que permite asociar dos conceptos o ideas muy diferentes, creando una comparación no literal para describir una realidad abstracta o compleja. Esto permite a los hablantes expresar ideas de manera creativa y accesible, como cuando decimos \"el tiempo es un río\" o \"la vida es un viaje\". Las metáforas pueden ser utilizadas en la literatura, la poesía, el discurso público y la comunicación cotidiana para transmitir emociones y pensamientos de manera más impactante y memorable. Al utilizar metáforas, los hablantes pueden crear conexiones nuevas y sugerentes entre conceptos que antes parecían inmutables.",
       "fecha": "2025-12-28T21:23:15.935Z"
+    },
+    {
+      "pregunta": "¿Cómo se estructura una buena argumentación?",
+      "respuesta": "Una buena argumentación se estructura en torno a tres componentes clave: tópico, posición y evidencia. Primero, se establece el tópico o la cuestión que se pretende discutir. Luego, se formula la posición o la postura que se defiende. Finalmente, se presentan evidencias y razones para soportar la posición y refutar posibles objeciones contrarias.",
+      "fecha": "2025-12-28T21:23:23.679Z"
     }
   ],
-  "ultimaActualizacion": 1766956995937,
-  "preguntasHechas": 384
+  "ultimaActualizacion": 1766957003683,
+  "preguntasHechas": 385
 }
