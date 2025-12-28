@@ -1,5 +1,5 @@
 {
-  "iq": 3071,
+  "iq": 3074,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3166,16 +3166,13 @@
     "serían",
     "escuch",
     "canción",
-    "bebi"
+    "bebi",
+    "calentando",
+    "influir"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
-      "respuesta": "Las preposiciones son palabras que se utilizan para indicar la relación entre un objeto o una acción y otros elementos en una oración. Por ejemplo, en la oración \"El libro está sobre la mesa\", la preposición \"sobre\" muestra la relación entre el libro y la mesa. \n\nLas preposiciones también pueden indicar la dirección, el lugar o el tiempo de una acción. Por ejemplo, en la oración \"Voy al parque\", la preposición \"al\" indica la dirección hacia el parque. \n\nAlgunas preposiciones comunes en español son: a, ante, con, de, desde, en, entre, para, por y bajo.",
-      "fecha": "2025-12-28T21:14:20.121Z"
-    },
     {
       "pregunta": "¿Cómo se usa la puntuación correctamente?",
       "respuesta": "La puntuación es fundamental para dotarle de claridad y coherencia a nuestro lenguaje escrito. Para usarla correctamente, debemos saber distinguir entre las diferentes signos de puntuación, como la coma (,), el punto (.), la interrogación (?), la exclamación (!), los signos de cita (\" \" o ‘‘ ‘ ‘), los dos puntos (:), el punto y coma (;), etc. Por ejemplo, para separar oraciones simples, se utilizan comas y puntos, mientras que para separar oraciones complejas, se usan dos puntos.",
@@ -4170,8 +4167,13 @@
       "pregunta": "¿Cómo se construyen oraciones complejas en español?",
       "respuesta": "Las oraciones complejas en español se construyen combinando dos o más oraciones simples mediante conjunciones o conectivos, como \"y\", \"o\", \"pero\", \"porque\", etc. Por ejemplo: \"Ella comió un sandwich y bebió un vaso de agua\" (en esta oración, \"comió\" y \"bebió\" son oraciones simples que se unen con \"y\").",
       "fecha": "2025-12-28T21:53:08.154Z"
+    },
+    {
+      "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
+      "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de analizar y evaluar información críticamente para llegar a conclusiones lógicas y coherentes. Implica identificar patrones, relaciones y contradicciones en los argumentos y responder de manera clara y precisa. Por ejemplo, si alguien afirma que \"El clima está cambiando porque la Tierra se está calentando\", el razonamiento lógico implicaría preguntar qué evidencia hay que respalde esta afirmación y cómo se relaciona con otros factores que pueden influir en el cambio climático.",
+      "fecha": "2025-12-28T21:53:17.275Z"
     }
   ],
-  "ultimaActualizacion": 1766958788155,
-  "preguntasHechas": 516
+  "ultimaActualizacion": 1766958797276,
+  "preguntasHechas": 517
 }
