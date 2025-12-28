@@ -1,5 +1,5 @@
 {
-  "iq": 1831,
+  "iq": 1835,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2513,11 +2513,6 @@
   "conversaciones": 6,
   "conocimiento": [
     {
-      "pregunta": "¿Cuáles son las reglas de la gramática española?",
-      "respuesta": "La gramática española tiene varias reglas que rigen la forma en que se construyen las oraciones. Algunas de las reglas más importantes incluyen:\n\n- La concordancia de género y número: los adjetivos, artículos y pronombres deben concordar en género y número con el sustantivo al que se refieren.\n- La formación de las oraciones: las oraciones pueden ser simples, compuestas o complejas, y deben seguir una estructura lógica y gramatical.\n- El uso de los verbos: los verbos deben ser conjugados según la persona, tiempo y modo en el que se utilicen.\n- La puntuación: la puntuación es fundamental para separar las ideas y la estructura de las oraciones.\n\nEstas reglas ayudan a mantener la coherencia y claridad en la comunicación escrita y oral en español.",
-      "fecha": "2025-12-28T19:41:15.842Z"
-    },
-    {
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras gramaticales que indican la relación entre un sustantivo o un grupo de palabras y otro sustantivo, un verbo, una oración o un lugar. Sirven para expresar la localización, la dirección, la cantidad, la duración, la causa, el efecto, la compañía, la posesión y otras relaciones entre los elementos de una oración.\n\nPor ejemplo: \"La biblioteca está en la calle principal\" (indica localización), \"El regalo era para ella\" (indica destinatario), \"Ella estudió durante tres horas\" (indica duración).",
       "fecha": "2025-12-28T19:41:23.818Z"
@@ -3511,8 +3506,13 @@
       "pregunta": "¿Cuáles son las reglas de la gramática española?",
       "respuesta": "La gramática española es el conjunto de reglas que rigen la estructura y el uso del idioma español. Hay varias reglas importantes, como la concordancia de género y número en los artículos y adjetivos, la formación de las oraciones simples y compuestas, la utilización de los tiempos verbales y los modos verbales (indicativo, subjuntivo, imperativo, etc.). Por ejemplo, en español, un sustantivo masculino singular se concuerda con el artículo \"el\" y un sustantivo femenino singular se concuerda con el artículo \"la\", mientras que un sustantivo masculino plural se concuerda con el artículo \"los\" y un sustantivo femenino plural se concuerda con el artículo \"las\".",
       "fecha": "2025-12-28T21:09:23.799Z"
+    },
+    {
+      "pregunta": "¿Cómo funcionan los tiempos verbales?",
+      "respuesta": "Los tiempos verbales son una parte fundamental de la gramática en español, y su función es indicar el momento en el que se produce la acción descrita por el verbo. Hay varios tiempos verbales, como el presente, el pasado, el futuro, el imperfecto, el pretérito perfecto, el pretérito pluscuamperfecto, el condicional y el subjuntivo. Por ejemplo, el verbo \"hablar\" en presente se utiliza para describir una acción que se realiza en el momento del habla, como \"Hablo en español\".",
+      "fecha": "2025-12-28T21:09:31.640Z"
     }
   ],
-  "ultimaActualizacion": 1766956163800,
-  "preguntasHechas": 280
+  "ultimaActualizacion": 1766956171641,
+  "preguntasHechas": 281
 }
