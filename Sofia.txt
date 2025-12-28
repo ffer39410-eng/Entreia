@@ -1,5 +1,5 @@
 {
-  "iq": 2832,
+  "iq": 2835,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3071,11 +3071,6 @@
   "conversaciones": 6,
   "conocimiento": [
     {
-      "pregunta": "¿Cómo se usa la puntuación correctamente?",
-      "respuesta": "La puntuación es fundamental para comunicar ideas de manera clara y efectiva. Utiliza puntos y comas para separar ideas y sentencias simples, y puntuación más compleja, como las comas serial, el punto y coma, el signo de exclamación y la coma retórica, para enfatizar o expresar emociones. Por ejemplo: \"Voy a la playa, como es domingo, y espero encontrar un día soleado\".",
-      "fecha": "2025-12-28T21:08:19.802Z"
-    },
-    {
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es la capacidad de analizar, evaluar y sintetizar la información, y de tomar decisiones informadas basadas en evidencia y razonamiento lógico. Implica cuestionar suposiciones, identificar sesgos y prejuicios, y considerar múltiples perspectivas para llegar a conclusiones bien fundadas. Por ejemplo, un estudiante que analiza una fuente histórica crítica y considera múltiples interpretaciones puede ejemplificar pensamiento crítico.",
       "fecha": "2025-12-28T21:08:27.644Z"
@@ -4069,8 +4064,13 @@
       "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
       "respuesta": "Las metáforas son figuras retóricas que permiten asociar ideas o conceptos abstractos con objetos, situaciones o experiencias concretas, creando una representación imaginativa y enriquecedora. Por ejemplo, \"mi corazón late con emoción\" implica que la emoción se siente como un latido de corazón, transmitiendo intensidad y autenticidad. Al utilizar metáforas, podemos describir abstractos de manera más accesible y memorable.",
       "fecha": "2025-12-28T21:47:07.716Z"
+    },
+    {
+      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
+      "respuesta": "Las preposiciones son palabras que indican la relación entre un sustantivo y otros elementos en la oración, como lugar, tiempo, dirección, causa, etc. Por ejemplo: \"Estoy bajo la mesa\" (indica lugar), \"La casa está cerca del parque\" (indica ubicación). Las preposiciones sirven para especificar la ubicación, el tiempo y la relación entre los elementos en la oración.",
+      "fecha": "2025-12-28T21:47:15.784Z"
     }
   ],
-  "ultimaActualizacion": 1766958427717,
-  "preguntasHechas": 471
+  "ultimaActualizacion": 1766958435785,
+  "preguntasHechas": 472
 }
