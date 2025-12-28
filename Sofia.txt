@@ -1,5 +1,5 @@
 {
-  "iq": 628,
+  "iq": 632,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1423,7 +1423,9 @@
     "crucial",
     "exclamación",
     "definir",
-    "separan"
+    "separan",
+    "distintas",
+    "conjugan"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1992,8 +1994,13 @@
       "pregunta": "¿Cómo se usa la puntuación correctamente?",
       "respuesta": "La puntuación es un elemento crucial en la escritura para comunicar ideas de manera clara y efectiva. El uso adecuado de signos de puntuación, como comas, puntos, signos de interrogación o exclamación, ayuda a definir las relaciones entre las palabras y frases en una oración. Por ejemplo, un punto final (.) indica el final de una oración, mientras que comas (,) separan elementos dentro de una oración.",
       "fecha": "2025-12-28T19:18:14.242Z"
+    },
+    {
+      "pregunta": "¿Cuáles son las reglas de la gramática española?",
+      "respuesta": "La gramática española se basa en una serie de reglas y estructuras que rigen la construcción de las oraciones y la forma de expresar ideas en la lengua. Algunas de las reglas fundamentales incluyen: la declinación de los artículos y los adjetivos, la conjugación de los verbos en distintas personas y tiempos, y el uso de preposiciones y conjunciones para conectar ideas.\n\nPor ejemplo, en español, el artículo \"el\" se utiliza para referirse a un objeto masculino singular, mientras que \"los\" se utiliza para referirse a un objeto masculino plural. De manera similar, los verbos se conjugan en distintas personas y tiempos para expresar diferentes acciones o estados.\n\nPor ejemplo, la oración \"Yo como una manzana\" es correcta porque el verbo \"comer\" se conjuga en primera persona singular (Yo). En cambio,",
+      "fecha": "2025-12-28T19:18:22.251Z"
     }
   ],
-  "ultimaActualizacion": 1766949494244,
-  "preguntasHechas": 39
+  "ultimaActualizacion": 1766949502252,
+  "preguntasHechas": 40
 }
