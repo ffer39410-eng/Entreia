@@ -1,5 +1,5 @@
 {
-  "iq": 2348,
+  "iq": 2355,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2831,11 +2831,6 @@
   "conversaciones": 6,
   "conocimiento": [
     {
-      "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
-      "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de pensar de manera clara y sistemática, analizar información, identificar patrones y conclusiones lógicas, y expresarlas de manera coherente y convincente. Esto implica utilizar argumentos, hechos y razones para apoyar nuestras afirmaciones y respuestas, en lugar de recurrir a suposiciones, emociones o opiniones personales.\n\nPor ejemplo, si alguien te pregunta \"¿Por qué crees que el clima está cambiando?\", un razonamiento lógico podría implicar citar hechos científicos sobre el aumento de gases de efecto invernadero, el calentamiento global y la evidencia empírica que respalda estas afirmaciones. De esta manera, podemos presentar una argumentación clara y convincente que respalde nuestra opinión.\n\nEl razonamiento lógico en conversaciones también",
-      "fecha": "2025-12-28T20:36:03.948Z"
-    },
-    {
       "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
       "respuesta": "El vocabulario técnico se refiere a las palabras y expresiones utilizadas en contextos profesionales o especializados, como en la medicina, la ingeniería o las ciencias. Por ejemplo, términos como \"cirugía reconstructiva\" o \"microprocesador\" son vocabulario técnico.\n\nPor otro lado, el vocabulario coloquial se refiere a las palabras y expresiones utilizadas en la comunicación informal, como en conversaciones cotidianas con amigos o familiares. Por ejemplo, frases como \"¿Qué tal si vamos al parque?\" o \"Eso es un chiste muy gracioso\" son vocabulario coloquial.\n\nLa clave para diferenciar entre ambos es considerar el contexto y la audiencia objetivo. El vocabulario técnico está diseñado para ser preciso y técnico, mientras que el vocabulario coloquial está diseñado para ser accesible y amigable.",
       "fecha": "2025-12-28T20:39:16.016Z"
@@ -3829,8 +3824,13 @@
       "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
       "respuesta": "El razonamiento lógico en conversaciones se refiere a la habilidad de analizar y evaluar la información, sacar conclusiones lógicas y evitar errores de razonamiento. Esto implica utilizar reglas de inferencia para llegar a conclusiones sólidas y respaldadas por evidencia. Por ejemplo, si alguien afirma que \"si hago ejercicio, me siento bien\", un razonamiento lógico podría ser: \"Si hago ejercicio, me siento bien; hoy he hecho ejercicio; por lo tanto, me sentiré bien hoy\".",
       "fecha": "2025-12-28T21:22:19.719Z"
+    },
+    {
+      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
+      "respuesta": "Las preposiciones son palabras que se utilizan para indicar la relación entre un sustantivo y otro elemento en una oración, como un lugar, un tiempo, una cantidad, una acción, etc. Por ejemplo, en la oración \"La casa está en la calle principal\", la preposición \"en\" indica la relación entre la casa y la calle principal. Sirven para proporcionar información adicional sobre el sustantivo principal y ayudan a clarificar el significado de la oración.",
+      "fecha": "2025-12-28T21:22:27.706Z"
     }
   ],
-  "ultimaActualizacion": 1766956939721,
-  "preguntasHechas": 377
+  "ultimaActualizacion": 1766956947707,
+  "preguntasHechas": 378
 }
