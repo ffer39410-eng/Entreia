@@ -1,5 +1,5 @@
 {
-  "iq": 2297,
+  "iq": 2301,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2791,16 +2791,14 @@
     "conjucciones",
     "abstractas",
     "toro",
-    "ring"
+    "ring",
+    "lloviera",
+    "estaría",
+    "debi"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
-      "respuesta": "Las metáforas son un recurso literario y lingüístico que permiten crear conexiones inusuales entre ideas, conceptos o emociones. Se utilizan para transmitir significados complejos de manera creativa y evocadora, como en la frase \"Ella era una estrella en el escenario\" (donde se atribuye a una persona las características de una estrella).",
-      "fecha": "2025-12-28T20:34:51.937Z"
-    },
     {
       "pregunta": "¿Cómo se usa la puntuación correctamente?",
       "respuesta": "La puntuación es una herramienta fundamental para comunicar ideas de manera clara y precisa. Utilizarla correctamente implica separar las ideas con comas, puntos suspensivos, semicolones, signos de interrogación y exclamación, y puntos, entre otros. Por ejemplo, en una oración, un punto separa dos oraciones independientes: \"Estoy cansado. Me voy a dormir\".",
@@ -3795,8 +3793,13 @@
       "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
       "respuesta": "Las metáforas son una figura retórica que consiste en comparar dos conceptos o ideas abstractas, no directamente equivalentes, utilizando la estructura de una afirmación con un verbo \"ser\". Por ejemplo, \"Ella es una estrella en el cielo del teatro\" o \"Él es un toro en el ring de la vida\". Estas metáforas ayudan a crear imágenes mentales vivas y a comunicar ideas complejas de manera más atractiva y emotiva.",
       "fecha": "2025-12-28T21:21:07.766Z"
+    },
+    {
+      "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
+      "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de analizar y evaluar información de manera crítica y sistemática para llegar a conclusiones lógicas y coherentes. Implica utilizar principios y reglas de lógica para estructurar argumentos y tomar decisiones informadas. Por ejemplo, si alguien afirma que \"si lloviera, la calle estaría mojada\", un razonamiento lógico podría ser \"entonces, si la calle está mojada, significa que debió llover\". Esto requiere utilizar reglas de inferencia para pasar de una premisa a una conclusión lógica.",
+      "fecha": "2025-12-28T21:21:15.917Z"
     }
   ],
-  "ultimaActualizacion": 1766956867768,
-  "preguntasHechas": 368
+  "ultimaActualizacion": 1766956875920,
+  "preguntasHechas": 369
 }
