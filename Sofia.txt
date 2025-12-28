@@ -1,5 +1,5 @@
 {
-  "iq": 1713,
+  "iq": 1719,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2431,16 +2431,13 @@
     "humana",
     "miradas",
     "residencia",
-    "sentidos"
+    "sentidos",
+    "repetición",
+    "secuenciales"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué es el pensamiento crítico?",
-      "respuesta": "El pensamiento crítico es un proceso mental que implica analizar y evaluar información, ideas y argumentos de manera objetiva y sistemática, para llegar a conclusiones informadas y fundamentadas. Implica cuestionar suposiciones, verificar fuentes y considerar múltiples perspectivas para formar opiniones y tomar decisiones. Por ejemplo, al leer un artículo de periodismo, un estudiante con pensamiento crítico no solo le da crédito a la información presentada, sino que también busca verificar las fuentes citadas y evalúa la objetividad del autor. Al hacerlo, puede llegar a una comprensión más profunda del tema y tomar decisiones más informadas.",
-      "fecha": "2025-12-28T19:24:56.289Z"
-    },
     {
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras que indican la relación entre un objeto o lugar y otro en una oración. Sirven para indicar la ubicación, la dirección, la relación de causalidad, la duración y otros aspectos del texto. Por ejemplo, en la oración \"El libro está sobre la mesa\", la preposición \"sobre\" indica la ubicación del libro en relación con la mesa.",
@@ -3435,8 +3432,13 @@
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "Excelente pregunta para empezar un viaje por el mundo de la lengua. Los sinónimos son palabras que tienen el mismo significado o nearly el mismo significado. Por ejemplo, \"la casa\" y \"la residencia\" son sinónimos. \n\nPor otro lado, los antónimos son palabras que tienen sentidos opuestos. Por ejemplo, \"feliz\" y \"triste\" son antónimos. Los antónimos se utilizan para enfatizar un concepto o idea en contraste con otro.",
       "fecha": "2025-12-28T21:03:23.794Z"
+    },
+    {
+      "pregunta": "¿Qué es la coherencia textual?",
+      "respuesta": "La coherencia textual se refiere a la capacidad de un texto para transmitir una idea o mensaje claro y lógico, donde las oraciones y frases están relacionadas entre sí de manera efectiva. Esto se logra a través de la utilización de conectores, transiciones y repetición de ideas para crear una narrativa o argumentación cohesiva. La coherencia textual es fundamental en la escritura, ya que permite al lector seguir el hilo de la idea y comprender el mensaje sin confusiones. Por ejemplo, en un ensayo, la coherencia textual se logra al presentar ideas secuenciales y relacionadas que apoyan un argumento central.",
+      "fecha": "2025-12-28T21:03:39.883Z"
     }
   ],
-  "ultimaActualizacion": 1766955803796,
-  "preguntasHechas": 256
+  "ultimaActualizacion": 1766955819884,
+  "preguntasHechas": 257
 }
