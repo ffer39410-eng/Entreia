@@ -1,5 +1,5 @@
 {
-  "iq": 279,
+  "iq": 283,
   "vocabulario": [
     "claro",
     "sofia",
@@ -813,10 +813,24 @@
     "fuente",
     "metodología",
     "utilizada",
-    "presentadas"
+    "presentadas",
+    "asumimos",
+    "favor",
+    "probable",
+    "refiera",
+    "bebida",
+    "caliente",
+    "arte",
+    "refiriendo",
+    "dibujo",
+    "pintura",
+    "involucradas",
+    "anterior",
+    "haya",
+    "proporcionada"
   ],
   "lecciones": 14,
-  "conversaciones": 5,
+  "conversaciones": 6,
   "conocimiento": [
     {
       "tema": "vocabulario técnico y coloquial",
@@ -1037,8 +1051,13 @@
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar información, ideas y argumentos, de forma objetiva y racional, para llegar a conclusiones informadas y bien fundamentadas. Esto implica cuestionar suposiciones, identificar sesgos y prejuicios, y considerar diversas perspectivas y evidencias. A través del pensamiento crítico, podemos separar la realidad de la opinión, y tomar decisiones informadas. Por ejemplo, al leer un artículo periodístico, un pensador crítico cuestionaría la fuente de la información, la metodología utilizada y las conclusiones presentadas.",
       "fecha": "2025-12-28T19:05:00.260Z"
+    },
+    {
+      "pregunta": "¿Cómo funciona la comprensión del contexto?",
+      "respuesta": "La comprensión del contexto es el proceso mental por el que asumimos el significado de un mensaje o texto en función del entorno en el que se encuentra. Por ejemplo, en un restaurante, si alguien dice \"¡Un café, por favor!\", es probable que se refiera a una bebida caliente, pero en un contexto de un estudio de arte, es posible que se esté refiriendo a un dibujo o una pintura.\n\nEste proceso implica considerar el lugar, el momento y las personas involucradas, así como cualquier información anterior que haya sido proporcionada.",
+      "fecha": "2025-12-28T19:06:25.260Z"
     }
   ],
-  "ultimaActualizacion": 1766948742656,
+  "ultimaActualizacion": 1766948785262,
   "preguntasHechas": null
 }
