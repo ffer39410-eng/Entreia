@@ -1,5 +1,5 @@
 {
-  "iq": 188,
+  "iq": 193,
   "vocabulario": [
     "claro",
     "sofia",
@@ -526,7 +526,25 @@
     "frustración",
     "aburrimiento",
     "resumen",
-    "especializado"
+    "especializado",
+    "párrafos",
+    "están",
+    "relacionados",
+    "unidad",
+    "significativa",
+    "conexión",
+    "nexos",
+    "ideológicos",
+    "organización",
+    "orden",
+    "establecer",
+    "secuencia",
+    "describiendo",
+    "actividades",
+    "realizadas",
+    "parada",
+    "fácilmente",
+    "argumento"
   ],
   "lecciones": 14,
   "conversaciones": 1,
@@ -650,8 +668,13 @@
       "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
       "respuesta": "El vocabulario técnico se refiere a las palabras y expresiones utilizadas en contextos específicos y especializados, como la ciencia, la tecnología, la medicina o la ingeniería, que pueden ser desconocidas para el público en general. Por ejemplo, en la medicina, \"hipertensión\" es un término técnico que se refiere a la condición de presión arterial alta.\n\nPor otro lado, el vocabulario coloquial se refiere a las palabras y expresiones comunes utilizadas en la lengua hablada y escrita en contextos informales, como conversaciones con amigos, redes sociales o noticias de actualidad. Por ejemplo, \"estoy un poco atascado\" es una expresión coloquial que se utiliza para describir un estado de frustración o aburrimiento.\n\nEn resumen, el vocabulario técnico es especializado y técnico, mientras que el",
       "fecha": "2025-12-28T19:02:20.281Z"
+    },
+    {
+      "pregunta": "¿Qué es la coherencia textual?",
+      "respuesta": "La coherencia textual se refiere a la propiedad de un texto en el que las ideas, las oraciones y los párrafos están relacionados de manera lógica y clara entre sí, creando una unidad significativa. Esto se logra mediante la conexión entre las ideas a través de nexos verbales, nexos ideológicos y la organización de la información en un orden claro. Por ejemplo, en un texto que describe un viaje, la coherencia se logra al establecer una secuencia lógica de lugar a lugar, describiendo el entorno y las actividades realizadas en cada parada. Esto permite al lector seguir fácilmente el argumento y entender la información de manera efectiva.",
+      "fecha": "2025-12-28T19:02:28.252Z"
     }
   ],
-  "ultimaActualizacion": 1766948540282,
+  "ultimaActualizacion": 1766948548253,
   "preguntasHechas": null
 }
