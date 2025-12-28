@@ -1,5 +1,5 @@
 {
-  "iq": 2653,
+  "iq": 2658,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2980,16 +2980,13 @@
     "argumentaciones",
     "viabilidad",
     "empresario",
-    "compartida"
+    "compartida",
+    "alegr",
+    "recibido"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
-      "respuesta": "Las metáforas son comparaciones implícitas entre dos conceptos o ideas que no están relacionados directamente, utilizadas para describir o explicar algo de manera creativa y enriquecedora. Por ejemplo, \"la vida es un viaje\" es una metáfora que compara la vida con un recorrido a través de diferentes lugares, destacando la idea de que la vida tiene sus propias etapas y desafíos. Esta comparación no se establece de manera explícita, pero ayuda a crear una imagen mental más vívida y evocadora del concepto en cuestión.",
-      "fecha": "2025-12-28T21:00:43.746Z"
-    },
     {
       "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
       "respuesta": "Para expresar emociones de forma efectiva, es importante ser auténtico y honesto sobre tus sentimientos. Puedes hacerlo de manera directa o indirecta, dependiendo del contexto y la audiencia. Por ejemplo, si sientes tristeza después de una pérdida, puedes decir \"Me siento triste\" o \"Me hace falta mucho a mi ser querido\". También puedes expresar tus emociones a través del lenguaje no verbal, como sonreír para mostrar alegría o cruzar los brazos para indicar defensa.",
@@ -3984,8 +3981,13 @@
       "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
       "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de pensar y expresarse de manera clara, coherente y lógica para comunicar ideas y argumentos de manera efectiva. Esto implica utilizar reglas y principios lógicos para construir argumentos sólidos, identificar falacias y evitar confusiones. Por ejemplo, al hablar sobre la viabilidad de un nuevo proyecto, un empresario podría utilizar el razonamiento lógico para presentar evidencia y estadísticas que respalden su argumento, y responder a posibles objeciones de manera racional y lógica. De esta manera, se puede llegar a una conclusión bien fundamentada y compartida por todos.",
       "fecha": "2025-12-28T21:36:51.978Z"
+    },
+    {
+      "pregunta": "¿Cómo se construyen oraciones complejas en español?",
+      "respuesta": "Una oración compleja en español se construye mediante la combinación de una oración principal (o oración independiente) y una o una o más oraciones subordinadas. La subordinada puede ser introducida por conjunciones como \"ya que\", \"porque\", \"aunque\", \"si\" o \"como\" y realiza una función específica dentro de la oración principal.\n\nPor ejemplo: \"Ella se alegró porque había recibido la noticia de que iba a viajar a París\". En esta oración, \"ella se alegró\" es la oración principal, y \"porque había recibido la noticia de que iba a viajar a París\" es la subordinada, que explica por qué se alegró.",
+      "fecha": "2025-12-28T21:36:59.864Z"
     }
   ],
-  "ultimaActualizacion": 1766957811981,
-  "preguntasHechas": 435
+  "ultimaActualizacion": 1766957819866,
+  "preguntasHechas": 436
 }
