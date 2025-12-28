@@ -1,5 +1,5 @@
 {
-  "iq": 907,
+  "iq": 919,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1733,7 +1733,15 @@
     "búsqueda",
     "verdad",
     "rige",
-    "peligroso"
+    "peligroso",
+    "acepción",
+    "iluminación",
+    "enorme",
+    "temperaturas",
+    "opuestas",
+    "rico",
+    "pobre",
+    "realiz"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2597,8 +2605,18 @@
       "pregunta": "¿Cuáles son las reglas de la gramática española?",
       "respuesta": "La gramática española se rige por una serie de reglas básicas que se aplican en el idioma, como la concordancia de género y número, la flexión de género y número en adjetivos y sustantivos, la concordancia de persona y número en verbos, y la formación de oraciones simples y compuestas. Por ejemplo, en la oración \"El perro es peligroso\", el adjetivo \"peligroso\" concuerda en género y número con el sustantivo \"perro\", que es masculino y singular.",
       "fecha": "2025-12-28T20:10:47.503Z"
+    },
+    {
+      "pregunta": "¿Qué son los sinónimos y antónimos?",
+      "respuesta": "Los sinónimos son palabras que tienen el mismo significado o una acepción similar. Por ejemplo, \"luz\" y \"iluminación\" se refieren a la misma cosa, pero con diferentes matices. Otros ejemplos de sinónimos son \"feliz\" y \"alegre\", o \"grande\" y \"enorme\".\n\nPor otro lado, los antónimos son palabras que tienen un significado contrario. Por ejemplo, \"cálido\" y \"frío\" son antónimos, ya que describen temperaturas opuestas. Otros ejemplos de antónimos son \"rápido\" y \"lento\", o \"rico\" y \"pobre\".",
+      "fecha": "2025-12-28T20:10:47.971Z"
+    },
+    {
+      "pregunta": "¿Cómo funcionan los tiempos verbales?",
+      "respuesta": "Los tiempos verbales son fundamentales en la gramática española y ayudan a determinar el momento en que se realiza la acción descrita por el verbo. Hay varios tiempos verbales, como el presente, pasado simple, pasado perfecto, futuro simple, futuro perfecto, condicional, imperfecto y más.\n\nPor ejemplo, el verbo \"hablar\" en presente se utiliza para describir una acción que se realiza en el momento del habla, como \"ella habla español\". En cambio, el verbo \"hablar\" en pasado simple se utiliza para describir una acción que se realizó en un momento anterior, como \"ella habló ayer\".",
+      "fecha": "2025-12-28T20:10:52.171Z"
     }
   ],
-  "ultimaActualizacion": 1766952647505,
-  "preguntasHechas": 98
+  "ultimaActualizacion": 1766952653943,
+  "preguntasHechas": 100
 }
