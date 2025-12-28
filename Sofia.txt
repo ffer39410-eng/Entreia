@@ -1,5 +1,5 @@
 {
-  "iq": 1343,
+  "iq": 1346,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2151,16 +2151,13 @@
     "resumir",
     "asegurarte",
     "apreciadas",
-    "escuchando"
+    "escuchando",
+    "implícitas",
+    "destaca"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo funcionan los tiempos verbales?",
-      "respuesta": "Los tiempos verbales son palabras que expresan el momento en que se realiza la acción descrita por el verbo. Hay varios tiempos verbales, como el presente, pasado y futuro, que se pueden utilizar de varias formas para indicar el momento en que ocurre la acción. Por ejemplo, \"yo como una manzana\" (presente), \"yo comí una manzana\" (pasado) y \"yo comeré una manzana\" (futuro). Cada tiempo verbal tiene sus propias reglas y formas de conjugación.",
-      "fecha": "2025-12-28T19:08:17.074Z"
-    },
     {
       "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
       "respuesta": "La expresión de emociones es una habilidad fundamental para comunicarnos de manera efectiva. Puedes expresar tus emociones de forma efectiva utilizando gestos corporales, como sonrisas, abrazos o toques en el brazo, que pueden transmisr cariño y empatía. También puedes utilizar palabras para describir tus sentimientos, como \"Me alegra verte\" o \"Me duele verlo\", para hacer que la otra persona se sienta comprendida. Finalmente, puedes utilizar la voz, como un tono de voz cálido y apacible, para crear un ambiente seguro y acogedor.",
@@ -3155,8 +3152,13 @@
       "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
       "respuesta": "La expresión de emociones es fundamental para comunicarnos de manera efectiva. Puedes expresar tus emociones de forma clara al usar lenguaje corporal, como mantener contacto visual, sonreír o demostrar comprensión mediante gestos, y mediante palabras, utilizando verbos como \"me alegra\" o \"me siento ansioso\", para dar a entender tus sentimientos. Además, puedes utilizar técnicas de comunicación activa, como repetir y resumir, para asegurarte de que tus palabras sean entendidas y apreciadas por los demás. Por ejemplo, si alguien te dice que te sientes triste, puedes responder con \"Sí, me siento un poco triste hoy\" para mostrar que estás escuchando y que te importa cómo te sientes.",
       "fecha": "2025-12-28T20:40:59.781Z"
+    },
+    {
+      "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
+      "respuesta": "Las metáforas son comparaciones implícitas que se utilizan para describir una cosa en términos de otra, creando un lenguaje más expresivo y evocador. Por ejemplo, \"Ella es una estrella en la escena teatral\" no significa que sea literalmente una estrella, sino que destaca su talento y brillantez en el mundo del teatro. Esta comparación ayuda a crear una imagen más vívida y emotiva en la mente del oyente.",
+      "fecha": "2025-12-28T20:41:07.640Z"
     }
   ],
-  "ultimaActualizacion": 1766954459782,
-  "preguntasHechas": 184
+  "ultimaActualizacion": 1766954467641,
+  "preguntasHechas": 185
 }
