@@ -1,5 +1,5 @@
 {
-  "iq": 1038,
+  "iq": 1042,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1864,7 +1864,13 @@
     "nearly",
     "soliloquio",
     "ciertos",
-    "interior"
+    "interior",
+    "discutir",
+    "temas",
+    "sólidas",
+    "eficiente",
+    "beneficios",
+    "costos"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2853,8 +2859,13 @@
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "Excelente pregunta. Los sinónimos son palabras que tienen el mismo significado o nearly el mismo significado que otra palabra. Por ejemplo, \"sol\" y \"soliloquio\" son sinónimos en ciertos contextos, aunque \"soliloquio\" es más específico y se refiere a una conversación interior. Los antónimos, por otro lado, son palabras que tienen significados opuestos. Por ejemplo, \"grande\" y \"pequeño\" son antónimos, al igual que \"feliz\" y \"triste\".",
       "fecha": "2025-12-28T20:15:48.511Z"
+    },
+    {
+      "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
+      "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de pensar y comunicarse de manera clara, coherente y racional al discutir temas o resolver problemas. Implica analizar información, identificar patrones y hacer conexiones lógicas entre ideas para llegar a conclusiones sólidas. Por ejemplo, al discutir sobre si un producto es eficiente, un razonamiento lógico podría implicar comparar los beneficios con los costos y evaluar la relación entre ambos.",
+      "fecha": "2025-12-28T20:15:55.831Z"
     }
   ],
-  "ultimaActualizacion": 1766952953244,
-  "preguntasHechas": 123
+  "ultimaActualizacion": 1766952956855,
+  "preguntasHechas": 124
 }
