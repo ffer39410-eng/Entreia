@@ -1,5 +1,5 @@
 {
-  "iq": 862,
+  "iq": 866,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1678,7 +1678,14 @@
     "frutas",
     "problemas",
     "impacto",
-    "positivo"
+    "positivo",
+    "relacionan",
+    "organizada",
+    "escrito",
+    "tendr",
+    "desarrollan",
+    "haciéndolo",
+    "atención"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2487,8 +2494,13 @@
       "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
       "respuesta": "El razonamiento lógico en conversaciones es el proceso de analizar información, evaluar argumentos y llegar a conclusiones lógicas y racionales. Implica utilizar principios lógicos como la causalidad, la relación entre causas y efectos, y la identificación de patrones. Por ejemplo, si alguien sostiene que \"cuanto más se come frutas, menos se tienen problemas de salud\", un razonamiento lógico podría ser \"si se come menos frutas, se tienen más problemas de salud, por lo que se puede inferir que las frutas tienen un impacto positivo en la salud\".",
       "fecha": "2025-12-28T19:59:23.652Z"
+    },
+    {
+      "pregunta": "¿Qué es la coherencia textual?",
+      "respuesta": "La coherencia textual se refiere a la forma en que las ideas, los conceptos y los mensajes se unen y se relacionan entre sí en un texto para crear un sentido lógico y claro. En otras palabras, es la capacidad del autor de comunicar sus ideas de manera organizada y consecuente. Por ejemplo, un artículo bien escrito sobre un tema específico tendrá una coherencia textual cuando los párrafos se conectan y se desarrollan de manera lógica, haciéndolo fácil de seguir para el lector. La coherencia textual es fundamental para mantener la atención y la comprensión del destinatario.",
+      "fecha": "2025-12-28T19:59:31.624Z"
     }
   ],
-  "ultimaActualizacion": 1766951963654,
-  "preguntasHechas": 87
+  "ultimaActualizacion": 1766951971625,
+  "preguntasHechas": 88
 }
