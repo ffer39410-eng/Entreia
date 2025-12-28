@@ -1,5 +1,5 @@
 {
-  "iq": 2120,
+  "iq": 2127,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2690,16 +2690,12 @@
     "reparaciones",
     "lenguaaje",
     "capítulos",
-    "plátano"
+    "plátano",
+    "nico"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo funciona la comprensión del contexto?",
-      "respuesta": "La comprensión del contexto se refiere a la capacidad de identificar y comprender la información relevante que rodea a un texto, imagen o situación en particular. Esto implica analizar elementos como el tema, el propósito, el tono y la intención detrás de la comunicación. Por ejemplo, cuando leemos un artículo de noticias, debemos considerar el contexto político o social en el que se publicó para entender mejor el significado de las palabras y las acciones descritas. De esta manera, podemos apreciar la complejidad y la riqueza de la comunicación.",
-      "fecha": "2025-12-28T20:30:11.641Z"
-    },
     {
       "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
       "respuesta": "Las metáforas son una figura retórica que consiste en comparar dos conceptos o ideas de manera que uno de ellos se utiliza para describir el otro de manera creativa y expresiva. Se utilizan para explicar conceptos complejos de manera sencilla y emocionalmente atractiva. Por ejemplo, \"mi vida es un río\" se utiliza para describir la vida como un proceso dinámico y en constante cambio.",
@@ -3694,8 +3690,13 @@
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales son una parte fundamental del lenguaje y nos permiten expresar acciones y estados en diferentes momentos del tiempo. Hay varios tipos de tiempos verbales, como el presente, el pasado y el futuro, que se dividen en subtiempos como el pretérito perfecto, el pretérito imperfecto, el condicional, entre otros. Por ejemplo, \"hoy como un plátano\" (presente), \"ayer comí un plátano\" (pretérito perfecto), \"comeré un plátano mañana\" (futuro). Cada tipo de tiempo tiene una función específica en la expresión del tiempo y la narrativa.",
       "fecha": "2025-12-28T21:16:35.954Z"
+    },
+    {
+      "pregunta": "¿Qué es la coherencia textual?",
+      "respuesta": "La coherencia textual se refiere a la capacidad de un texto para comunicar una idea o mensaje claro y lógico, mediante la conexión entre las ideas, conceptos y argumentos presentados. Esto se logra a través de la relación entre las oraciones y los párrafos, que trabajan juntos para transmitir un significado único. Por ejemplo, en un ensayo, la coherencia textual se logra cuando se presenta un tema principal y se desarrolla mediante argumentos y ejemplos relacionados. Esto permite al lector seguir el razonamiento y comprender la idea central del texto.",
+      "fecha": "2025-12-28T21:16:43.851Z"
     }
   ],
-  "ultimaActualizacion": 1766956595956,
-  "preguntasHechas": 334
+  "ultimaActualizacion": 1766956603852,
+  "preguntasHechas": 335
 }
