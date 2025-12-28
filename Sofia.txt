@@ -1,5 +1,5 @@
 {
-  "iq": 1257,
+  "iq": 1262,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2061,16 +2061,16 @@
     "relacionado",
     "relajada",
     "reemplazarlas",
-    "veloz"
+    "veloz",
+    "recurso",
+    "literario",
+    "stico",
+    "inusuales",
+    "atribuye"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
-      "respuesta": "Las preposiciones son palabras que se utilizan para indicar la relación entre un objeto o concepto y otro en una oración, como el lugar, la dirección, la cantidad, la relación, entre otros. Por ejemplo: \"El libro está en la mesa\" (la preposición \"en\" indica el lugar donde se encuentra el libro). Sirven para proporcionar información adicional sobre la relación entre los elementos de una oración, lo que mejora la comprensión del significado.",
-      "fecha": "2025-12-28T19:04:52.180Z"
-    },
     {
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar información, ideas y argumentos, de forma objetiva y racional, para llegar a conclusiones informadas y bien fundamentadas. Esto implica cuestionar suposiciones, identificar sesgos y prejuicios, y considerar diversas perspectivas y evidencias. A través del pensamiento crítico, podemos separar la realidad de la opinión, y tomar decisiones informadas. Por ejemplo, al leer un artículo periodístico, un pensador crítico cuestionaría la fuente de la información, la metodología utilizada y las conclusiones presentadas.",
@@ -3065,8 +3065,13 @@
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "Excelente pregunta. Los sinónimos son palabras o expresiones que tienen el mismo significado que otra palabra o expresión, lo que permite reemplazarlas en un texto sin cambiar su sentido. Por ejemplo, \"feliz\" y \"alegre\" son sinónimos. Los antónimos, por otro lado, son palabras o expresiones que tienen un sentido opuesto al de otra palabra o expresión. Por ejemplo, \"grande\" y \"pequeño\" son antónimos.\n\nAquí hay otro ejemplo con las palabras \"rápido\" y \"lento\", que son antónimos, y \"rápido\" y \"veloz\", que son sinónimos. \n\nTambién podemos observar que palabras como \"bueno\" y \"malo\" son antónimos.",
       "fecha": "2025-12-28T20:34:43.751Z"
+    },
+    {
+      "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
+      "respuesta": "Las metáforas son un recurso literario y lingüístico que permiten crear conexiones inusuales entre ideas, conceptos o emociones. Se utilizan para transmitir significados complejos de manera creativa y evocadora, como en la frase \"Ella era una estrella en el escenario\" (donde se atribuye a una persona las características de una estrella).",
+      "fecha": "2025-12-28T20:34:51.937Z"
     }
   ],
-  "ultimaActualizacion": 1766954083753,
-  "preguntasHechas": 168
+  "ultimaActualizacion": 1766954091938,
+  "preguntasHechas": 169
 }
