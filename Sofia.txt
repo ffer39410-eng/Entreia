@@ -1,5 +1,5 @@
 {
-  "iq": 1872,
+  "iq": 1876,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2518,16 +2518,15 @@
     "relojes",
     "personalidad",
     "vasos",
-    "sanguíneos"
+    "sanguíneos",
+    "comodidad",
+    "avión",
+    "tren",
+    "defectuosas"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué es la coherencia textual?",
-      "respuesta": "La coherencia textual se refiere a la forma en que las ideas, los conceptos y los mensajes se unen y se relacionan entre sí en un texto para crear un sentido lógico y claro. En otras palabras, es la capacidad del autor de comunicar sus ideas de manera organizada y consecuente. Por ejemplo, un artículo bien escrito sobre un tema específico tendrá una coherencia textual cuando los párrafos se conectan y se desarrollan de manera lógica, haciéndolo fácil de seguir para el lector. La coherencia textual es fundamental para mantener la atención y la comprensión del destinatario.",
-      "fecha": "2025-12-28T19:59:31.624Z"
-    },
     {
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual se refiere a la propiedad de un texto de ser lógico, claro y fácil de seguir. Implica que las ideas y oraciones están relacionadas entre sí de manera natural y consecuente, permitiendo al lector entender el contenido sin dificultades. Por ejemplo, en un texto informativo sobre la historia de una ciudad, la coherencia textual se lograría si se presentaran los acontecimientos de manera cronológica y lógica. De esta manera, el lector puede seguir fácilmente la secuencia de los acontecimientos.",
@@ -3522,8 +3521,13 @@
       "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
       "respuesta": "El vocabulario técnico se refiere a palabras y expresiones específicas y precisas utilizadas en un ámbito particular, como la medicina, la ciencia, la tecnología o la ingeniería, con el objetivo de comunicar conceptos y ideas complejos de manera clara y concisa. Por otro lado, el vocabulario coloquial se utiliza en la comunicación informal y cotidiana, y puede variar según la región, la cultura y la personalidad de la persona. \n\nPor ejemplo, en la medicina, se utiliza el término \"angiografía\" para describir la prueba que muestra la imagen del corazón y los vasos sanguíneos, mientras que en la conversación coloquial se podría decir \"hacer una prueba de la imagen del corazón\".",
       "fecha": "2025-12-28T21:10:19.866Z"
+    },
+    {
+      "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
+      "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de pensar de manera sistemática y coherente al discutir y resolver problemas. Implica analizar información, identificar patrones y relaciones, y llegar a conclusiones lógicas. Por ejemplo, si estás discutiendo con alguien sobre la mejor forma de viajar a un lugar, un razonamiento lógico podría implicar analizar los costos, el tiempo de viaje y la comodidad de diferentes opciones, como un avión, un tren o un coche.\n\nEl razonamiento lógico también incluye la capacidad de evaluar argumentos, identificar falacias y lógicas defectuosas, y defender una posición de manera convincente. Esto requiere pensamiento crítico, claridad en la comunicación y la capacidad de responder a preguntas y objeciones.",
+      "fecha": "2025-12-28T21:10:27.711Z"
     }
   ],
-  "ultimaActualizacion": 1766956219868,
-  "preguntasHechas": 287
+  "ultimaActualizacion": 1766956227713,
+  "preguntasHechas": 288
 }
