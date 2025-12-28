@@ -1,5 +1,5 @@
 {
-  "iq": 643,
+  "iq": 649,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1439,7 +1439,14 @@
     "compuestos",
     "escribo",
     "ocurri",
-    "escrib"
+    "escrib",
+    "efectividad",
+    "percibe",
+    "enfada",
+    "entiendo",
+    "hizo",
+    "reconoces",
+    "asocia"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2023,8 +2030,13 @@
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales son formas en que se expresan las acciones o estados de ser en el lenguaje, relacionándose con momentos específicos del tiempo. Hay tiempos verbales simples (presente, pasado y futuro) y compuestos (futuro perfecto, condicional, etc.), cada uno con su estructura y función en la oración. Por ejemplo, el presente describe una acción que ocurre ahora, como \"yo escribo\", mientras que el pasado describe una acción que ya ocurrió, como \"yo escribí\".",
       "fecha": "2025-12-28T19:18:38.335Z"
+    },
+    {
+      "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
+      "respuesta": "Expresar emociones con efectividad implica ser auténtico y consciente de cómo se percibe a los demás. Para lograrlo, debes identificar tus emociones y comunicarlas de manera clara y respetuosa. Por ejemplo, en lugar de decir \"Eso me enfada\", puedes decir \"Me siento frustrado porque no entiendo por qué no se hizo así\". Esta forma de expresión muestra que reconoces tus propias emociones y las asocia a un evento específico.",
+      "fecha": "2025-12-28T19:18:46.320Z"
     }
   ],
-  "ultimaActualizacion": 1766949518336,
-  "preguntasHechas": 42
+  "ultimaActualizacion": 1766949526321,
+  "preguntasHechas": 43
 }
