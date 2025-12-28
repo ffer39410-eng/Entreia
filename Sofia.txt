@@ -1,5 +1,5 @@
 {
-  "iq": 205,
+  "iq": 211,
   "vocabulario": [
     "claro",
     "sofia",
@@ -593,7 +593,18 @@
     "opuestos",
     "largo",
     "corto",
-    "longitudes"
+    "longitudes",
+    "conectan",
+    "escritura",
+    "usan",
+    "mostrar",
+    "causa",
+    "efecto",
+    "además",
+    "conectar",
+    "consecuentemente",
+    "organizar",
+    "facilita"
   ],
   "lecciones": 14,
   "conversaciones": 1,
@@ -737,8 +748,13 @@
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "Excelente pregunta. Los sinónimos son palabras que tienen el mismo significado que otra palabra, pero con una forma ligeramente diferente. Por ejemplo, \"grande\" y \"gigante\" son sinónimos porque se refieren a algo o alguien que es de gran tamaño. Los antónimos, por otro lado, son palabras que tienen significados opuestos. Por ejemplo, \"largo\" y \"corto\" son antónimos porque se refieren a diferentes longitudes.",
       "fecha": "2025-12-28T19:02:52.259Z"
+    },
+    {
+      "pregunta": "¿Qué son los conectores y cómo se usan?",
+      "respuesta": "Los conectores son palabras o expresiones que conectan ideas, oraciones o frases para crear una estructura lógica y clara en el discurso o la escritura. Se usan para mostrar relaciones entre ideas, como concordancia, oposición, causa-efecto, etc. Por ejemplo, \"Sin embargo\", \"Por tanto\", \"Aunque\", \"Además\" son conectores que permiten conectar ideas de manera lógica.\n\nAlgunos ejemplos de conectores:\n\n- Conectores de concordancia: \"También\", \"Además\", \"Sin embargo\".\n- Conectores de oposición: \"Sin embargo\", \"Aunque\", \"Pero\".\n- Conectores de causa-efecto: \"Porque\", \"Por lo tanto\", \"Consecuentemente\".\n\nLos conectores ayudan a organizar ideas de manera clara y lógica, lo que facilita la",
+      "fecha": "2025-12-28T19:03:00.433Z"
     }
   ],
-  "ultimaActualizacion": 1766948572260,
+  "ultimaActualizacion": 1766948580434,
   "preguntasHechas": null
 }
