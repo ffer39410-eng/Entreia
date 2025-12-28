@@ -1,1 +1,8 @@
-holi
+{
+  "iq": 100,
+  "vocabulario": [],
+  "lecciones": 0,
+  "conversaciones": 1,
+  "conocimiento": [],
+  "ultimaActualizacion": 1766947904262
+}
