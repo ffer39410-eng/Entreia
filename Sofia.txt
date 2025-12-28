@@ -1,5 +1,5 @@
 {
-  "iq": 308,
+  "iq": 311,
   "vocabulario": [
     "claro",
     "sofia",
@@ -863,7 +863,12 @@
     "coordinada",
     "duele",
     "cabeza",
-    "dorm"
+    "dorm",
+    "textos",
+    "claros",
+    "concisos",
+    "escribir",
+    "relacionadas"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1112,8 +1117,13 @@
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son palabras o expresiones que se utilizan para unir ideas, oraciones o frases en la lengua española. Se pueden clasificar en diferentes tipos, como conjunciones (y, pero, o, ni), conjunciones adverbiales (entonces, por tanto, sin embargo), conjunciones subordinadas (que, porque, si) y conjunciones coordinadas (tanto... como, más... que). Por ejemplo: \"Voy al parque, y me reuniré con amigos\" (usando una conjunción coordinada), \"Me duele la cabeza porque no dormí bien\" (usando una conjunción subordinada).",
       "fecha": "2025-12-28T19:06:57.409Z"
+    },
+    {
+      "pregunta": "¿Qué son los conectores y cómo se usan?",
+      "respuesta": "Los conectores son palabras o expresiones que se utilizan para unir frases, oraciones o ideas en una estructura lógica y coherente. Algunos ejemplos de conectores son \"y\", \"pero\", \"sin embargo\", \"porque\", \"asi que\", etc. Estos conectores nos ayudan a mostrar las relaciones entre las ideas y a crear textos más claros y concisos. Por ejemplo, la oración \"Me gusta leer y escribir\" utiliza el conector \"y\" para unir dos acciones relacionadas.",
+      "fecha": "2025-12-28T19:07:05.185Z"
     }
   ],
-  "ultimaActualizacion": 1766948817411,
+  "ultimaActualizacion": 1766948825186,
   "preguntasHechas": null
 }
