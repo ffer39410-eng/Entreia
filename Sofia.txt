@@ -1,5 +1,5 @@
 {
-  "iq": 2835,
+  "iq": 2840,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3071,11 +3071,6 @@
   "conversaciones": 6,
   "conocimiento": [
     {
-      "pregunta": "¿Qué es el pensamiento crítico?",
-      "respuesta": "El pensamiento crítico es la capacidad de analizar, evaluar y sintetizar la información, y de tomar decisiones informadas basadas en evidencia y razonamiento lógico. Implica cuestionar suposiciones, identificar sesgos y prejuicios, y considerar múltiples perspectivas para llegar a conclusiones bien fundadas. Por ejemplo, un estudiante que analiza una fuente histórica crítica y considera múltiples interpretaciones puede ejemplificar pensamiento crítico.",
-      "fecha": "2025-12-28T21:08:27.644Z"
-    },
-    {
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual se refiere a la capacidad de un texto para mantener una conexión lógica y clara entre las diferentes ideas y oraciones, asegurando que el lector pueda seguir el hilo del argumento o narrativa con facilidad. Ejemplo: Una crónica de viaje que describe una travesía por varios países debe mantener una coherencia textual al presentar los diferentes lugares y experiencias de manera ordenada y lógica. Esto se logra mediante la utilización de conectivos, transiciones y un enlace claro entre las ideas.",
       "fecha": "2025-12-28T21:08:35.673Z"
@@ -4069,8 +4064,13 @@
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras que indican la relación entre un sustantivo y otros elementos en la oración, como lugar, tiempo, dirección, causa, etc. Por ejemplo: \"Estoy bajo la mesa\" (indica lugar), \"La casa está cerca del parque\" (indica ubicación). Las preposiciones sirven para especificar la ubicación, el tiempo y la relación entre los elementos en la oración.",
       "fecha": "2025-12-28T21:47:15.784Z"
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
+      "respuesta": "El vocabulario técnico se refiere a las palabras y expresiones especializadas utilizadas en un campo o disciplina específica, como la medicina, la ingeniería o la economía. Por ejemplo, en la medicina, términos como \"fiebre\" o \"cirugía\" son parte del vocabulario técnico.\n\nPor otro lado, el vocabulario coloquial se refiere a las palabras y expresiones que se usan en la vida diaria, en conversaciones informales y en la comunicación no formal. Por ejemplo, expresiones como \"estoy cansado\" o \"me encanta\" son parte del vocabulario coloquial.\n\nEn resumen, el vocabulario técnico es especializado y se utiliza en contextos específicos, mientras que el vocabulario coloquial es más accesible y se utiliza en la vida diaria.",
+      "fecha": "2025-12-28T21:47:23.894Z"
     }
   ],
-  "ultimaActualizacion": 1766958435785,
-  "preguntasHechas": 472
+  "ultimaActualizacion": 1766958443896,
+  "preguntasHechas": 473
 }
