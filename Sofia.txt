@@ -1,5 +1,5 @@
 {
-  "iq": 1835,
+  "iq": 1841,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2507,16 +2507,12 @@
     "variada",
     "enlaces",
     "simultáneas",
-    "corro"
+    "corro",
+    "ciega"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
-      "respuesta": "Las preposiciones son palabras gramaticales que indican la relación entre un sustantivo o un grupo de palabras y otro sustantivo, un verbo, una oración o un lugar. Sirven para expresar la localización, la dirección, la cantidad, la duración, la causa, el efecto, la compañía, la posesión y otras relaciones entre los elementos de una oración.\n\nPor ejemplo: \"La biblioteca está en la calle principal\" (indica localización), \"El regalo era para ella\" (indica destinatario), \"Ella estudió durante tres horas\" (indica duración).",
-      "fecha": "2025-12-28T19:41:23.818Z"
-    },
     {
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es la capacidad de analizar información, evaluar evidencia y formar opiniones informadas. Implica cuestionar suposiciones, considerar perspectivas alternativas y tomar decisiones razonadas. Por ejemplo, al leer una noticia en el periódico, un persona con pensamiento crítico podría analizar los datos presentados, verificar la fuente y considerar diferentes interpretaciones antes de tomar una opinión.\n\nAlgunas características clave del pensamiento crítico incluyen:\n\n- Análisis de la información\n- Evaluación de la evidencia\n- Cuestionamiento de suposiciones\n- Consideración de perspectivas alternativas\n- Formación de opiniones informadas.",
@@ -3511,8 +3507,13 @@
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales son una parte fundamental de la gramática en español, y su función es indicar el momento en el que se produce la acción descrita por el verbo. Hay varios tiempos verbales, como el presente, el pasado, el futuro, el imperfecto, el pretérito perfecto, el pretérito pluscuamperfecto, el condicional y el subjuntivo. Por ejemplo, el verbo \"hablar\" en presente se utiliza para describir una acción que se realiza en el momento del habla, como \"Hablo en español\".",
       "fecha": "2025-12-28T21:09:31.640Z"
+    },
+    {
+      "pregunta": "¿Qué es el pensamiento crítico?",
+      "respuesta": "El pensamiento crítico es la habilidad de analizar información, evaluar evidencia y formar juicios informados sobre un tema o problema. Implica cuestionar suposiciones, considerar diferentes perspectivas y tomar decisiones basadas en evidencia sólida. Por ejemplo, al leer un artículo científico, un pensador crítico evaluaría la metodología utilizada, la validez de la evidencia y la conclusión que se extrae, en lugar de aceptar la información de manera ciega.",
+      "fecha": "2025-12-28T21:09:39.705Z"
     }
   ],
-  "ultimaActualizacion": 1766956171641,
-  "preguntasHechas": 281
+  "ultimaActualizacion": 1766956179706,
+  "preguntasHechas": 282
 }
