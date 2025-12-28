@@ -1,5 +1,5 @@
 {
-  "iq": 1268,
+  "iq": 1273,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2069,16 +2069,18 @@
     "atribuye",
     "utilizarla",
     "semicolones",
-    "dormir"
+    "dormir",
+    "lectura",
+    "tierra",
+    "cambi",
+    "siempre",
+    "usamos",
+    "quieres",
+    "encantaría"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo funciona la comprensión del contexto?",
-      "respuesta": "La comprensión del contexto es el proceso mental por el que asumimos el significado de un mensaje o texto en función del entorno en el que se encuentra. Por ejemplo, en un restaurante, si alguien dice \"¡Un café, por favor!\", es probable que se refiera a una bebida caliente, pero en un contexto de un estudio de arte, es posible que se esté refiriendo a un dibujo o una pintura.\n\nEste proceso implica considerar el lugar, el momento y las personas involucradas, así como cualquier información anterior que haya sido proporcionada.",
-      "fecha": "2025-12-28T19:06:25.260Z"
-    },
     {
       "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
       "respuesta": "El vocabulario técnico se refiere a las palabras y expresiones específicas de un campo o industria en particular, como la medicina, la ingeniería o la informática, y suelen ser utilizadas en un contexto formal y especializado. Por ejemplo, un médico usa términos técnicos como \"angiografía\" o \"férula\" para comunicarse con sus colegas y pacientes.\n\nPor otro lado, el vocabulario coloquial se refiere a las palabras y expresiones informales que se usan en la vida diaria, como en conversaciones con amigos, familiares o en la red social. Estos términos suelen ser más comunes y accesibles para un público general.\n\nPor ejemplo, en lugar de decir \"ángulo recto\", puedes decir \"derecho\" en un contexto coloquial.",
@@ -3073,8 +3075,13 @@
       "pregunta": "¿Cómo se usa la puntuación correctamente?",
       "respuesta": "La puntuación es una herramienta fundamental para comunicar ideas de manera clara y precisa. Utilizarla correctamente implica separar las ideas con comas, puntos suspensivos, semicolones, signos de interrogación y exclamación, y puntos, entre otros. Por ejemplo, en una oración, un punto separa dos oraciones independientes: \"Estoy cansado. Me voy a dormir\".",
       "fecha": "2025-12-28T20:34:59.709Z"
+    },
+    {
+      "pregunta": "¿Cómo se usa la puntuación correctamente?",
+      "respuesta": "La puntuación es fundamental en la escritura para comunicar ideas de manera clara y precisa. Utiliza signos de puntuación como comas, puntos y coma, dos puntos, etc., para separar ideas, enfatizar información o indicar pausas en la lectura. Por ejemplo: \"Vine a la tierra en busca de aventuras, pero lo que encontré fue una experiencia que cambió mi vida para siempre.\"\n\nAdemás, la puntuación también ayuda a evitar la ambigüedad en la escritura, como cuando usamos signos de puntuación para distinguir entre oraciones independientes y dependientes. Por ejemplo: \"¿Quieres ir al cine? Si, me encantaría!\"",
+      "fecha": "2025-12-28T20:35:07.817Z"
     }
   ],
-  "ultimaActualizacion": 1766954099710,
-  "preguntasHechas": 170
+  "ultimaActualizacion": 1766954107820,
+  "preguntasHechas": 171
 }
