@@ -1,5 +1,5 @@
 {
-  "iq": 737,
+  "iq": 743,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1563,7 +1563,18 @@
     "requiere",
     "supuestos",
     "permitiría",
-    "progresivo"
+    "progresivo",
+    "profesionales",
+    "diseñados",
+    "precisos",
+    "hablamos",
+    "locales",
+    "fibrilación",
+    "ventricular",
+    "ritmo",
+    "cardíaco",
+    "anormal",
+    "latiendo"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2252,8 +2263,13 @@
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales en la gramática española se refieren a la forma en que se expresan acciones en el tiempo. Hay tres categorías principales: pasado, presente y futuro. Por ejemplo, el verbo \"hablar\" en la forma de presente se utiliza para describir acciones que ocurren en el momento actual, como \"Hablo con mi amigo\". En el presente progresivo, se utiliza para describir acciones que ocurren en un momento específico, como \"Estoy estudiando ahora\".",
       "fecha": "2025-12-28T19:25:44.264Z"
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
+      "respuesta": "El vocabulario técnico se refiere a términos y expresiones utilizados en contextos específicos y profesionales, como la medicina, la informática o la ingeniería, y están diseñados para ser precisos y precisos. Por otro lado, el vocabulario coloquial se refiere a la forma en que hablamos en nuestra vida diaria, utilizando expresiones informales y locales. \n\nPor ejemplo, un médico utiliza términos como \"fibrilación ventricular\" para describir un tipo de ritmo cardíaco anormal, mientras que en la conversación cotidiana, alguien podría decir \"mi corazón está latiendo muy rápido\".",
+      "fecha": "2025-12-28T19:25:52.289Z"
     }
   ],
-  "ultimaActualizacion": 1766949944265,
-  "preguntasHechas": 63
+  "ultimaActualizacion": 1766949952292,
+  "preguntasHechas": 64
 }
