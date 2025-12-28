@@ -1,5 +1,5 @@
 {
-  "iq": 1691,
+  "iq": 1694,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2419,11 +2419,6 @@
   "conversaciones": 6,
   "conocimiento": [
     {
-      "pregunta": "¿Cómo funcionan los tiempos verbales?",
-      "respuesta": "Los tiempos verbales son una parte fundamental de la gramática de una lengua y se refieren a la forma en que se expresa el tiempo en que se realiza una acción. Hay varios tiempos verbales, como el presente, pasado simple, pasado perfecto, futuro simple, entre otros. Por ejemplo, el verbo \"hablar\" en presente se expresa como \"hablo\", en pasado simple como \"hablé\", y en futuro simple como \"hablaré\".\n\nEs importante destacar que los tiempos verbales se utilizan para expresar diferentes relaciones entre la acción descrita y el momento en que se habla. Por ejemplo, el tiempo pasado simple se utiliza para describir una acción que ya se ha completado, mientras que el tiempo futuro simple se utiliza para describir una acción que aún no ha sucedido pero se espera que suceda en el futuro.",
-      "fecha": "2025-12-28T19:24:16.354Z"
-    },
-    {
       "pregunta": "¿Cuáles son las reglas de la gramática española?",
       "respuesta": "La gramática española tiene varias reglas importantes, como la concordancia de género y número, la flexión de verbos e idiotismos. Por ejemplo, en español, el artículo determinado \"el\" se usa para referirse a un objeto masculino singular, mientras que \"la\" se usa para referirse a un objeto femenino singular. Además, los verbos en español se conjugan según la persona y el tiempo en que se realiza la acción.",
       "fecha": "2025-12-28T19:24:24.312Z"
@@ -3417,8 +3412,13 @@
       "pregunta": "¿Cuáles son las reglas de la gramática española?",
       "respuesta": "La gramática española se rige por una serie de reglas y principios que regulan la forma correcta de construir oraciones y expresar ideas en la lengua. Algunas de las reglas básicas incluyen la concordancia de género y número, la utilización del artículo determinado e indeterminado, la flexión de los verbos en personas y tiempos, y la construcción de oraciones simples y compuestas. Por ejemplo, la concordancia de género se aplica cuando se utiliza el adjetivo para describir un sustantivo, como \"el libro grande\" o \"la casa vieja\".",
       "fecha": "2025-12-28T21:02:43.872Z"
+    },
+    {
+      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
+      "respuesta": "Las preposiciones son palabras que se utilizan para indicar la relación entre un objeto o persona y otro objeto, persona, lugar, tiempo u otro elemento en una oración. Sirven para expresar la ubicación, la dirección, la cantidad, la duración, la causa o el resultado de una acción, entre otras. Por ejemplo: \"El libro está en la mesa\" (indica ubicación), \"Voy a la playa\" (indica dirección), \"Tengo tres amigos\" (indica cantidad).",
+      "fecha": "2025-12-28T21:02:51.637Z"
     }
   ],
-  "ultimaActualizacion": 1766955763875,
-  "preguntasHechas": 251
+  "ultimaActualizacion": 1766955771638,
+  "preguntasHechas": 252
 }
