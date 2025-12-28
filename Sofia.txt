@@ -1,5 +1,5 @@
 {
-  "iq": 2746,
+  "iq": 2749,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3010,16 +3010,13 @@
     "climáticas",
     "observadas",
     "apoyen",
-    "afirmativas"
+    "afirmativas",
+    "contrastantes",
+    "causalmente"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
-      "respuesta": "Las emociones son una parte natural de la comunicación humana, y expresarlas de manera efectiva es crucial para conectar con los demás. Puedes expresar emociones de forma efectiva al ser auténtico y genuino en tus comunicaciones, utilizando lenguaje corporal como miradas y gestos, y expresando tus sentimientos de manera clara y respetuosa. Por ejemplo, en lugar de decir \"Me enojé contigo\", podrías decir \"Me siento frustrado cuando...\".",
-      "fecha": "2025-12-28T21:03:15.624Z"
-    },
     {
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "Excelente pregunta para empezar un viaje por el mundo de la lengua. Los sinónimos son palabras que tienen el mismo significado o nearly el mismo significado. Por ejemplo, \"la casa\" y \"la residencia\" son sinónimos. \n\nPor otro lado, los antónimos son palabras que tienen sentidos opuestos. Por ejemplo, \"feliz\" y \"triste\" son antónimos. Los antónimos se utilizan para enfatizar un concepto o idea en contraste con otro.",
@@ -4014,8 +4011,13 @@
       "pregunta": "¿Cuáles son las reglas de la gramática española?",
       "respuesta": "La gramática española se rige por varias reglas que ayudan a crear oraciones claras y correctas. Algunas de las reglas más importantes son las relacionadas con el uso de los verbos, los adjetivos y los pronombres, como el orden de las palabras en una oración y el uso de las preposiciones. Por ejemplo, en español, el sujeto va antes del verbo en las oraciones afirmativas. Asimismo, el uso de los artículos (el, la, los, las) es fundamental para indicar la cantidad y el género de los sustantivos.",
       "fecha": "2025-12-28T21:44:52.075Z"
+    },
+    {
+      "pregunta": "¿Qué son los conectores y cómo se usan?",
+      "respuesta": "Los conectores son palabras o expresiones que se utilizan para unir ideas o frases en una oración, indicando la relación entre ellas. Algunos ejemplos de conectores son \"y\" (para ideas adicionales), \"pero\" (para ideas contrastantes), \"sin embargo\" (para ideas que se contradicen), y \"por tanto\" (para ideas que se relacionan causalmente). Por ejemplo: \"Me encanta leer libros y escribir poesía\".",
+      "fecha": "2025-12-28T21:44:59.712Z"
     }
   ],
-  "ultimaActualizacion": 1766958292076,
-  "preguntasHechas": 454
+  "ultimaActualizacion": 1766958299713,
+  "preguntasHechas": 455
 }
