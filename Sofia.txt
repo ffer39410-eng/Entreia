@@ -1,5 +1,5 @@
 {
-  "iq": 2419,
+  "iq": 2422,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2862,16 +2862,13 @@
     "encadenadas",
     "practicando",
     "deporte",
-    "relacione"
+    "relacione",
+    "períodos",
+    "expresen"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
-      "respuesta": "Las metáforas son utilizadas para describir conceptos abstractos a través de imágenes o comparaciones que crean una conexión entre dos ideas aparentemente distintas. Por ejemplo, \"la vida es un viaje\" sugiere que la vida tiene un principio y un fin, y que se puede experimentar momentos de alegría o desafíos como se experimentarían mientras se viaja a un destino desconocido. Esto ayuda a los oyentes a entender y visualizar un concepto abstracto de una manera más accesible.",
-      "fecha": "2025-12-28T20:42:11.797Z"
-    },
     {
       "pregunta": "¿Cuáles son las reglas de la gramática española?",
       "respuesta": "La gramática española tiene reglas importantes para la formación de palabras, oraciones y estructuras sintácticas. Algunas de las reglas más fundamentales incluyen: \n\n- El orden de las palabras en una oración suele ser sujeto-verbo-objeto (SVO).\n- Los artículos \"el\", \"la\", \"los\" y \"las\" se utilizan para referirse a seres y objetos específicos o generales.\n- Los verbos en español tienen tres tiempos: presente, pasado y futuro, con variaciones para indicar aspectos como la modalidad, el condicional, entre otros.\n\nEstas reglas y otras muchas son fundamentales para comunicarse de manera efectiva en español.",
@@ -3866,8 +3863,13 @@
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual se refiere a la propiedad de un texto de ser lógico y consistente en cuanto a la conexión entre las ideas y las palabras que se utilizan. Un texto coherente mantiene una estructura lógica y una línea de razonamiento clara, permitiendo que el lector o el oyente pueda seguir fácilmente la argumentación o la narrativa. Por ejemplo, en un ensayo, la coherencia textual implica que cada idea se relacione con la anterior y la siguiente de manera natural y lógica. Esto puede lograrse mediante la utilización de conectores, transiciones y un flujo de ideas claro.",
       "fecha": "2025-12-28T21:24:19.934Z"
+    },
+    {
+      "pregunta": "¿Cómo funcionan los tiempos verbales?",
+      "respuesta": "Los tiempos verbales son una parte fundamental de la gramática que nos ayudan a expresar momentos y períodos en el tiempo. Hay varios tiempos verbales, como el presente, pasado, futuro, condicional, subjuntivo y imperativo, cada uno con sus características y usos específicos. Por ejemplo, el tiempo presente se utiliza para describir acciones que ocurren en el presente, como \"Ella come una manzana\", mientras que el tiempo pasado se utiliza para describir acciones que ya ocurrieron en el pasado, como \"Ella comió una manzana\".\n\nEn resumen, los tiempos verbales nos permiten crear oraciones que expresen diferentes momentos y períodos en el tiempo, lo que nos ayuda a comunicar ideas y relatos de manera más precisa y eficaz.",
+      "fecha": "2025-12-28T21:24:27.844Z"
     }
   ],
-  "ultimaActualizacion": 1766957059936,
-  "preguntasHechas": 392
+  "ultimaActualizacion": 1766957067845,
+  "preguntasHechas": 393
 }
