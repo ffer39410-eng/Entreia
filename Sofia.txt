@@ -1,5 +1,5 @@
 {
-  "iq": 2041,
+  "iq": 2048,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2647,16 +2647,13 @@
     "opositores",
     "limita",
     "memorizar",
-    "identifica"
+    "identifica",
+    "alumno",
+    "mentira"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
-      "respuesta": "Las preposiciones son palabras que indican la relación entre un sustantivo o un grupo de palabras y otro sustantivo o grupo de palabras, o bien la orientación en el espacio o el tiempo. Algunas ejemplos de preposiciones comunes son \"en\", \"de\", \"con\", \"para\", \"sobre\", \"bajo\", \"dentro de\", etc. Por ejemplo: \"Ella está en la biblioteca\" (indicando ubicación), o \"Le doy el libro a él\" (indicando reciprocidad).",
-      "fecha": "2025-12-28T20:15:35.485Z"
-    },
     {
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras que indican la relación entre un sustantivo y otros elementos de la oración, como lugares, direcciones, tiempo, cantidad, etc. Por ejemplo: \"La biblioteca está en la calle principal\" (en indica la relación entre la calle y la ubicación de la biblioteca). \n\nEstas palabras nos ayudan a crear oraciones más precisas y claras, y permiten describir las relaciones entre los diferentes elementos de una escena o situación. Las preposiciones comunes incluyen de, en, con, bajo, sobre, desde, hasta, etc.",
@@ -3651,8 +3648,13 @@
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar información de manera objetiva, identificar patrones y relaciones, y tomar decisiones informadas. Se trata de cuestionar suposiciones y creencias, buscar evidencia y argumentos sólidos, y considerar diferentes perspectivas. Por ejemplo, un estudiante que analiza un texto histórico no solo se limita a memorizar fechas y eventos, sino que también evalúa la información, identifica posibles sesgos y considera la perspectiva del autor.",
       "fecha": "2025-12-28T21:14:43.720Z"
+    },
+    {
+      "pregunta": "¿Qué son los sinónimos y antónimos?",
+      "respuesta": "Excelente pregunta, alumno. Los sinónimos y antónimos son dos conceptos fundamentales en la gramática y la semántica.\n\nLos sinónimos son palabras o expresiones que tienen el mismo significado que otra palabra o expresión. Por ejemplo, \"feliz\" y \"alegre\" son sinónimos, ya que ambas describen un estado de ánimo positivo. Otro ejemplo sería \"mundo\" y \"planeta\", que se refieren al mismo concepto.\n\nLos antónimos, por otro lado, son palabras o expresiones que tienen significados opuestos. Por ejemplo, \"grande\" y \"pequeño\" son antónimos, ya que describen conceptos opuestos en términos de tamaño. Otro ejemplo sería \"verdad\" y \"mentira\", que se refieren a conceptos opuestos en términos de veracidad.\n\nRecuerda, alumno, que la",
+      "fecha": "2025-12-28T21:14:51.910Z"
     }
   ],
-  "ultimaActualizacion": 1766956483722,
-  "preguntasHechas": 320
+  "ultimaActualizacion": 1766956491913,
+  "preguntasHechas": 321
 }
