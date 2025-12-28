@@ -1,5 +1,5 @@
 {
-  "iq": 1558,
+  "iq": 1561,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2309,16 +2309,14 @@
     "reducir",
     "estrés",
     "adecuados",
-    "separación"
+    "separación",
+    "ligeras",
+    "diferencias",
+    "financieras"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo funcionan los tiempos verbales?",
-      "respuesta": "Los tiempos verbales son una parte fundamental de la gramática en español, y su función es indicar en el que momento del tiempo se desarrolla la acción o el estado descrito por el verbo. Por ejemplo, el tiempo presente se utiliza para describir acciones que suceden en el momento actual, como \"Estoy estudiando\".\n\nEn cambio, el tiempo pasado se utiliza para describir acciones que ya han concluido, como \"Estudié ayer\". El tiempo futuro se utiliza para describir acciones que aún no han sucedido, pero se espera que sucedan, como \"Estudiaré mañana\".\n\nAdemás, existen tiempos verbales como el pasado simple, el pasado perfecto, el futuro simple y el futuro perfecto, que se utilizan para indicar diferentes momentos y grados de certeza en la descripción de la acción. Por ejemplo, \"Había estudiado\" es el pasado perfecto",
-      "fecha": "2025-12-28T19:20:48.287Z"
-    },
     {
       "pregunta": "¿Cómo se usa la puntuación correctamente?",
       "respuesta": "La puntuación es esencial en la escritura para transmitir ideas y mensajes de manera clara y efectiva. Se utiliza para separar las oraciones, indicar pausas y enfatizar puntos importantes. Algunos ejemplos son el uso de la coma para separar detalles en una oración, el punto y coma para separar oraciones que están relacionadas, y el signo de exclamación para expresar emoción o sorpresa.",
@@ -3313,8 +3311,13 @@
       "pregunta": "¿Cómo se usa la puntuación correctamente?",
       "respuesta": "La puntuación es un elemento fundamental en la escritura y la comunicación efectiva. Usar la puntuación correctamente implica separar ideas y oraciones con signos de puntuación adecuados, como comas, puntos, signos de interrogación, exclamación, puntos suspensivos, etc. Por ejemplo, al separar ideas dentro de una oración, se pueden usar comas, como en \"Voy al supermercado, pero no tengo dinero\".\n\nAdemás, es importante utilizar la puntuación para indicar la separación entre oraciones, como con puntos, que se utilizan para indicar el final de una oración. Por ejemplo, \"Voy al supermercado. Necesito comprar comida para hoy\".\n\nEs importante recordar que la puntuación ayuda a enfatizar y clarificar el significado de un texto, por lo que es fundamental usarla correctamente para transmitir la idea de manera efectiva",
       "fecha": "2025-12-28T20:54:51.791Z"
+    },
+    {
+      "pregunta": "¿Qué son los sinónimos y antónimos?",
+      "respuesta": "Los sinónimos son palabras que tienen el mismo significado o expresan una idea similar, aunque pueden tener ligeras diferencias en su tono o contexto. Por ejemplo, la palabra \"feliz\" es sinónimo de \"alegre\" o \"contento\". \n\nLos antónimos, por otro lado, son palabras que expresan ideas opuestas. Por ejemplo, \"rico\" y \"pobre\" son antónimos, ya que se refieren a situaciones financieras opuestas.",
+      "fecha": "2025-12-28T20:55:00.114Z"
     }
   ],
-  "ultimaActualizacion": 1766955291793,
-  "preguntasHechas": 225
+  "ultimaActualizacion": 1766955300115,
+  "preguntasHechas": 226
 }
