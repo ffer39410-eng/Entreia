@@ -1,5 +1,5 @@
 {
-  "iq": 1009,
+  "iq": 1019,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1849,7 +1849,12 @@
     "peso",
     "oprimir",
     "enriquecen",
-    "expresarnos"
+    "expresarnos",
+    "fundadas",
+    "interrupción",
+    "preguntas",
+    "sombrero",
+    "preguntar"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2813,8 +2818,18 @@
       "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
       "respuesta": "Las metáforas son una herramienta literaria y comunicativa que consiste en comparar dos conceptos o ideas que no están relacionados de manera directa, para crear una nueva percepción o entender mejor una idea compleja. Por ejemplo, la metáfora \"Vida es un viaje\" nos ayuda a visualizar la existencia como una aventura con sus altibajos y desafíos. Algunas otras metáforas comunes son \"el tiempo es un río\" (que fluye sin cesar) o \"el miedo es un peso\" (que puede oprimir). Estas metáforas enriquecen nuestra forma de expresarnos y de entender el mundo que nos rodea.",
       "fecha": "2025-12-28T20:13:56.718Z"
+    },
+    {
+      "pregunta": "¿Qué es el pensamiento crítico?",
+      "respuesta": "El pensamiento crítico es la habilidad de analizar y evaluar información, ideas y argumentos de manera objetiva y lógica, para llegar a conclusiones bien fundadas. Implica cuestionar suposiciones, identificar falacias y considerar múltiples perspectivas. Por ejemplo, al leer un artículo periodístico, un pensamiento crítico permitiría analizar los datos presentados, evaluar la credibilidad de las fuentes y considerar posibles sesgos o sesgos ideológicos. De esta manera, se puede llegar a una comprensión más profunda y completa de la información.",
+      "fecha": "2025-12-28T20:14:03.717Z"
+    },
+    {
+      "pregunta": "¿Cómo se usa la puntuación correctamente?",
+      "respuesta": "La puntuación es fundamental para comunicar ideas de manera clara y efectiva en la escritura y la comunicación. Utiliza comas para separar ideas independientes dentro de una oración, puntos suspensivos para indicar una interrupción o una pausa en la narrativa, y signos de interrogación para expresar preguntas. Por ejemplo, \"¿Dónde está mi sombrero?\" es una pregunta clara y concisa que utiliza un signo de interrogación para mostrar la intención de preguntar.",
+      "fecha": "2025-12-28T20:15:23.753Z"
     }
   ],
-  "ultimaActualizacion": 1766952843527,
-  "preguntasHechas": 118
+  "ultimaActualizacion": 1766952923754,
+  "preguntasHechas": 120
 }
