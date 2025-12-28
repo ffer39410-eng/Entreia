@@ -1,5 +1,5 @@
 {
-  "iq": 1531,
+  "iq": 1538,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2295,16 +2295,12 @@
     "cronológico",
     "mantiene",
     "asegurar",
-    "apeguen"
+    "apeguen",
+    "complejo"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué son los conectores y cómo se usan?",
-      "respuesta": "Los conectores son palabras o frases que unen ideas o oraciones para crear una estructura lógica y coherente en el discurso. Se usan para mostrar relaciones entre ideas, como causalidad, oposición, comparación, causalidad, tiempo o adición. Por ejemplo: \"Sin embargo\" (oposición), \"Además\" (adición), \"Porque\" (causalidad), \"Pero\" (oposición).",
-      "fecha": "2025-12-28T19:15:50.123Z"
-    },
     {
       "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
       "respuesta": "Las metáforas son un tipo de figura retórica que consiste en comparar dos conceptos o ideas diferentes, pero sin usar \"como\" o \"es igual a\". Son una herramienta poderosa para describir relaciones complejas de manera sencilla y evocadora. Por ejemplo, \"la vida es un viaje\" (no \"la vida es como un viaje\") sugiere que la vida tiene sus propias etapas, desafíos y momentos de reflexión. Al usar metáforas, podemos crear imágenes mentales vivas y conectarnos con el mensaje de manera más profunda y emotiva.",
@@ -3299,8 +3295,13 @@
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual se refiere a la capacidad de un texto para transmitir una idea o un mensaje claro y lógico, sin contradicciones ni saltos de pensamiento. Un texto coherente mantiene una conexión lógica entre las ideas y las frases, utilizando conectores, transiciones y estructuras de oración para asegurar una narrativa fluida y fácil de seguir.\n\nPor ejemplo, en un texto de argumentación, la coherencia es fundamental para presentar ideas claras y lógicas, utilizando pruebas y argumentos que se apeguen a una conclusión lógica. Un texto coherente también ayuda a mantener la atención del lector y a evitar la confusión.\n\nAlgunos ejemplos de coherencia textual incluyen el uso de conectores para unir ideas, como \"además\", \"por ejemplo\" o \"sin embargo\", y la descripción detallada de pasos",
       "fecha": "2025-12-28T20:54:11.852Z"
+    },
+    {
+      "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
+      "respuesta": "El razonamiento lógico en conversaciones es la capacidad de obtener conclusiones lógicas y coherentes a partir de información y argumentos presentados. Implica utilizar principios de lógica y razón para analizar y evaluar la validez de las afirmaciones y argumentos. Por ejemplo, al discutir sobre un tema complejo, un razonamiento lógico podría implicar identificar prejuicios, analizar las causas y efectos, y establecer conexiones lógicas entre ideas.",
+      "fecha": "2025-12-28T20:54:19.573Z"
     }
   ],
-  "ultimaActualizacion": 1766955251853,
-  "preguntasHechas": 220
+  "ultimaActualizacion": 1766955259574,
+  "preguntasHechas": 221
 }
