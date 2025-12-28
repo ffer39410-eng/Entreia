@@ -1,5 +1,5 @@
 {
-  "iq": 1964,
+  "iq": 1969,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2602,16 +2602,15 @@
     "emisiones",
     "menor",
     "emisión",
-    "económicos"
+    "económicos",
+    "longitud",
+    "baja",
+    "exactas",
+    "consideran"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo se usa la puntuación correctamente?",
-      "respuesta": "La puntuación es una herramienta fundamental para comunicar claramente y de manera efectiva en la escritura. Se utiliza para separar ideas, indicar la relación entre oraciones, enfatizar puntos importantes y guiar a los lectores a través del texto. Por ejemplo, el punto y coma (;) se utiliza para separar oraciones que no son completas, mientras que la coma (,) se utiliza para separar ideas dentro de una oración.",
-      "fecha": "2025-12-28T20:11:31.669Z"
-    },
     {
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras gramaticales que se utilizan para indicar la relación entre un objeto o una acción y otra entidad en la oración. Son fundamentales para crear contextos y significados en las frases. Por ejemplo, en la oración \"El libro está sobre la mesa\", la preposición \"sobre\" indica la relación entre el libro y la mesa.",
@@ -3606,8 +3605,13 @@
       "pregunta": "¿Cómo se estructura una buena argumentación?",
       "respuesta": "Una buena argumentación se estructura en tres componentes fundamentales: la introducción, la argumentación en sí y la conclusión. La introducción presenta el tema y la perspectiva del argumento. La argumentación en sí presenta los hechos, los datos y los análisis que respaldan la tesis. La conclusión resume los argumentos presentados y presenta la conclusión final.\n\nPor ejemplo, supongamos que queremos argumentar que los coches eléctricos son más beneficiosos que los coches de combustible fósil. La introducción presentaría la importancia del cambio climático y la necesidad de reducir las emisiones de gases de efecto invernadero. La argumentación en sí presentaría estadísticas que muestran la menor emisión de gases de efecto invernadero de los coches eléctricos, así como beneficios económicos y de salud. La conclusión resume los argumentos",
       "fecha": "2025-12-28T21:12:35.934Z"
+    },
+    {
+      "pregunta": "¿Qué son los sinónimos y antónimos?",
+      "respuesta": "Los sinónimos son palabras que tienen el mismo significado, pero diferentes formas de expresar una idea. Por ejemplo, \"largo\" y \"extenso\" son sinónimos, ya que ambos describen algo que tiene una gran longitud.\n\nPor otro lado, los antónimos son palabras que tienen significados opuestos. Por ejemplo, \"calor\" y \"frío\" son antónimos, ya que uno describe una temperatura alta y el otro una temperatura baja.\n\nEs importante destacar que no siempre hay palabras exactas que sean sinónimos o antónimos perfectos, pero generalmente se consideran palabras que pueden ser utilizadas en lugar de otra sin cambiar el significado principal.",
+      "fecha": "2025-12-28T21:12:43.746Z"
     }
   ],
-  "ultimaActualizacion": 1766956355938,
-  "preguntasHechas": 304
+  "ultimaActualizacion": 1766956363749,
+  "preguntasHechas": 305
 }
