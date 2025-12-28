@@ -1,5 +1,5 @@
 {
-  "iq": 1547,
+  "iq": 1553,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2302,16 +2302,16 @@
     "razonablemente",
     "jugar",
     "fútbol",
-    "conocidas"
+    "conocidas",
+    "culturas",
+    "nuevos",
+    "aumentar",
+    "reducir",
+    "estrés"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
-      "respuesta": "Las preposiciones son palabras que indican la relación entre un sustantivo y el resto de la oración. Sirven para expresar la ubicación, el movimiento, la relación entre los elementos, entre otras cosas. Por ejemplo: \"Estoy detrás de la casa\" (ubicación), \"Voy hacia el parque\" (movimiento), \"La amistad entre ellos es fuerte\" (relación).",
-      "fecha": "2025-12-28T19:20:32.072Z"
-    },
     {
       "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
       "respuesta": "El vocabulario técnico se refiere a las palabras y expresiones específicas utilizadas en un campo o profesión determinada, como la medicina, la ingeniería o la economía. Por ejemplo, en medicina, se utiliza el término \"angiografía\" para describir una prueba de imágenes de las arterias.\n\nPor otro lado, el vocabulario coloquial se refiere a las palabras y expresiones comunes y cotidianas que se utilizan en la comunicación informal, como en conversaciones con amigos o familiares. Por ejemplo, decir \"estoy muy cansado\" es una expresión coloquial para describir un estado de falta de energía.\n\nLo importante es que el vocabulario técnico es más formal y preciso, mientras que el coloquial es más informal y depende del contexto y la región.",
@@ -3306,8 +3306,13 @@
       "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
       "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de analizar información, establecer conexiones lógicas y llegar a conclusiones precisas. Esto implica identificar premisas, establecer relaciones lógicas y sacar conclusiones que se derivan razonablemente de ellas. Por ejemplo, si alguien dice \"Si llueve, no puedo jugar al fútbol fuera. Hoy llueve, entonces no puedo jugar al fútbol\". En este caso, la persona está utilizando un razonamiento lógico para llegar a una conclusión basada en premisas conocidas.",
       "fecha": "2025-12-28T20:54:36.213Z"
+    },
+    {
+      "pregunta": "¿Cómo se usa la puntuación correctamente?",
+      "respuesta": "La puntuación es un aspecto fundamental en la escritura y la comunicación efectiva. Utiliza comas para separar ideas en una oración larga, como en el ejemplo: \"Me encanta leer libros de historia, aprender sobre diferentes culturas y explorar nuevos lugares.\" Utiliza puntos para indicar el final de una oración o lista, como en el ejemplo: \"Los beneficios de la lectura son: mejorar la comprensión, aumentar la vocabulario y reducir el estrés.\"",
+      "fecha": "2025-12-28T20:54:46.978Z"
     }
   ],
-  "ultimaActualizacion": 1766955276215,
-  "preguntasHechas": 223
+  "ultimaActualizacion": 1766955286979,
+  "preguntasHechas": 224
 }
