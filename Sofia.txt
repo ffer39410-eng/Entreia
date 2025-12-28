@@ -1,5 +1,5 @@
 {
-  "iq": 2411,
+  "iq": 2415,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2853,16 +2853,19 @@
     "peligro",
     "desacrediten",
     "formarnos",
-    "sesgada"
+    "sesgada",
+    "inclusión",
+    "dependiente",
+    "amiga",
+    "partido",
+    "llev",
+    "encadenadas",
+    "practicando",
+    "deporte"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
-      "respuesta": "La expresión emocional efectiva es fundamental para comunicar de manera clara y sincera con los demás. Para lograrlo, es importante ser auténtico y expresar tus emociones de manera honesta y no manipuladora. Por ejemplo, en lugar de decir \"Estoy muy bien\", puedes decir \"Me siento un poco nervioso hoy\", lo que muestra que estás dispuesto a ser vulnerable y compartir tus sentimientos. Además, es importante escuchar activamente a los demás y mostrar empatía y comprensión.",
-      "fecha": "2025-12-28T20:41:55.585Z"
-    },
     {
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras que indican la relación entre un sustantivo o pronombre y otros elementos en una oración, como lugares, direcciones, tiempos, maneras, etc. Ejemplos de preposiciones comunes son \"de\", \"en\", \"con\", \"por\", \"para\", \"entre\", \"sobre\", \"bajo\", etc. Sirven para proporcionar contexto y claridad a la oración, por ejemplo: \"Estoy sentado en la silla\" o \"Me gusta leer con mis amigos\".",
@@ -3857,8 +3860,13 @@
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar información, ideas y argumentos de manera objetiva y sistemática, considerando múltiples perspectivas y evidencias. Consiste en cuestionar suposiciones, identificar fallas lógicas y evaluar la validez de la información. Por ejemplo, al leer un artículo periodístico, el pensamiento crítico nos permitiría analizar el tema, evaluar la fuente y buscar evidencias que respalden o desacrediten las afirmaciones presentadas. Esto nos ayuda a formarnos una opinión informada y no sesgada.",
       "fecha": "2025-12-28T21:24:03.750Z"
+    },
+    {
+      "pregunta": "¿Cómo se construyen oraciones complejas en español?",
+      "respuesta": "Las oraciones complejas en español se construyen mediante la combinación de oraciones simples mediante conectores como \"y\", \"o\", \"pero\", \"porque\", \"ya que\", etc., o mediante la inclusión de subordinadas, es decir, oraciones que expresan una idea dependiente de otra oración. Por ejemplo: \"Mi amiga vino al partido y me llevó a casa\".\n\nTambién se pueden construir oraciones complejas mediante la inclusión de oraciones encadenadas, es decir, oraciones que se relacionan entre sí mediante conectores como \"antes de que\", \"después de que\", \"mientras que\", etc. Por ejemplo: \"Yo estaba estudiando para el examen mientras que mi hermano estaba practicando deporte\".\n\nEs importante destacar que las oraciones complejas pueden tener una estructura más compleja que las oraciones simples y pueden expresar ideas más complejas",
+      "fecha": "2025-12-28T21:24:11.848Z"
     }
   ],
-  "ultimaActualizacion": 1766957043751,
-  "preguntasHechas": 390
+  "ultimaActualizacion": 1766957051852,
+  "preguntasHechas": 391
 }
