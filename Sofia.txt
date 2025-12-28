@@ -1,5 +1,5 @@
 {
-  "iq": 2209,
+  "iq": 2216,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2742,16 +2742,22 @@
     "subjeto",
     "nombradas",
     "irregulares",
-    "práctica"
+    "práctica",
+    "disciplina",
+    "plenamente",
+    "diario",
+    "ajetreo",
+    "normalmente",
+    "comprendido",
+    "fisioterapia",
+    "tratamiento",
+    "espalda",
+    "ejercicio",
+    "aliviarme"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo se estructura una buena argumentación?",
-      "respuesta": "Una buena argumentación se estructura en tres partes claves: la premisa (la afirmación inicial), el nexo (la relación entre la premisa y la conclusión) y la conclusión (el resultado lógico). Por ejemplo, \"Si el clima cambia (premisa), tendremos más sequías (nexus) y, por lo tanto, necesitaremos conservar agua (conclusión)\".",
-      "fecha": "2025-12-28T20:32:43.650Z"
-    },
     {
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "Excelente pregunta, estudiantes. Los sinónimos son palabras que tienen el mismo significado o una significación similar, como \"feliz\" y \"alegre\", o \"largo\" y \"extenso\". Por ejemplo, si decimos \"el día fue soleado\" y luego \"el día fue radiante\", ambos significados se refieren a un día con sol.\n\nPor otro lado, los antónimos son palabras que tienen significados opuestos, como \"largo\" y \"corto\", o \"rico\" y \"pobre\". Por ejemplo, si decimos \"la casa es grande\" y luego \"la casa es pequeña\", ambos significados se refieren a tamaños opuestos.",
@@ -3746,8 +3752,13 @@
       "pregunta": "¿Cuáles son las reglas de la gramática española?",
       "respuesta": "La gramática española es un conjunto de reglas que rigen la estructura y el orden de las palabras en una oración. Algunas de las reglas básicas incluyen:\n\n- La orden de las palabras: en español, se utiliza la estructura Subjeto-Verbo-Objeto (SVO), es decir, el sujeto de la oración viene antes del verbo y el objeto después.\n- El uso de los artículos: los artículos \"el\", \"la\", \"los\" y \"las\" se utilizan para referirse a personas o cosas nombradas.\n- El uso de los verbos: los verbos en español pueden ser regulares o irregulares, y su conjugación depende de la persona, el número y el tiempo en el que se utilizan.\n\nPor ejemplo: \"La casa es azul\" (SVO, artículo definido).\n\nRecuerda que la práctica es la mejor manera",
       "fecha": "2025-12-28T21:18:59.828Z"
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
+      "respuesta": "El vocabulario técnico se refiere a las palabras y expresiones específicas utilizadas en un determinado campo o disciplina, como la medicina, la informática o la ingeniería, que requieren conocimientos especializados para ser comprendidos plenamente. Por otro lado, el vocabulario coloquial se utiliza en la comunicación informal en el diario ajetreo de la vida, y normalmente no requiere una gran cantidad de conocimiento especializado para ser comprendido. Como ejemplo, en medicina, un médico puede utilizar el término \"fisioterapia\" para referirse a un tratamiento específico, mientras que en contexto coloquial, alguien podría decir \"me duele la espalda, voy a ir a hacer ejercicio para aliviarme\".",
+      "fecha": "2025-12-28T21:19:08.118Z"
     }
   ],
-  "ultimaActualizacion": 1766956739831,
-  "preguntasHechas": 352
+  "ultimaActualizacion": 1766956748120,
+  "preguntasHechas": 353
 }
