@@ -1,5 +1,5 @@
 {
-  "iq": 1682,
+  "iq": 1687,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2404,16 +2404,17 @@
     "estandarizados",
     "necesariamente",
     "trasladar",
-    "propiedades"
+    "propiedades",
+    "terapia",
+    "virtual",
+    "psicología",
+    "populares",
+    "experiment",
+    "senti"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo se construyen oraciones complejas en español?",
-      "respuesta": "Una oración compleja se construye mediante la combinación de una oración simple con otra oración simple o una frase subordinada, utilizando conectores como \"pues\", \"ya que\", \"aunque\" o \"pero\". Por ejemplo: \"Ella estudió durante horas porque quería aprobar el examen\". En esta oración, \"Ella estudió durante horas\" es la oración principal y \"porque quería aprobar el examen\" es la frase subordinada.\n\nTambién se pueden construir oraciones complejas utilizando oraciones simples independientes, separadas por conectores como \"tampoco\", \"ni\", \"ni siquiera\", etc. Por ejemplo: \"Ella se fue a la playa, pero el sol estaba muy fuerte\". En esta oración, \"Ella se fue a la playa\" es una oración simple y \"pero el sol estaba muy fuerte\" es otra",
-      "fecha": "2025-12-28T19:24:00.383Z"
-    },
     {
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales en español se refieren a la forma en que se indican las acciones o estados en relación con el tiempo. Hay varios tiempos verbales, como el presente, pasado, futuro, pasado perfecto, futuro perfecto, etc. Por ejemplo, \"yo como\" (presente), \"yo comí\" (pretérito), \"yo comeré\" (futuro simple). Cada tiempo verbal tiene su propio uso y contexto.",
@@ -3408,8 +3409,13 @@
       "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
       "respuesta": "Las metáforas son una herramienta poderosa en el lenguaje que permiten expresar conceptos abstractos de manera creativa y atractiva. Por ejemplo, cuando decimos \"Ella es una estrella en el escenario\", estamos comparando la persona con una estrella, lo que sugiere su brillo y relevancia. De esta manera, la metáfora nos permite trasladar propiedades de un objeto real a un objeto abstracto, como un sentimiento o una idea.",
       "fecha": "2025-12-28T21:02:27.778Z"
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
+      "respuesta": "El vocabulario técnico se refiere a palabras y expresiones específicas utilizadas en un campo o industria determinado, como por ejemplo el término \"terapia de realidad virtual\" en la psicología. Por otro lado, el vocabulario coloquial se refiere a palabras y expresiones comunes y populares que se utilizan en la vida diaria. \n\nEjemplo: en un contexto técnico, se puede decir \"el paciente experimentó una mejora significativa en su salud después de la terapia\", mientras que en un contexto coloquial, se puede decir \"el paciente se sentió mejor después de la terapia\".\n\nEn resumen, el vocabulario técnico es específico y formal, mientras que el vocabulario coloquial es común y informal.",
+      "fecha": "2025-12-28T21:02:35.868Z"
     }
   ],
-  "ultimaActualizacion": 1766955747779,
-  "preguntasHechas": 249
+  "ultimaActualizacion": 1766955755870,
+  "preguntasHechas": 250
 }
