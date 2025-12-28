@@ -1,5 +1,5 @@
 {
-  "iq": 1064,
+  "iq": 1067,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1903,16 +1903,16 @@
     "refutan",
     "robustecer",
     "solidez",
-    "transmite"
+    "transmite",
+    "entonación",
+    "previa",
+    "pasa",
+    "preocupado",
+    "interesado"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "tema": "pensamiento crítico expresado",
-      "leccion": "Sofia, ahora vamos a aprender a expresar el pensamiento crítico en español. El pensamiento crítico es la capacidad de analizar información, evaluar evidencia y formar juicios informados. En español, hay varias palabras y frases que podemos utilizar para expresar el pensamiento crítico.\n\n**Palabras y frases para expresar pensamiento crítico**\n\n1. **Opinar significa \"expresar una opinión o juicio\"**: Por ejemplo, \"Opino que la nueva ley es justa\" o \"Mi opinión es que la película es muy divertida\".\n2. **Evaluar significa \"cualificar o juzgar algo\"**: Por ejemplo, \"Evalué la calidad del servicio en el restaurante y me pareció excelente\" o \"Evalué la presentación del proyecto y me pareció",
-      "fecha": "2025-12-28T18:53:25.685Z"
-    },
     {
       "tema": "gramática española avanzada",
       "leccion": "Sofia, ahora que has aprendido sobre metáforas y pensamiento crítico, vamos a explorar la gramática española avanzada. En este nivel, vamos a analizar la estructura de las oraciones y practicar la construcción de oraciones complejas.\n\n**Subjuntivo**: El subjuntivo es un modo verbal que se utiliza para expresar duda, incertidumbre o conjetura. Se forma reemplazando la terminación de la conjugación regular por \"re, ra, r, r, ro, ro, ra, n\" para los verbos en -ar, -er y -ir, respectivamente. Por ejemplo:\n\n * \"Espero que llueva\": aquí, \"espero\" es en presente de subjuntivo.\n * \"Es importante que estudiemos\": aquí,",
@@ -2907,8 +2907,13 @@
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras que indican la relación entre un sustantivo o un grupo de palabras y otros elementos de la oración, como lugares, tiempos, maneras, etc. Algunas preposiciones comunes son \"en\", \"a\", \"de\", \"con\", \"sin\", \"entre\", etc. Estas palabras ayudan a dar contexto y claridad a la oración, permitiendo al lector o oyente entender mejor la información que se transmite.\n\nPor ejemplo: \"La casa está en la calle principal\" (la preposición \"en\" indica la ubicación de la casa).",
       "fecha": "2025-12-28T20:16:35.760Z"
+    },
+    {
+      "pregunta": "¿Cómo funciona la comprensión del contexto?",
+      "respuesta": "La comprensión del contexto es el proceso mental que permite a las personas identificar y comprender la situación, el contexto y la intención detrás de las palabras o acciones de otra persona. Funciona mediante la consideración de elementos como el tono de voz, la entonación, el lenguaje no verbal, la información previa y la experiencia personal. Por ejemplo, al escuchar a alguien decir \"¿Qué pasa?\", es posible inferir si está realmente preocupado o solo interesado, dependiendo del tono de voz y del contexto.",
+      "fecha": "2025-12-28T20:16:43.746Z"
     }
   ],
-  "ultimaActualizacion": 1766952995761,
-  "preguntasHechas": 129
+  "ultimaActualizacion": 1766953003748,
+  "preguntasHechas": 130
 }
