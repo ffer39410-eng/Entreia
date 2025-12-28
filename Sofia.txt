@@ -1,5 +1,5 @@
 {
-  "iq": 2755,
+  "iq": 2758,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3018,16 +3018,12 @@
     "dijo",
     "irnos",
     "refiriéndose",
-    "quedarse"
+    "quedarse",
+    "afirmo"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué es la coherencia textual?",
-      "respuesta": "La coherencia textual se refiere a la capacidad de un texto para transmitir una idea o mensaje claro y lógico, donde las oraciones y frases están relacionadas entre sí de manera efectiva. Esto se logra a través de la utilización de conectores, transiciones y repetición de ideas para crear una narrativa o argumentación cohesiva. La coherencia textual es fundamental en la escritura, ya que permite al lector seguir el hilo de la idea y comprender el mensaje sin confusiones. Por ejemplo, en un ensayo, la coherencia textual se logra al presentar ideas secuenciales y relacionadas que apoyan un argumento central.",
-      "fecha": "2025-12-28T21:03:39.883Z"
-    },
     {
       "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
       "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de analizar información, identificar relaciones lógicas y llegar a conclusiones razonables y coherentes. Esto implica utilizar reglas lógicas, como el uso de premisas verdaderas para llegar a conclusiones verdaderas, y evitar falacias lógicas, como pasar de lo particular a lo general sin evidencia. Por ejemplo, si alguien dice \"Juan comió un sandwich y luego se sintió mal\", un razonamiento lógico podría ser \"Es posible que el sandwich fuese la causa de su malestar\".",
@@ -4022,8 +4018,13 @@
       "pregunta": "¿Cómo funciona la comprensión del contexto?",
       "respuesta": "La comprensión del contexto se refiere a la capacidad de analizar y comprender el significado de un texto o una situación en función de la información que nos rodea. Esto incluye considerar factores como la situación en la que se produce, los personajes involucrados, el tono y la intención del emisor, y otros detalles que proporcionan contexto a la situación. Por ejemplo, si leemos un texto que dice \"El profesor dijo que era hora de irnos\", podemos entender que el contexto es una clase de escuela, y que el profesor está refiriéndose a que es hora de salir, no de quedarse.",
       "fecha": "2025-12-28T21:45:07.705Z"
+    },
+    {
+      "pregunta": "¿Cómo se estructura una buena argumentación?",
+      "respuesta": "Una buena argumentación se estructura en tres partes fundamentales: la afirmación, la prueba y la conclusión. La afirmación es la proposición que se quiere demostrar o defender, la prueba es la presentación de evidencia o razonamientos que apoyan la afirmación y la conclusión es la conclusión lógica que se deriva del análisis de la prueba. Por ejemplo, si afirmo que \"el ejercicio regular mejora la salud\", la prueba sería presentar estudios científicos que muestran la relación entre el ejercicio y la salud, y la conclusión sería que \"el ejercicio regular es beneficioso para la salud\".",
+      "fecha": "2025-12-28T21:45:15.685Z"
     }
   ],
-  "ultimaActualizacion": 1766958307708,
-  "preguntasHechas": 456
+  "ultimaActualizacion": 1766958315686,
+  "preguntasHechas": 457
 }
