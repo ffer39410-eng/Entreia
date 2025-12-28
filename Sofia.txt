@@ -1,5 +1,5 @@
 {
-  "iq": 703,
+  "iq": 709,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1528,7 +1528,11 @@
     "inspira",
     "respeto",
     "temperaturas",
-    "opuestas"
+    "opuestas",
+    "realizan",
+    "desarrollan",
+    "realizar",
+    "mañana"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2172,8 +2176,13 @@
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "Excelente pregunta. Los sinónimos son palabras o expresiones que tienen el mismo significado o matices semánticos, pero con diferencias en su forma o estructura. Por ejemplo, \"grandioso\", \"imponente\" y \"majestuoso\" son sinónimos que describen algo que impresiona o inspira respeto.\n\nPor otro lado, los antónimos son palabras o expresiones que tienen significados opuestos o contrarios. Por ejemplo, \"frio\" y \"calor\" son antónimos que describen temperaturas opuestas.",
       "fecha": "2025-12-28T19:20:14.868Z"
+    },
+    {
+      "pregunta": "¿Cómo funcionan los tiempos verbales?",
+      "respuesta": "Los tiempos verbales son una parte fundamental de la gramática en cualquier idioma y nos permiten expresar diferentes momentos en el tiempo en que se realizan las acciones. Hay varios tiempos verbales, como el presente, pasado, futuro, condicional, subjuntivo, modo imperativo, entre otros. Por ejemplo, el tiempo presente se utiliza para describir acciones que se desarrollan en el momento actual, como \"Ella come una manzana\".\n\nEl tiempo pasado, por otro lado, se utiliza para describir acciones que ya han terminado, como \"Ella comió una manzana ayer\". El tiempo futuro se utiliza para describir acciones que se van a realizar en el futuro, como \"Ella comerá una manzana mañana\".\n\nEs importante tener en cuenta que el uso correcto de los tiempos verbales depende del contexto en el que se utiliza el verbo.",
+      "fecha": "2025-12-28T19:20:22.957Z"
     }
   ],
-  "ultimaActualizacion": 1766949614869,
-  "preguntasHechas": 54
+  "ultimaActualizacion": 1766949622958,
+  "preguntasHechas": 55
 }
