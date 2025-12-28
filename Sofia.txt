@@ -1,5 +1,5 @@
 {
-  "iq": 2693,
+  "iq": 2700,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2991,16 +2991,13 @@
     "semanas",
     "argumental",
     "anuncio",
-    "publicitario"
+    "publicitario",
+    "formarse",
+    "practica"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo funciona la comprensión del contexto?",
-      "respuesta": "La comprensión del contexto implica analizar el lenguaje y la información proporcionada para determinar su significado y relevancia en un contexto específico. Esto requiere considerar el tema, el tono, el objetivo y el público destinatario del mensaje. Por ejemplo, si se lee una oración que dice \"La reunión se canceló\", en un contexto laboral, se puede inferir que la reunión se canceló debido a circunstancias imprevistas, mientras que en un contexto familiar, podría ser debido a problemas personales. La comprensión del contexto ayuda a descubrir detalles importantes que no se explicitan en el texto.",
-      "fecha": "2025-12-28T21:01:47.913Z"
-    },
     {
       "pregunta": "¿Cómo se construyen oraciones complejas en español?",
       "respuesta": "Las oraciones complejas en español se construyen utilizando concesiones, comparaciones, causales, temporales, condicionales, finales, consecutivos, contrastivos o subordinadas sustantivas. Por ejemplo, \"Cuando llegué a casa, llamé a mi mamá\" es una oración compuesta con una subordinada temporal.\n\nTambién se utilizan conjunciones o conjunciones subordinantes para conectar oraciones sencillas y crear oraciones más complejas, como \"Estudiaré para el examen, a menos que tenga un compromiso previo\".\n\nAdemás, las oraciones complejas pueden ser estructuradas con oraciones principales y subordinadas y diferentes tipos de cláusulas.",
@@ -3995,8 +3992,13 @@
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras que se usan para indicar la relación entre un sujeto y un objeto o un lugar, y sirven para proporcionar contexto y precisión en la oración. Algunas preposiciones comunes son \"en\", \"de\", \"con\", \"sin\", \"entre\" y \"bajo\". Por ejemplo, en la oración \"El libro está en la mesa\", la preposición \"en\" indica la ubicación del libro.",
       "fecha": "2025-12-28T21:37:55.569Z"
+    },
+    {
+      "pregunta": "¿Qué es el pensamiento crítico?",
+      "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar información, ideas y argumentos de manera objetiva y lógica, buscando respuestas a preguntas como \"¿Por qué?\", \"¿Qué implica?\", \"¿Es verdadero?\" y \"¿Qué consecuencias tiene?\". Este proceso implica cuestionar suposiciones, buscar evidencia y considerar diferentes perspectivas para formarse una opinión informada. El pensamiento crítico se practica a través de la evaluación de fuentes, la identificación de sesgos y la resolución de problemas complejos. Un ejemplo de pensamiento crítico sería analizar un artículo de noticias y evaluar la credibilidad de las fuentes citadas.",
+      "fecha": "2025-12-28T21:38:03.877Z"
     }
   ],
-  "ultimaActualizacion": 1766957875570,
-  "preguntasHechas": 443
+  "ultimaActualizacion": 1766957883879,
+  "preguntasHechas": 444
 }
