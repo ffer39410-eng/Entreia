@@ -1,5 +1,5 @@
 {
-  "iq": 1753,
+  "iq": 1756,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2454,16 +2454,13 @@
     "racionalmente",
     "europa",
     "templado",
-    "probablemente"
+    "probablemente",
+    "medios",
+    "centro"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cuáles son las reglas de la gramática española?",
-      "respuesta": "La gramática española se basa en reglas fundamentales que ayudan a construir oraciones coherentes y gramaticalmente correctas. Algunas de las reglas clave incluyen el uso de artículos definidos e indefinidos (el, la, los, las, un, una, unos, unas), el orden de los verbos (Sujeto + Verbo + Objeto) y el uso correcto de los géneros y números en la terminación de las palabras. Por ejemplo, \"la casa\" (feminino singular) vs. \"las casas\" (feminino plural).",
-      "fecha": "2025-12-28T19:26:08.287Z"
-    },
     {
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras gramaticales que indican la relación entre un sustantivo o un grupo de palabras y otro sustantivo o grupo de palabras en una oración. Sirven para indicar la ubicación, la dirección, la cantidad, la relación entre personas o objetos, entre otros. Por ejemplo, en la frase \"La biblioteca está a la esquina\", la preposición \"a\" indica la ubicación de la biblioteca.",
@@ -3458,8 +3455,13 @@
       "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
       "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de pensar críticamente y racionalmente para llegar a conclusiones fundadas en argumentos y hechos. Implica analizar información, identificar patrones y relaciones lógicas, y hacer inferencias precisas. Por ejemplo, si alguien afirma que \"todos los países de Europa tienen un clima templado\", un razonamiento lógico podría ser: \"Si un país es de Europa, entonces probablemente tenga un clima templado, pero no todos los países de Europa tienen un clima templado\".",
       "fecha": "2025-12-28T21:07:24.808Z"
+    },
+    {
+      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
+      "respuesta": "Las preposiciones son palabras que indican la relación entre un sustantivo o un pronombre y otro sustantivo, lugar o acción en una oración. Sirven para indicar lugares, direcciones, tiempos, causas, medios, etc. Por ejemplo, la preposición \"en\" se utiliza para indicar un lugar o posición, como en \"Estoy en la biblioteca\" o \"La biblioteca está en el centro de la ciudad\".",
+      "fecha": "2025-12-28T21:07:31.595Z"
     }
   ],
-  "ultimaActualizacion": 1766956044810,
-  "preguntasHechas": 265
+  "ultimaActualizacion": 1766956051598,
+  "preguntasHechas": 266
 }
