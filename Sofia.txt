@@ -1,5 +1,5 @@
 {
-  "iq": 1804,
+  "iq": 1807,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2498,16 +2498,12 @@
     "viaj",
     "parís",
     "torre",
-    "eiffel"
+    "eiffel",
+    "priorizarla"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo funciona la comprensión del contexto?",
-      "respuesta": "La comprensión del contexto es el proceso por el cual nuestra mente analiza y relaciona información para entender mejor el significado de un texto o mensaje. Esto se logra mediante la consideración de factores como el lugar, el momento, el tono y las personas involucradas, lo que nos ayuda a interpretar el significado más profundo de lo que se está diciendo. Por ejemplo, si alguien dice \"¿Qué tal si vamos a la playa?\", la respuesta depende del clima, la época del año y tus intereses personales. Esto requiere que contextualices la información para dar una respuesta adecuada.",
-      "fecha": "2025-12-28T19:27:34.902Z"
-    },
     {
       "pregunta": "¿Cómo funciona la comprensión del contexto?",
       "respuesta": "La comprensión del contexto es la capacidad de entender el significado de un texto, una conversación o una situación a través del marco en el que se desarrolla. Implica considerar el entorno, la cultura, la intención y los sentimientos involucrados. Por ejemplo, en una reunión de trabajo, alguien puede decir \"Eso es un buen punto\", lo que podría significar que el punto presentado es interesante o válido, pero también podría significar el contrario dependiendo del tono y la intención de la persona.",
@@ -3502,8 +3498,13 @@
       "pregunta": "¿Cómo se construyen oraciones complejas en español?",
       "respuesta": "Una oración compleja en español se construye mediante la combinación de una oración simple y una subordinada. La subordinada es una oración que depende de la oración simple para expresar una idea relacionada o consecuente. Por ejemplo: \"Ella viajó a París porque quería ver la Torre Eiffel\".\n\nAquí, \"viajó a París\" es la oración simple, mientras que \"porque quería ver la Torre Eiffel\" es la subordinada. La subordinada se introduce mediante una conjunción como \"porque\", \"ya que\", \"aunque\", etc.\n\nEn este caso, la subordinada expresa una razón o motivación para la acción descrita en la oración simple, lo que la convierte en una oración compleja.",
       "fecha": "2025-12-28T21:08:43.692Z"
+    },
+    {
+      "pregunta": "¿Qué es la coherencia textual?",
+      "respuesta": "La coherencia textual se refiere a la capacidad de un texto para transmitir una idea o mensaje claro y logico, mediante la conexión lógica entre las ideas y los eventos que se presentan en él. Un texto coherente es aquel que tiene una estructura clara, una organización lógica y una relación clara entre las ideas principales y secundarias. Por ejemplo, un ensayo sobre la importancia de la educación debe comenzar presentando el tema, seguir con la descripción de los beneficios de la educación y concluir con la importancia de priorizarla.",
+      "fecha": "2025-12-28T21:08:51.671Z"
     }
   ],
-  "ultimaActualizacion": 1766956123694,
-  "preguntasHechas": 275
+  "ultimaActualizacion": 1766956131672,
+  "preguntasHechas": 276
 }
