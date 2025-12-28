@@ -1,5 +1,5 @@
 {
-  "iq": 1719,
+  "iq": 1725,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2433,16 +2433,16 @@
     "residencia",
     "sentidos",
     "repetición",
-    "secuenciales"
+    "secuenciales",
+    "verdaderas",
+    "juan",
+    "sinti",
+    "fuese",
+    "malestar"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
-      "respuesta": "Las preposiciones son palabras que indican la relación entre un objeto o lugar y otro en una oración. Sirven para indicar la ubicación, la dirección, la relación de causalidad, la duración y otros aspectos del texto. Por ejemplo, en la oración \"El libro está sobre la mesa\", la preposición \"sobre\" indica la ubicación del libro en relación con la mesa.",
-      "fecha": "2025-12-28T19:25:04.356Z"
-    },
     {
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales describen cuando acontece una acción expresada por el verbo. Hay varios tiempos verbales, como el presente, pasado simple, pasado perfecto, futuro simple, entre otros. Por ejemplo, la oración \"Ella come un manzana\" describe una acción que sucede en el presente, mientras que \"Ella comió una manzana\" describe una acción que ya terminó.",
@@ -3437,8 +3437,13 @@
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual se refiere a la capacidad de un texto para transmitir una idea o mensaje claro y lógico, donde las oraciones y frases están relacionadas entre sí de manera efectiva. Esto se logra a través de la utilización de conectores, transiciones y repetición de ideas para crear una narrativa o argumentación cohesiva. La coherencia textual es fundamental en la escritura, ya que permite al lector seguir el hilo de la idea y comprender el mensaje sin confusiones. Por ejemplo, en un ensayo, la coherencia textual se logra al presentar ideas secuenciales y relacionadas que apoyan un argumento central.",
       "fecha": "2025-12-28T21:03:39.883Z"
+    },
+    {
+      "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
+      "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de analizar información, identificar relaciones lógicas y llegar a conclusiones razonables y coherentes. Esto implica utilizar reglas lógicas, como el uso de premisas verdaderas para llegar a conclusiones verdaderas, y evitar falacias lógicas, como pasar de lo particular a lo general sin evidencia. Por ejemplo, si alguien dice \"Juan comió un sandwich y luego se sintió mal\", un razonamiento lógico podría ser \"Es posible que el sandwich fuese la causa de su malestar\".",
+      "fecha": "2025-12-28T21:03:47.753Z"
     }
   ],
-  "ultimaActualizacion": 1766955819884,
-  "preguntasHechas": 257
+  "ultimaActualizacion": 1766955827754,
+  "preguntasHechas": 258
 }
