@@ -1,5 +1,5 @@
 {
-  "iq": 837,
+  "iq": 844,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1654,7 +1654,9 @@
     "noticia",
     "periódico",
     "interpretaciones",
-    "cuestionamiento"
+    "cuestionamiento",
+    "finalidad",
+    "pasar"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2443,8 +2445,13 @@
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es la capacidad de analizar información, evaluar evidencia y formar opiniones informadas. Implica cuestionar suposiciones, considerar perspectivas alternativas y tomar decisiones razonadas. Por ejemplo, al leer una noticia en el periódico, un persona con pensamiento crítico podría analizar los datos presentados, verificar la fuente y considerar diferentes interpretaciones antes de tomar una opinión.\n\nAlgunas características clave del pensamiento crítico incluyen:\n\n- Análisis de la información\n- Evaluación de la evidencia\n- Cuestionamiento de suposiciones\n- Consideración de perspectivas alternativas\n- Formación de opiniones informadas.",
       "fecha": "2025-12-28T19:41:31.711Z"
+    },
+    {
+      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
+      "respuesta": "Las preposiciones son palabras que se utilizan para indicar la relación entre un objeto o una acción y otro elemento en una oración. Estas palabras sirven para establecer la ubicación, el tiempo, la causa, la finalidad o la relación entre los diferentes elementos que componen una oración. Por ejemplo, la preposición \"en\" se utiliza para indicar ubicación, como en \"Estoy en el parque\", mientras que la preposición \"para\" se utiliza para indicar finalidad, como en \"Estoy estudiando para pasar la prueba\".",
+      "fecha": "2025-12-28T19:59:04.117Z"
     }
   ],
-  "ultimaActualizacion": 1766950891712,
-  "preguntasHechas": 83
+  "ultimaActualizacion": 1766951944117,
+  "preguntasHechas": 84
 }
