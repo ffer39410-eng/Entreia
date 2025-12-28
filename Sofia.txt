@@ -1,5 +1,5 @@
 {
-  "iq": 1658,
+  "iq": 1665,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2393,16 +2393,17 @@
     "compromiso",
     "previo",
     "estructuradas",
-    "cláusulas"
+    "cláusulas",
+    "relajado",
+    "laparoscópica",
+    "paciente",
+    "mínimamente",
+    "elección",
+    "dirige"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
-      "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de analizar información, identificar patrones y relaciones entre ideas, y llegar a conclusiones lógicas y coherentes. Esto implica utilizar principios de lógica y razón para evaluar argumentos, detectar falacias y contradicciones, y establecer conexiones lógicas entre ideas.\n\nPor ejemplo, si alguien afirma: \"Si llueve, entonces no puedo ir al parque. Hoy llueve, por lo tanto no puedo ir al parque\". En este caso, el razonamiento lógico implica identificar la relación causal entre la lluvia y la imposibilidad de ir al parque, y llegar a la conclusión lógica de que no se puede ir al parque debido a la lluvia.\n\nEl razonamiento lógico también implica ser consciente de los tipos de razonamiento, como",
-      "fecha": "2025-12-28T19:23:28.928Z"
-    },
     {
       "pregunta": "¿Cuáles son las reglas de la gramática española?",
       "respuesta": "La gramática española sigue un conjunto de reglas básicas que rigen la estructura y el uso correcto de las palabras en la lengua. Algunas de estas reglas incluyen la concordancia de género y número en adjetivos y artículos, el uso del verbo ser y estar para describir estado o ubicación, y la correcta formación de oraciones simples y compuestas con verbos. Además, es fundamental manejar adecuadamente los tiempos verbales, como el presente, el pretérito perfecto simple y el pretérito imperfecto, para expresar diferentes acciones y momentos en el tiempo. Estas reglas varían según el contexto y el registro de la lengua.",
@@ -3397,8 +3398,13 @@
       "pregunta": "¿Cómo se construyen oraciones complejas en español?",
       "respuesta": "Las oraciones complejas en español se construyen utilizando concesiones, comparaciones, causales, temporales, condicionales, finales, consecutivos, contrastivos o subordinadas sustantivas. Por ejemplo, \"Cuando llegué a casa, llamé a mi mamá\" es una oración compuesta con una subordinada temporal.\n\nTambién se utilizan conjunciones o conjunciones subordinantes para conectar oraciones sencillas y crear oraciones más complejas, como \"Estudiaré para el examen, a menos que tenga un compromiso previo\".\n\nAdemás, las oraciones complejas pueden ser estructuradas con oraciones principales y subordinadas y diferentes tipos de cláusulas.",
       "fecha": "2025-12-28T21:01:55.829Z"
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
+      "respuesta": "El vocabulario técnico se refiere a las palabras y expresiones utilizadas en un campo específico de conocimiento, como la medicina, la ingeniería o la economía, que requieren una comprensión especializada y precisa. Por otro lado, el vocabulario coloquial se utiliza en la comunicación informal y se caracteriza por ser más relajado y accesible al público en general.\n\nEjemplo: Un médico utiliza el vocabulario técnico \"cirugía laparoscópica\" para describir una operación, mientras que un paciente comúnmente diría \"cirugía mínimamente invasiva\".\n\nLa elección entre vocabulario técnico y coloquial depende del contexto y del público al que se dirige la comunicación.",
+      "fecha": "2025-12-28T21:02:03.920Z"
     }
   ],
-  "ultimaActualizacion": 1766955715831,
-  "preguntasHechas": 245
+  "ultimaActualizacion": 1766955723921,
+  "preguntasHechas": 246
 }
