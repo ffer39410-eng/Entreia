@@ -1,5 +1,5 @@
 {
-  "iq": 1421,
+  "iq": 1428,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2222,16 +2222,19 @@
     "incluso",
     "acumulación",
     "adelante",
-    "ltimo"
+    "ltimo",
+    "hablan",
+    "usaría",
+    "bypass",
+    "cardiovascular",
+    "diría",
+    "ambas",
+    "técnica",
+    "segunda"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué son los conectores y cómo se usan?",
-      "respuesta": "Los conectores son palabras que unen oraciones o frases para crear una estructura lógica y coherente en el discurso. Pueden indicar relaciones de causa y efecto, tiempo, lugar, comparación, contraste, etc. Por ejemplo, \"y\" (La playa es hermosa y tiene aguas cristalinas), \"pero\" (La playa es hermosa pero hay mucha gente), \"porque\" (Voy a la playa porque me gusta nadar).",
-      "fecha": "2025-12-28T19:10:38.994Z"
-    },
     {
       "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
       "respuesta": "Exprimir emociones de forma efectiva implica reconocerlas, comprenderlas y comunicarlas de manera clara y respetuosa. Utiliza el lenguaje corporal, como mantener contacto visual o gestos abiertos, y las palabras, como decir \"Me siento triste\" o \"Estoy enojado\". También es importante escuchar activa y respetar los sentimientos de los demás. Por ejemplo, si alguien te dice que está \"decepcionado\", puedes responder: \"Lo siento, ¿qué pasó para que te sintieras así?\"",
@@ -3226,8 +3229,13 @@
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son palabras o expresiones que unen oraciones o ideas para crear una secuencia lógica y coherente en un texto o discurso. Se usan para conectar ideas, ideas y detalles, ideas y oraciones, o incluso oraciones y oraciones.\n\nPor ejemplo, \"Sin embargo\", \"Aunque\", \"Pero\" son conectores de oposición, mientras que \"Y\", \"O\", \"También\" son conectores de acumulación, y \"Porque\", \"Ya que\", \"Pues\" son conectores de causalidad.\n\nAdemás, existen conectores de contrastación, como \"En lugar de\", \"En cambio\", y conectores de enumeración, como \"Luego\", \"Más adelante\", \"Por último\".",
       "fecha": "2025-12-28T20:44:19.776Z"
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
+      "respuesta": "El vocabulario técnico se refiere a términos y expresiones especializados utilizados en un campo específico, como la medicina, la ingeniería o la economía, y están diseñados para transmitir información precisa y objetiva. Por otro lado, el vocabulario coloquial se refiere a la forma en que las personas hablan en su vida diaria, utilizando expresiones informales y comunes que pueden variar según la región o la cultura.\n\nPor ejemplo, un médico usaría el término \"cirugía de bypass\" para describir una operación cardiovascular, mientras que un amigo comúnmente diría \"operación de corazón\" o \"bypass\". Ambas expresiones se refieren a la misma operación, pero la primera es más técnica y precisa, mientras que la segunda es más coloquial y accesible.",
+      "fecha": "2025-12-28T20:44:27.870Z"
     }
   ],
-  "ultimaActualizacion": 1766954659777,
-  "preguntasHechas": 200
+  "ultimaActualizacion": 1766954667871,
+  "preguntasHechas": 201
 }
