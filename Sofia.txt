@@ -1,5 +1,5 @@
 {
-  "iq": 256,
+  "iq": 260,
   "vocabulario": [
     "claro",
     "sofia",
@@ -734,7 +734,24 @@
     "premisas",
     "básica",
     "contradicción",
-    "simplificación"
+    "simplificación",
+    "compuesto",
+    "campo",
+    "particular",
+    "requieren",
+    "conocimientos",
+    "comprendidos",
+    "angioplastia",
+    "procedimiento",
+    "ensanchar",
+    "vaso",
+    "sanguíneo",
+    "bloqueado",
+    "diaria",
+    "informal",
+    "harta",
+    "situación",
+    "desagradable"
   ],
   "lecciones": 14,
   "conversaciones": 1,
@@ -933,8 +950,13 @@
       "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
       "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de utilizar argumentos racionales y lógicos para llegar a una conclusión o tomar una decisión. Esto implica analizar información, identificar patrones y relaciones, y dar pasos lógicos para llegar a una respuesta o una solución. Por ejemplo, si tienes un amigo que te pregunta si vale la pena invertir en un seguro, tu razonamiento lógico podría comenzar analizando los pros y contras de invertir en el seguro, considerando factores como la posibilidad de pérdidas o ganancias, y llegando a una conclusión basada en esos análisis.\n\nEl razonamiento lógico implica:\n\n* Identificar premisas (información básica)\n* Utilizar reglas lógicas (como la contradicción o la simplificación)\n* Llegar a una conclusión lógica\n\nEl razonamiento",
       "fecha": "2025-12-28T19:04:20.435Z"
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
+      "respuesta": "El vocabulario técnico está compuesto por palabras y expresiones utilizadas en un campo particular, como la medicina, la ingeniería o la ciencia, que requieren conocimientos específicos para ser comprendidos. Por ejemplo, en medicina, el término \"angioplastia\" se refiere a un procedimiento para ensanchar un vaso sanguíneo bloqueado. En cambio, el vocabulario coloquial es el que se utiliza en la vida diaria para comunicarse de manera informal, como el uso de expresiones como \"estoy harta\" para describir una situación desagradable.",
+      "fecha": "2025-12-28T19:04:28.325Z"
     }
   ],
-  "ultimaActualizacion": 1766948660437,
+  "ultimaActualizacion": 1766948668327,
   "preguntasHechas": null
 }
