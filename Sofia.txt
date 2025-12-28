@@ -1,5 +1,5 @@
 {
-  "iq": 2341,
+  "iq": 2348,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2824,16 +2824,12 @@
     "mencionar",
     "necesita",
     "breve",
-    "respiro"
+    "respiro",
+    "respaldadas"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo funciona la comprensión del contexto?",
-      "respuesta": "La comprensión del contexto es un proceso mental que nos permite entender el significado de un mensaje, texto o situación en función de las circunstancias y condiciones en las que se produce. Esto implica considerar factores como la tono, el entorno, la intención del hablante o escritor y la información previa relevante. Por ejemplo, si alguien te dice \"¡Cuidado!\", mientras estás caminando por una zona con mucha basura, podrías comprender que se refiere a la posibilidad de tropezar con una piedra o un objeto en el suelo.",
-      "fecha": "2025-12-28T20:35:55.690Z"
-    },
     {
       "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
       "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de pensar de manera clara y sistemática, analizar información, identificar patrones y conclusiones lógicas, y expresarlas de manera coherente y convincente. Esto implica utilizar argumentos, hechos y razones para apoyar nuestras afirmaciones y respuestas, en lugar de recurrir a suposiciones, emociones o opiniones personales.\n\nPor ejemplo, si alguien te pregunta \"¿Por qué crees que el clima está cambiando?\", un razonamiento lógico podría implicar citar hechos científicos sobre el aumento de gases de efecto invernadero, el calentamiento global y la evidencia empírica que respalda estas afirmaciones. De esta manera, podemos presentar una argumentación clara y convincente que respalde nuestra opinión.\n\nEl razonamiento lógico en conversaciones también",
@@ -3828,8 +3824,13 @@
       "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
       "respuesta": "El vocabulario técnico se refiere a palabras y expresiones especializadas utilizadas en un campo específico, como la medicina, la ingeniería o la economía. Por ejemplo, en la medicina, el término \"angiología\" se refiere al estudio del sistema cardiovascular. Por otro lado, el vocabulario coloquial se utiliza en la comunicación informal y cotidiana, como expresiones idiomáticas o giros lingüísticos comunes en la conversación.\n\nEjemplo: En un hospital, un médico utiliza el término \"angiología\" para describir una condición médica específica. En una conversación con un amigo, utiliza el término \"tomar un descanso\" para mencionar que necesita un breve respiro.",
       "fecha": "2025-12-28T21:22:11.730Z"
+    },
+    {
+      "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
+      "respuesta": "El razonamiento lógico en conversaciones se refiere a la habilidad de analizar y evaluar la información, sacar conclusiones lógicas y evitar errores de razonamiento. Esto implica utilizar reglas de inferencia para llegar a conclusiones sólidas y respaldadas por evidencia. Por ejemplo, si alguien afirma que \"si hago ejercicio, me siento bien\", un razonamiento lógico podría ser: \"Si hago ejercicio, me siento bien; hoy he hecho ejercicio; por lo tanto, me sentiré bien hoy\".",
+      "fecha": "2025-12-28T21:22:19.719Z"
     }
   ],
-  "ultimaActualizacion": 1766956931734,
-  "preguntasHechas": 376
+  "ultimaActualizacion": 1766956939721,
+  "preguntasHechas": 377
 }
