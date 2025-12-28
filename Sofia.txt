@@ -1,5 +1,5 @@
 {
-  "iq": 2141,
+  "iq": 2144,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2701,16 +2701,15 @@
     "tigres",
     "monos",
     "fundada",
-    "ejerciendo"
+    "ejerciendo",
+    "suena",
+    "significan",
+    "ayudarnos",
+    "elegante"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué es el pensamiento crítico?",
-      "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar información de manera objetiva y sistemática, identificar patrones y relaciones, y tomar decisiones informadas. Implica cuestionar suposiciones, considerar diferentes perspectivas y evidencias, y razonar de manera lógica. Por ejemplo, cuando se analiza un artículo de prensa, un estudiante con pensamiento crítico podría preguntarse qué fuente da la información, si hay datos concretos o opiniones subjetivas, y si la conclusión se basa en evidencia sólida.",
-      "fecha": "2025-12-28T20:30:43.955Z"
-    },
     {
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras que indican la relación entre un sustantivo o un grupo de palabras y otros elementos en la oración, como lugares, tiempo, cantidad, etc. Por ejemplo, en la oración \"El libro está en la mesa\", la preposición \"en\" indica la relación entre el libro y la mesa, mostrando la ubicación del libro.\n\nLas preposiciones sirven para proporcionar información sobre la relación espacial (donde está, hacia dónde va, etc.), temporal (cuándo ocurre), causal (por qué), comparativa (cómo se relacionan dos cosas), entre otras.\n\nAlgunas preposiciones comunes son \"en\", \"de\", \"a\", \"con\", \"por\", entre otras.",
@@ -3705,8 +3704,13 @@
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es el proceso de analizar, evaluar y sintetizar información para llegar a conclusiones informadas y objetivas. Implica cuestionar suposiciones, identificar sesgos y considerar múltiples perspectivas para formar una opinión bien fundada. Por ejemplo, cuando un estudiante evalúa una fuente de información para determinar su credibilidad, está ejerciendo el pensamiento crítico.",
       "fecha": "2025-12-28T21:17:08.108Z"
+    },
+    {
+      "pregunta": "¿Qué son los sinónimos y antónimos?",
+      "respuesta": "Excelente pregunta, estudiantes. Un sinónimo es una palabra o frase que tiene el mismo significado que otra palabra o frase, pero suena diferente. Por ejemplo, \"luz\" y \"iluminación\" son sinónimos. Otro ejemplo es \"fácil\" y \"sencillo\", que significan lo mismo.\n\nPor otro lado, un antónimo es una palabra o frase que tiene un significado contrario a otra palabra o frase. Por ejemplo, \"rápido\" y \"lento\" son antónimos. Otro ejemplo es \"grande\" y \"pequeño\".\n\nEs importante destacar que los sinónimos y antónimos pueden ayudarnos a enriquecer nuestra comunicación y a expresarnos de manera más precisa y elegante.",
+      "fecha": "2025-12-28T21:17:15.918Z"
     }
   ],
-  "ultimaActualizacion": 1766956628110,
-  "preguntasHechas": 338
+  "ultimaActualizacion": 1766956635920,
+  "preguntasHechas": 339
 }
