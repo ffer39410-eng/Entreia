@@ -1,5 +1,5 @@
 {
-  "iq": 518,
+  "iq": 522,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1280,7 +1280,10 @@
     "coordinantes",
     "idiomas",
     "auxiliar",
-    "ubicarse"
+    "ubicarse",
+    "ecocardiograma",
+    "cardíacas",
+    "exhausto"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1744,8 +1747,13 @@
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales son una parte fundamental de la gramática en español y otros idiomas. Se utilizan para expresar diferentes momentos en el tiempo, como el pasado, el presente o el futuro, y pueden variar según la acción que se describe. Por ejemplo, el verbo \"ser\" en el presente es \"es\", en el pasado es \"fue\" y en el futuro se utiliza con el auxiliar \"va a ser\". En resumen, los tiempos verbales ayudan a crear una narrativa temporal en la que el lector o oyente puede ubicarse.",
       "fecha": "2025-12-28T19:15:26.229Z"
+    },
+    {
+      "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
+      "respuesta": "El vocabulario técnico se refiere a los términos y conceptos específicos utilizados en un campo o industria particular, como la medicina, la informática o la ingeniería. Por ejemplo, en la medicina, el término \"ecocardiograma\" se utiliza para describir una prueba de imágenes cardíacas. En cambio, el vocabulario coloquial se refiere a las palabras y expresiones comunes utilizadas en la vida diaria, como \"me siento exhausto\" o \"la vida es un laberinto\". La clave es que el vocabulario técnico es más formal y especializado, mientras que el coloquial es más informal y común.",
+      "fecha": "2025-12-28T19:15:34.223Z"
     }
   ],
-  "ultimaActualizacion": 1766949326230,
-  "preguntasHechas": 18
+  "ultimaActualizacion": 1766949334224,
+  "preguntasHechas": 19
 }
