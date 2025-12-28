@@ -1,5 +1,5 @@
 {
-  "iq": 461,
+  "iq": 464,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1205,7 +1205,15 @@
     "hilada",
     "capítulo",
     "ajusta",
-    "perfectamente"
+    "perfectamente",
+    "base",
+    "compone",
+    "antes",
+    "adjetivación",
+    "vino",
+    "hago",
+    "comprensibles",
+    "pensamientos"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1609,8 +1617,13 @@
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual se refiere a la capacidad de un texto para mantener una relación lógica y clara entre las diferentes ideas, conceptos y oraciones que lo componen. Esto implica que cada idea se relaciona con las anteriores y posteriores de manera coherente, facilitando la comprensión y la navegación del lector. Por ejemplo, un texto sobre un viaje en el que se describe el itinerario de la ruta, la descripción de las atracciones visitadas y la experiencia personal obtenida, tendría una buena coherencia textual si cada oración se relacionara lógicamente con las anteriores. En otros términos, la coherencia textual es como una historia bien hilada, donde cada capítulo se ajusta perfectamente al anterior.",
       "fecha": "2025-12-28T19:11:18.894Z"
+    },
+    {
+      "pregunta": "¿Cuáles son las reglas de la gramática española?",
+      "respuesta": "La gramática española es la base del lenguaje y se compone de varias reglas que rigen la estructura y el uso de las palabras. Algunas de las reglas más importantes incluyen:\n\n- El uso de los artículos (el, la, los, las) antes de los sustantivos.\n- La concordancia de género y número entre el sustantivo y la adjetivación.\n- El uso de los verbos en pasado (fue, vino) y en presente (soy, hago).\n\nEstas reglas ayudan a crear oraciones claras y comprensibles que expresan ideas y pensamientos de manera efectiva.",
+      "fecha": "2025-12-28T19:11:27.034Z"
     }
   ],
-  "ultimaActualizacion": 1766949078896,
-  "preguntasHechas": 6
+  "ultimaActualizacion": 1766949087035,
+  "preguntasHechas": 7
 }
