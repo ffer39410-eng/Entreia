@@ -1,5 +1,5 @@
 {
-  "iq": 508,
+  "iq": 513,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1264,7 +1264,20 @@
     "interesantes",
     "fáciles",
     "recordar",
-    "destacar"
+    "destacar",
+    "secundarios",
+    "subordinados",
+    "unidas",
+    "subordinantes",
+    "lleg",
+    "tarde",
+    "reprendida",
+    "jefe",
+    "había",
+    "tarea",
+    "valor",
+    "gramatical",
+    "coordinantes"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1718,8 +1731,13 @@
       "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
       "respuesta": "Las metáforas son una figura retórica que consiste en comparar dos conceptos incompatibles con el fin de crear una nueva comprensión o descripción. Se utilizan en el lenguaje para hacer que las ideas resulten más interesantes y fáciles de recordar. Por ejemplo, \"Ella es una estrella en el cielo de la música\" es una metáfora que compara a una persona con una estrella para destacar su talento.",
       "fecha": "2025-12-28T19:15:10.155Z"
+    },
+    {
+      "pregunta": "¿Cómo se construyen oraciones complejas en español?",
+      "respuesta": "Una oración compleja en español se construye utilizando un verbo principal (sujeto) y uno o más verbos secundarios (subordinados), unidas mediante conjunciones subordinantes como \"que\", \"porque\", \"alguien que\", \"cuando\", etc. Por ejemplo: \"La persona que llegó tarde fue reprendida por el jefe porque no había terminado su tarea\".\n\nEsto se puede clasificar en oraciones compuestas por subordinación, donde uno de los verbos está en una subordinada y el otro en la principal, y en oraciones compuestas por coordinación, donde dos o más verbos tienen el mismo valor gramatical y se unen con conjunciones coordinantes como \"y\", \"o\", \"pero\", etc.",
+      "fecha": "2025-12-28T19:15:18.354Z"
     }
   ],
-  "ultimaActualizacion": 1766949310156,
-  "preguntasHechas": 16
+  "ultimaActualizacion": 1766949318356,
+  "preguntasHechas": 17
 }
