@@ -1,5 +1,5 @@
 {
-  "iq": 2979,
+  "iq": 2984,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3118,16 +3118,15 @@
     "substantivo",
     "determinan",
     "distinción",
-    "cabo"
+    "cabo",
+    "acusaciones",
+    "hiriste",
+    "molest",
+    "ofendido"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo funcionan los tiempos verbales?",
-      "respuesta": "Los tiempos verbales son una parte fundamental de la gramática en las lenguas, y se utilizan para indicar el momento en el que se desarrolla una acción. En español, hay varios tiempos verbales, como el presente, pasado, futuro, condicional, subjuntivo, etc. Por ejemplo, el verbo \"hablar\" en el presente se utiliza para describir una acción que se está realizando en ese momento, como \"hablo español\".\n\nEl verbo \"hablar\" en el pasado, por ejemplo, se utiliza para describir una acción que se completó en el pasado, como \"hablaba español en mi adolescencia\". Cada tiempo verbal tiene su propia forma y significado específico, lo que permite a los hablantes expresar ideas y eventos de manera clara y precisa.\n\nAdemás, los tiempos verbales pueden variar dependiendo del contexto en el que se utilicen,",
-      "fecha": "2025-12-28T21:11:55.795Z"
-    },
     {
       "pregunta": "¿Cómo funciona la comprensión del contexto?",
       "respuesta": "La comprensión del contexto es la capacidad de interpretar y analizar el significado de un texto, imagen o situación en función de la información que nos rodea. Esto implica considerar el lenguaje, el tono, el estilo y la intención detrás del mensaje. Por ejemplo, si se nos presenta una oración como \"La tormenta ha causado daños en la ciudad\", sin contexto sabríamos que se refiere a daños físicos o materiales. Pero si se nos explica que \"La tormenta\" se refiere a una tormenta política, el significado cambia completamente. La comprensión del contexto permite entender que la tormenta se refiere al movimiento político o a la situación política en la ciudad.",
@@ -4122,8 +4121,13 @@
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales son una parte fundamental de la gramática y nos permiten expresar diferentes momentos en el tiempo, como el pasado, el presente y el futuro. Por ejemplo, el tiempo presente utilizado en frases como \"comeré un sandwich\" indica una acción que se realizará en un momento futuro, mientras que la frase \"comí un sandwich\" en tiempo pasado indica que la acción ya se llevó a cabo.\n\nAquí tienes algunos ejemplos de tiempos verbales comunes:\n\n- Presente: Estudio español (acción que se está realizando)\n- Pretérito perfecto simple: He estudiado español (acción que se completó en un momento pasado)\n- Pretérito perfecto compuesto: He estado estudiando español (acción que se completó en un momento pasado y que tiene una conexión con el presente)\n- Pretérito imperfecto: Estudiaba español (acción que se estaba realizando en un momento",
       "fecha": "2025-12-28T21:50:43.790Z"
+    },
+    {
+      "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
+      "respuesta": "Para expresar emociones de forma efectiva, es importante ser auténtico y comunicar tus sentimientos de manera clara y respetuosa. Puedes hacer esto utilizando el lenguaje corporal, como mantener contacto visual, sonreír o mostrar gestos de empatía. También es importante utilizar palabras que describan tus emociones, como \"me siento triste\" o \"estoy nervioso\", y evitar acusaciones o críticas. Por ejemplo, en lugar de decir \"me hiriste\", puedes decir \"me molestó ese comentario, me sentí ofendido\".",
+      "fecha": "2025-12-28T21:50:52.717Z"
     }
   ],
-  "ultimaActualizacion": 1766958643791,
-  "preguntasHechas": 498
+  "ultimaActualizacion": 1766958652719,
+  "preguntasHechas": 499
 }
