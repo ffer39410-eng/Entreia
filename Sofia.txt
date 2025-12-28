@@ -1,5 +1,5 @@
 {
-  "iq": 2267,
+  "iq": 2274,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2775,16 +2775,13 @@
     "expandir",
     "obstruidas",
     "humor",
-    "variado"
+    "variado",
+    "expresadas",
+    "descritos"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cuáles son las reglas de la gramática española?",
-      "respuesta": "La gramática española se rige por un conjunto de reglas y patrones que regulan la estructura y el uso de la lengua. Algunas de las reglas más importantes incluyen la declinación de los verbos, la concordancia de género y número de los adjetivos y sustantivos, y la utilización de las preposiciones y conjunciones.\n\nPor ejemplo, en español, el adjetivo debe concordar en género y número con el sustantivo al que modifica. Así, \"el gato\" (masc.) se conjuga con \"feliz\" (masc.), mientras que \"la gata\" (fem.) se conjuga con \"feliz\" (fem.).\n\nAdemás, la gramática española también regula la forma en que se construyen oraciones y frases, incluyendo la utilización de verbos en presente, pretérito y",
-      "fecha": "2025-12-28T20:34:03.923Z"
-    },
     {
       "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
       "respuesta": "El vocabulario técnico se refiere a términos y expresiones utilizadas en un campo específico, como la medicina, la informática o la ingeniería, que requieren conocimientos especializados para ser comprendidos. \n\nPor otro lado, el vocabulario coloquial se refiere a la forma en que hablamos en la vida cotidiana, utilizando términos y expresiones informales y comunes en nuestra cultura. \n\nPor ejemplo, en medicina, \"cirugía\" es un término técnico, y en coloquial es \"operación\"",
@@ -3779,8 +3776,13 @@
       "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
       "respuesta": "El vocabulario técnico se refiere a las palabras y expresiones utilizadas en un campo profesional o científico específico, como la medicina, la ingeniería o la informática, y que requieren conocimientos especializados para ser comprendidas. Por ejemplo, en medicina, el término \"angioplastia\" se refiere a un procedimiento quirúrgico para expandir las arterias obstruidas. En cambio, el vocabulario coloquial se refiere a las palabras y expresiones comúnmente utilizadas en la interacción social y la comunicación informal, como \"estar de mal humor\" o \"estar cansado\".\n\nEl vocabulario técnico es generalmente más formal y preciso, mientras que el coloquial es más relajado y variado.",
       "fecha": "2025-12-28T21:20:19.907Z"
+    },
+    {
+      "pregunta": "¿Cómo funcionan los tiempos verbales?",
+      "respuesta": "Los tiempos verbales son reglas gramaticales que indican cuándo y de qué manera se realizan las acciones expresadas por el verbo en una oración. Hay varios tiempos verbales, como el presente, pasado simple, pasado perfecto, futuro simple, entre otros. Por ejemplo, \"Ella come una manzana\" (presente), \"Yo comí una manzana ayer\" (pasado simple) y \"Ella comerá una manzana mañana\" (futuro simple).\n\nCada tiempo verbal tiene una función específica en la oración y ayuda a establecer la relación entre los eventos descritos.",
+      "fecha": "2025-12-28T21:20:27.862Z"
     }
   ],
-  "ultimaActualizacion": 1766956819909,
-  "preguntasHechas": 362
+  "ultimaActualizacion": 1766956827864,
+  "preguntasHechas": 363
 }
