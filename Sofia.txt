@@ -1,5 +1,5 @@
 {
-  "iq": 550,
+  "iq": 553,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1331,7 +1331,14 @@
     "adaptable",
     "paciente",
     "infarto",
-    "ataque"
+    "ataque",
+    "conecta",
+    "adicionales",
+    "gustaría",
+    "vacaciones",
+    "dinero",
+    "dormido",
+    "cines"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1830,8 +1837,13 @@
       "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
       "respuesta": "El vocabulario técnico se refiere a términos especializados utilizados en una profesión o campo específico, como la medicina, la ingeniería o la ciencia. Por ejemplo, en la medicina, el término \"angioplastia\" se utiliza para describir una técnica quirúrgica para desobstruir las arterias. En cambio, el vocabulario coloquial es el lenguaje común y cotidiano que se utiliza en la vida diaria, como cuando se dice \"me duele la cabeza\" en lugar de \"tengo dolor de cabeza\".\n\nEl vocabulario técnico suele ser más preciso y formal, mientras que el coloquial es más informal y adaptable a diferentes situaciones. Por ejemplo, un médico puede decir \"el paciente tiene un infarto\" en lugar de \"el paciente está teniendo un ataque al corazón\", utilizando un término técnico más preciso.\n\n",
       "fecha": "2025-12-28T19:16:22.416Z"
+    },
+    {
+      "pregunta": "¿Qué son los conectores y cómo se usan?",
+      "respuesta": "Los conectores son palabras o expresiones que se usan para conectar oraciones, ideas o frases en una oración o texto. Su función es unir conceptos en relación de causa-efecto, contraste, adición, consecuencia, etc.\n\nPor ejemplo:\n\n* \"Y\" (conecta ideas adicionales): \"Voy al parque y juego con mis amigos\".\n* \"Pero\" (indica contraste): \"Me gustaría ir de vacaciones, pero no tengo dinero\".\n* \"Porque\" (expresa causa-efecto): \"Me duele la cabeza porque no me he dormido\".\n* \"Sin embargo\" (indica oposición): \"Me gusta el cine, sin embargo no me gusta ir a los cines\".\n\nUsando conectores, podemos crear oraciones más complejas y expresivas.",
+      "fecha": "2025-12-28T19:16:30.437Z"
     }
   ],
-  "ultimaActualizacion": 1766949382417,
-  "preguntasHechas": 25
+  "ultimaActualizacion": 1766949390437,
+  "preguntasHechas": 26
 }
