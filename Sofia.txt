@@ -1,5 +1,5 @@
 {
-  "iq": 1219,
+  "iq": 1222,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2033,11 +2033,6 @@
   "conversaciones": 6,
   "conocimiento": [
     {
-      "pregunta": "¿Cómo funcionan los tiempos verbales?",
-      "respuesta": "Los tiempos verbales son un aspecto fundamental de la gramática en cualquier idioma, y su función es indicar el momento en que se desarrolla una acción o un estado. Hay diferentes tiempos verbales, como el pasado simple, el presente simple, el futuro simple, el pasado perfecto y el futuro perfecto, entre otros. Por ejemplo, la oración \"Ella come una manzana\" utiliza el presente simple para indicar que la acción de comer una manzana está sucediendo en el momento actual.",
-      "fecha": "2025-12-28T19:03:48.196Z"
-    },
-    {
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras que indican la relación entre un sustantivo (el objeto) y otro sustantivo, un verbo o una acción en una oración. Funcionan como conectores y ayudan a establecer la ubicación, la duración, la cantidad, la causa o la consecuencia de un evento. Por ejemplo, en la oración \"La biblioteca está en la calle principal\", la preposición \"en\" indica la ubicación de la biblioteca.",
       "fecha": "2025-12-28T19:03:56.361Z"
@@ -3031,8 +3026,13 @@
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son palabras que se utilizan para unir oraciones, frases o ideas dentro de un texto. Hay varios tipos de conectores, como \"y\" para indicar adición, \"pero\" para señalar oposición, \"o\" para dar alternativas, y \"porque\" para explicar una razón. Por ejemplo: \"Me encanta leer y escribir, porque disfruto mucho creando historias\".",
       "fecha": "2025-12-28T20:33:39.813Z"
+    },
+    {
+      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
+      "respuesta": "Las preposiciones son palabras que se utilizan para indicar la relación entre un sustantivo o un grupo de palabras y otros elementos en una oración. Por ejemplo, palabras como \"en\", \"de\", \"con\", \"sin\", \"entre\" y \"dentro de\" son preposiciones. Sirven para explicar dónde, cuándo, cómo o a quién se encuentra la acción o el sustantivo. Por ejemplo: \"Estoy sentado en la silla\" (indicando el lugar) o \"Me encanta leer con mis amigos\" (indicando la compañía).",
+      "fecha": "2025-12-28T20:33:47.753Z"
     }
   ],
-  "ultimaActualizacion": 1766954019814,
-  "preguntasHechas": 160
+  "ultimaActualizacion": 1766954027755,
+  "preguntasHechas": 161
 }
