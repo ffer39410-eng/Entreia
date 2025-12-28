@@ -1,5 +1,5 @@
 {
-  "iq": 1734,
+  "iq": 1739,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2454,11 +2454,6 @@
   "conversaciones": 6,
   "conocimiento": [
     {
-      "pregunta": "¿Qué es el pensamiento crítico?",
-      "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar información, argumentos y puntos de vista de manera objetiva y lógica, para llegar a conclusiones informadas y bien fundamentadas. Requiere la capacidad de cuestionar supuestos, identificar sesgos y considerar múltiples perspectivas. Por ejemplo, al leer un artículo periodístico, el pensamiento crítico te permitiría analizar si el autor presenta evidencia sólida, si sus argumentos están bien fundamentados y si hay sesgos en su perspectiva.",
-      "fecha": "2025-12-28T19:25:36.281Z"
-    },
-    {
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales en la gramática española se refieren a la forma en que se expresan acciones en el tiempo. Hay tres categorías principales: pasado, presente y futuro. Por ejemplo, el verbo \"hablar\" en la forma de presente se utiliza para describir acciones que ocurren en el momento actual, como \"Hablo con mi amigo\". En el presente progresivo, se utiliza para describir acciones que ocurren en un momento específico, como \"Estoy estudiando ahora\".",
       "fecha": "2025-12-28T19:25:44.264Z"
@@ -3452,8 +3447,13 @@
       "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
       "respuesta": "Las metáforas son una figura retórica que permite crear conexión entre conceptos abstractos o complejos y objetos o experiencias concretos, facilitando la comprensión y la comunicación. Por ejemplo, \"Ella es una estrella\" o \"Él es un sol\" son metáforas que comparan a una persona con un astro, enfatizando su belleza o energía. Al usar metáforas, podemos hacer que nuestros mensajes sean más memorables y emotivos.",
       "fecha": "2025-12-28T21:04:11.714Z"
+    },
+    {
+      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
+      "respuesta": "Las preposiciones son palabras que se utilizan para indicar la relación entre un objeto o una persona y su entorno, como lugar, tiempo, dirección, cantidad, etc. Por ejemplo, en la frase \"La biblioteca está en la esquina\", la preposición \"en\" indica la ubicación de la biblioteca. También se utilizan para expresar la relación entre dos elementos, como en \"Me gustan los perros grandes\", donde \"de\" indica la clase o tipo de perros.",
+      "fecha": "2025-12-28T21:04:19.825Z"
     }
   ],
-  "ultimaActualizacion": 1766955851715,
-  "preguntasHechas": 261
+  "ultimaActualizacion": 1766955859826,
+  "preguntasHechas": 262
 }
