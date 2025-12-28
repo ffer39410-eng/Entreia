@@ -1,5 +1,5 @@
 {
-  "iq": 2355,
+  "iq": 2358,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2831,11 +2831,6 @@
   "conversaciones": 6,
   "conocimiento": [
     {
-      "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
-      "respuesta": "El vocabulario técnico se refiere a las palabras y expresiones utilizadas en contextos profesionales o especializados, como en la medicina, la ingeniería o las ciencias. Por ejemplo, términos como \"cirugía reconstructiva\" o \"microprocesador\" son vocabulario técnico.\n\nPor otro lado, el vocabulario coloquial se refiere a las palabras y expresiones utilizadas en la comunicación informal, como en conversaciones cotidianas con amigos o familiares. Por ejemplo, frases como \"¿Qué tal si vamos al parque?\" o \"Eso es un chiste muy gracioso\" son vocabulario coloquial.\n\nLa clave para diferenciar entre ambos es considerar el contexto y la audiencia objetivo. El vocabulario técnico está diseñado para ser preciso y técnico, mientras que el vocabulario coloquial está diseñado para ser accesible y amigable.",
-      "fecha": "2025-12-28T20:39:16.016Z"
-    },
-    {
       "pregunta": "¿Cómo se usa la puntuación correctamente?",
       "respuesta": "La puntuación es esencial para comunicar ideas de manera clara y efectiva en la escritura y la lectura. Utiliza comas para separar elementos en una oración larga, como en el caso de \"Vivo en Madrid, donde trabajo como profesor\". Utiliza puntos para separar ideas o oraciones independientes, como en el caso de \"Me encanta leer. Me gusta escribir también\". Los signos de interrogación y exclamación se utilizan para expresar sorpresa o emoción, como en el caso de \"¿Qué hora es?\" o \"¡Estoy emocionado!\".",
       "fecha": "2025-12-28T20:39:23.698Z"
@@ -3829,8 +3824,13 @@
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras que se utilizan para indicar la relación entre un sustantivo y otro elemento en una oración, como un lugar, un tiempo, una cantidad, una acción, etc. Por ejemplo, en la oración \"La casa está en la calle principal\", la preposición \"en\" indica la relación entre la casa y la calle principal. Sirven para proporcionar información adicional sobre el sustantivo principal y ayudan a clarificar el significado de la oración.",
       "fecha": "2025-12-28T21:22:27.706Z"
+    },
+    {
+      "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
+      "respuesta": "Las metáforas son figuras de lenguaje que permiten crear nuevas relaciones y significados entre conceptos diferentes. Se utilizan para describir ideas abstractas de manera más concreta y accesible, como cuando decimos \"mi corazón late con emoción\" en lugar de \"me siento muy emocionado\". Esto permite transmitir sentimientos y experiencias de manera más intensa y evocadora. Las metáforas pueden ser utilizadas en la literatura, la poesía, la oratoria y el discurso cotidiano para enriquecer el lenguaje y comunicar ideas de manera más efectiva.",
+      "fecha": "2025-12-28T21:22:35.637Z"
     }
   ],
-  "ultimaActualizacion": 1766956947707,
-  "preguntasHechas": 378
+  "ultimaActualizacion": 1766956955639,
+  "preguntasHechas": 379
 }
