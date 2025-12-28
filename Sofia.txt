@@ -1,5 +1,5 @@
 {
-  "iq": 636,
+  "iq": 643,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1440,7 +1440,22 @@
     "desarrollo",
     "agricultura",
     "explicar",
-    "central"
+    "central",
+    "trata",
+    "críticamente",
+    "sólidos",
+    "mayoría",
+    "universidad",
+    "prefieren",
+    "digitales",
+    "impresas",
+    "media",
+    "relativamente",
+    "joven",
+    "estén",
+    "acostumbrados",
+    "justificación",
+    "explicación"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2024,8 +2039,13 @@
       "pregunta": "¿Qué es la coherencia textual?",
       "respuesta": "La coherencia textual se refiere a la relación lógica y consistente entre las ideas, conceptos y oraciones presentes en un texto. Implica que cada oración debe estar relacionada con el resto y contribuir de manera significativa al desarrollo del tema principal. Por ejemplo, en un ensayo sobre el efecto del clima en la agricultura, cada oración debe explicar o proporcionar evidencia que respalde la idea central.",
       "fecha": "2025-12-28T19:22:56.207Z"
+    },
+    {
+      "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
+      "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de analizar y evaluar información, utilizar reglas y principios, y llegar a conclusiones razonables y precisas. Se trata de pensar críticamente y de utilizar argumentos sólidos para defender una idea o una opinión. Por ejemplo, si alguien dice \"La mayoría de los estudiantes de la universidad prefieren leer libros digitales en lugar de libros impresas\", un argumento lógico podría ser: \"Si la mayoría de los estudiantes prefieren leer en digital, es probable que su edad media sea relativamente joven y que estén acostumbrados a usar tecnología\".\n\nUn razonamiento lógico implica la siguiente secuencia:\n\n* Una afirmación o premisa\n* Una inferencia o conclusión lógica basada en esa afirmación\n* Una justificación o explicación de por qué la conclusión es razonable\n\nAl",
+      "fecha": "2025-12-28T19:23:04.575Z"
     }
   ],
-  "ultimaActualizacion": 1766949776208,
-  "preguntasHechas": 42
+  "ultimaActualizacion": 1766949784579,
+  "preguntasHechas": 43
 }
