@@ -1,5 +1,5 @@
 {
-  "iq": 513,
+  "iq": 518,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1277,7 +1277,10 @@
     "tarea",
     "valor",
     "gramatical",
-    "coordinantes"
+    "coordinantes",
+    "idiomas",
+    "auxiliar",
+    "ubicarse"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1736,8 +1739,13 @@
       "pregunta": "¿Cómo se construyen oraciones complejas en español?",
       "respuesta": "Una oración compleja en español se construye utilizando un verbo principal (sujeto) y uno o más verbos secundarios (subordinados), unidas mediante conjunciones subordinantes como \"que\", \"porque\", \"alguien que\", \"cuando\", etc. Por ejemplo: \"La persona que llegó tarde fue reprendida por el jefe porque no había terminado su tarea\".\n\nEsto se puede clasificar en oraciones compuestas por subordinación, donde uno de los verbos está en una subordinada y el otro en la principal, y en oraciones compuestas por coordinación, donde dos o más verbos tienen el mismo valor gramatical y se unen con conjunciones coordinantes como \"y\", \"o\", \"pero\", etc.",
       "fecha": "2025-12-28T19:15:18.354Z"
+    },
+    {
+      "pregunta": "¿Cómo funcionan los tiempos verbales?",
+      "respuesta": "Los tiempos verbales son una parte fundamental de la gramática en español y otros idiomas. Se utilizan para expresar diferentes momentos en el tiempo, como el pasado, el presente o el futuro, y pueden variar según la acción que se describe. Por ejemplo, el verbo \"ser\" en el presente es \"es\", en el pasado es \"fue\" y en el futuro se utiliza con el auxiliar \"va a ser\". En resumen, los tiempos verbales ayudan a crear una narrativa temporal en la que el lector o oyente puede ubicarse.",
+      "fecha": "2025-12-28T19:15:26.229Z"
     }
   ],
-  "ultimaActualizacion": 1766949318356,
-  "preguntasHechas": 17
+  "ultimaActualizacion": 1766949326230,
+  "preguntasHechas": 18
 }
