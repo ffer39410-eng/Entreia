@@ -1,5 +1,5 @@
 {
-  "iq": 2665,
+  "iq": 2668,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2982,16 +2982,16 @@
     "empresario",
     "compartida",
     "alegr",
-    "recibido"
+    "recibido",
+    "like",
+    "reading",
+    "books",
+    "watching",
+    "movies"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo funciona la comprensión del contexto?",
-      "respuesta": "La comprensión del contexto es un proceso mental que nos permite interpretar y dar sentido a las palabras y expresiones en función de su significado dentro de una situación o entorno específico. Implica considerar el lugar, el momento y las personas involucradas en la comunicación para entender el significado no literal de lo que se dice. Por ejemplo, cuando se dice \"esta casa está helada\", si estamos en pleno invierno, es probable que se refiera al temperamento frío del dueño y no a la temperatura del aire.",
-      "fecha": "2025-12-28T21:00:59.924Z"
-    },
     {
       "pregunta": "¿Qué es el pensamiento crítico?",
       "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar información de manera reflexiva y objetiva, considerando múltiples perspectivas y fuentes. Esto implica cuestionar suposiciones y premisas, identificar sesgos y fallas en la lógica, y alcanzar conclusiones fundamentadas en evidencia y razonamiento. Por ejemplo, un estudiante que analiza un tema histórico no solo recordará hechos, sino que también evaluará la interpretación de los historiadores y considerará las implicaciones de sus conclusiones. De esta forma, desarrolla sus habilidades para pensar críticamente y tomar decisiones informadas.",
@@ -3986,8 +3986,13 @@
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son palabras o expresiones que se utilizan para unir ideas, oraciones o frases para crear una estructura lógica y clara en el lenguaje. Se dividen en tres categorías principales: conectores de coordinación (y, y además, pero), conectores de subordinación (que, porque, aunque) y conectores de adición (además, asimismo).\n\nPor ejemplo, \"Me gusta leer libros y escribir poesías\" es una oración que utiliza el conector \"y\" para unir dos ideas coordinadas, mientras que \"Me gusta leer libros porque me encanta la lectura\" utiliza el conector \"porque\" para unir una oración principal con una oración subordinada.",
       "fecha": "2025-12-28T21:37:07.848Z"
+    },
+    {
+      "pregunta": "¿Qué son los conectores y cómo se usan?",
+      "respuesta": "Los conectores son palabras que conectan ideas o oraciones entre sí, ayudando a organizar y unir el contenido de un texto. Hay varios tipos de conectores, como los de coordinación (y, pero, o, ni), los de subordinación (porque, ya que, aunque) y los de adición (además, tampoco, ni siquiera).\n\nPor ejemplo, \"I like reading books (yo me gusta leer libros) y watching movies (y ver películas)\" en la que \"y\" es un conector de coordinación que conecta las dos ideas.",
+      "fecha": "2025-12-28T21:37:15.847Z"
     }
   ],
-  "ultimaActualizacion": 1766957827849,
-  "preguntasHechas": 437
+  "ultimaActualizacion": 1766957835849,
+  "preguntasHechas": 438
 }
