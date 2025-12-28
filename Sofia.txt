@@ -1,5 +1,5 @@
 {
-  "iq": 3003,
+  "iq": 3009,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3129,16 +3129,16 @@
     "empatéticamente",
     "desconcertado",
     "salida",
-    "iremos"
+    "iremos",
+    "ciegas",
+    "revisaría",
+    "verificaría",
+    "agendas",
+    "ocultas"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo se estructura una buena argumentación?",
-      "respuesta": "Una buena argumentación se estructura en tres componentes fundamentales: la introducción, la argumentación en sí y la conclusión. La introducción presenta el tema y la perspectiva del argumento. La argumentación en sí presenta los hechos, los datos y los análisis que respaldan la tesis. La conclusión resume los argumentos presentados y presenta la conclusión final.\n\nPor ejemplo, supongamos que queremos argumentar que los coches eléctricos son más beneficiosos que los coches de combustible fósil. La introducción presentaría la importancia del cambio climático y la necesidad de reducir las emisiones de gases de efecto invernadero. La argumentación en sí presentaría estadísticas que muestran la menor emisión de gases de efecto invernadero de los coches eléctricos, así como beneficios económicos y de salud. La conclusión resume los argumentos",
-      "fecha": "2025-12-28T21:12:35.934Z"
-    },
     {
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "Los sinónimos son palabras que tienen el mismo significado, pero diferentes formas de expresar una idea. Por ejemplo, \"largo\" y \"extenso\" son sinónimos, ya que ambos describen algo que tiene una gran longitud.\n\nPor otro lado, los antónimos son palabras que tienen significados opuestos. Por ejemplo, \"calor\" y \"frío\" son antónimos, ya que uno describe una temperatura alta y el otro una temperatura baja.\n\nEs importante destacar que no siempre hay palabras exactas que sean sinónimos o antónimos perfectos, pero generalmente se consideran palabras que pueden ser utilizadas en lugar de otra sin cambiar el significado principal.",
@@ -4133,8 +4133,13 @@
       "pregunta": "¿Cómo se usa la puntuación correctamente?",
       "respuesta": "La puntuación es un elemento fundamental en la escritura para comunicar ideas y expresiones de manera clara y efectiva. Utiliza comas para separar ideas en una oración, puntos para indicar el final de una oración y el inicio de un nuevo párrafo. Por ejemplo: \"Voy al parque, donde encontraré a mis amigos. Luego, iremos al cine para ver una película\".",
       "fecha": "2025-12-28T21:51:23.887Z"
+    },
+    {
+      "pregunta": "¿Qué es el pensamiento crítico?",
+      "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar información de manera objetiva y lógica, considerando múltiples perspectivas y fuentes. Se trata de cuestionar asunciones y suposiciones, identificar patrones y relaciones, y tomar decisiones informadas. Por ejemplo, cuando se lee un artículo periodístico, un pensador crítico no se limitaría a aceptar la información a ciegas, sino que revisaría la fuente, verificaría los hechos y consideraría posibles sesgos o agendas ocultas.",
+      "fecha": "2025-12-28T21:51:31.663Z"
     }
   ],
-  "ultimaActualizacion": 1766958683890,
-  "preguntasHechas": 503
+  "ultimaActualizacion": 1766958691666,
+  "preguntasHechas": 504
 }
