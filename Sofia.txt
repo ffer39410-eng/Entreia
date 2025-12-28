@@ -1,5 +1,5 @@
 {
-  "iq": 1853,
+  "iq": 1860,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2511,16 +2511,12 @@
     "ciega",
     "poemas",
     "equivalentes",
-    "receptor"
+    "receptor",
+    "ayudando"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cuáles son las reglas de la gramática española?",
-      "respuesta": "La gramática española se divide en varias partes principales: ortografía, morfología, sintaxis y semántica. La ortografía se refiere a la forma en que se escriben las palabras, la morfología estudia la formación de palabras, la sintaxis analiza la estructura de las oraciones y la semántica explora el significado de las palabras y oraciones. \n\nPor ejemplo, en la morfología, podemos observar cómo se forman los verbos en pasado: el verbo \"hablar\" se convierte en \"hablé\" en singular, \"hablamos\" en plural, \"habló\" en singular del pretérito perfecto simple, y así sucesivamente.",
-      "fecha": "2025-12-28T19:59:07.587Z"
-    },
     {
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales son una parte fundamental de la gramática, y se refieren a los diferentes momentos en que se realizan las acciones descritas por el verbo. Hay varios tiempos verbales, como el presente, el pasado, el futuro, el condicional, el subjuntivo, etc. Por ejemplo, en la oración \"Yo como una manzana\", el verbo \"como\" se encuentra en el tiempo presente, lo que indica que la acción está sucediendo en el momento actual.\n\nEn cambio, en la oración \"Yo comí una manzana\", el verbo \"comí\" se encuentra en el tiempo pasado, lo que indica que la acción ya ha sucedido. Los tiempos verbales pueden cambiar significado radicalmente dependiendo de su uso, por lo que es importante elegir el tiempo que mejor se adapte al contexto en el que se está escribiendo o hablando.\n\nLa ele",
@@ -3515,8 +3511,13 @@
       "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
       "respuesta": "Las metáforas son una figura retórica que consiste en comparar dos conceptos diferentes, no equivalentes, para crear una nueva descripción. Por ejemplo, \"la vida es un viaje\" o \"el tiempo es un río\". Esta comparación permite describir emociones o situaciones complejas de manera más clara y comprensible. Las metáforas se usan en la literatura, la poesía, la oratoria y la comunicación cotidiana para crear imágenes mentales y evocar sentimientos en el receptor.",
       "fecha": "2025-12-28T21:09:55.679Z"
+    },
+    {
+      "pregunta": "¿Qué son los conectores y cómo se usan?",
+      "respuesta": "Los conectores son palabras o frases que se utilizan para unir ideas, oraciones o textos entre sí, ayudando a crear una secuencia lógica y clara en la comunicación. Algunos conectores comunes son \"y\", \"pero\", \"sin embargo\", \"por lo tanto\", \"además\" y \"por ejemplo\". Por ejemplo: \"Me encanta leer libros y escribir historias\". En esta oración, la palabra \"y\" conecta dos ideas para crear una oración coherente.",
+      "fecha": "2025-12-28T21:10:03.618Z"
     }
   ],
-  "ultimaActualizacion": 1766956195680,
-  "preguntasHechas": 284
+  "ultimaActualizacion": 1766956203619,
+  "preguntasHechas": 285
 }
