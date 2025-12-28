@@ -1,5 +1,5 @@
 {
-  "iq": 1954,
+  "iq": 1959,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2584,16 +2584,18 @@
     "sediento",
     "cerca",
     "permiti",
-    "march"
+    "march",
+    "poética",
+    "atrapado",
+    "evoca",
+    "difícil",
+    "navegar",
+    "imaginar",
+    "conectarse"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo se usa la puntuación correctamente?",
-      "respuesta": "La puntuación es un elemento fundamental en la escritura, ya que ayuda a estructurar y transmitir el significado de nuestra comunicación. Utilizamos signos de puntuación como comas, puntos, signos de interrogación y exclamación para separar ideas, indicar la finalización de oraciones y enfatizar la emoción o la pregunta. Un ejemplo de uso correcto de la puntuación es: \"¿Dónde vas hoy? Me gustaría ir contigo.\"\n\nDe manera que, la coma separa las oraciones independientes y el signo de interrogación indica que es una pregunta.",
-      "fecha": "2025-12-28T20:11:15.952Z"
-    },
     {
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "Los sinónimos son palabras o expresiones que tienen el mismo significado o connotación que otras palabras. Por ejemplo, \"gran\" y \"enorme\" son sinónimos porque se refieren a algo de gran tamaño. Otro ejemplo es \"feliz\" y \"alegre\", que se refieren a un estado emocional positivo.\n\nPor otro lado, los antónimos son palabras o expresiones que tienen un significado opuesto o contradictorio. Por ejemplo, \"rápido\" y \"lento\" son antónimos porque se refieren a velocidades opuestas. Otro ejemplo es \"grande\" y \"pequeño\", que se refieren a tamaños opuestos.",
@@ -3588,8 +3590,13 @@
       "pregunta": "¿Cómo se usa la puntuación correctamente?",
       "respuesta": "La puntuación es fundamental en la escritura para comunicar ideas de manera clara y eficaz. Utilizar puntos y comas correctamente podemos indicar pausas, separar oraciones y enfatizar palabras clave, como en el ejemplo: \"Vine a la fiesta, pero me marché temprano.\" En este caso, el punto al final de \"fiesta\" indica que es la oración principal, mientras que la coma después de \"vine\" separa las dos ideas.",
       "fecha": "2025-12-28T21:12:19.756Z"
+    },
+    {
+      "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
+      "respuesta": "Las metáforas son utilizadas para crear conexiones inusuales entre conceptos y objetos, permitiendo a los hablantes describir ideas y emociones de manera más poética y evocadora. Por ejemplo, decir \"estoy atrapado en un laberinto\" no solo describe una sensación de confusión, sino que también evoca una imagen visual de un lugar desconocido y difícil de navegar. Esto permite a los oyentes imaginar y conectarse con la Idea más fácilmente.",
+      "fecha": "2025-12-28T21:12:27.848Z"
     }
   ],
-  "ultimaActualizacion": 1766956339757,
-  "preguntasHechas": 302
+  "ultimaActualizacion": 1766956347850,
+  "preguntasHechas": 303
 }
