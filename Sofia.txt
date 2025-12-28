@@ -1,5 +1,5 @@
 {
-  "iq": 2582,
+  "iq": 2586,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2943,16 +2943,13 @@
     "estudias",
     "notas",
     "obtienes",
-    "mejores"
+    "mejores",
+    "combinaciones",
+    "ocurrida"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
-      "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de analizar información, establecer conexiones lógicas y llegar a conclusiones precisas. Esto implica identificar premisas, establecer relaciones lógicas y sacar conclusiones que se derivan razonablemente de ellas. Por ejemplo, si alguien dice \"Si llueve, no puedo jugar al fútbol fuera. Hoy llueve, entonces no puedo jugar al fútbol\". En este caso, la persona está utilizando un razonamiento lógico para llegar a una conclusión basada en premisas conocidas.",
-      "fecha": "2025-12-28T20:54:36.213Z"
-    },
     {
       "pregunta": "¿Cómo se usa la puntuación correctamente?",
       "respuesta": "La puntuación es un aspecto fundamental en la escritura y la comunicación efectiva. Utiliza comas para separar ideas en una oración larga, como en el ejemplo: \"Me encanta leer libros de historia, aprender sobre diferentes culturas y explorar nuevos lugares.\" Utiliza puntos para indicar el final de una oración o lista, como en el ejemplo: \"Los beneficios de la lectura son: mejorar la comprensión, aumentar la vocabulario y reducir el estrés.\"",
@@ -3947,8 +3944,13 @@
       "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
       "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de analizar e evaluar información, utilizar premisas y llegar a conclusiones lógicas y racionales. Esto implica identificar patrones, relaciones y causalidades entre ideas, y utilizar reglas de inferencia para llegar a conclusiones coherentes. Por ejemplo, si alguien afirma que \"cuanto más estudias, mejor notas obtienes\", un razonamiento lógico implicaría preguntar \"¿qué define 'estudiar'?\" y \"¿qué define 'mejores notas'?\" para evaluar la validez de la afirmación.",
       "fecha": "2025-12-28T21:32:03.715Z"
+    },
+    {
+      "pregunta": "¿Cómo funcionan los tiempos verbales?",
+      "respuesta": "Los tiempos verbales son palabras o combinaciones de palabras que indican el momento en que se realiza una acción. En la oración, un verbo puede ser utilizado en diferentes tiempos para expresar diferentes situaciones, como el pasado, el presente o el futuro.\n\nPor ejemplo, el verbo \"ir\" puede ser utilizado de las siguientes maneras:\n\n- Presente: Yo voy al parque (acción ocurrida en este momento).\n- Pasado: Yo fui al parque (acción ocurrida en el pasado).\n- Futuro: Yo iré al parque (acción que ocurrirá en el futuro).\n\nCada tiempo verbal tiene su propia forma y uso en la oración.",
+      "fecha": "2025-12-28T21:32:11.842Z"
     }
   ],
-  "ultimaActualizacion": 1766957523717,
-  "preguntasHechas": 422
+  "ultimaActualizacion": 1766957531843,
+  "preguntasHechas": 423
 }
