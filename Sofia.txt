@@ -1,5 +1,5 @@
 {
-  "iq": 1273,
+  "iq": 1280,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2076,16 +2076,15 @@
     "siempre",
     "usamos",
     "quieres",
-    "encantaría"
+    "encantaría",
+    "supermercado",
+    "necesito",
+    "comprar",
+    "formular"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
-      "respuesta": "El vocabulario técnico se refiere a las palabras y expresiones específicas de un campo o industria en particular, como la medicina, la ingeniería o la informática, y suelen ser utilizadas en un contexto formal y especializado. Por ejemplo, un médico usa términos técnicos como \"angiografía\" o \"férula\" para comunicarse con sus colegas y pacientes.\n\nPor otro lado, el vocabulario coloquial se refiere a las palabras y expresiones informales que se usan en la vida diaria, como en conversaciones con amigos, familiares o en la red social. Estos términos suelen ser más comunes y accesibles para un público general.\n\nPor ejemplo, en lugar de decir \"ángulo recto\", puedes decir \"derecho\" en un contexto coloquial.",
-      "fecha": "2025-12-28T19:06:33.244Z"
-    },
     {
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras que se utilizan para indicar la relación entre un sustantivo y otro sustantivo, un lugar o una acción. Ejemplos de preposiciones comunes son \"en\", \"a\", \"de\", \"con\", \"sin\" y \"por\". Por ejemplo: \"Estoy sentado en la silla\", donde \"en\" indica la relación entre la acción de estar sentado y el lugar donde se realiza.",
@@ -3080,8 +3079,13 @@
       "pregunta": "¿Cómo se usa la puntuación correctamente?",
       "respuesta": "La puntuación es fundamental en la escritura para comunicar ideas de manera clara y precisa. Utiliza signos de puntuación como comas, puntos y coma, dos puntos, etc., para separar ideas, enfatizar información o indicar pausas en la lectura. Por ejemplo: \"Vine a la tierra en busca de aventuras, pero lo que encontré fue una experiencia que cambió mi vida para siempre.\"\n\nAdemás, la puntuación también ayuda a evitar la ambigüedad en la escritura, como cuando usamos signos de puntuación para distinguir entre oraciones independientes y dependientes. Por ejemplo: \"¿Quieres ir al cine? Si, me encantaría!\"",
       "fecha": "2025-12-28T20:35:07.817Z"
+    },
+    {
+      "pregunta": "¿Cómo se usa la puntuación correctamente?",
+      "respuesta": "La puntuación es fundamental en la escritura para transmitir ideas de manera clara y precisa. Una coma (,) se utiliza para separar dos oraciones independientes que están relacionadas, como en \"Voy al supermercado, porque necesito comprar algo\". Un punto (.) se utiliza al final de una oración para indicar su finalización, como en \"Me encanta leer libros\". Un signo de exclamación (!) se utiliza para expresar énfasis o sorpresa, como en \"¡Estoy emocionado!\". Un signo de interrogación (?) se utiliza para formular una pregunta, como en \"¿Qué hora es?\".",
+      "fecha": "2025-12-28T20:35:15.820Z"
     }
   ],
-  "ultimaActualizacion": 1766954107820,
-  "preguntasHechas": 171
+  "ultimaActualizacion": 1766954115823,
+  "preguntasHechas": 172
 }
