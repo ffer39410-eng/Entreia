@@ -1,5 +1,5 @@
 {
-  "iq": 2946,
+  "iq": 2950,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3108,16 +3108,16 @@
     "implementando",
     "lados",
     "moneda",
-    "transfiere"
+    "transfiere",
+    "coordinadores",
+    "coordinador",
+    "igualdad",
+    "sigo",
+    "trabajando"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cuáles son las reglas de la gramática española?",
-      "respuesta": "La gramática española se rige por una serie de reglas y principios que guían la construcción de las oraciones y la forma en que se expresan las ideas. Algunas de las reglas fundamentales incluyen:\n\n- El orden de las palabras: en español, el sujeto generalmente se coloca al inicio de la oración seguido por el verbo y luego los complementos.\n- El género y el número: los nouns y adjetivos en español tienen género (masculino o femenino) y número (singular o plural).\n- Los verbos: los verbos en español tienen diferentes conjugaciones según la persona, el tiempo y el modo en que se expresan.\n\nPor ejemplo: \"El (sujeto) come (verbo) una manzana (complemento)\".\nRecuerda que estas reglas son solo las más básicas, y hay muchas otras reglas y excepciones en",
-      "fecha": "2025-12-28T21:11:07.849Z"
-    },
     {
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "Los sinónimos son palabras que tienen el mismo significado o casi idéntico, como \"fácil\" y \"sencillo\". Por ejemplo: \"La prueba fue muy fácil, una cuestión de hacerlo con facilidad\".\n\nLos antónimos, por otro lado, son palabras que tienen un sentido opuesto, como \"muy frío\" y \"caloroso\". Por ejemplo: \"La habitación estaba demasiado fría, lo que me recordó el calor de la playa en verano\".\n\nEn resumen, los sinónimos se utilizan para expresar la misma idea, mientras que los antónimos se utilizan para resaltar la diferencia o la oposición.",
@@ -4112,8 +4112,13 @@
       "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
       "respuesta": "Las metáforas son una figura retórica que consiste en comparar dos conceptos o ideas sin utilizar la palabra \"como\", creando así una conexión creativa entre ellos. Por ejemplo, \"El sol es una moneda de oro en el cielo\" no expresa una comparación literal, sino una descripción que transfiere la idea de valor y belleza del oro al sol. Las metáforas se utilizan para describir conceptos abstractos de manera más comprensible y emocional.",
       "fecha": "2025-12-28T21:49:55.665Z"
+    },
+    {
+      "pregunta": "¿Cómo se construyen oraciones complejas en español?",
+      "respuesta": "Las oraciones complejas en español se construyen con la ayuda de conectores y coordinadores para unir dos o más oraciones simples o oraciones independientes. Un conector es una palabra como \"aunque\", \"pues\", \"porque\" que une dos oraciones para mostrar la relación entre ellas, mientras que un coordinador es una palabra como \"y\", \"o\", \"pero\" que las une para mostrar una relación de igualdad entre ellas. Por ejemplo: \"Estoy cansado, pero sigo trabajando porque es importante\".",
+      "fecha": "2025-12-28T21:50:03.892Z"
     }
   ],
-  "ultimaActualizacion": 1766958595666,
-  "preguntasHechas": 492
+  "ultimaActualizacion": 1766958603895,
+  "preguntasHechas": 493
 }
