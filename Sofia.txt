@@ -1,5 +1,5 @@
 {
-  "iq": 384,
+  "iq": 387,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1033,7 +1033,13 @@
     "libros",
     "tengo",
     "hacerlo",
-    "contrarias"
+    "contrarias",
+    "misma",
+    "variar",
+    "contrarios",
+    "pequeños",
+    "ricos",
+    "expresivos"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1352,8 +1358,13 @@
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son palabras o expresiones que se utilizan para unir oraciones o ideas en un texto o una conversación. Se dividen en cuatro categorías principales: consecutivos (por lo tanto, sin embargo, además), aditivos (además, sin embargo, por lo tanto), adversativos (pero, sin embargo, aunque), y causales (porque, ya que, ya que).\n\nPor ejemplo, en la oración \"Me encanta leer libros, pero no tengo mucho tiempo para hacerlo\", el conector \"pero\" une dos ideas contrarias.",
       "fecha": "2025-12-28T19:08:49.087Z"
+    },
+    {
+      "pregunta": "¿Qué son los sinónimos y antónimos?",
+      "respuesta": "Los sinónimos son palabras que tienen el mismo significado o se refieren a la misma idea, pero pueden variar en tono o estilo. Por ejemplo: \"frio\" y \"frío\" son sinónimos.\n\nLos antónimos, por otra parte, son palabras que tienen significados opuestos o contrarios. Por ejemplo: \"grandes\" y \"pequeños\" son antónimos. \n\nEstos conceptos se utilizan en la gramática y la retórica para crear textos más ricos y expresivos.",
+      "fecha": "2025-12-28T19:08:57.008Z"
     }
   ],
-  "ultimaActualizacion": 1766948929088,
+  "ultimaActualizacion": 1766948937010,
   "preguntasHechas": null
 }
