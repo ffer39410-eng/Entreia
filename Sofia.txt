@@ -1,5 +1,5 @@
 {
-  "iq": 350,
+  "iq": 355,
   "vocabulario": [
     "claro",
     "sofia",
@@ -967,7 +967,14 @@
     "terminar",
     "deberes",
     "llam",
-    "caso"
+    "caso",
+    "elemento",
+    "playa",
+    "resto",
+    "lugares",
+    "direcciones",
+    "maneras",
+    "bajo"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1256,8 +1263,13 @@
       "pregunta": "¿Cómo se construyen oraciones complejas en español?",
       "respuesta": "Las oraciones complejas en español se construyen mediante la combinación de una oración independiente (o principal) con una cláusula subordinada, que expresa una relación de dependencia con la primera. La cláusula subordinada puede ser indicativa, condicional, temporal, causal, final o comparativa. Por ejemplo: \"Después de terminar los deberes, llamé a mi amigo\" (en este caso, \"después de terminar los deberes\" es la cláusula subordinada).",
       "fecha": "2025-12-28T19:08:01.268Z"
+    },
+    {
+      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
+      "respuesta": "Las preposiciones son palabras que indican la relación entre un objeto, lugar o tiempo y otro elemento en una oración. A modo de ejemplo, \"en la playa\" o \"con mi amigo\" son expresiones que utilizan la preposición \"en\" y \"con\" para indicar la relación entre el objeto o lugar y el resto de la oración.\n\nLas preposiciones sirven para proporcionar contexto y claridad a las oraciones, y pueden indicar lugares, direcciones, tiempo, maneras de hacer algo, etc. Algunas preposiciones comunes son \"en\", \"de\", \"con\", \"sin\", \"bajo\", etc.",
+      "fecha": "2025-12-28T19:08:09.292Z"
     }
   ],
-  "ultimaActualizacion": 1766948881270,
+  "ultimaActualizacion": 1766948889293,
   "preguntasHechas": null
 }
