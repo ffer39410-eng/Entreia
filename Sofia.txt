@@ -1,5 +1,5 @@
 {
-  "iq": 2628,
+  "iq": 2634,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2970,16 +2970,13 @@
     "episodio",
     "insuficiencia",
     "cardíaca",
-    "enfermillo"
+    "enfermillo",
+    "aplicaría",
+    "verificación"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo se usa la puntuación correctamente?",
-      "respuesta": "La puntuación es un elemento fundamental en la escritura y la comunicación efectiva. Utiliza comas para separar ideas o listados, puntos para enumerar conceptos y paréntesis para aclarar o agregar detalles. Por ejemplo, \"Los días de la semana son: lunes, martes, miércoles, jueves, viernes, sábado y domingo.\"",
-      "fecha": "2025-12-28T20:57:15.844Z"
-    },
     {
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras que se utilizan para indicar la relación entre un objeto o persona y otro elemento en la oración. Ejemplos de preposiciones son \"en\", \"de\", \"con\", \"sin\", entre otras. Por ejemplo: \"El libro está en la mesa\" (indica la relación entre el libro y la mesa). Sirven para proporcionar información sobre el lugar, tiempo, causa, resultado, etc. de un evento o acción.",
@@ -3974,8 +3971,13 @@
       "pregunta": "¿Qué diferencia hay entre vocabulario técnico y coloquial?",
       "respuesta": "El vocabulario técnico se refiere a términos y expresiones específicas utilizados en un campo o disciplina concreta, como la medicina, la informática o la ingeniería. Estos términos tienen un significado preciso y son entendidos por expertos en el campo. Por ejemplo, en medicina, \"infarto al miocardio\" es un término técnico que describe un episodio de insuficiencia cardíaca.\n\nPor otro lado, el vocabulario coloquial se utiliza en la comunicación informal y se refiere a expresiones y palabras que son comunes en la vida diaria. Estos términos pueden variar según la región, la cultura y el contexto social. Por ejemplo, decir \"estar enfermillo\" en lugar de \"estar enfermo\" es un ejemplo de vocabulario coloquial.\n\nEn resumen, el vocabulario técnico es preciso y",
       "fecha": "2025-12-28T21:36:19.821Z"
+    },
+    {
+      "pregunta": "¿Qué es el pensamiento crítico?",
+      "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar información de manera objetiva, identificar problemas y soluciones, y tomar decisiones informadas. Implica cuestionar suposiciones, considerar múltiples perspectivas y utilizar evidencia para respaldar argumentos. Por ejemplo, al leer un artículo, un estudiante que aplicaría el pensamiento crítico buscaría verificación de hechos, identificar sesgos y considerar la validez de las fuentes citadas. ¡Este habilidad es fundamental en diversas áreas de la vida!",
+      "fecha": "2025-12-28T21:36:27.811Z"
     }
   ],
-  "ultimaActualizacion": 1766957779823,
-  "preguntasHechas": 431
+  "ultimaActualizacion": 1766957787813,
+  "preguntasHechas": 432
 }
