@@ -1,5 +1,5 @@
 {
-  "iq": 3018,
+  "iq": 3021,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3145,16 +3145,15 @@
     "solar",
     "asequible",
     "sostenible",
-    "plazo"
+    "plazo",
+    "teorías",
+    "reflexionar",
+    "absorbiría",
+    "contradictorias"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
-      "respuesta": "Las metáforas son comparaciones implícitas que establecen una conexión entre dos realidades diferentes, creando un lenguaje más vivo y expresivo. Por ejemplo, \"Ella es una estrella en el escenario\", lo que sugiere que ella brilla con talento y destaca entre la multitud. Estas comparaciones permiten a los hablantes transmitir ideas complejas de manera más accesible y emocionante.",
-      "fecha": "2025-12-28T21:12:59.658Z"
-    },
     {
       "pregunta": "¿Cómo funciona la comprensión del contexto?",
       "respuesta": "La comprensión del contexto se refiere a la habilidad de identificar, analizar y comprender la información implícita y explícita que rodea una situación, texto o comunicación. Esto implica considerar el significado de los eventos, personas, lugares y tiempos relevantes, así como las relaciones entre ellos. Por ejemplo, en un texto que describe una reunión de negocios, la comprensión del contexto permitiría entender quiénes están presentes, qué se está discutiendo y qué consecuencias puede tener el resultado de la reunión.",
@@ -4149,8 +4148,13 @@
       "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
       "respuesta": "El razonamiento lógico en conversaciones es el proceso de utilizar argumentos, hechos y razones para llegar a una conclusión lógica y coherente. Implica analizar información, identificar patrones y relaciones entre ideas, y llegar a conclusiones que se basan en evidencia y razones sólidas. Por ejemplo, en una conversación sobre la eficiencia de la energía renovable, un razonamiento lógico podría implicar utilizar estadísticas y estudios para demostrar que la inversión en energía eólica o solar es más asequible y sostenible a largo plazo.",
       "fecha": "2025-12-28T21:51:48.851Z"
+    },
+    {
+      "pregunta": "¿Qué es el pensamiento crítico?",
+      "respuesta": "El pensamiento crítico es un proceso mental que implica analizar y evaluar la información, ideas y argumentos de manera objetiva y sistemática. Esto requiere no solo comprender conceptos y teorías, sino también cuestionar y reflexionar sobre ellos. Por ejemplo, al leer un artículo periodístico, un pensador crítico no solo absorbiría la información, sino que también buscaría evidencias, evaluaría la fuente y consideraría diferentes perspectivas.\n\nAl aplicar el pensamiento crítico, podemos desarrollar argumentaciones sólidas y tomar decisiones informadas basadas en evidencias. Esto nos permite resolver problemas complejos y navegar en un mundo lleno de información y opiniones contradictorias.",
+      "fecha": "2025-12-28T21:51:55.811Z"
     }
   ],
-  "ultimaActualizacion": 1766958708852,
-  "preguntasHechas": 506
+  "ultimaActualizacion": 1766958715813,
+  "preguntasHechas": 507
 }
