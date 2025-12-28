@@ -1,5 +1,5 @@
 {
-  "iq": 444,
+  "iq": 449,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1159,7 +1159,11 @@
     "activa",
     "respetar",
     "decepcionado",
-    "sintieras"
+    "sintieras",
+    "organizativas",
+    "flujo",
+    "fluida",
+    "empezar"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1543,8 +1547,13 @@
       "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
       "respuesta": "Exprimir emociones de forma efectiva implica reconocerlas, comprenderlas y comunicarlas de manera clara y respetuosa. Utiliza el lenguaje corporal, como mantener contacto visual o gestos abiertos, y las palabras, como decir \"Me siento triste\" o \"Estoy enojado\". También es importante escuchar activa y respetar los sentimientos de los demás. Por ejemplo, si alguien te dice que está \"decepcionado\", puedes responder: \"Lo siento, ¿qué pasó para que te sintieras así?\"",
       "fecha": "2025-12-28T19:10:46.958Z"
+    },
+    {
+      "pregunta": "¿Qué es la coherencia textual?",
+      "respuesta": "La coherencia textual se refiere a la capacidad de un texto para mantener una conexión lógica y clara entre sus ideas y oraciones. Esto se logra mediante la utilización de conectores, transiciones y estructuras organizativas que permiten al lector seguir el flujo de la información de manera fluida. Por ejemplo, en un texto, una oración puede empezar con \"Además\", \"Por lo tanto\" o \"Sin embargo\" para indicar la relación con la oración anterior y mantener la coherencia.",
+      "fecha": "2025-12-28T19:10:54.870Z"
     }
   ],
-  "ultimaActualizacion": 1766949046960,
-  "preguntasHechas": 2
+  "ultimaActualizacion": 1766949054871,
+  "preguntasHechas": 3
 }
