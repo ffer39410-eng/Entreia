@@ -1,5 +1,5 @@
 {
-  "iq": 1401,
+  "iq": 1407,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2209,16 +2209,20 @@
     "incorrectas",
     "cardiopatía",
     "trastorno",
-    "exámenes"
+    "exámenes",
+    "dañar",
+    "hacerte",
+    "sentir",
+    "hayas",
+    "ayudado",
+    "gesto",
+    "agradecimiento",
+    "culpar",
+    "insensible"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo funcionan los tiempos verbales?",
-      "respuesta": "Los tiempos verbales son una herramienta fundamental en la gramática para expresar momentos específicos en el tiempo en que se desarrolla una acción. Hay varios tiempos verbales, como el presente, pasado simple, pasado perfecto, futuro simple, entre otros. Por ejemplo, el verbo \"hablar\" en presente se expresa como \"hablo\", en pasado simple como \"hablé\", pero en pasado perfecto se utiliza \"he hablado\".\n\nA continuación, menciono algunos ejemplos más:\n\n- Presente: \"El reloj marca las 12 pm\" (indicativo de acción en este instante)\n- Pasado simple: \"El reloj marcaba las 12 pm\" (indicativo de acción en el pasado)\n- Pasado perfecto: \"El reloj ha marcado las 12 pm\" (indicativo de acción terminada, con relación al presente)\n- Futuro simple:",
-      "fecha": "2025-12-28T19:09:53.123Z"
-    },
     {
       "pregunta": "¿Cuáles son las reglas de la gramática española?",
       "respuesta": "La gramática española tiene varias reglas importantes. En primer lugar, la conjugación de verbos se basa en tres personas (yo, tú, él/ella/usted) y varios tiempos (presente, pretérito, futuro). Por ejemplo, el verbo \"hablar\" se conjuga de la siguiente manera: yo hablo, tú hablas, él habla.\n\nAdemás, la gramática española tiene reglas para el uso de artículos (el, la, los, las) y adjetivos (calificativos y posesivos). Por ejemplo, \"la casa blanca\" es correcto, pero \"la casa blanco\" no, ya que el adjetivo debe concordar con el sustantivo.\n\nLa gramática española también regula la formación de oraciones y la coordinación de ideas. Por ejemplo, la oración \"Yo como una manzana y bebo agua\" es correcta",
@@ -3213,8 +3217,13 @@
       "pregunta": "¿Cómo se construyen oraciones complejas en español?",
       "respuesta": "Las oraciones complejas en español se construyen mediante la unión de dos o más oraciones simples, que pueden ser coordinadas o subordinadas. Una oración independiente puede ser subordinada a otra, creando una estructura de oraciones compleja. Por ejemplo, \"Mientras estudiaba para mis exámenes, mi amigo llamó\" es una oración compleja, donde \"mientras estudiaba para mis exámenes\" es una oración subordinada.",
       "fecha": "2025-12-28T20:43:47.591Z"
+    },
+    {
+      "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
+      "respuesta": "Expresar emociones de forma efectiva implica comunicar tus sentimientos de manera clara y respetuosa, sin dañar a los demás ni hacerte sentir mal. Puedes hacerlo mediante la comunicación verbal, como diciendo \"Me siento molesto\" o \"Me alegra que hayas ayudado\", o mediante la no verbal, como un gesto de agradecimiento o un abrazo. Lo importante es ser auténtico y evitar juzgar o culpar a los demás por tus emociones. Por ejemplo, en lugar de decir \"Eres muy insensible\", podrías decir \"Me hace sentir mal que no hayas considerado mi opinión\".",
+      "fecha": "2025-12-28T20:43:55.702Z"
     }
   ],
-  "ultimaActualizacion": 1766954627592,
-  "preguntasHechas": 196
+  "ultimaActualizacion": 1766954635704,
+  "preguntasHechas": 197
 }
