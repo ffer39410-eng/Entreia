@@ -1,5 +1,5 @@
 {
-  "iq": 2658,
+  "iq": 2665,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2988,11 +2988,6 @@
   "conversaciones": 6,
   "conocimiento": [
     {
-      "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
-      "respuesta": "Para expresar emociones de forma efectiva, es importante ser auténtico y honesto sobre tus sentimientos. Puedes hacerlo de manera directa o indirecta, dependiendo del contexto y la audiencia. Por ejemplo, si sientes tristeza después de una pérdida, puedes decir \"Me siento triste\" o \"Me hace falta mucho a mi ser querido\". También puedes expresar tus emociones a través del lenguaje no verbal, como sonreír para mostrar alegría o cruzar los brazos para indicar defensa.",
-      "fecha": "2025-12-28T21:00:51.726Z"
-    },
-    {
       "pregunta": "¿Cómo funciona la comprensión del contexto?",
       "respuesta": "La comprensión del contexto es un proceso mental que nos permite interpretar y dar sentido a las palabras y expresiones en función de su significado dentro de una situación o entorno específico. Implica considerar el lugar, el momento y las personas involucradas en la comunicación para entender el significado no literal de lo que se dice. Por ejemplo, cuando se dice \"esta casa está helada\", si estamos en pleno invierno, es probable que se refiera al temperamento frío del dueño y no a la temperatura del aire.",
       "fecha": "2025-12-28T21:00:59.924Z"
@@ -3986,8 +3981,13 @@
       "pregunta": "¿Cómo se construyen oraciones complejas en español?",
       "respuesta": "Una oración compleja en español se construye mediante la combinación de una oración principal (o oración independiente) y una o una o más oraciones subordinadas. La subordinada puede ser introducida por conjunciones como \"ya que\", \"porque\", \"aunque\", \"si\" o \"como\" y realiza una función específica dentro de la oración principal.\n\nPor ejemplo: \"Ella se alegró porque había recibido la noticia de que iba a viajar a París\". En esta oración, \"ella se alegró\" es la oración principal, y \"porque había recibido la noticia de que iba a viajar a París\" es la subordinada, que explica por qué se alegró.",
       "fecha": "2025-12-28T21:36:59.864Z"
+    },
+    {
+      "pregunta": "¿Qué son los conectores y cómo se usan?",
+      "respuesta": "Los conectores son palabras o expresiones que se utilizan para unir ideas, oraciones o frases para crear una estructura lógica y clara en el lenguaje. Se dividen en tres categorías principales: conectores de coordinación (y, y además, pero), conectores de subordinación (que, porque, aunque) y conectores de adición (además, asimismo).\n\nPor ejemplo, \"Me gusta leer libros y escribir poesías\" es una oración que utiliza el conector \"y\" para unir dos ideas coordinadas, mientras que \"Me gusta leer libros porque me encanta la lectura\" utiliza el conector \"porque\" para unir una oración principal con una oración subordinada.",
+      "fecha": "2025-12-28T21:37:07.848Z"
     }
   ],
-  "ultimaActualizacion": 1766957819866,
-  "preguntasHechas": 436
+  "ultimaActualizacion": 1766957827849,
+  "preguntasHechas": 437
 }
