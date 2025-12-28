@@ -1,5 +1,5 @@
 {
-  "iq": 885,
+  "iq": 891,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1704,7 +1704,13 @@
     "sinónimo",
     "antónimo",
     "efectivo",
-    "ciertas"
+    "ciertas",
+    "positivos",
+    "negativos",
+    "analizaría",
+    "gracias",
+    "sección",
+    "enfoca"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2538,8 +2544,18 @@
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "Excelente pregunta. Los sinónimos son palabras o expresiones que tienen el mismo significado o connotación, pero con diferentes matices o tonos. Por ejemplo, \"feliz\" y \"contento\" son sinónimos, ya que ambos describen un estado de ánimo positivo.\n\nPor otro lado, los antónimos son palabras o expresiones que tienen significados opuestos o contrarios. Por ejemplo, \"grandes\" y \"pequeños\" son antónimos, ya que describen tamaños opuestos. Otro ejemplo es \"lento\" y \"rápido\", que son antónimos en términos de velocidad.\n\nEs importante tener en cuenta que a veces un sinónimo puede ser más adecuado que otro en un contexto específico, y que un antónimo puede ser más efectivo en ciertas situaciones.",
       "fecha": "2025-12-28T20:00:03.900Z"
+    },
+    {
+      "pregunta": "¿Qué es el pensamiento crítico?",
+      "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar información, ideas y argumentos de manera objetiva y lógica, identificando tanto los aspectos positivos como los negativos. Esto implica cuestionar suposiciones, considerar diferentes perspectivas y utilizar evidencia para tomar decisiones informadas. Por ejemplo, al leer un artículo periodístico, un pensador crítico analizaría la fuente, la objetividad del autor y la calidad de la evidencia presentada.",
+      "fecha": "2025-12-28T20:00:12.280Z"
+    },
+    {
+      "pregunta": "¿Qué es la coherencia textual?",
+      "respuesta": "La coherencia textual se refiere a la capacidad de un texto para transmitir una idea o mensaje claro y lógico, gracias a la conexión entre las ideas, oraciones y palabras que lo componen. Esto implica que cada sección o idea del texto esté relacionada con las anteriores y las posteriores de manera natural y lógica. Por ejemplo, en un ensayo sobre la importancia de la educación, la coherencia textual se logra cuando cada oración o párrafo se enfoca en una idea relacionada con la educación, creando un flujo lógico y fácil de seguir.",
+      "fecha": "2025-12-28T20:06:28.150Z"
     }
   ],
-  "ultimaActualizacion": 1766952003902,
-  "preguntasHechas": 92
+  "ultimaActualizacion": 1766952388151,
+  "preguntasHechas": 94
 }
