@@ -1,5 +1,5 @@
 {
-  "iq": 2144,
+  "iq": 2151,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2705,16 +2705,15 @@
     "suena",
     "significan",
     "ayudarnos",
-    "elegante"
+    "elegante",
+    "indicada",
+    "sueños",
+    "seleccionar",
+    "conectarlos"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
-      "respuesta": "Las preposiciones son palabras que indican la relación entre un sustantivo o un grupo de palabras y otros elementos en la oración, como lugares, tiempo, cantidad, etc. Por ejemplo, en la oración \"El libro está en la mesa\", la preposición \"en\" indica la relación entre el libro y la mesa, mostrando la ubicación del libro.\n\nLas preposiciones sirven para proporcionar información sobre la relación espacial (donde está, hacia dónde va, etc.), temporal (cuándo ocurre), causal (por qué), comparativa (cómo se relacionan dos cosas), entre otras.\n\nAlgunas preposiciones comunes son \"en\", \"de\", \"a\", \"con\", \"por\", entre otras.",
-      "fecha": "2025-12-28T20:30:51.829Z"
-    },
     {
       "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
       "respuesta": "Las metáforas son expresiones literales que compara dos conceptos incompatibles para crear un significado nuevo y creativo. Se utilizan para describir conceptos abstractos de manera más clara y accesible, haciendo que el lenguaje sea más expresivo y poético. Por ejemplo, \"la vida es un viaje\" es una metáfora que compara la vida con un viaje, creando un significado más profundo y emotivo. Esta figura literaria ayuda a crear imágenes visuales en la mente del oyente o lector, facilitando la comprensión y la emoción.",
@@ -3709,8 +3708,13 @@
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "Excelente pregunta, estudiantes. Un sinónimo es una palabra o frase que tiene el mismo significado que otra palabra o frase, pero suena diferente. Por ejemplo, \"luz\" y \"iluminación\" son sinónimos. Otro ejemplo es \"fácil\" y \"sencillo\", que significan lo mismo.\n\nPor otro lado, un antónimo es una palabra o frase que tiene un significado contrario a otra palabra o frase. Por ejemplo, \"rápido\" y \"lento\" son antónimos. Otro ejemplo es \"grande\" y \"pequeño\".\n\nEs importante destacar que los sinónimos y antónimos pueden ayudarnos a enriquecer nuestra comunicación y a expresarnos de manera más precisa y elegante.",
       "fecha": "2025-12-28T21:17:15.918Z"
+    },
+    {
+      "pregunta": "¿Cómo se construyen oraciones complejas en español?",
+      "respuesta": "Las oraciones complejas se construyen en español utilizando conjunciones subordinadas, que conectan una oración principal (indicada por el verbo principal) con una oración subordinada (indicada por el verbo subordinado). Por ejemplo: \"Ella se fue al cine porque quería ver la película de sus sueños\". En esta oración, \"Ella se fue al cine\" es la oración principal y \"porque quería ver la película de sus sueños\" es la oración subordinada.\n\nPara construir una oración compleja, debemos seleccionar un verbo principal y un verbo subordinado, y conectarlos con una conjunción subordinada (como \"porque\", \"pues\", \"ya que\", etc.).",
+      "fecha": "2025-12-28T21:17:23.811Z"
     }
   ],
-  "ultimaActualizacion": 1766956635920,
-  "preguntasHechas": 339
+  "ultimaActualizacion": 1766956643812,
+  "preguntasHechas": 340
 }
