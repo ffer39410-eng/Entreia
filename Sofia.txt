@@ -1,5 +1,5 @@
 {
-  "iq": 2769,
+  "iq": 2775,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3024,16 +3024,16 @@
     "recordaría",
     "segun",
     "modifican",
-    "femenina"
+    "femenina",
+    "recopilar",
+    "exponen",
+    "reales",
+    "hallazgos",
+    "visión"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué son los sinónimos y antónimos?",
-      "respuesta": "Excelente pregunta, estudiantes. Los sinónimos son palabras que tienen el mismo significado que otra palabra, pero se expresan de manera diferente. Por ejemplo, \"feliz\" y \"alegre\" son sinónimos porque describen la misma emoción. \n\nPor otro lado, los antónimos son palabras que se refieren a conceptos opuestos entre sí. Por ejemplo, \"gran\" y \"pequeño\" son antónimos porque se contradicen. \n\nEn resumen, los sinónimos se utilizan para variar la forma de expresar una idea, mientras que los antónimos se utilizan para contrastar conceptos opuestos.",
-      "fecha": "2025-12-28T21:04:04.970Z"
-    },
     {
       "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
       "respuesta": "Las metáforas son una figura retórica que permite crear conexión entre conceptos abstractos o complejos y objetos o experiencias concretos, facilitando la comprensión y la comunicación. Por ejemplo, \"Ella es una estrella\" o \"Él es un sol\" son metáforas que comparan a una persona con un astro, enfatizando su belleza o energía. Al usar metáforas, podemos hacer que nuestros mensajes sean más memorables y emotivos.",
@@ -4028,8 +4028,13 @@
       "pregunta": "¿Cuáles son las reglas de la gramática española?",
       "respuesta": "La gramática española se rige por varias reglas fundamentales que ayudan a construir oraciones y expresiones coherentes. Algunas de las principales reglas incluyen el uso correcto de los tiempos verbales (presente, pretérito, futuro, condicional, etc.), el género y número de los sustantivos, la conjugación de los adjetivos y los verbos segun el género y número de los sustantivos que modifican, y el uso de los pronombres personales y posesivos. \n\nPor ejemplo, en la oración \"Ella come una manzana\", \"ella\" es un pronombre personal femenino que se utiliza para referirse a una persona femenina, mientras que \"una manzana\" es un singular femenino. En cambio, en la oración \"Él come una manzana\", \"él\" es un pronombre personal masculino",
       "fecha": "2025-12-28T21:45:31.878Z"
+    },
+    {
+      "pregunta": "¿Cómo se estructura una buena argumentación?",
+      "respuesta": "Una buena argumentación se estructura en cuatro pasos fundamentales: \n\n*   **Presentar la tesis**: La primera parte de una argumentación es presentar claramente la idea o conclusión que se pretende demostrar.\n*   **Recopilar pruebas**: En este paso se exponen los hechos, datos o razones que apoyan la tesis, como estadísticas, estudios o experiencias reales.\n*   **Análisis y evaluación**: Es el momento de analizar y evaluar las pruebas presentadas con el fin de determinar su validez y relevancia para apoyar la tesis.\n*   **Conclusión**: Finalmente, se resumen los hallazgos y se reafirma la tesis, proporcionando una visión clara de las implicaciones de la argumentación.",
+      "fecha": "2025-12-28T21:45:39.853Z"
     }
   ],
-  "ultimaActualizacion": 1766958331881,
-  "preguntasHechas": 459
+  "ultimaActualizacion": 1766958339855,
+  "preguntasHechas": 460
 }
