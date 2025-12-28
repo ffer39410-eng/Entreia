@@ -1,5 +1,5 @@
 {
-  "iq": 834,
+  "iq": 837,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1649,7 +1649,12 @@
     "localización",
     "posesión",
     "regalo",
-    "destinatario"
+    "destinatario",
+    "alternativas",
+    "noticia",
+    "periódico",
+    "interpretaciones",
+    "cuestionamiento"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2433,8 +2438,13 @@
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras gramaticales que indican la relación entre un sustantivo o un grupo de palabras y otro sustantivo, un verbo, una oración o un lugar. Sirven para expresar la localización, la dirección, la cantidad, la duración, la causa, el efecto, la compañía, la posesión y otras relaciones entre los elementos de una oración.\n\nPor ejemplo: \"La biblioteca está en la calle principal\" (indica localización), \"El regalo era para ella\" (indica destinatario), \"Ella estudió durante tres horas\" (indica duración).",
       "fecha": "2025-12-28T19:41:23.818Z"
+    },
+    {
+      "pregunta": "¿Qué es el pensamiento crítico?",
+      "respuesta": "El pensamiento crítico es la capacidad de analizar información, evaluar evidencia y formar opiniones informadas. Implica cuestionar suposiciones, considerar perspectivas alternativas y tomar decisiones razonadas. Por ejemplo, al leer una noticia en el periódico, un persona con pensamiento crítico podría analizar los datos presentados, verificar la fuente y considerar diferentes interpretaciones antes de tomar una opinión.\n\nAlgunas características clave del pensamiento crítico incluyen:\n\n- Análisis de la información\n- Evaluación de la evidencia\n- Cuestionamiento de suposiciones\n- Consideración de perspectivas alternativas\n- Formación de opiniones informadas.",
+      "fecha": "2025-12-28T19:41:31.711Z"
     }
   ],
-  "ultimaActualizacion": 1766950883819,
-  "preguntasHechas": 82
+  "ultimaActualizacion": 1766950891712,
+  "preguntasHechas": 83
 }
