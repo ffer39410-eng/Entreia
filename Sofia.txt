@@ -1,5 +1,5 @@
 {
-  "iq": 437,
+  "iq": 444,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1150,7 +1150,16 @@
     "aguas",
     "cristalinas",
     "gente",
-    "nadar"
+    "nadar",
+    "reconocerlas",
+    "comprenderlas",
+    "comunicarlas",
+    "respetuosa",
+    "enojado",
+    "activa",
+    "respetar",
+    "decepcionado",
+    "sintieras"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1529,8 +1538,13 @@
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son palabras que unen oraciones o frases para crear una estructura lógica y coherente en el discurso. Pueden indicar relaciones de causa y efecto, tiempo, lugar, comparación, contraste, etc. Por ejemplo, \"y\" (La playa es hermosa y tiene aguas cristalinas), \"pero\" (La playa es hermosa pero hay mucha gente), \"porque\" (Voy a la playa porque me gusta nadar).",
       "fecha": "2025-12-28T19:10:38.994Z"
+    },
+    {
+      "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
+      "respuesta": "Exprimir emociones de forma efectiva implica reconocerlas, comprenderlas y comunicarlas de manera clara y respetuosa. Utiliza el lenguaje corporal, como mantener contacto visual o gestos abiertos, y las palabras, como decir \"Me siento triste\" o \"Estoy enojado\". También es importante escuchar activa y respetar los sentimientos de los demás. Por ejemplo, si alguien te dice que está \"decepcionado\", puedes responder: \"Lo siento, ¿qué pasó para que te sintieras así?\"",
+      "fecha": "2025-12-28T19:10:46.958Z"
     }
   ],
-  "ultimaActualizacion": 1766949038998,
-  "preguntasHechas": 1
+  "ultimaActualizacion": 1766949046960,
+  "preguntasHechas": 2
 }
