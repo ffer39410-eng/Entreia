@@ -1,5 +1,5 @@
 {
-  "iq": 652,
+  "iq": 656,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1467,7 +1467,12 @@
     "intensidad",
     "amplios",
     "erguida",
-    "entusiasmo"
+    "entusiasmo",
+    "detectar",
+    "falacias",
+    "puedo",
+    "lluvia",
+    "imposibilidad"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2066,8 +2071,13 @@
       "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
       "respuesta": "Para expresar emociones de forma efectiva, es importante ser auténtico y genuino en tu comunicación. Puedes hacer esto utilizando lenguaje corporal como la postura, los gestos y los ojos para reflejar la intensidad de tus emociones. Por ejemplo, si estás hablando de un evento emocionante, puedes usar gestos amplios y una postura erguida para mostrar entusiasmo.",
       "fecha": "2025-12-28T19:23:20.319Z"
+    },
+    {
+      "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
+      "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de analizar información, identificar patrones y relaciones entre ideas, y llegar a conclusiones lógicas y coherentes. Esto implica utilizar principios de lógica y razón para evaluar argumentos, detectar falacias y contradicciones, y establecer conexiones lógicas entre ideas.\n\nPor ejemplo, si alguien afirma: \"Si llueve, entonces no puedo ir al parque. Hoy llueve, por lo tanto no puedo ir al parque\". En este caso, el razonamiento lógico implica identificar la relación causal entre la lluvia y la imposibilidad de ir al parque, y llegar a la conclusión lógica de que no se puede ir al parque debido a la lluvia.\n\nEl razonamiento lógico también implica ser consciente de los tipos de razonamiento, como",
+      "fecha": "2025-12-28T19:23:28.928Z"
     }
   ],
-  "ultimaActualizacion": 1766949800320,
-  "preguntasHechas": 45
+  "ultimaActualizacion": 1766949808929,
+  "preguntasHechas": 46
 }
