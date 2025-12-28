@@ -1,5 +1,5 @@
 {
-  "iq": 1787,
+  "iq": 1794,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2489,16 +2489,13 @@
     "subordinado",
     "repita",
     "sentencias",
-    "serial"
+    "serial",
+    "histórica",
+    "ejemplificar"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
-      "respuesta": "Al expresar emociones de forma efectiva, podemos mejorar nuestras relaciones y comunicación con los demás. Para ello, es importante ser auténtico y genuino en nuestra expresión, utilizando idiomas corporales como la postura y la sonrisa, y también las palabras para describir cómo nos sentimos. Por ejemplo, en lugar de decir \"Estoy bien\", podríamos decir \"Me siento un poco abrumado hoy\". De esta manera, expresamos nuestra emoción y permitimos a los demás responder con empatía y apoyo.",
-      "fecha": "2025-12-28T19:27:06.298Z"
-    },
     {
       "pregunta": "¿Cómo se construyen oraciones complejas en español?",
       "respuesta": "Las oraciones complejas en español se construyen usando subordinantes y coordinantes. El subordinante es una conjunción como \"dado que\", \"ya que\", \"porque\", \"pues\" que introduce una oración subordinada, que depende de otra oración principal. Por ejemplo: \"Llegué tarde porque me retrasé en el tráfico\".\n\nOtra forma de construir oraciones complejas es utilizando coordinantes como \"y\", \"o\", \"pero\", \"ni\" entre oraciones principales. Por ejemplo: \"Me gusta leer y escribir\".\n\nTambién se puede utilizar subordinantes coordinados para unir dos oraciones subordinadas, como \"ya que\" y \"porque\", y luego conectar esto con la oración principal.",
@@ -3493,8 +3490,13 @@
       "pregunta": "¿Cómo se usa la puntuación correctamente?",
       "respuesta": "La puntuación es fundamental para comunicar ideas de manera clara y efectiva. Utiliza puntos y comas para separar ideas y sentencias simples, y puntuación más compleja, como las comas serial, el punto y coma, el signo de exclamación y la coma retórica, para enfatizar o expresar emociones. Por ejemplo: \"Voy a la playa, como es domingo, y espero encontrar un día soleado\".",
       "fecha": "2025-12-28T21:08:19.802Z"
+    },
+    {
+      "pregunta": "¿Qué es el pensamiento crítico?",
+      "respuesta": "El pensamiento crítico es la capacidad de analizar, evaluar y sintetizar la información, y de tomar decisiones informadas basadas en evidencia y razonamiento lógico. Implica cuestionar suposiciones, identificar sesgos y prejuicios, y considerar múltiples perspectivas para llegar a conclusiones bien fundadas. Por ejemplo, un estudiante que analiza una fuente histórica crítica y considera múltiples interpretaciones puede ejemplificar pensamiento crítico.",
+      "fecha": "2025-12-28T21:08:27.644Z"
     }
   ],
-  "ultimaActualizacion": 1766956099804,
-  "preguntasHechas": 272
+  "ultimaActualizacion": 1766956107646,
+  "preguntasHechas": 273
 }
