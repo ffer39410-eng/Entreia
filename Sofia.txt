@@ -1,5 +1,5 @@
 {
-  "iq": 2399,
+  "iq": 2404,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2845,16 +2845,16 @@
     "confiables",
     "engañosa",
     "jugaba",
-    "elaboradas"
+    "elaboradas",
+    "gritando",
+    "fondo",
+    "advirtiendo",
+    "niño",
+    "peligro"
   ],
   "lecciones": 14,
   "conversaciones": 6,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué es el pensamiento crítico?",
-      "respuesta": "El pensamiento crítico es la capacidad de analizar y evaluar información, argumentos y perspectivas de manera objetiva y lógica, identificando fortalezas y debilidades, y tomando decisiones informadas. Esto requiere la capacidad de cuestionar supuestos, considerar múltiples perspectivas y utilizar evidencia para apoyar conclusiones. El pensamiento crítico es esencial para tomar decisiones informadas, resolver problemas complejos y tomar posiciónes éticas. Por ejemplo, al evaluar un artículo de noticias, un estudiante con pensamiento crítico analizaría la fuente, el objetivo del artículo y la presentación de los datos para determinar su validez y relevancia.",
-      "fecha": "2025-12-28T20:41:39.733Z"
-    },
     {
       "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
       "respuesta": "Para expresar emociones de forma efectiva, es fundamental ser auténtico y sincero. Utiliza lenguaje corporal y verbal que refleje tus sentimientos, como mirar a los ojos para mostrar empatía o usar inflexiones en la voz para transmitir entusiasmo. Por ejemplo, si estás felicidad, podrías sonreír y decir \"¡Estoy tan contento de que hayamos logrado esto!\".",
@@ -3849,8 +3849,13 @@
       "pregunta": "¿Cómo se construyen oraciones complejas en español?",
       "respuesta": "Una oración compleja en español se construye mediante la combinación de una oración simple y otra oración independiente, utilizando conectivos como \"y\", \"o\", \"pero\", \"sin embargo\" o \"mientras que\". Por ejemplo:\n\n- \"Ella estudió para el examen, mientras que su amigo jugaba fútbol.\" (Aquí, \"Ella estudió para el examen\" es la oración simple y \"mientras que su amigo jugaba fútbol\" es la oración independiente que se une a la primera con el conectivo \"mientras que\".)\n- \"Hoy es jueves, pero mañana es viernes.\" (Aquí, \"Hoy es jueves\" y \"mañana es viernes\" son dos oraciones simples que se unen con el conectivo \"pero\".)\n\nEsto permite crear oraciones más complejas y expresar ideas más elaboradas.",
       "fecha": "2025-12-28T21:23:47.788Z"
+    },
+    {
+      "pregunta": "¿Cómo funciona la comprensión del contexto?",
+      "respuesta": "La comprensión del contexto es un proceso complejo que implica analizar el lenguaje y la información proporcionada para identificar el significado y la relevancia de un texto, conversación o situación. Implica considerar el contexto en el que se está comunicando, incluyendo el tono, el entorno y las personas involucradas. Por ejemplo, la frase \"¡cuidado!\" puede tener diferentes significados dependiendo del contexto, es decir, si está gritando desde el fondo de un campo de fútbol o si está advirtiendo a un niño sobre un peligro real.",
+      "fecha": "2025-12-28T21:23:55.796Z"
     }
   ],
-  "ultimaActualizacion": 1766957027791,
-  "preguntasHechas": 388
+  "ultimaActualizacion": 1766957035797,
+  "preguntasHechas": 389
 }
