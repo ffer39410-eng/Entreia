@@ -1,5 +1,5 @@
 {
-  "iq": 773,
+  "iq": 780,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1598,7 +1598,9 @@
     "aditivo",
     "contrastivo",
     "clase",
-    "temprano"
+    "temprano",
+    "sujetos",
+    "aste"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2322,8 +2324,13 @@
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son palabras o expresiones que se utilizan para unir oraciones o ideas entre sí, logrando una conexión lógica y coherencia en el discurso. Pueden ser de tipo temporal (antes, después), causal (porque, ya que), aditivo (además, también), o contrastivo (sin embargo, en cambio), entre otros. Por ejemplo, \"Vine a clase temprano (antes) para poder estudiar (luego)\".",
       "fecha": "2025-12-28T19:26:40.279Z"
+    },
+    {
+      "pregunta": "¿Cuáles son las reglas de la gramática española?",
+      "respuesta": "La gramática española se basa en varias reglas que rigen la estructura y el uso de la lengua. Algunas de las reglas más importantes incluyen la declinación de los artículos (el, la, los, las), el uso de los verbos en tiempo pasado e imperfecto, y la construcción de oraciones con sujetos y verbos. Por ejemplo, en español, se utiliza el artículo \"el\" para referirse a un objeto masculino singular y \"la\" para referirse a un objeto femenino singular. Además, los verbos en tiempo pasado se conjugan con la forma \"é\", \"aste\", \"ó\" en primer persona singular.",
+      "fecha": "2025-12-28T19:26:48.423Z"
     }
   ],
-  "ultimaActualizacion": 1766950000280,
-  "preguntasHechas": 70
+  "ultimaActualizacion": 1766950008425,
+  "preguntasHechas": 71
 }
