@@ -1,5 +1,5 @@
 {
-  "iq": 559,
+  "iq": 564,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1348,7 +1348,16 @@
     "bello",
     "extremos",
     "rico",
-    "pobre"
+    "pobre",
+    "seres",
+    "humanos",
+    "circunstancias",
+    "herencia",
+    "significar",
+    "heredera",
+    "disputa",
+    "familiar",
+    "completamente"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1857,8 +1866,13 @@
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "Los sinónimos son palabras que tienen el mismo significado o equivalen a otra palabra. Por ejemplo, \"feliz\" y \"alegre\" son sinónimos porque describen un estado de ánimo positivo. Algunos ejemplos de sinónimos incluyen: grande/huésped, rápido/veloz, dulce/sweet.\n\nPor otro lado, los antónimos son palabras que tienen significados opuestos. Por ejemplo, \"bello\" y \"feo\" son antónimos porque se refieren a dos extremos opuestos de belleza. Algunos ejemplos de antónimos incluyen: rico/pobre, feliz/triste, pequeño/grande.",
       "fecha": "2025-12-28T19:16:38.270Z"
+    },
+    {
+      "pregunta": "¿Cómo funciona la comprensión del contexto?",
+      "respuesta": "La comprensión del contexto es un proceso mental que permite a los seres humanos interpretar y dar sentido a la información, considerando el contexto en el que se encuentra. Al analizar el lenguaje, las situaciones y las circunstancias, podemos inferir la intención o el significado detrás de las palabras o las acciones. Por ejemplo, si alguien dice \"la casa es mía\", en un contexto de herencia, podría significar que la persona es la única heredera de la propiedad; sin embargo, en un contexto de disputa con un familiar, podría significar algo completamente diferente.",
+      "fecha": "2025-12-28T19:16:46.177Z"
     }
   ],
-  "ultimaActualizacion": 1766949398271,
-  "preguntasHechas": 27
+  "ultimaActualizacion": 1766949406178,
+  "preguntasHechas": 28
 }
