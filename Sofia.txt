@@ -1,5 +1,5 @@
 {
-  "iq": 724,
+  "iq": 728,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1552,7 +1552,10 @@
     "salario",
     "trabajadas",
     "resolver",
-    "conflictos"
+    "conflictos",
+    "comiendo",
+    "conjuguen",
+    "cambia"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2216,8 +2219,13 @@
       "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
       "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de analizar información, identificar patrones y llegar a conclusiones lógicas y coherentes. Implica utilizar principios y reglas para evaluar argumentos, identificar errores y tomar decisiones informadas.\n\nPor ejemplo, en una conversación, si alguien afirma que \"Si me pagas más, trabajaré más horas\", el razonamiento lógico implicaría evaluar la información y llegar a la conclusión de que la persona está sugiriendo que existe una relación directa entre el salario y la cantidad de horas trabajadas.\n\nEl razonamiento lógico es fundamental en las conversaciones para evitar confusiones, resolver conflictos y tomar decisiones informadas.",
       "fecha": "2025-12-28T19:20:46.950Z"
+    },
+    {
+      "pregunta": "¿Cómo funcionan los tiempos verbales?",
+      "respuesta": "En español, los tiempos verbales se refieren a la forma en que se expresan las acciones en el pasado, presente o futuro. Por ejemplo, \"yo como\" (presente) significa que estoy comiendo en este momento, \"yo comí\" (pretérito) significa que comí en el pasado, y \"yo comeré\" (futuro) significa que comeré en el futuro. La forma en que se conjuguen los verbos cambia según el tiempo y el sujeto.",
+      "fecha": "2025-12-28T19:20:55.045Z"
     }
   ],
-  "ultimaActualizacion": 1766949646952,
-  "preguntasHechas": 58
+  "ultimaActualizacion": 1766949655046,
+  "preguntasHechas": 59
 }
