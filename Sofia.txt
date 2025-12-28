@@ -1,5 +1,5 @@
 {
-  "iq": 768,
+  "iq": 773,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1593,7 +1593,12 @@
     "esquina",
     "ocurri",
     "cerrado",
-    "relajarme"
+    "relajarme",
+    "logrando",
+    "aditivo",
+    "contrastivo",
+    "clase",
+    "temprano"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -2312,8 +2317,13 @@
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son palabras o expresiones que nos ayudan a unir ideas, oraciones o frases para crear una estructura lógica y coherente en el discurso. Los conectores se clasifican en tres tipos: consecutivos (porque, sin embargo, además), adversativos (aunque, pero, sin embargo) y causales (porque, ya que, debido a). Por ejemplo, \"Iba al parque, pero estaba cerrado\" o \"Me gusta leer porque me ayuda a relajarme\".",
       "fecha": "2025-12-28T19:26:32.447Z"
+    },
+    {
+      "pregunta": "¿Qué son los conectores y cómo se usan?",
+      "respuesta": "Los conectores son palabras o expresiones que se utilizan para unir oraciones o ideas entre sí, logrando una conexión lógica y coherencia en el discurso. Pueden ser de tipo temporal (antes, después), causal (porque, ya que), aditivo (además, también), o contrastivo (sin embargo, en cambio), entre otros. Por ejemplo, \"Vine a clase temprano (antes) para poder estudiar (luego)\".",
+      "fecha": "2025-12-28T19:26:40.279Z"
     }
   ],
-  "ultimaActualizacion": 1766949992449,
-  "preguntasHechas": 69
+  "ultimaActualizacion": 1766950000280,
+  "preguntasHechas": 70
 }
