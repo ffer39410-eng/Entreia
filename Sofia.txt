@@ -1,5 +1,5 @@
 {
-  "iq": 1407,
+  "iq": 1414,
   "vocabulario": [
     "claro",
     "sofia",
@@ -2224,11 +2224,6 @@
   "conversaciones": 6,
   "conocimiento": [
     {
-      "pregunta": "¿Cuáles son las reglas de la gramática española?",
-      "respuesta": "La gramática española tiene varias reglas importantes. En primer lugar, la conjugación de verbos se basa en tres personas (yo, tú, él/ella/usted) y varios tiempos (presente, pretérito, futuro). Por ejemplo, el verbo \"hablar\" se conjuga de la siguiente manera: yo hablo, tú hablas, él habla.\n\nAdemás, la gramática española tiene reglas para el uso de artículos (el, la, los, las) y adjetivos (calificativos y posesivos). Por ejemplo, \"la casa blanca\" es correcto, pero \"la casa blanco\" no, ya que el adjetivo debe concordar con el sustantivo.\n\nLa gramática española también regula la formación de oraciones y la coordinación de ideas. Por ejemplo, la oración \"Yo como una manzana y bebo agua\" es correcta",
-      "fecha": "2025-12-28T19:10:01.320Z"
-    },
-    {
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales son una parte fundamental de la gramática en cualquier idioma, y se utilizan para expresar la relación entre el momento del habla y el momento en que se realiza una acción. Hay varios tiempos verbales, como el presente, el pasado, el futuro, el condicional, el subjuntivo, entre otros, cada uno con sus propias reglas y usos. Por ejemplo, el tiempo presente se utiliza para describir acciones que ocurren en el momento del habla, mientras que el tiempo pasado se utiliza para describir acciones que ocurrieron en el pasado.",
       "fecha": "2025-12-28T19:10:09.099Z"
@@ -3222,8 +3217,13 @@
       "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
       "respuesta": "Expresar emociones de forma efectiva implica comunicar tus sentimientos de manera clara y respetuosa, sin dañar a los demás ni hacerte sentir mal. Puedes hacerlo mediante la comunicación verbal, como diciendo \"Me siento molesto\" o \"Me alegra que hayas ayudado\", o mediante la no verbal, como un gesto de agradecimiento o un abrazo. Lo importante es ser auténtico y evitar juzgar o culpar a los demás por tus emociones. Por ejemplo, en lugar de decir \"Eres muy insensible\", podrías decir \"Me hace sentir mal que no hayas considerado mi opinión\".",
       "fecha": "2025-12-28T20:43:55.702Z"
+    },
+    {
+      "pregunta": "¿Qué son los sinónimos y antónimos?",
+      "respuesta": "Excelente pregunta, estudiante. Los sinónimos son palabras o expresiones que tienen el mismo significado o que se refieren a la misma realidad. Por ejemplo, \"feliz\" y \"alegre\" son sinónimos ya que ambos describen una emoción positiva. En cambio, los antónimos son palabras o expresiones que tienen significados opuestos. Por ejemplo, \"frio\" y \"calor\" son antónimos, ya que se refieren a temperaturas opuestas.",
+      "fecha": "2025-12-28T20:44:03.701Z"
     }
   ],
-  "ultimaActualizacion": 1766954635704,
-  "preguntasHechas": 197
+  "ultimaActualizacion": 1766954643702,
+  "preguntasHechas": 198
 }
