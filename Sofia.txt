@@ -1,5 +1,5 @@
 {
-  "iq": 570,
+  "iq": 576,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1883,8 +1883,13 @@
       "pregunta": "¿Cómo se usa la puntuación correctamente?",
       "respuesta": "La puntuación es un aspecto fundamental en la escritura y la comunicación efectiva. Utilizarla correctamente ayuda a transmitir ideas de manera clara y precisa. Por ejemplo, un punto y coma (;) se utiliza para separar dos o más oraciones simples que están relacionadas, mientras que dos puntos (:) se utilizan para introducir una explicación o una lista.",
       "fecha": "2025-12-28T19:16:54.191Z"
+    },
+    {
+      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
+      "respuesta": "Las preposiciones son palabras que indican la relación entre un sustantivo y otro elemento dentro de una oración. Sirven para expresar la ubicación, dirección, tiempo, manera y otras relaciones entre los elementos de la oración. Por ejemplo, en la frase \"El libro está en la mesa\", la preposición \"en\" indica la ubicación del libro en relación con la mesa.",
+      "fecha": "2025-12-28T19:17:02.285Z"
     }
   ],
-  "ultimaActualizacion": 1766949414192,
-  "preguntasHechas": 29
+  "ultimaActualizacion": 1766949422286,
+  "preguntasHechas": 30
 }
