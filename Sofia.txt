@@ -1,5 +1,5 @@
 {
-  "iq": 564,
+  "iq": 570,
   "vocabulario": [
     "claro",
     "sofia",
@@ -1357,7 +1357,14 @@
     "heredera",
     "disputa",
     "familiar",
-    "completamente"
+    "completamente",
+    "puntuación",
+    "utilizarla",
+    "correctamente",
+    "coma",
+    "introducir",
+    "explicación",
+    "lista"
   ],
   "lecciones": 14,
   "conversaciones": 6,
@@ -1871,8 +1878,13 @@
       "pregunta": "¿Cómo funciona la comprensión del contexto?",
       "respuesta": "La comprensión del contexto es un proceso mental que permite a los seres humanos interpretar y dar sentido a la información, considerando el contexto en el que se encuentra. Al analizar el lenguaje, las situaciones y las circunstancias, podemos inferir la intención o el significado detrás de las palabras o las acciones. Por ejemplo, si alguien dice \"la casa es mía\", en un contexto de herencia, podría significar que la persona es la única heredera de la propiedad; sin embargo, en un contexto de disputa con un familiar, podría significar algo completamente diferente.",
       "fecha": "2025-12-28T19:16:46.177Z"
+    },
+    {
+      "pregunta": "¿Cómo se usa la puntuación correctamente?",
+      "respuesta": "La puntuación es un aspecto fundamental en la escritura y la comunicación efectiva. Utilizarla correctamente ayuda a transmitir ideas de manera clara y precisa. Por ejemplo, un punto y coma (;) se utiliza para separar dos o más oraciones simples que están relacionadas, mientras que dos puntos (:) se utilizan para introducir una explicación o una lista.",
+      "fecha": "2025-12-28T19:16:54.191Z"
     }
   ],
-  "ultimaActualizacion": 1766949406178,
-  "preguntasHechas": 28
+  "ultimaActualizacion": 1766949414192,
+  "preguntasHechas": 29
 }
