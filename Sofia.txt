@@ -206,7 +206,55 @@
       "moneda",
       "virtual",
       "llamada",
-      "robux"
+      "robux",
+      "tenes",
+      "en",
+      "tu",
+      "nube",
+      "servicio",
+      "almacenamiento",
+      "desarrollado",
+      "argentina",
+      "guardar",
+      "sincronizar",
+      "archivos",
+      "forma",
+      "segura",
+      "desde",
+      "cualquier",
+      "dispositivo",
+      "conectado",
+      "internet",
+      "ofrece",
+      "planes",
+      "gratuitos",
+      "pago",
+      "diferentes",
+      "capacidades",
+      "incluyendo",
+      "opciones",
+      "individuales",
+      "familias",
+      "empresas",
+      "funciones",
+      "respaldo",
+      "automático",
+      "colaboración",
+      "tiempo",
+      "real",
+      "cuenta",
+      "aplicaciones",
+      "nativas",
+      "windows",
+      "macos",
+      "linux",
+      "android",
+      "permitiendo",
+      "acceso",
+      "almacenados",
+      "tanto",
+      "modo",
+      "offline"
     ],
     "vocabulario": {
       "1969": 1,
@@ -294,7 +342,7 @@
       "mantiene": 1,
       "coherencia": 1,
       "gracia": 1,
-      "info": 1,
+      "info": 2,
       "otra": 1,
       "duda": 1,
       "podes": 1,
@@ -391,7 +439,53 @@
       "moneda": 1,
       "virtual": 1,
       "llamada": 1,
-      "robux": 1
+      "robux": 1,
+      "tenes": 1,
+      "nube": 1,
+      "servicio": 1,
+      "almacenamiento": 1,
+      "desarrollado": 1,
+      "argentina": 1,
+      "guardar": 1,
+      "sincronizar": 1,
+      "archivos": 1,
+      "forma": 1,
+      "segura": 1,
+      "desde": 1,
+      "cualquier": 1,
+      "dispositivo": 1,
+      "conectado": 1,
+      "internet": 1,
+      "ofrece": 1,
+      "planes": 1,
+      "gratuitos": 1,
+      "pago": 1,
+      "diferentes": 1,
+      "capacidades": 1,
+      "incluyendo": 1,
+      "opciones": 1,
+      "individuales": 1,
+      "familias": 1,
+      "empresas": 1,
+      "funciones": 1,
+      "respaldo": 1,
+      "automático": 1,
+      "colaboración": 1,
+      "tiempo": 1,
+      "real": 1,
+      "cuenta": 1,
+      "aplicaciones": 1,
+      "nativas": 1,
+      "windows": 1,
+      "macos": 1,
+      "linux": 1,
+      "android": 1,
+      "permitiendo": 1,
+      "acceso": 1,
+      "almacenados": 1,
+      "tanto": 1,
+      "modo": 1,
+      "offline": 1
     },
     "patrones": [
       {
@@ -833,6 +927,56 @@
         ],
         "tema": "entretenimiento",
         "fecha": "2025-12-29T05:49:10.079Z"
+      },
+      {
+        "texto": "que info ya tenes en tu nube ?",
+        "tokens": [
+          "que",
+          "info",
+          "ya",
+          "tenes",
+          "en",
+          "tu",
+          "nube"
+        ],
+        "estructura": "Compleja",
+        "palabrasClave": [
+          "info",
+          "tenes",
+          "nube"
+        ],
+        "tagged": [
+          {
+            "word": "que",
+            "tag": "DESCONOCIDO"
+          },
+          {
+            "word": "info",
+            "tag": "SUSTANTIVO"
+          },
+          {
+            "word": "ya",
+            "tag": "DESCONOCIDO"
+          },
+          {
+            "word": "tenes",
+            "tag": "SUSTANTIVO"
+          },
+          {
+            "word": "en",
+            "tag": "DESCONOCIDO"
+          },
+          {
+            "word": "tu",
+            "tag": "DESCONOCIDO"
+          },
+          {
+            "word": "nube",
+            "tag": "SUSTANTIVO"
+          }
+        ],
+        "tema": "info",
+        "fecha": "2025-12-29T05:50:50.577Z"
       }
     ],
     "contextos": [],
@@ -894,6 +1038,15 @@
           "3. Utiliza el lenguaje de programación Lua para crear experiencias interactivas, y los desarrolladores pueden monetizar sus juegos mediante una moneda virtual llamada Robux."
         ],
         "fecha": "2025-12-29T05:49:17.781Z"
+      },
+      {
+        "query": "info tenes nube",
+        "resultados": [
+          "**Dato 1:** Tenes Nube es un servicio de almacenamiento en la nube desarrollado en Argentina que permite a los usuarios guardar, sincronizar y compartir archivos de forma segura desde cualquier dispositivo conectado a internet.",
+          "**Dato 2:** Ofrece planes gratuitos y de pago con diferentes capacidades de almacenamiento, incluyendo opciones para usuarios individuales, familias y empresas, con funciones de respaldo automático y colaboración en tiempo real.",
+          "**Dato 3:** La plataforma cuenta con aplicaciones nativas para Windows, macOS, Linux, iOS y Android, permitiendo acceso a los archivos almacenados tanto en modo online como offline."
+        ],
+        "fecha": "2025-12-29T05:50:58.231Z"
       }
     ],
     "relacionesSemanticas": {
@@ -907,7 +1060,8 @@
         "info"
       ],
       "info": [
-        "gracia"
+        "gracia",
+        "tenes"
       ],
       "tengo": [
         "otra"
@@ -944,17 +1098,25 @@
       ],
       "demandas": [
         "crisis"
+      ],
+      "tenes": [
+        "info",
+        "nube"
+      ],
+      "nube": [
+        "tenes"
       ]
     },
     "temasAprendidos": [
       "quien",
       "gracia",
       "tengo",
-      "entretenimiento"
+      "entretenimiento",
+      "info"
     ],
-    "entrenamientos": 10,
-    "totalBusquedas": 8,
-    "precision": 49,
-    "ultimaActualizacion": 1766987357782
+    "entrenamientos": 11,
+    "totalBusquedas": 9,
+    "precision": 49.4,
+    "ultimaActualizacion": 1766987458231
   }
 }
