@@ -2,7 +2,9 @@
   "nlp": {
     "tokens": [
       "hola",
-      "jajaj"
+      "jajaj",
+      "ya",
+      "veo"
     ],
     "vocabulario": {
       "hola": 1,
@@ -42,11 +44,31 @@
           }
         ],
         "fecha": "2025-12-29T04:42:55.928Z"
+      },
+      {
+        "texto": "ya veo",
+        "tokens": [
+          "ya",
+          "veo"
+        ],
+        "estructura": "Simple",
+        "palabrasClave": [],
+        "tagged": [
+          {
+            "word": "ya",
+            "tag": "DESCONOCIDO"
+          },
+          {
+            "word": "veo",
+            "tag": "DESCONOCIDO"
+          }
+        ],
+        "fecha": "2025-12-29T04:48:49.720Z"
       }
     ],
     "contextos": [],
-    "entrenamientos": 2,
-    "precision": 45.8,
-    "ultimaActualizacion": 1766983375928
+    "entrenamientos": 3,
+    "precision": 46.2,
+    "ultimaActualizacion": 1766983729721
   }
 }
