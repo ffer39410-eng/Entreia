@@ -292,7 +292,59 @@
       "control",
       "inventario",
       "operaciones",
-      "logísticas"
+      "logísticas",
+      "asta",
+      "ahora",
+      "aquí",
+      "presento",
+      "tres",
+      "clave",
+      "\"sabes",
+      "ahora\"",
+      "**origen**",
+      "utilizada",
+      "algunos",
+      "países",
+      "américa",
+      "latina",
+      "especialmente",
+      "méxico",
+      "expresar",
+      "sorpresa",
+      "incredulidad",
+      "ante",
+      "noticia",
+      "situación",
+      "reciente",
+      "**uso",
+      "común**",
+      "contextos",
+      "informales",
+      "amigos",
+      "familiares",
+      "puede",
+      "traducir",
+      "español",
+      "\"¿sabes",
+      "qué\"",
+      "\"¿has",
+      "escuchado\"",
+      "\"¿lo",
+      "sabes\"",
+      "**variaciones**",
+      "variar",
+      "dependiendo",
+      "país",
+      "región",
+      "ejemplo",
+      "colombia",
+      "pasa\"",
+      "venezuela",
+      "pero",
+      "siempre",
+      "mismo",
+      "significado",
+      "básico"
     ],
     "vocabulario": {
       "1969": 1,
@@ -431,7 +483,7 @@
       "consultar": 1,
       "algo": 1,
       "más\"": 1,
-      "sabes": 1,
+      "sabes": 2,
       "juego": 1,
       "roblox": 1,
       "crisis": 1,
@@ -561,7 +613,59 @@
       "control": 1,
       "inventario": 1,
       "operaciones": 1,
-      "logísticas": 1
+      "logísticas": 1,
+      "asta": 1,
+      "ahora": 1,
+      "aquí": 1,
+      "presento": 1,
+      "tres": 1,
+      "clave": 1,
+      "\"sabes": 1,
+      "ahora\"": 1,
+      "**origen**": 1,
+      "utilizada": 1,
+      "algunos": 1,
+      "países": 1,
+      "américa": 1,
+      "latina": 1,
+      "especialmente": 1,
+      "méxico": 1,
+      "expresar": 1,
+      "sorpresa": 1,
+      "incredulidad": 1,
+      "ante": 1,
+      "noticia": 1,
+      "situación": 1,
+      "reciente": 1,
+      "**uso": 1,
+      "común**": 1,
+      "contextos": 1,
+      "informales": 1,
+      "amigos": 1,
+      "familiares": 1,
+      "puede": 1,
+      "traducir": 1,
+      "español": 1,
+      "\"¿sabes": 1,
+      "qué\"": 1,
+      "\"¿has": 1,
+      "escuchado\"": 1,
+      "\"¿lo": 1,
+      "sabes\"": 1,
+      "**variaciones**": 1,
+      "variar": 1,
+      "dependiendo": 1,
+      "país": 1,
+      "región": 1,
+      "ejemplo": 1,
+      "colombia": 1,
+      "pasa\"": 1,
+      "venezuela": 1,
+      "pero": 1,
+      "siempre": 1,
+      "mismo": 1,
+      "significado": 1,
+      "básico": 1
     },
     "patrones": [
       {
@@ -1109,6 +1213,51 @@
         ],
         "tema": "tipo",
         "fecha": "2025-12-29T05:51:38.406Z"
+      },
+      {
+        "texto": "que sabes ya asta ahora bro",
+        "tokens": [
+          "que",
+          "sabes",
+          "ya",
+          "asta",
+          "ahora",
+          "bro"
+        ],
+        "estructura": "Compleja",
+        "palabrasClave": [
+          "sabes",
+          "asta",
+          "ahora"
+        ],
+        "tagged": [
+          {
+            "word": "que",
+            "tag": "DESCONOCIDO"
+          },
+          {
+            "word": "sabes",
+            "tag": "SUSTANTIVO"
+          },
+          {
+            "word": "ya",
+            "tag": "DESCONOCIDO"
+          },
+          {
+            "word": "asta",
+            "tag": "SUSTANTIVO"
+          },
+          {
+            "word": "ahora",
+            "tag": "SUSTANTIVO"
+          },
+          {
+            "word": "bro",
+            "tag": "DESCONOCIDO"
+          }
+        ],
+        "tema": "sabes",
+        "fecha": "2025-12-29T06:04:49.729Z"
       }
     ],
     "contextos": [],
@@ -1188,6 +1337,16 @@
           "Los almacenes modernos utilizan sistemas automatizados, gestión por radiofrecuencia y software WMS para optimizar el control de inventario y operaciones logísticas."
         ],
         "fecha": "2025-12-29T05:51:58.657Z"
+      },
+      {
+        "query": "sabes asta ahora",
+        "resultados": [
+          "Aquí te presento tres datos clave sobre \"sabes asta ahora\":",
+          "1. **Origen**: \"Sabes asta ahora\" es una expresión coloquial utilizada en algunos países de América Latina, especialmente en México, para expresar sorpresa o incredulidad ante una noticia o situación reciente.",
+          "2. **Uso común**: Se utiliza en contextos informales, como conversaciones con amigos o familiares, y se puede traducir al español como \"¿sabes qué?\", \"¿has escuchado?\", o \"¿lo sabes?\".",
+          "3. **Variaciones**: La expresión puede variar dependiendo del país o región, por ejemplo, \"ya lo sabes\" en Colombia o \"sabes qué pasa\" en Venezuela, pero siempre mantiene el mismo significado básico."
+        ],
+        "fecha": "2025-12-29T06:04:50.638Z"
       }
     ],
     "relacionesSemanticas": {
@@ -1223,7 +1382,8 @@
         "podes"
       ],
       "sabes": [
-        "juego"
+        "juego",
+        "asta"
       ],
       "juego": [
         "sabes",
@@ -1254,6 +1414,13 @@
       "almacen": [
         "tipo",
         "tenes"
+      ],
+      "asta": [
+        "sabes",
+        "ahora"
+      ],
+      "ahora": [
+        "asta"
       ]
     },
     "temasAprendidos": [
@@ -1262,11 +1429,12 @@
       "tengo",
       "entretenimiento",
       "info",
-      "tipo"
+      "tipo",
+      "sabes"
     ],
-    "entrenamientos": 12,
-    "totalBusquedas": 10,
-    "precision": 49.8,
-    "ultimaActualizacion": 1766987518658
+    "entrenamientos": 13,
+    "totalBusquedas": 11,
+    "precision": 50.2,
+    "ultimaActualizacion": 1766988290639
   }
 }
