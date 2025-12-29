@@ -11,20 +11,55 @@
       "ayudarte",
       "sofía,",
       "artificial.",
-      "ayudarte?"
+      "ayudarte?",
+      "perfecto",
+      "sabes",
+      "para",
+      "necesites",
+      "asistirte",
+      "responder",
+      "preguntas",
+      "buscar",
+      "información",
+      "mantener",
+      "conversaciones",
+      "sobre",
+      "diversos",
+      "temas",
+      "simplemente",
+      "charlar",
+      "prefieres",
+      "estoy",
+      "aquí",
+      "requieras",
+      "perfecto!",
+      "necesites.",
+      "preguntas,",
+      "información,",
+      "temas,",
+      "prefieres.",
+      "requieras."
     ],
     "frasesUtiles": [
       "¿Quién eres",
       "Soy Sofía, una inteligencia artificial",
       "Fui creada por Fer",
-      "En qué puedo ayudarte"
+      "En qué puedo ayudarte",
+      "Ya sabes quién soy",
+      "Sofía, una inteligencia artificial creada para ayudarte con lo que necesites",
+      "En qué puedo asistirte hoy",
+      "Puedo responder preguntas, buscar información, mantener conversaciones sobre diversos temas, o simplemente charlar si lo prefieres",
+      "Estoy aquí para lo que requieras"
     ],
     "patronesGramaticales": {},
     "conjugaciones": {
       "eres": 1,
       "soy": 1,
-      "puedo": 1
+      "puedo": 2,
+      "estoy": 1
     },
-    "expresionesNaturales": []
+    "expresionesNaturales": [
+      "sobre"
+    ]
   }
 }
