@@ -11,13 +11,78 @@
       "si",
       "sigue",
       "asi",
-      "bb"
+      "bb",
+      "quien",
+      "es",
+      "goku",
+      "aquí",
+      "proporciono",
+      "datos",
+      "clave",
+      "sobre",
+      "protagonista",
+      "serie",
+      "manga",
+      "anime",
+      "\"dragon",
+      "ball\"",
+      "akira",
+      "toriyama",
+      "guerrero",
+      "valiente",
+      "poderoso",
+      "lucha",
+      "proteger",
+      "amigos",
+      "tierra",
+      "posee",
+      "gran",
+      "cantidad",
+      "habilidades",
+      "poderes",
+      "incluyendo",
+      "capacidad",
+      "volar",
+      "lanzar",
+      "kamehameha"
     ],
     "vocabulario": {
       "hola": 1,
       "jajaj": 2,
       "aprediendo": 1,
-      "sigue": 1
+      "sigue": 1,
+      "quien": 1,
+      "goku": 1,
+      "aquí": 1,
+      "proporciono": 1,
+      "datos": 1,
+      "clave": 1,
+      "sobre": 1,
+      "protagonista": 1,
+      "serie": 1,
+      "manga": 1,
+      "anime": 1,
+      "\"dragon": 1,
+      "ball\"": 1,
+      "akira": 1,
+      "toriyama": 1,
+      "guerrero": 1,
+      "valiente": 1,
+      "poderoso": 1,
+      "lucha": 1,
+      "proteger": 1,
+      "amigos": 1,
+      "tierra": 1,
+      "posee": 1,
+      "gran": 1,
+      "cantidad": 1,
+      "habilidades": 1,
+      "poderes": 1,
+      "incluyendo": 1,
+      "capacidad": 1,
+      "volar": 1,
+      "lanzar": 1,
+      "kamehameha": 1
     },
     "patrones": [
       {
@@ -143,11 +208,52 @@
           }
         ],
         "fecha": "2025-12-29T04:49:20.004Z"
+      },
+      {
+        "texto": "quien es goku",
+        "tokens": [
+          "quien",
+          "es",
+          "goku"
+        ],
+        "estructura": "Media",
+        "palabrasClave": [
+          "quien",
+          "goku"
+        ],
+        "tagged": [
+          {
+            "word": "quien",
+            "tag": "SUSTANTIVO"
+          },
+          {
+            "word": "es",
+            "tag": "VERBO"
+          },
+          {
+            "word": "goku",
+            "tag": "SUSTANTIVO"
+          }
+        ],
+        "fecha": "2025-12-29T05:15:58.299Z"
       }
     ],
     "contextos": [],
-    "entrenamientos": 5,
-    "precision": 47,
-    "ultimaActualizacion": 1766983760005
+    "busquedasWeb": [
+      {
+        "query": "quien goku",
+        "resultados": [
+          "Aquí te proporciono 3 datos clave sobre Goku:",
+          "Goku es el protagonista de la serie de manga y anime \"Dragon Ball\" de Akira Toriyama.",
+          "Es un guerrero valiente y poderoso que lucha por proteger a sus amigos y a la Tierra.",
+          "Goku posee una gran cantidad de habilidades y poderes, incluyendo la capacidad de volar y lanzar la Kamehameha."
+        ],
+        "fecha": "2025-12-29T05:15:59.546Z"
+      }
+    ],
+    "entrenamientos": 6,
+    "totalBusquedas": 1,
+    "precision": 47.4,
+    "ultimaActualizacion": 1766985359547
   }
 }
