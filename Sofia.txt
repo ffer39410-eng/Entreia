@@ -1,5 +1,5 @@
 {
-  "iq": 3137,
+  "iq": 3140,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3186,16 +3186,12 @@
     "pelea",
     "equilibrio",
     "genial",
-    "caro"
+    "caro",
+    "aclaración"
   ],
   "lecciones": 14,
   "conversaciones": 8,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
-      "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de analizar y evaluar información de manera objetiva y racional, para llegar a conclusiones lógicas y coherentes. Esto implica utilizar reglas y principios lógicos, como la inferencia y la deducción, para establecer conexiones entre ideas y llegar a una solución clara y convincente. Por ejemplo, si alguien afirma que \"el cielo está nublado\", un razonamiento lógico podría ser: \"Si el cielo está nublado, es probable que llueva. Y si llueve, es mejor llevar un paraguas\". \n\nUn ejemplo más práctico sería: Si \"el coche está en el taller\" y \"el coche necesitaba reparaciones\", un razonamiento lógico sería: \"Entonces el coche debe estar en reparación\".",
-      "fecha": "2025-12-28T21:16:20.079Z"
-    },
     {
       "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
       "respuesta": "Las metáforas son una forma de lenguaaje figurado que consiste en comparar dos conceptos o ideas diferentes, pero sin utilizar las palabras \"como\" o \"similar a\". Por ejemplo, \"mi vida es un libro\" es una metáfora que compara la vida a un libro, sugiriendo que es una narrativa con capítulos y finales. Las metáforas pueden ser utilizadas para describir emociones, experiencias o ideas de manera más creativa y expresiva.",
@@ -4190,8 +4186,13 @@
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son palabras o expresiones que unen oraciones, frases o ideas para crear un texto coherente y claro. Se utilizan para indicar la relación entre las ideas que se expresan, como la causalidad, la comparación, la conclusión, la oposición o la adición. Por ejemplo, en la oración \"Eso es genial, pero es un poco caro\", el conector \"pero\" indica la oposición entre las ideas expresadas.\n\nAlgunos conectores comunes son:\n\n* Adición: también, además, por lo tanto\n* Oposición: pero, sin embargo, aunque\n* Causalidad: por tanto, por lo tanto, debido a\n* Comparación: como, de la misma manera que, al igual que",
       "fecha": "2025-12-29T04:26:20.033Z"
+    },
+    {
+      "pregunta": "¿Qué son los conectores y cómo se usan?",
+      "respuesta": "Los conectores son palabras o expresiones que unen oraciones, frases o ideas entre sí, creando una estructura lógica y coherente en el texto. Se utilizan para indicar relaciones entre las ideas, como causa-efecto, tiempo, lugar, o para mostrar contraste, consecuencia o aclaración. Por ejemplo, \"Sin embargo\", \"Por otro lado\", \"Como resultado de esto\" o \"Además\".",
+      "fecha": "2025-12-29T04:26:28.107Z"
     }
   ],
-  "ultimaActualizacion": 1766982380034,
-  "preguntasHechas": 531
+  "ultimaActualizacion": 1766982388109,
+  "preguntasHechas": 532
 }
