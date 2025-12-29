@@ -38,7 +38,24 @@
       "información,",
       "temas,",
       "prefieres.",
-      "requieras."
+      "requieras.",
+      "alegro",
+      "jeje",
+      "alegra",
+      "saber",
+      "tienes",
+      "alguna",
+      "otra",
+      "pregunta",
+      "necesitas",
+      "ayuda",
+      "algo",
+      "estaré",
+      "específico",
+      "pueda",
+      "ayudar",
+      "algo,",
+      "asistirte."
     ],
     "frasesUtiles": [
       "¿Quién eres",
@@ -49,14 +66,19 @@
       "Sofía, una inteligencia artificial creada para ayudarte con lo que necesites",
       "En qué puedo asistirte hoy",
       "Puedo responder preguntas, buscar información, mantener conversaciones sobre diversos temas, o simplemente charlar si lo prefieres",
-      "Estoy aquí para lo que requieras"
+      "Estoy aquí para lo que requieras",
+      "oh me alegro jeje",
+      "Me alegra saber eso",
+      "Si tienes alguna otra pregunta o necesitas ayuda con algo, aquí estaré para asistirte",
+      "Hay algo específico en lo que te pueda ayudar hoy"
     ],
     "patronesGramaticales": {},
     "conjugaciones": {
       "eres": 1,
       "soy": 1,
       "puedo": 2,
-      "estoy": 1
+      "estoy": 1,
+      "tienes": 1
     },
     "expresionesNaturales": [
       "sobre"
