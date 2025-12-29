@@ -1,1 +1,30 @@
-
+{
+  "espanol": {
+    "palabrasComunes": [
+      "quién",
+      "eres",
+      "sofía",
+      "inteligencia",
+      "artificial",
+      "creada",
+      "puedo",
+      "ayudarte",
+      "sofía,",
+      "artificial.",
+      "ayudarte?"
+    ],
+    "frasesUtiles": [
+      "¿Quién eres",
+      "Soy Sofía, una inteligencia artificial",
+      "Fui creada por Fer",
+      "En qué puedo ayudarte"
+    ],
+    "patronesGramaticales": {},
+    "conjugaciones": {
+      "eres": 1,
+      "soy": 1,
+      "puedo": 1
+    },
+    "expresionesNaturales": []
+  }
+}
