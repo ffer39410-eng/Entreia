@@ -1,13 +1,147 @@
 {
   "nlp": {
-    "tokens": [],
-    "vocabulario": {},
-    "patrones": [],
+    "tokens": [
+      "quien",
+      "es",
+      "doraemon",
+      "bro",
+      "robot",
+      "gato",
+      "azul",
+      "futuro",
+      "creado",
+      "dibujante",
+      "japonés",
+      "fujiko",
+      "fujio",
+      "debuted",
+      "1969",
+      "revista",
+      "manga",
+      "viene",
+      "siglo",
+      "xxii",
+      "para",
+      "ayudar",
+      "nobita",
+      "nobi",
+      "niño",
+      "despistado",
+      "desafortunado",
+      "mediante",
+      "bolsillo",
+      "mágico",
+      "lleno",
+      "inventos",
+      "futuristas",
+      "considerado",
+      "personajes",
+      "ficción",
+      "icónicos",
+      "japón",
+      "millones",
+      "fans",
+      "worldwide",
+      "numerosas",
+      "series",
+      "anime",
+      "películas"
+    ],
+    "vocabulario": {
+      "1969": 1,
+      "quien": 1,
+      "doraemon": 1,
+      "robot": 1,
+      "gato": 1,
+      "azul": 1,
+      "futuro": 1,
+      "creado": 1,
+      "dibujante": 1,
+      "japonés": 1,
+      "fujiko": 1,
+      "fujio": 1,
+      "debuted": 1,
+      "revista": 1,
+      "manga": 1,
+      "viene": 1,
+      "siglo": 1,
+      "xxii": 1,
+      "para": 1,
+      "ayudar": 1,
+      "nobita": 1,
+      "nobi": 1,
+      "niño": 1,
+      "despistado": 1,
+      "desafortunado": 1,
+      "mediante": 1,
+      "bolsillo": 1,
+      "mágico": 1,
+      "lleno": 1,
+      "inventos": 1,
+      "futuristas": 1,
+      "considerado": 1,
+      "personajes": 1,
+      "ficción": 1,
+      "icónicos": 1,
+      "japón": 1,
+      "millones": 1,
+      "fans": 1,
+      "worldwide": 1,
+      "numerosas": 1,
+      "series": 1,
+      "anime": 1,
+      "películas": 1
+    },
+    "patrones": [
+      {
+        "texto": "quien es Doraemon bro?",
+        "tokens": [
+          "quien",
+          "es",
+          "doraemon",
+          "bro"
+        ],
+        "estructura": "Media",
+        "palabrasClave": [
+          "quien",
+          "doraemon"
+        ],
+        "tagged": [
+          {
+            "word": "quien",
+            "tag": "SUSTANTIVO"
+          },
+          {
+            "word": "es",
+            "tag": "VERBO"
+          },
+          {
+            "word": "doraemon",
+            "tag": "SUSTANTIVO"
+          },
+          {
+            "word": "bro",
+            "tag": "DESCONOCIDO"
+          }
+        ],
+        "fecha": "2025-12-29T05:37:12.614Z"
+      }
+    ],
     "contextos": [],
-    "busquedasWeb": [],
-    "entrenamientos": 0,
-    "totalBusquedas": 0,
-    "precision": 0,
-    "ultimaActualizacion": 1766986459122
+    "busquedasWeb": [
+      {
+        "query": "quien doraemon",
+        "resultados": [
+          "Doraemon es un robot gato azul del futuro, creado por el dibujante japonés Fujiko F. Fujio, que debuted en 1969 en una revista de manga.",
+          "Viene del siglo XXII para ayudar a Nobita Nobi, un niño despistado y desafortunado, mediante su bolsillo mágico lleno de inventos futuristas.",
+          "Es considerado uno de los personajes de ficción más icónicos de Japón, con millones de fans worldwide y numerosas series de anime y películas."
+        ],
+        "fecha": "2025-12-29T05:37:18.732Z"
+      }
+    ],
+    "entrenamientos": 1,
+    "totalBusquedas": 1,
+    "precision": 45.4,
+    "ultimaActualizacion": 1766986638733
   }
 }
