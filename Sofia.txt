@@ -11,7 +11,7 @@
       "ayudarte": 4,
       "perfecto": 2,
       "sabes": 2,
-      "para": 2,
+      "para": 1,
       "necesites": 2,
       "asistirte": 1,
       "responder": 1,
@@ -27,8 +27,23 @@
       "charlar": 1,
       "prefieres": 1,
       "estoy": 1,
-      "aquí": 1,
-      "requieras": 1
+      "aquí": 2,
+      "requieras": 1,
+      "alegro": 2,
+      "jeje": 2,
+      "alegra": 2,
+      "saber": 2,
+      "tienes": 2,
+      "alguna": 2,
+      "otra": 2,
+      "pregunta": 2,
+      "necesitas": 2,
+      "ayuda": 2,
+      "algo": 3,
+      "estaré": 1,
+      "específico": 1,
+      "pueda": 1,
+      "ayudar": 1
     },
     "relacionesSemanticas": {
       "quién eres": 2,
@@ -54,7 +69,7 @@
       "para ayudarte": 2,
       "ayudarte con": 2,
       "con lo": 2,
-      "lo que": 4,
+      "lo que": 2,
       "que necesites": 2,
       "necesites en": 2,
       "puedo asistirte": 2,
@@ -79,17 +94,47 @@
       "estoy aquí": 2,
       "aquí para": 2,
       "para lo": 2,
-      "que requieras": 2
+      "que requieras": 2,
+      "oh me": 2,
+      "me alegro": 2,
+      "alegro jeje": 2,
+      "me alegra": 2,
+      "alegra saber": 2,
+      "saber eso": 2,
+      "eso si": 2,
+      "si tienes": 2,
+      "tienes alguna": 2,
+      "alguna otra": 2,
+      "otra pregunta": 2,
+      "pregunta o": 2,
+      "o necesitas": 2,
+      "necesitas ayuda": 2,
+      "ayuda con": 2,
+      "con algo": 2,
+      "algo aquí": 2,
+      "aquí estaré": 2,
+      "estaré para": 2,
+      "para asistirte": 2,
+      "asistirte hay": 2,
+      "hay algo": 2,
+      "algo específico": 2,
+      "específico en": 2,
+      "en lo": 2,
+      "que te": 2,
+      "te pueda": 2,
+      "pueda ayudar": 2,
+      "ayudar hoy": 2
     },
     "patronesPregunta": {
-      "afirmacion_general": 4
+      "afirmacion_general": 2
     },
     "patronesRespuesta": {
       "personal": {
         "respuesta_corta": 2
       },
       "general": {
-        "respuesta_larga": 2
+        "respuesta_larga": 2,
+        "respuesta_media": 2
       }
     },
     "temasAprendidos": [
@@ -101,14 +146,19 @@
       "necesites.",
       "asistirte",
       "responder",
-      "general"
+      "general",
+      "estaré",
+      "asistirte.",
+      "específico",
+      "ayudar"
     ],
     "contextosImportantes": [
       "personal: quién eres -> soy sofía una",
-      "personal: quién eres"
+      "personal: quién eres",
+      "general: alegro jeje -> me alegra saber"
     ],
-    "entrenamientos": 2,
+    "entrenamientos": 3,
     "totalBusquedas": 2,
-    "precision": 60.4
+    "precision": 60.6
   }
 }
