@@ -152,11 +152,66 @@
       "\"quisiera",
       "consultar",
       "algo",
-      "más\""
+      "más\"",
+      "sabes",
+      "del",
+      "juego",
+      "roblox",
+      "con",
+      "sus",
+      "crisis",
+      "demandas",
+      "quiero",
+      "saber",
+      "ello",
+      "plataforma",
+      "online",
+      "permite",
+      "usuarios",
+      "crear",
+      "compartir",
+      "jugar",
+      "juegos",
+      "generados",
+      "comunidad",
+      "utilizando",
+      "propio",
+      "motor",
+      "desarrollo",
+      "llamado",
+      "studio",
+      "lanzado",
+      "oficialmente",
+      "2006",
+      "está",
+      "dirigido",
+      "principalmente",
+      "niños",
+      "adolescentes",
+      "combinando",
+      "elementos",
+      "redes",
+      "sociales",
+      "videojuegos",
+      "interactivos",
+      "entorno",
+      "utiliza",
+      "lenguaje",
+      "programación",
+      "experiencias",
+      "interactivas",
+      "desarrolladores",
+      "pueden",
+      "monetizar",
+      "moneda",
+      "virtual",
+      "llamada",
+      "robux"
     ],
     "vocabulario": {
       "1969": 1,
       "1984": 1,
+      "2006": 1,
       "quien": 3,
       "doraemon": 2,
       "robot": 1,
@@ -289,7 +344,54 @@
       "\"quisiera": 1,
       "consultar": 1,
       "algo": 1,
-      "más\"": 1
+      "más\"": 1,
+      "sabes": 1,
+      "juego": 1,
+      "roblox": 1,
+      "crisis": 1,
+      "demandas": 1,
+      "plataforma": 1,
+      "online": 1,
+      "permite": 1,
+      "usuarios": 1,
+      "crear": 1,
+      "compartir": 1,
+      "jugar": 1,
+      "juegos": 1,
+      "generados": 1,
+      "comunidad": 1,
+      "utilizando": 1,
+      "propio": 1,
+      "motor": 1,
+      "desarrollo": 1,
+      "llamado": 1,
+      "studio": 1,
+      "lanzado": 1,
+      "oficialmente": 1,
+      "está": 1,
+      "dirigido": 1,
+      "principalmente": 1,
+      "niños": 1,
+      "adolescentes": 1,
+      "combinando": 1,
+      "elementos": 1,
+      "redes": 1,
+      "sociales": 1,
+      "videojuegos": 1,
+      "interactivos": 1,
+      "entorno": 1,
+      "utiliza": 1,
+      "lenguaje": 1,
+      "programación": 1,
+      "experiencias": 1,
+      "interactivas": 1,
+      "desarrolladores": 1,
+      "pueden": 1,
+      "monetizar": 1,
+      "moneda": 1,
+      "virtual": 1,
+      "llamada": 1,
+      "robux": 1
     },
     "patrones": [
       {
@@ -639,6 +741,98 @@
         ],
         "tema": "tengo",
         "fecha": "2025-12-29T05:48:17.270Z"
+      },
+      {
+        "texto": "sabes del Juego de roblox con sus Crisis de Demandas quiero saber mas de ello",
+        "tokens": [
+          "sabes",
+          "del",
+          "juego",
+          "de",
+          "roblox",
+          "con",
+          "sus",
+          "crisis",
+          "de",
+          "demandas",
+          "quiero",
+          "saber",
+          "mas",
+          "de",
+          "ello"
+        ],
+        "estructura": "Muy Compleja",
+        "palabrasClave": [
+          "sabes",
+          "juego",
+          "roblox",
+          "crisis",
+          "demandas"
+        ],
+        "tagged": [
+          {
+            "word": "sabes",
+            "tag": "SUSTANTIVO"
+          },
+          {
+            "word": "del",
+            "tag": "DESCONOCIDO"
+          },
+          {
+            "word": "juego",
+            "tag": "SUSTANTIVO"
+          },
+          {
+            "word": "de",
+            "tag": "DESCONOCIDO"
+          },
+          {
+            "word": "roblox",
+            "tag": "SUSTANTIVO"
+          },
+          {
+            "word": "con",
+            "tag": "DESCONOCIDO"
+          },
+          {
+            "word": "sus",
+            "tag": "DESCONOCIDO"
+          },
+          {
+            "word": "crisis",
+            "tag": "SUSTANTIVO"
+          },
+          {
+            "word": "de",
+            "tag": "DESCONOCIDO"
+          },
+          {
+            "word": "demandas",
+            "tag": "SUSTANTIVO"
+          },
+          {
+            "word": "quiero",
+            "tag": "SUSTANTIVO"
+          },
+          {
+            "word": "saber",
+            "tag": "SUSTANTIVO"
+          },
+          {
+            "word": "mas",
+            "tag": "DESCONOCIDO"
+          },
+          {
+            "word": "de",
+            "tag": "DESCONOCIDO"
+          },
+          {
+            "word": "ello",
+            "tag": "SUSTANTIVO"
+          }
+        ],
+        "tema": "entretenimiento",
+        "fecha": "2025-12-29T05:49:10.079Z"
       }
     ],
     "contextos": [],
@@ -691,6 +885,15 @@
           "3. Alternativas similares incluyen expresiones como \"me surge otra pregunta\", \"tengo una nueva duda\" o \"quisiera consultar algo más\"."
         ],
         "fecha": "2025-12-29T05:48:27.913Z"
+      },
+      {
+        "query": "sabes juego roblox",
+        "resultados": [
+          "1. Roblox es una plataforma online que permite a los usuarios crear, compartir y jugar millones de juegos generados por la comunidad, utilizando su propio motor de desarrollo llamado Roblox Studio.",
+          "2. Fue lanzado oficialmente en 2006 y está dirigido principalmente a niños y adolescentes, combinando elementos de redes sociales con videojuegos interactivos en un entorno 3D.",
+          "3. Utiliza el lenguaje de programación Lua para crear experiencias interactivas, y los desarrolladores pueden monetizar sus juegos mediante una moneda virtual llamada Robux."
+        ],
+        "fecha": "2025-12-29T05:49:17.781Z"
       }
     ],
     "relacionesSemanticas": {
@@ -723,16 +926,35 @@
       ],
       "ayudarme": [
         "podes"
+      ],
+      "sabes": [
+        "juego"
+      ],
+      "juego": [
+        "sabes",
+        "roblox"
+      ],
+      "roblox": [
+        "juego",
+        "crisis"
+      ],
+      "crisis": [
+        "roblox",
+        "demandas"
+      ],
+      "demandas": [
+        "crisis"
       ]
     },
     "temasAprendidos": [
       "quien",
       "gracia",
-      "tengo"
+      "tengo",
+      "entretenimiento"
     ],
-    "entrenamientos": 9,
-    "totalBusquedas": 7,
-    "precision": 48.6,
-    "ultimaActualizacion": 1766987307915
+    "entrenamientos": 10,
+    "totalBusquedas": 8,
+    "precision": 49,
+    "ultimaActualizacion": 1766987357782
   }
 }
