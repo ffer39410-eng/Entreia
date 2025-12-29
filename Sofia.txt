@@ -7,12 +7,17 @@
       "veo",
       "que",
       "vas",
-      "aprediendo"
+      "aprediendo",
+      "si",
+      "sigue",
+      "asi",
+      "bb"
     ],
     "vocabulario": {
       "hola": 1,
       "jajaj": 2,
-      "aprediendo": 1
+      "aprediendo": 1,
+      "sigue": 1
     },
     "patrones": [
       {
@@ -106,11 +111,43 @@
           }
         ],
         "fecha": "2025-12-29T04:49:02.797Z"
+      },
+      {
+        "texto": "si sigue asi bb",
+        "tokens": [
+          "si",
+          "sigue",
+          "asi",
+          "bb"
+        ],
+        "estructura": "Media",
+        "palabrasClave": [
+          "sigue"
+        ],
+        "tagged": [
+          {
+            "word": "si",
+            "tag": "DESCONOCIDO"
+          },
+          {
+            "word": "sigue",
+            "tag": "SUSTANTIVO"
+          },
+          {
+            "word": "asi",
+            "tag": "DESCONOCIDO"
+          },
+          {
+            "word": "bb",
+            "tag": "DESCONOCIDO"
+          }
+        ],
+        "fecha": "2025-12-29T04:49:20.004Z"
       }
     ],
     "contextos": [],
-    "entrenamientos": 4,
-    "precision": 46.6,
-    "ultimaActualizacion": 1766983742798
+    "entrenamientos": 5,
+    "precision": 47,
+    "ultimaActualizacion": 1766983760005
   }
 }
