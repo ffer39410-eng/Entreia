@@ -3193,7 +3193,7 @@
     "mencione"
   ],
   "lecciones": 14,
-  "conversaciones": 8,
+  "conversaciones": 9,
   "conocimiento": [
     {
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
@@ -4196,6 +4196,6 @@
       "fecha": "2025-12-29T04:26:35.301Z"
     }
   ],
-  "ultimaActualizacion": 1766982395302,
+  "ultimaActualizacion": 1766982402107,
   "preguntasHechas": 533
 }
