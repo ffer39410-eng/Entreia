@@ -1,5 +1,5 @@
 {
-  "iq": 3134,
+  "iq": 3137,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3184,16 +3184,13 @@
     "culpas",
     "consolaras",
     "pelea",
-    "equilibrio"
+    "equilibrio",
+    "genial",
+    "caro"
   ],
   "lecciones": 14,
   "conversaciones": 8,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué son los sinónimos y antónimos?",
-      "respuesta": "Excelente pregunta, estimado alumno. Los sinónimos son palabras que tienen el mismo significado o denotan la misma cosa, pero con una forma de expresión diferente. Por ejemplo, \"gran\" y \"inmenso\" son sinónimos, ya que se refieren a algo que es muy grande. Los antónimos, por otro lado, son palabras que tienen significados opuestos, como \"sano\" y \"enfermo\", que se refieren a estados de salud contrarios.",
-      "fecha": "2025-12-28T21:16:11.672Z"
-    },
     {
       "pregunta": "¿Qué es el razonamiento lógico en conversaciones?",
       "respuesta": "El razonamiento lógico en conversaciones se refiere a la capacidad de analizar y evaluar información de manera objetiva y racional, para llegar a conclusiones lógicas y coherentes. Esto implica utilizar reglas y principios lógicos, como la inferencia y la deducción, para establecer conexiones entre ideas y llegar a una solución clara y convincente. Por ejemplo, si alguien afirma que \"el cielo está nublado\", un razonamiento lógico podría ser: \"Si el cielo está nublado, es probable que llueva. Y si llueve, es mejor llevar un paraguas\". \n\nUn ejemplo más práctico sería: Si \"el coche está en el taller\" y \"el coche necesitaba reparaciones\", un razonamiento lógico sería: \"Entonces el coche debe estar en reparación\".",
@@ -4188,8 +4185,13 @@
       "pregunta": "¿Qué son las preposiciones y para qué sirven?",
       "respuesta": "Las preposiciones son palabras que se utilizan para indicar la relación entre un elemento de una oración (como un sustantivo, un verbo o un adjetivo) y otro elemento, como un lugar, un tiempo o un concepto. Por ejemplo, en la oración \"El libro está sobre la mesa\", la preposición \"sobre\" indica la relación entre el libro y la mesa.\n\nLas preposiciones sirven para proporcionar contexto y claridad a las oraciones, indicando la dirección, la ubicación, la duración, la cantidad, la relación, la causa, el efecto, etc. Hay preposiciones de lugar (en, sobre, debajo de, entre), preposiciones de tiempo (antes de, después de, durante), preposiciones de cantidad (con, sin, más que), entre otras.",
       "fecha": "2025-12-29T04:26:12.023Z"
+    },
+    {
+      "pregunta": "¿Qué son los conectores y cómo se usan?",
+      "respuesta": "Los conectores son palabras o expresiones que unen oraciones, frases o ideas para crear un texto coherente y claro. Se utilizan para indicar la relación entre las ideas que se expresan, como la causalidad, la comparación, la conclusión, la oposición o la adición. Por ejemplo, en la oración \"Eso es genial, pero es un poco caro\", el conector \"pero\" indica la oposición entre las ideas expresadas.\n\nAlgunos conectores comunes son:\n\n* Adición: también, además, por lo tanto\n* Oposición: pero, sin embargo, aunque\n* Causalidad: por tanto, por lo tanto, debido a\n* Comparación: como, de la misma manera que, al igual que",
+      "fecha": "2025-12-29T04:26:20.033Z"
     }
   ],
-  "ultimaActualizacion": 1766982372025,
-  "preguntasHechas": 530
+  "ultimaActualizacion": 1766982380034,
+  "preguntasHechas": 531
 }
