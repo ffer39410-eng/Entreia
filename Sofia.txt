@@ -3,11 +3,68 @@
     "tokens": [
       "quien",
       "es",
-      "goku"
+      "goku",
+      "y",
+      "doraemon",
+      "robot",
+      "gato",
+      "azul",
+      "siglo",
+      "enviado",
+      "desde",
+      "pasado",
+      "presente",
+      "para",
+      "ayudar",
+      "nobita",
+      "nobi",
+      "estudiante",
+      "despistado",
+      "desprotegido",
+      "personaje",
+      "creado",
+      "mangaka",
+      "fujiko",
+      "fujio",
+      "debuted",
+      "1969",
+      "convirtiéndose",
+      "símbolos",
+      "icónicos",
+      "cultura",
+      "japonesa"
     ],
     "vocabulario": {
-      "quien": 1,
-      "goku": 1
+      "1969": 1,
+      "quien": 2,
+      "goku": 1,
+      "doraemon": 1,
+      "robot": 1,
+      "gato": 1,
+      "azul": 1,
+      "siglo": 1,
+      "enviado": 1,
+      "desde": 1,
+      "pasado": 1,
+      "presente": 1,
+      "para": 1,
+      "ayudar": 1,
+      "nobita": 1,
+      "nobi": 1,
+      "estudiante": 1,
+      "despistado": 1,
+      "desprotegido": 1,
+      "personaje": 1,
+      "creado": 1,
+      "mangaka": 1,
+      "fujiko": 1,
+      "fujio": 1,
+      "debuted": 1,
+      "convirtiéndose": 1,
+      "símbolos": 1,
+      "icónicos": 1,
+      "cultura": 1,
+      "japonesa": 1
     },
     "patrones": [
       {
@@ -37,6 +94,39 @@
           }
         ],
         "fecha": "2025-12-29T05:32:19.050Z"
+      },
+      {
+        "texto": "y quien es Doraemon",
+        "tokens": [
+          "y",
+          "quien",
+          "es",
+          "doraemon"
+        ],
+        "estructura": "Media",
+        "palabrasClave": [
+          "quien",
+          "doraemon"
+        ],
+        "tagged": [
+          {
+            "word": "y",
+            "tag": "DESCONOCIDO"
+          },
+          {
+            "word": "quien",
+            "tag": "SUSTANTIVO"
+          },
+          {
+            "word": "es",
+            "tag": "VERBO"
+          },
+          {
+            "word": "doraemon",
+            "tag": "SUSTANTIVO"
+          }
+        ],
+        "fecha": "2025-12-29T05:32:54.392Z"
       }
     ],
     "contextos": [],
@@ -45,11 +135,19 @@
         "query": "quien goku",
         "resultados": [],
         "fecha": "2025-12-29T05:32:25.139Z"
+      },
+      {
+        "query": "quien doraemon",
+        "resultados": [
+          "Doraemon es un robot gato azul del siglo XXI, enviado desde el pasado al presente para ayudar a Nobita Nobi, un estudiante despistado y desprotegido.",
+          "El personaje fue creado por el mangaka Fujiko F. Fujio y debuted en 1969, convirtiéndose en uno de los símbolos más icónicos de la cultura pop japonesa."
+        ],
+        "fecha": "2025-12-29T05:32:59.860Z"
       }
     ],
-    "entrenamientos": 1,
-    "totalBusquedas": 1,
-    "precision": 45.4,
-    "ultimaActualizacion": 1766986345141
+    "entrenamientos": 2,
+    "totalBusquedas": 2,
+    "precision": 45.8,
+    "ultimaActualizacion": 1766986379861
   }
 }
