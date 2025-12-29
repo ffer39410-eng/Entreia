@@ -75,11 +75,24 @@
       "compliado",
       "nomas",
       "eso",
-      "jaja"
+      "jaja",
+      "y",
+      "goku",
+      "protagonista",
+      "principal",
+      "serie",
+      "dragon",
+      "ball",
+      "creada",
+      "mangaka",
+      "akira",
+      "toriyama",
+      "1984"
     ],
     "vocabulario": {
       "1969": 1,
-      "quien": 1,
+      "1984": 1,
+      "quien": 2,
       "doraemon": 1,
       "robot": 1,
       "gato": 1,
@@ -140,7 +153,17 @@
       "identificar": 1,
       "compliado": 1,
       "nomas": 1,
-      "jaja": 1
+      "jaja": 1,
+      "goku": 1,
+      "protagonista": 1,
+      "principal": 1,
+      "serie": 1,
+      "dragon": 1,
+      "ball": 1,
+      "creada": 1,
+      "mangaka": 1,
+      "akira": 1,
+      "toriyama": 1
     },
     "patrones": [
       {
@@ -309,6 +332,39 @@
           }
         ],
         "fecha": "2025-12-29T05:39:08.985Z"
+      },
+      {
+        "texto": "y quien es goku",
+        "tokens": [
+          "y",
+          "quien",
+          "es",
+          "goku"
+        ],
+        "estructura": "Media",
+        "palabrasClave": [
+          "quien",
+          "goku"
+        ],
+        "tagged": [
+          {
+            "word": "y",
+            "tag": "DESCONOCIDO"
+          },
+          {
+            "word": "quien",
+            "tag": "SUSTANTIVO"
+          },
+          {
+            "word": "es",
+            "tag": "VERBO"
+          },
+          {
+            "word": "goku",
+            "tag": "SUSTANTIVO"
+          }
+        ],
+        "fecha": "2025-12-29T05:39:40.668Z"
       }
     ],
     "contextos": [],
@@ -338,11 +394,18 @@
         "query": "compliado nomas jaja",
         "resultados": [],
         "fecha": "2025-12-29T05:39:17.296Z"
+      },
+      {
+        "query": "quien goku",
+        "resultados": [
+          "Goku es el protagonista principal de la serie de manga y anime Dragon Ball, creada por el mangaka Akira Toriyama en 1984"
+        ],
+        "fecha": "2025-12-29T05:39:47.858Z"
       }
     ],
-    "entrenamientos": 4,
-    "totalBusquedas": 4,
-    "precision": 46.6,
-    "ultimaActualizacion": 1766986757297
+    "entrenamientos": 5,
+    "totalBusquedas": 5,
+    "precision": 47,
+    "ultimaActualizacion": 1766986787858
   }
 }
