@@ -1,5 +1,5 @@
 {
-  "iq": 3128,
+  "iq": 3134,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3190,11 +3190,6 @@
   "conversaciones": 8,
   "conocimiento": [
     {
-      "pregunta": "¿Cómo funciona la comprensión del contexto?",
-      "respuesta": "La comprensión del contexto es el proceso de analizar y comprender el significado de un texto o comunicación en relación con el contexto en el que se utiliza, incluyendo la situación, los hablantes involucrados, el propósito y el tema. Este proceso implica considerar la lengua, el tono, el entorno y las intenciones de los interlocutores.\n\nPor ejemplo, si se dice \"¡Eh, déjame pasar!\", en un contexto de una discoteca llena de gente, su significado es que alguien te está pidiendo que te muevas para que puedan pasar. Sin embargo, en un ambiente formal como una oficina, el mismo mensaje podría ser considerado grosero.",
-      "fecha": "2025-12-28T21:16:04.415Z"
-    },
-    {
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "Excelente pregunta, estimado alumno. Los sinónimos son palabras que tienen el mismo significado o denotan la misma cosa, pero con una forma de expresión diferente. Por ejemplo, \"gran\" y \"inmenso\" son sinónimos, ya que se refieren a algo que es muy grande. Los antónimos, por otro lado, son palabras que tienen significados opuestos, como \"sano\" y \"enfermo\", que se refieren a estados de salud contrarios.",
       "fecha": "2025-12-28T21:16:11.672Z"
@@ -4188,8 +4183,13 @@
       "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
       "respuesta": "Para expresar emociones de forma efectiva, es importante ser auténtico y honesto sobre tus sentimientos, pero también considerar el contexto y el público al que te diriges. Por ejemplo, en un entorno profesional, es mejor expresar emociones como la frustración o la decepción de manera constructiva, utilizando frases como \"Me siento frustrado por la falta de progreso en este proyecto\" en lugar de gritar o echar culpas. Del mismo manera, en una conversación personal con un amigo, puedes ser más abierto y directo sobre tus emociones, como \"Me siento triste por lo que pasó\" o \"Me gustaría que me consolaras después de la pelea\". La clave está en encontrar el equilibrio entre la autenticidad y la consideración por el otro.",
       "fecha": "2025-12-29T04:26:04.137Z"
+    },
+    {
+      "pregunta": "¿Qué son las preposiciones y para qué sirven?",
+      "respuesta": "Las preposiciones son palabras que se utilizan para indicar la relación entre un elemento de una oración (como un sustantivo, un verbo o un adjetivo) y otro elemento, como un lugar, un tiempo o un concepto. Por ejemplo, en la oración \"El libro está sobre la mesa\", la preposición \"sobre\" indica la relación entre el libro y la mesa.\n\nLas preposiciones sirven para proporcionar contexto y claridad a las oraciones, indicando la dirección, la ubicación, la duración, la cantidad, la relación, la causa, el efecto, etc. Hay preposiciones de lugar (en, sobre, debajo de, entre), preposiciones de tiempo (antes de, después de, durante), preposiciones de cantidad (con, sin, más que), entre otras.",
+      "fecha": "2025-12-29T04:26:12.023Z"
     }
   ],
-  "ultimaActualizacion": 1766982364139,
-  "preguntasHechas": 529
+  "ultimaActualizacion": 1766982372025,
+  "preguntasHechas": 530
 }
