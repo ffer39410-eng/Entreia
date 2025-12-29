@@ -254,7 +254,45 @@
       "almacenados",
       "tanto",
       "modo",
-      "offline"
+      "offline",
+      "tipo",
+      "almacen",
+      "almacenes",
+      "clasifican",
+      "propios",
+      "alquilados",
+      "públicos",
+      "según",
+      "propiedad",
+      "gestión",
+      "espacio",
+      "físico",
+      "disponible",
+      "almacenar",
+      "productos",
+      "existen",
+      "generales",
+      "especializados",
+      "producto",
+      "(alimentario",
+      "farmacéutico",
+      "químico)",
+      "centros",
+      "distribución",
+      "función",
+      "logística",
+      "específica",
+      "modernos",
+      "utilizan",
+      "sistemas",
+      "automatizados",
+      "radiofrecuencia",
+      "software",
+      "optimizar",
+      "control",
+      "inventario",
+      "operaciones",
+      "logísticas"
     ],
     "vocabulario": {
       "1969": 1,
@@ -342,7 +380,7 @@
       "mantiene": 1,
       "coherencia": 1,
       "gracia": 1,
-      "info": 2,
+      "info": 3,
       "otra": 1,
       "duda": 1,
       "podes": 1,
@@ -440,7 +478,7 @@
       "virtual": 1,
       "llamada": 1,
       "robux": 1,
-      "tenes": 1,
+      "tenes": 2,
       "nube": 1,
       "servicio": 1,
       "almacenamiento": 1,
@@ -485,7 +523,45 @@
       "almacenados": 1,
       "tanto": 1,
       "modo": 1,
-      "offline": 1
+      "offline": 1,
+      "tipo": 1,
+      "almacen": 1,
+      "almacenes": 1,
+      "clasifican": 1,
+      "propios": 1,
+      "alquilados": 1,
+      "públicos": 1,
+      "según": 1,
+      "propiedad": 1,
+      "gestión": 1,
+      "espacio": 1,
+      "físico": 1,
+      "disponible": 1,
+      "almacenar": 1,
+      "productos": 1,
+      "existen": 1,
+      "generales": 1,
+      "especializados": 1,
+      "producto": 1,
+      "(alimentario": 1,
+      "farmacéutico": 1,
+      "químico)": 1,
+      "centros": 1,
+      "distribución": 1,
+      "función": 1,
+      "logística": 1,
+      "específica": 1,
+      "modernos": 1,
+      "utilizan": 1,
+      "sistemas": 1,
+      "automatizados": 1,
+      "radiofrecuencia": 1,
+      "software": 1,
+      "optimizar": 1,
+      "control": 1,
+      "inventario": 1,
+      "operaciones": 1,
+      "logísticas": 1
     },
     "patrones": [
       {
@@ -977,6 +1053,62 @@
         ],
         "tema": "info",
         "fecha": "2025-12-29T05:50:50.577Z"
+      },
+      {
+        "texto": "en que tipo de almacen tenes la info?",
+        "tokens": [
+          "en",
+          "que",
+          "tipo",
+          "de",
+          "almacen",
+          "tenes",
+          "la",
+          "info"
+        ],
+        "estructura": "Compleja",
+        "palabrasClave": [
+          "tipo",
+          "almacen",
+          "tenes",
+          "info"
+        ],
+        "tagged": [
+          {
+            "word": "en",
+            "tag": "DESCONOCIDO"
+          },
+          {
+            "word": "que",
+            "tag": "DESCONOCIDO"
+          },
+          {
+            "word": "tipo",
+            "tag": "SUSTANTIVO"
+          },
+          {
+            "word": "de",
+            "tag": "DESCONOCIDO"
+          },
+          {
+            "word": "almacen",
+            "tag": "SUSTANTIVO"
+          },
+          {
+            "word": "tenes",
+            "tag": "SUSTANTIVO"
+          },
+          {
+            "word": "la",
+            "tag": "ARTÍCULO"
+          },
+          {
+            "word": "info",
+            "tag": "SUSTANTIVO"
+          }
+        ],
+        "tema": "tipo",
+        "fecha": "2025-12-29T05:51:38.406Z"
       }
     ],
     "contextos": [],
@@ -1047,6 +1179,15 @@
           "**Dato 3:** La plataforma cuenta con aplicaciones nativas para Windows, macOS, Linux, iOS y Android, permitiendo acceso a los archivos almacenados tanto en modo online como offline."
         ],
         "fecha": "2025-12-29T05:50:58.231Z"
+      },
+      {
+        "query": "tipo almacen tenes",
+        "resultados": [
+          "Los almacenes se clasifican en propios, alquilados y públicos según la propiedad y gestión del espacio físico disponible para almacenar productos.",
+          "Existen almacenes generales, especializados por tipo de producto (alimentario, farmacéutico, químico) y centros de distribución según su función logística específica.",
+          "Los almacenes modernos utilizan sistemas automatizados, gestión por radiofrecuencia y software WMS para optimizar el control de inventario y operaciones logísticas."
+        ],
+        "fecha": "2025-12-29T05:51:58.657Z"
       }
     ],
     "relacionesSemanticas": {
@@ -1101,9 +1242,17 @@
       ],
       "tenes": [
         "info",
-        "nube"
+        "nube",
+        "almacen"
       ],
       "nube": [
+        "tenes"
+      ],
+      "tipo": [
+        "almacen"
+      ],
+      "almacen": [
+        "tipo",
         "tenes"
       ]
     },
@@ -1112,11 +1261,12 @@
       "gracia",
       "tengo",
       "entretenimiento",
-      "info"
+      "info",
+      "tipo"
     ],
-    "entrenamientos": 11,
-    "totalBusquedas": 9,
-    "precision": 49.4,
-    "ultimaActualizacion": 1766987458231
+    "entrenamientos": 12,
+    "totalBusquedas": 10,
+    "precision": 49.8,
+    "ultimaActualizacion": 1766987518658
   }
 }
