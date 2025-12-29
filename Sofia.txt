@@ -97,13 +97,68 @@
       "principio",
       "audiovisual",
       "mantiene",
-      "coherencia"
+      "coherencia",
+      "gracia",
+      "por",
+      "la",
+      "info",
+      "si",
+      "otra",
+      "duda",
+      "podes",
+      "ayudarme",
+      "\"tengo",
+      "duda\"",
+      "expresión",
+      "coloquial",
+      "española",
+      "usada",
+      "indicar",
+      "persona",
+      "tiene",
+      "pregunta",
+      "adicional",
+      "incertidumbre",
+      "después",
+      "haber",
+      "consultado",
+      "previamente",
+      "tema",
+      "esta",
+      "frase",
+      "común",
+      "atención",
+      "cliente",
+      "consultas",
+      "médicas",
+      "clases",
+      "educativas",
+      "conversaciones",
+      "cotidianas",
+      "donde",
+      "busca",
+      "aclarar",
+      "puntos",
+      "comprendidos",
+      "anteriormente",
+      "alternativas",
+      "similares",
+      "incluyen",
+      "expresiones",
+      "como",
+      "surge",
+      "pregunta\"",
+      "nueva",
+      "\"quisiera",
+      "consultar",
+      "algo",
+      "más\""
     ],
     "vocabulario": {
       "1969": 1,
       "1984": 1,
-      "quien": 2,
-      "doraemon": 1,
+      "quien": 3,
+      "doraemon": 2,
       "robot": 1,
       "gato": 1,
       "azul": 1,
@@ -157,7 +212,7 @@
       "porque": 1,
       "término": 1,
       "ambiguo": 1,
-      "tengo": 1,
+      "tengo": 2,
       "contexto": 1,
       "suficiente": 1,
       "identificar": 1,
@@ -182,7 +237,59 @@
       "principio": 1,
       "audiovisual": 1,
       "mantiene": 1,
-      "coherencia": 1
+      "coherencia": 1,
+      "gracia": 1,
+      "info": 1,
+      "otra": 1,
+      "duda": 1,
+      "podes": 1,
+      "ayudarme": 1,
+      "\"tengo": 1,
+      "duda\"": 1,
+      "expresión": 1,
+      "coloquial": 1,
+      "española": 1,
+      "usada": 1,
+      "indicar": 1,
+      "persona": 1,
+      "tiene": 1,
+      "pregunta": 1,
+      "adicional": 1,
+      "incertidumbre": 1,
+      "después": 1,
+      "haber": 1,
+      "consultado": 1,
+      "previamente": 1,
+      "tema": 1,
+      "esta": 1,
+      "frase": 1,
+      "común": 1,
+      "atención": 1,
+      "cliente": 1,
+      "consultas": 1,
+      "médicas": 1,
+      "clases": 1,
+      "educativas": 1,
+      "conversaciones": 1,
+      "cotidianas": 1,
+      "donde": 1,
+      "busca": 1,
+      "aclarar": 1,
+      "puntos": 1,
+      "comprendidos": 1,
+      "anteriormente": 1,
+      "alternativas": 1,
+      "similares": 1,
+      "incluyen": 1,
+      "expresiones": 1,
+      "como": 1,
+      "surge": 1,
+      "pregunta\"": 1,
+      "nueva": 1,
+      "\"quisiera": 1,
+      "consultar": 1,
+      "algo": 1,
+      "más\"": 1
     },
     "patrones": [
       {
@@ -417,6 +524,121 @@
           }
         ],
         "fecha": "2025-12-29T05:40:20.904Z"
+      },
+      {
+        "texto": "quien es Doraemon ?",
+        "tokens": [
+          "quien",
+          "es",
+          "doraemon"
+        ],
+        "estructura": "Media",
+        "palabrasClave": [
+          "quien",
+          "doraemon"
+        ],
+        "tagged": [
+          {
+            "word": "quien",
+            "tag": "SUSTANTIVO"
+          },
+          {
+            "word": "es",
+            "tag": "VERBO"
+          },
+          {
+            "word": "doraemon",
+            "tag": "SUSTANTIVO"
+          }
+        ],
+        "tema": "quien",
+        "fecha": "2025-12-29T05:47:05.206Z"
+      },
+      {
+        "texto": "gracia por la info bro",
+        "tokens": [
+          "gracia",
+          "por",
+          "la",
+          "info",
+          "bro"
+        ],
+        "estructura": "Media",
+        "palabrasClave": [
+          "gracia",
+          "info"
+        ],
+        "tagged": [
+          {
+            "word": "gracia",
+            "tag": "SUSTANTIVO"
+          },
+          {
+            "word": "por",
+            "tag": "DESCONOCIDO"
+          },
+          {
+            "word": "la",
+            "tag": "ARTÍCULO"
+          },
+          {
+            "word": "info",
+            "tag": "SUSTANTIVO"
+          },
+          {
+            "word": "bro",
+            "tag": "DESCONOCIDO"
+          }
+        ],
+        "tema": "gracia",
+        "fecha": "2025-12-29T05:47:50.507Z"
+      },
+      {
+        "texto": "si tengo otra duda podes ayudarme?",
+        "tokens": [
+          "si",
+          "tengo",
+          "otra",
+          "duda",
+          "podes",
+          "ayudarme"
+        ],
+        "estructura": "Compleja",
+        "palabrasClave": [
+          "tengo",
+          "otra",
+          "duda",
+          "podes",
+          "ayudarme"
+        ],
+        "tagged": [
+          {
+            "word": "si",
+            "tag": "DESCONOCIDO"
+          },
+          {
+            "word": "tengo",
+            "tag": "SUSTANTIVO"
+          },
+          {
+            "word": "otra",
+            "tag": "SUSTANTIVO"
+          },
+          {
+            "word": "duda",
+            "tag": "SUSTANTIVO"
+          },
+          {
+            "word": "podes",
+            "tag": "SUSTANTIVO"
+          },
+          {
+            "word": "ayudarme",
+            "tag": "SUSTANTIVO"
+          }
+        ],
+        "tema": "tengo",
+        "fecha": "2025-12-29T05:48:17.270Z"
       }
     ],
     "contextos": [],
@@ -460,11 +682,57 @@
           "**Dato 1:** La continuidad icónica es un principio audiovisual que mantiene coherencia"
         ],
         "fecha": "2025-12-29T05:40:27.244Z"
+      },
+      {
+        "query": "tengo otra duda",
+        "resultados": [
+          "1. \"Tengo otra duda\" es una expresión coloquial española usada para indicar que una persona tiene una pregunta adicional o incertidumbre después de haber consultado previamente sobre un tema.",
+          "2. Esta frase es común en atención al cliente, consultas médicas, clases educativas y conversaciones cotidianas donde se busca aclarar puntos no comprendidos anteriormente.",
+          "3. Alternativas similares incluyen expresiones como \"me surge otra pregunta\", \"tengo una nueva duda\" o \"quisiera consultar algo más\"."
+        ],
+        "fecha": "2025-12-29T05:48:27.913Z"
       }
     ],
-    "entrenamientos": 6,
-    "totalBusquedas": 6,
-    "precision": 47.4,
-    "ultimaActualizacion": 1766986827245
+    "relacionesSemanticas": {
+      "quien": [
+        "doraemon"
+      ],
+      "doraemon": [
+        "quien"
+      ],
+      "gracia": [
+        "info"
+      ],
+      "info": [
+        "gracia"
+      ],
+      "tengo": [
+        "otra"
+      ],
+      "otra": [
+        "tengo",
+        "duda"
+      ],
+      "duda": [
+        "otra",
+        "podes"
+      ],
+      "podes": [
+        "duda",
+        "ayudarme"
+      ],
+      "ayudarme": [
+        "podes"
+      ]
+    },
+    "temasAprendidos": [
+      "quien",
+      "gracia",
+      "tengo"
+    ],
+    "entrenamientos": 9,
+    "totalBusquedas": 7,
+    "precision": 48.6,
+    "ultimaActualizacion": 1766987307915
   }
 }
