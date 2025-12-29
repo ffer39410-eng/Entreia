@@ -1,5 +1,5 @@
 {
-  "iq": 3115,
+  "iq": 3118,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3182,11 +3182,6 @@
   "conversaciones": 8,
   "conocimiento": [
     {
-      "pregunta": "¿Cómo se estructura una buena argumentación?",
-      "respuesta": "Una buena argumentación se estructura en cuatro componentes básicos: Tesis, Premisas, Inferencia y Conclusión. La tesis es el enunciado principal que se pretende demostrar o refutar. Las premisas son los hechos o ideas que se utilizan como base para apoyar la tesis. La inferencia es el proceso de razonamiento que se utiliza para conectar las premisas con la tesis. Finalmente, la conclusión es la respuesta final que se obtiene al combinar la tesis y las premisas.",
-      "fecha": "2025-12-28T21:15:39.833Z"
-    },
-    {
       "pregunta": "¿Qué son los sinónimos y antónimos?",
       "respuesta": "En la lingüística, los sinónimos son palabras o expresiones que tienen un significado similar y pueden ser utilizadas para reemplazar a otra palabra sin alterar el sentido de la oración. Por ejemplo, \"luz\", \"iluminación\" y \"luces\" son sinónimos.\n\nPor otro lado, los antónimos son palabras o expresiones que tienen sentidos opuestos. Por ejemplo, \"grande\" y \"pequeño\" son antónimos.",
       "fecha": "2025-12-28T21:15:47.659Z"
@@ -4180,8 +4175,13 @@
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son palabras o expresiones que conectan ideas o oraciones en una oración, permitiendo establecer relaciones lógicas entre ellas. Algunos ejemplos de conectores son \"y\", \"pero\", \"o\", \"porque\", \"sin embargo\" y \"entonces\". Por ejemplo: \"Voy al parque (y) luego voy al cine\".",
       "fecha": "2025-12-29T04:25:39.781Z"
+    },
+    {
+      "pregunta": "¿Cómo se construyen oraciones complejas en español?",
+      "respuesta": "Las oraciones complejas en español se construyen utilizando conectores y subordinadas. Un conector es una palabra que une ideas o frases, mientras que una subordinada es una oración que depende de una otra oración principal. Por ejemplo: \"Mientras estudiaba para el examen, me di cuenta de que el conocimiento era más importante que la memoria.\"\n\nAquí, \"mientras estudiaba\" es la subordinada, y \"me di cuenta de que\" es la oración principal. Otros conectores que se pueden utilizar para construir oraciones complejas son \"porque\", \"ya que\", \"aunque\", \"sin embargo\", entre otros.\n\nEs importante destacar que las oraciones complejas se construyen con una oración principal y una o más subordinadas, lo que las hace más complejas y expresivas que las oraciones simples.",
+      "fecha": "2025-12-29T04:25:47.955Z"
     }
   ],
-  "ultimaActualizacion": 1766982339781,
-  "preguntasHechas": 526
+  "ultimaActualizacion": 1766982347956,
+  "preguntasHechas": 527
 }
