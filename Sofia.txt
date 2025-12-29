@@ -1,1 +1,52 @@
-
+{
+  "nlp": {
+    "tokens": [
+      "hola",
+      "jajaj"
+    ],
+    "vocabulario": {
+      "hola": 1,
+      "jajaj": 1
+    },
+    "patrones": [
+      {
+        "texto": "hola",
+        "tokens": [
+          "hola"
+        ],
+        "estructura": "Simple",
+        "palabrasClave": [
+          "hola"
+        ],
+        "tagged": [
+          {
+            "word": "hola",
+            "tag": "SUSTANTIVO"
+          }
+        ],
+        "fecha": "2025-12-29T04:42:46.388Z"
+      },
+      {
+        "texto": "jajaj",
+        "tokens": [
+          "jajaj"
+        ],
+        "estructura": "Simple",
+        "palabrasClave": [
+          "jajaj"
+        ],
+        "tagged": [
+          {
+            "word": "jajaj",
+            "tag": "SUSTANTIVO"
+          }
+        ],
+        "fecha": "2025-12-29T04:42:55.928Z"
+      }
+    ],
+    "contextos": [],
+    "entrenamientos": 2,
+    "precision": 45.8,
+    "ultimaActualizacion": 1766983375928
+  }
+}
