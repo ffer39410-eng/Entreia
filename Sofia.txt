@@ -1,5 +1,5 @@
 {
-  "iq": 3140,
+  "iq": 3144,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3187,16 +3187,14 @@
     "equilibrio",
     "genial",
     "caro",
-    "aclaración"
+    "aclaración",
+    "geográfico",
+    "everest",
+    "mencione"
   ],
   "lecciones": 14,
   "conversaciones": 8,
   "conocimiento": [
-    {
-      "pregunta": "¿Cómo se usan las metáforas en el lenguaje?",
-      "respuesta": "Las metáforas son una forma de lenguaaje figurado que consiste en comparar dos conceptos o ideas diferentes, pero sin utilizar las palabras \"como\" o \"similar a\". Por ejemplo, \"mi vida es un libro\" es una metáfora que compara la vida a un libro, sugiriendo que es una narrativa con capítulos y finales. Las metáforas pueden ser utilizadas para describir emociones, experiencias o ideas de manera más creativa y expresiva.",
-      "fecha": "2025-12-28T21:16:27.645Z"
-    },
     {
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales son una parte fundamental del lenguaje y nos permiten expresar acciones y estados en diferentes momentos del tiempo. Hay varios tipos de tiempos verbales, como el presente, el pasado y el futuro, que se dividen en subtiempos como el pretérito perfecto, el pretérito imperfecto, el condicional, entre otros. Por ejemplo, \"hoy como un plátano\" (presente), \"ayer comí un plátano\" (pretérito perfecto), \"comeré un plátano mañana\" (futuro). Cada tipo de tiempo tiene una función específica en la expresión del tiempo y la narrativa.",
@@ -4191,8 +4189,13 @@
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son palabras o expresiones que unen oraciones, frases o ideas entre sí, creando una estructura lógica y coherente en el texto. Se utilizan para indicar relaciones entre las ideas, como causa-efecto, tiempo, lugar, o para mostrar contraste, consecuencia o aclaración. Por ejemplo, \"Sin embargo\", \"Por otro lado\", \"Como resultado de esto\" o \"Además\".",
       "fecha": "2025-12-29T04:26:28.107Z"
+    },
+    {
+      "pregunta": "¿Cómo funciona la comprensión del contexto?",
+      "respuesta": "La comprensión del contexto se refiere a la capacidad de interpretar un texto, una conversación o una situación en función de la información que se proporciona alrededor de ella. Esto implica considerar el lugar, el tiempo, las personas involucradas y otros detalles para entender el significado real de lo que se está diciendo o mostrando. Por ejemplo, si se menciona \"la montaña\" en un contexto geográfico, es probable que se refiera a la Montaña Everest, mientras que en un contexto literario podría ser cualquier montaña que se mencione en un texto.",
+      "fecha": "2025-12-29T04:26:35.301Z"
     }
   ],
-  "ultimaActualizacion": 1766982388109,
-  "preguntasHechas": 532
+  "ultimaActualizacion": 1766982395302,
+  "preguntasHechas": 533
 }
