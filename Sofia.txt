@@ -1,1 +1,155 @@
-
+{
+  "nlp": {
+    "tokens": [
+      "hol",
+      "quien",
+      "es",
+      "goku",
+      "aquí",
+      "presento",
+      "datos",
+      "clave",
+      "sobre",
+      "protagonista",
+      "serie",
+      "manga",
+      "anime",
+      "\"dragon",
+      "ball\"",
+      "creado",
+      "akira",
+      "toriyama",
+      "guerrero",
+      "raza",
+      "saiyana",
+      "conocida",
+      "gran",
+      "fuerza",
+      "habilidades",
+      "sobrehumanas",
+      "personaje",
+      "popular",
+      "icónico",
+      "cultura",
+      "japonesa",
+      "mundial",
+      "conocido",
+      "espíritu",
+      "luchador",
+      "sonrisa",
+      "característica"
+    ],
+    "vocabulario": {
+      "quien": 1,
+      "goku": 1,
+      "aquí": 1,
+      "presento": 1,
+      "datos": 1,
+      "clave": 1,
+      "sobre": 1,
+      "protagonista": 1,
+      "serie": 1,
+      "manga": 1,
+      "anime": 1,
+      "\"dragon": 1,
+      "ball\"": 1,
+      "creado": 1,
+      "akira": 1,
+      "toriyama": 1,
+      "guerrero": 1,
+      "raza": 1,
+      "saiyana": 1,
+      "conocida": 1,
+      "gran": 1,
+      "fuerza": 1,
+      "habilidades": 1,
+      "sobrehumanas": 1,
+      "personaje": 1,
+      "popular": 1,
+      "icónico": 1,
+      "cultura": 1,
+      "japonesa": 1,
+      "mundial": 1,
+      "conocido": 1,
+      "espíritu": 1,
+      "luchador": 1,
+      "sonrisa": 1,
+      "característica": 1
+    },
+    "patrones": [
+      {
+        "texto": "hol",
+        "tokens": [
+          "hol"
+        ],
+        "estructura": "Simple",
+        "palabrasClave": [],
+        "tagged": [
+          {
+            "word": "hol",
+            "tag": "DESCONOCIDO"
+          }
+        ],
+        "tema": null,
+        "fecha": "2025-12-29T06:40:14.492Z"
+      },
+      {
+        "texto": "quien es goku",
+        "tokens": [
+          "quien",
+          "es",
+          "goku"
+        ],
+        "estructura": "Media",
+        "palabrasClave": [
+          "quien",
+          "goku"
+        ],
+        "tagged": [
+          {
+            "word": "quien",
+            "tag": "SUSTANTIVO"
+          },
+          {
+            "word": "es",
+            "tag": "VERBO"
+          },
+          {
+            "word": "goku",
+            "tag": "SUSTANTIVO"
+          }
+        ],
+        "tema": "quien",
+        "fecha": "2025-12-29T06:40:30.386Z"
+      }
+    ],
+    "contextos": [],
+    "busquedasWeb": [
+      {
+        "query": "quien goku",
+        "resultados": [
+          "Aquí te presento 3 datos clave sobre Goku:",
+          "Goku es el protagonista de la serie de manga y anime \"Dragon Ball\" creado por Akira Toriyama.",
+          "Es un guerrero de la raza saiyana conocida por su gran fuerza y habilidades sobrehumanas.",
+          "Goku es un personaje popular y icónico en la cultura japonesa y mundial, conocido por su espíritu luchador y su sonrisa característica."
+        ],
+        "fecha": "2025-12-29T06:40:31.113Z"
+      }
+    ],
+    "relacionesSemanticas": {
+      "quien": [
+        "goku"
+      ],
+      "goku": [
+        "quien"
+      ]
+    },
+    "temasAprendidos": [
+      "quien"
+    ],
+    "entrenamientos": 2,
+    "totalBusquedas": 1,
+    "precision": 45.8,
+    "ultimaActualizacion": 1766990431115
+  }
+}
