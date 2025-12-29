@@ -1,5 +1,5 @@
 {
-  "iq": 3118,
+  "iq": 3123,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3182,11 +3182,6 @@
   "conversaciones": 8,
   "conocimiento": [
     {
-      "pregunta": "¿Qué son los sinónimos y antónimos?",
-      "respuesta": "En la lingüística, los sinónimos son palabras o expresiones que tienen un significado similar y pueden ser utilizadas para reemplazar a otra palabra sin alterar el sentido de la oración. Por ejemplo, \"luz\", \"iluminación\" y \"luces\" son sinónimos.\n\nPor otro lado, los antónimos son palabras o expresiones que tienen sentidos opuestos. Por ejemplo, \"grande\" y \"pequeño\" son antónimos.",
-      "fecha": "2025-12-28T21:15:47.659Z"
-    },
-    {
       "pregunta": "¿Qué son los conectores y cómo se usan?",
       "respuesta": "Los conectores son palabras o expresiones que nos permiten unir oraciones, ideas o conceptos en un discurso o texto. Se utilizan para expresar relaciones entre ideas, como causalidad, consecuencia, comparación, oposición, contraste, enumeración, etc.\n\nPor ejemplo: \"Iba cansado porque no había dormido bien la noche anterior\" (conector \"porque\" indica causalidad).",
       "fecha": "2025-12-28T21:15:55.705Z"
@@ -4180,8 +4175,13 @@
       "pregunta": "¿Cómo se construyen oraciones complejas en español?",
       "respuesta": "Las oraciones complejas en español se construyen utilizando conectores y subordinadas. Un conector es una palabra que une ideas o frases, mientras que una subordinada es una oración que depende de una otra oración principal. Por ejemplo: \"Mientras estudiaba para el examen, me di cuenta de que el conocimiento era más importante que la memoria.\"\n\nAquí, \"mientras estudiaba\" es la subordinada, y \"me di cuenta de que\" es la oración principal. Otros conectores que se pueden utilizar para construir oraciones complejas son \"porque\", \"ya que\", \"aunque\", \"sin embargo\", entre otros.\n\nEs importante destacar que las oraciones complejas se construyen con una oración principal y una o más subordinadas, lo que las hace más complejas y expresivas que las oraciones simples.",
       "fecha": "2025-12-29T04:25:47.955Z"
+    },
+    {
+      "pregunta": "¿Cómo funcionan los tiempos verbales?",
+      "respuesta": "Los tiempos verbales son un aspecto fundamental de la gramática en español, y nos permiten expresar cuando se produce una acción o un estado. Hay varios tiempos verbales, como el presente, pasado, futuro, condicional, subjuntivo, entre otros, que se utilizan en función del contexto y la intención del hablante. Por ejemplo, \"yo como\" es una oración en presente, mientras que \"yo comí\" es una oración en pasado.",
+      "fecha": "2025-12-29T04:25:56.045Z"
     }
   ],
-  "ultimaActualizacion": 1766982347956,
-  "preguntasHechas": 527
+  "ultimaActualizacion": 1766982356046,
+  "preguntasHechas": 528
 }
