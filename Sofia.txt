@@ -4,11 +4,15 @@
       "hola",
       "jajaj",
       "ya",
-      "veo"
+      "veo",
+      "que",
+      "vas",
+      "aprediendo"
     ],
     "vocabulario": {
       "hola": 1,
-      "jajaj": 1
+      "jajaj": 2,
+      "aprediendo": 1
     },
     "patrones": [
       {
@@ -64,11 +68,49 @@
           }
         ],
         "fecha": "2025-12-29T04:48:49.720Z"
+      },
+      {
+        "texto": "jajaj que vas aprediendo ya",
+        "tokens": [
+          "jajaj",
+          "que",
+          "vas",
+          "aprediendo",
+          "ya"
+        ],
+        "estructura": "Media",
+        "palabrasClave": [
+          "jajaj",
+          "aprediendo"
+        ],
+        "tagged": [
+          {
+            "word": "jajaj",
+            "tag": "SUSTANTIVO"
+          },
+          {
+            "word": "que",
+            "tag": "DESCONOCIDO"
+          },
+          {
+            "word": "vas",
+            "tag": "DESCONOCIDO"
+          },
+          {
+            "word": "aprediendo",
+            "tag": "SUSTANTIVO"
+          },
+          {
+            "word": "ya",
+            "tag": "DESCONOCIDO"
+          }
+        ],
+        "fecha": "2025-12-29T04:49:02.797Z"
       }
     ],
     "contextos": [],
-    "entrenamientos": 3,
-    "precision": 46.2,
-    "ultimaActualizacion": 1766983729721
+    "entrenamientos": 4,
+    "precision": 46.6,
+    "ultimaActualizacion": 1766983742798
   }
 }
