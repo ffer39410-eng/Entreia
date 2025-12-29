@@ -1,50 +1,114 @@
 {
   "nlp": {
     "vocabulario": {
-      "quién": 2,
+      "quién": 4,
       "eres": 2,
-      "sofía": 2,
-      "inteligencia": 2,
-      "artificial": 2,
-      "creada": 2,
-      "puedo": 2,
-      "ayudarte": 2
+      "sofía": 4,
+      "inteligencia": 4,
+      "artificial": 4,
+      "creada": 4,
+      "puedo": 5,
+      "ayudarte": 4,
+      "perfecto": 2,
+      "sabes": 2,
+      "para": 2,
+      "necesites": 2,
+      "asistirte": 1,
+      "responder": 1,
+      "preguntas": 1,
+      "buscar": 1,
+      "información": 1,
+      "mantener": 1,
+      "conversaciones": 1,
+      "sobre": 1,
+      "diversos": 1,
+      "temas": 1,
+      "simplemente": 1,
+      "charlar": 1,
+      "prefieres": 1,
+      "estoy": 1,
+      "aquí": 1,
+      "requieras": 1
     },
     "relacionesSemanticas": {
       "quién eres": 2,
-      "soy sofía": 2,
-      "sofía una": 2,
-      "una inteligencia": 2,
-      "inteligencia artificial": 2,
+      "soy sofía": 4,
+      "sofía una": 4,
+      "una inteligencia": 4,
+      "inteligencia artificial": 4,
       "artificial fui": 2,
       "fui creada": 2,
       "creada por": 2,
       "por fer": 2,
       "fer en": 2,
-      "en qué": 2,
-      "qué puedo": 2,
-      "puedo ayudarte": 2
+      "en qué": 4,
+      "qué puedo": 4,
+      "puedo ayudarte": 2,
+      "ya veo": 2,
+      "perfecto ya": 2,
+      "ya sabes": 2,
+      "sabes quién": 2,
+      "quién soy": 2,
+      "artificial creada": 2,
+      "creada para": 2,
+      "para ayudarte": 2,
+      "ayudarte con": 2,
+      "con lo": 2,
+      "lo que": 4,
+      "que necesites": 2,
+      "necesites en": 2,
+      "puedo asistirte": 2,
+      "asistirte hoy": 2,
+      "hoy puedo": 2,
+      "puedo responder": 2,
+      "responder preguntas": 2,
+      "preguntas buscar": 2,
+      "buscar información": 2,
+      "información mantener": 2,
+      "mantener conversaciones": 2,
+      "conversaciones sobre": 2,
+      "sobre diversos": 2,
+      "diversos temas": 2,
+      "temas o": 2,
+      "o simplemente": 2,
+      "simplemente charlar": 2,
+      "charlar si": 2,
+      "si lo": 2,
+      "lo prefieres": 2,
+      "prefieres estoy": 2,
+      "estoy aquí": 2,
+      "aquí para": 2,
+      "para lo": 2,
+      "que requieras": 2
     },
     "patronesPregunta": {
-      "afirmacion_general": 2
+      "afirmacion_general": 4
     },
     "patronesRespuesta": {
       "personal": {
         "respuesta_corta": 2
+      },
+      "general": {
+        "respuesta_larga": 2
       }
     },
     "temasAprendidos": [
       "sofía,",
       "artificial.",
       "ayudarte?",
-      "personal"
+      "personal",
+      "perfecto!",
+      "necesites.",
+      "asistirte",
+      "responder",
+      "general"
     ],
     "contextosImportantes": [
       "personal: quién eres -> soy sofía una",
       "personal: quién eres"
     ],
-    "entrenamientos": 1,
-    "totalBusquedas": 1,
-    "precision": 60.2
+    "entrenamientos": 2,
+    "totalBusquedas": 2,
+    "precision": 60.4
   }
 }
