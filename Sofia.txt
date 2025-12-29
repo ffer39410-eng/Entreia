@@ -45,7 +45,12 @@
       "numerosas",
       "series",
       "anime",
-      "películas"
+      "películas",
+      "ya",
+      "veo",
+      "que",
+      "inteligente",
+      "bb"
     ],
     "vocabulario": {
       "1969": 1,
@@ -90,7 +95,8 @@
       "numerosas": 1,
       "series": 1,
       "anime": 1,
-      "películas": 1
+      "películas": 1,
+      "inteligente": 1
     },
     "patrones": [
       {
@@ -125,6 +131,43 @@
           }
         ],
         "fecha": "2025-12-29T05:37:12.614Z"
+      },
+      {
+        "texto": "ya veo que inteligente bb",
+        "tokens": [
+          "ya",
+          "veo",
+          "que",
+          "inteligente",
+          "bb"
+        ],
+        "estructura": "Media",
+        "palabrasClave": [
+          "inteligente"
+        ],
+        "tagged": [
+          {
+            "word": "ya",
+            "tag": "DESCONOCIDO"
+          },
+          {
+            "word": "veo",
+            "tag": "DESCONOCIDO"
+          },
+          {
+            "word": "que",
+            "tag": "DESCONOCIDO"
+          },
+          {
+            "word": "inteligente",
+            "tag": "SUSTANTIVO"
+          },
+          {
+            "word": "bb",
+            "tag": "DESCONOCIDO"
+          }
+        ],
+        "fecha": "2025-12-29T05:37:49.276Z"
       }
     ],
     "contextos": [],
@@ -137,11 +180,16 @@
           "Es considerado uno de los personajes de ficción más icónicos de Japón, con millones de fans worldwide y numerosas series de anime y películas."
         ],
         "fecha": "2025-12-29T05:37:18.732Z"
+      },
+      {
+        "query": "inteligente",
+        "resultados": [],
+        "fecha": "2025-12-29T05:37:55.138Z"
       }
     ],
-    "entrenamientos": 1,
-    "totalBusquedas": 1,
-    "precision": 45.4,
-    "ultimaActualizacion": 1766986638733
+    "entrenamientos": 2,
+    "totalBusquedas": 2,
+    "precision": 45.8,
+    "ultimaActualizacion": 1766986675138
   }
 }
