@@ -87,7 +87,17 @@
       "mangaka",
       "akira",
       "toriyama",
-      "1984"
+      "1984",
+      "continua",
+      "icnonicos",
+      "de",
+      "**dato",
+      "continuidad",
+      "icónica",
+      "principio",
+      "audiovisual",
+      "mantiene",
+      "coherencia"
     ],
     "vocabulario": {
       "1969": 1,
@@ -163,7 +173,16 @@
       "creada": 1,
       "mangaka": 1,
       "akira": 1,
-      "toriyama": 1
+      "toriyama": 1,
+      "continua": 1,
+      "icnonicos": 1,
+      "**dato": 1,
+      "continuidad": 1,
+      "icónica": 1,
+      "principio": 1,
+      "audiovisual": 1,
+      "mantiene": 1,
+      "coherencia": 1
     },
     "patrones": [
       {
@@ -365,6 +384,39 @@
           }
         ],
         "fecha": "2025-12-29T05:39:40.668Z"
+      },
+      {
+        "texto": "continua ? icnonicos de que ?",
+        "tokens": [
+          "continua",
+          "icnonicos",
+          "de",
+          "que"
+        ],
+        "estructura": "Media",
+        "palabrasClave": [
+          "continua",
+          "icnonicos"
+        ],
+        "tagged": [
+          {
+            "word": "continua",
+            "tag": "SUSTANTIVO"
+          },
+          {
+            "word": "icnonicos",
+            "tag": "SUSTANTIVO"
+          },
+          {
+            "word": "de",
+            "tag": "DESCONOCIDO"
+          },
+          {
+            "word": "que",
+            "tag": "DESCONOCIDO"
+          }
+        ],
+        "fecha": "2025-12-29T05:40:20.904Z"
       }
     ],
     "contextos": [],
@@ -401,11 +453,18 @@
           "Goku es el protagonista principal de la serie de manga y anime Dragon Ball, creada por el mangaka Akira Toriyama en 1984"
         ],
         "fecha": "2025-12-29T05:39:47.858Z"
+      },
+      {
+        "query": "continua icnonicos",
+        "resultados": [
+          "**Dato 1:** La continuidad icónica es un principio audiovisual que mantiene coherencia"
+        ],
+        "fecha": "2025-12-29T05:40:27.244Z"
       }
     ],
-    "entrenamientos": 5,
-    "totalBusquedas": 5,
-    "precision": 47,
-    "ultimaActualizacion": 1766986787858
+    "entrenamientos": 6,
+    "totalBusquedas": 6,
+    "precision": 47.4,
+    "ultimaActualizacion": 1766986827245
   }
 }
