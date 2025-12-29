@@ -1,13 +1,55 @@
 {
   "nlp": {
-    "tokens": [],
-    "vocabulario": {},
-    "patrones": [],
+    "tokens": [
+      "quien",
+      "es",
+      "goku"
+    ],
+    "vocabulario": {
+      "quien": 1,
+      "goku": 1
+    },
+    "patrones": [
+      {
+        "texto": "quien es goku",
+        "tokens": [
+          "quien",
+          "es",
+          "goku"
+        ],
+        "estructura": "Media",
+        "palabrasClave": [
+          "quien",
+          "goku"
+        ],
+        "tagged": [
+          {
+            "word": "quien",
+            "tag": "SUSTANTIVO"
+          },
+          {
+            "word": "es",
+            "tag": "VERBO"
+          },
+          {
+            "word": "goku",
+            "tag": "SUSTANTIVO"
+          }
+        ],
+        "fecha": "2025-12-29T05:32:19.050Z"
+      }
+    ],
     "contextos": [],
-    "busquedasWeb": [],
-    "entrenamientos": 0,
-    "totalBusquedas": 0,
-    "precision": 0,
-    "ultimaActualizacion": 1766986333815
+    "busquedasWeb": [
+      {
+        "query": "quien goku",
+        "resultados": [],
+        "fecha": "2025-12-29T05:32:25.139Z"
+      }
+    ],
+    "entrenamientos": 1,
+    "totalBusquedas": 1,
+    "precision": 45.4,
+    "ultimaActualizacion": 1766986345141
   }
 }
