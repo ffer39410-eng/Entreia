@@ -1,5 +1,5 @@
 {
-  "iq": 3123,
+  "iq": 3128,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3176,16 +3176,19 @@
     "gustaba",
     "abajo",
     "acab",
-    "obteniendo"
+    "obteniendo",
+    "diriges",
+    "decepción",
+    "progreso",
+    "echar",
+    "culpas",
+    "consolaras",
+    "pelea",
+    "equilibrio"
   ],
   "lecciones": 14,
   "conversaciones": 8,
   "conocimiento": [
-    {
-      "pregunta": "¿Qué son los conectores y cómo se usan?",
-      "respuesta": "Los conectores son palabras o expresiones que nos permiten unir oraciones, ideas o conceptos en un discurso o texto. Se utilizan para expresar relaciones entre ideas, como causalidad, consecuencia, comparación, oposición, contraste, enumeración, etc.\n\nPor ejemplo: \"Iba cansado porque no había dormido bien la noche anterior\" (conector \"porque\" indica causalidad).",
-      "fecha": "2025-12-28T21:15:55.705Z"
-    },
     {
       "pregunta": "¿Cómo funciona la comprensión del contexto?",
       "respuesta": "La comprensión del contexto es el proceso de analizar y comprender el significado de un texto o comunicación en relación con el contexto en el que se utiliza, incluyendo la situación, los hablantes involucrados, el propósito y el tema. Este proceso implica considerar la lengua, el tono, el entorno y las intenciones de los interlocutores.\n\nPor ejemplo, si se dice \"¡Eh, déjame pasar!\", en un contexto de una discoteca llena de gente, su significado es que alguien te está pidiendo que te muevas para que puedan pasar. Sin embargo, en un ambiente formal como una oficina, el mismo mensaje podría ser considerado grosero.",
@@ -4180,8 +4183,13 @@
       "pregunta": "¿Cómo funcionan los tiempos verbales?",
       "respuesta": "Los tiempos verbales son un aspecto fundamental de la gramática en español, y nos permiten expresar cuando se produce una acción o un estado. Hay varios tiempos verbales, como el presente, pasado, futuro, condicional, subjuntivo, entre otros, que se utilizan en función del contexto y la intención del hablante. Por ejemplo, \"yo como\" es una oración en presente, mientras que \"yo comí\" es una oración en pasado.",
       "fecha": "2025-12-29T04:25:56.045Z"
+    },
+    {
+      "pregunta": "¿Cómo puedo expresar emociones de forma efectiva?",
+      "respuesta": "Para expresar emociones de forma efectiva, es importante ser auténtico y honesto sobre tus sentimientos, pero también considerar el contexto y el público al que te diriges. Por ejemplo, en un entorno profesional, es mejor expresar emociones como la frustración o la decepción de manera constructiva, utilizando frases como \"Me siento frustrado por la falta de progreso en este proyecto\" en lugar de gritar o echar culpas. Del mismo manera, en una conversación personal con un amigo, puedes ser más abierto y directo sobre tus emociones, como \"Me siento triste por lo que pasó\" o \"Me gustaría que me consolaras después de la pelea\". La clave está en encontrar el equilibrio entre la autenticidad y la consideración por el otro.",
+      "fecha": "2025-12-29T04:26:04.137Z"
     }
   ],
-  "ultimaActualizacion": 1766982356046,
-  "preguntasHechas": 528
+  "ultimaActualizacion": 1766982364139,
+  "preguntasHechas": 529
 }
