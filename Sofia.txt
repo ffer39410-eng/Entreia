@@ -1,5 +1,5 @@
 {
-  "iq": 3112,
+  "iq": 3115,
   "vocabulario": [
     "claro",
     "sofia",
@@ -3182,11 +3182,6 @@
   "conversaciones": 8,
   "conocimiento": [
     {
-      "pregunta": "¿Qué son los conectores y cómo se usan?",
-      "respuesta": "Los conectores son palabras o expresiones que nos ayudan a enlazar ideas, oraciones o frases entre sí, creando una relación lógica y coherente en un texto o discurso. Algunos ejemplos de conectores son \"y\", \"pero\", \"aunque\", \"mientras\", \"ya que\", entre otros. Por ejemplo: \"Me gusta leer y escribir porque me ayuda a relajarme\". En este ejemplo, el conector \"y\" une dos ideas, mientras que \"porque\" establece una causa y efecto.",
-      "fecha": "2025-12-28T21:15:31.889Z"
-    },
-    {
       "pregunta": "¿Cómo se estructura una buena argumentación?",
       "respuesta": "Una buena argumentación se estructura en cuatro componentes básicos: Tesis, Premisas, Inferencia y Conclusión. La tesis es el enunciado principal que se pretende demostrar o refutar. Las premisas son los hechos o ideas que se utilizan como base para apoyar la tesis. La inferencia es el proceso de razonamiento que se utiliza para conectar las premisas con la tesis. Finalmente, la conclusión es la respuesta final que se obtiene al combinar la tesis y las premisas.",
       "fecha": "2025-12-28T21:15:39.833Z"
@@ -4180,8 +4175,13 @@
       "pregunta": "¿Cómo se construyen oraciones complejas en español?",
       "respuesta": "Las oraciones complejas en español se construyen combinando una oración simple con otras mediante conectivos, como \"y\", \"o\", \"pero\", \"y entonces\" o \"pues\", o mediante oraciones subordinadas, que requieren un verbo. Por ejemplo: \"El estudiante, que estudiaba día y noche, acabó obteniendo el mejor resultado del curso\". En esta oración, \"que estudiaba día y noche\" es una oración subordinada que expresa una condición.",
       "fecha": "2025-12-29T04:25:31.080Z"
+    },
+    {
+      "pregunta": "¿Qué son los conectores y cómo se usan?",
+      "respuesta": "Los conectores son palabras o expresiones que conectan ideas o oraciones en una oración, permitiendo establecer relaciones lógicas entre ellas. Algunos ejemplos de conectores son \"y\", \"pero\", \"o\", \"porque\", \"sin embargo\" y \"entonces\". Por ejemplo: \"Voy al parque (y) luego voy al cine\".",
+      "fecha": "2025-12-29T04:25:39.781Z"
     }
   ],
-  "ultimaActualizacion": 1766982331090,
-  "preguntasHechas": 525
+  "ultimaActualizacion": 1766982339781,
+  "preguntasHechas": 526
 }
