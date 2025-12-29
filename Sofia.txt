@@ -32,7 +32,35 @@
       "símbolos",
       "icónicos",
       "cultura",
-      "japonesa"
+      "japonesa",
+      "eh",
+      "no",
+      "entendi",
+      "\"entendí\"",
+      "primera",
+      "persona",
+      "pretérito",
+      "indefinido",
+      "verbo",
+      "\"entender\"",
+      "expresar",
+      "comprendió",
+      "algo",
+      "momento",
+      "específico",
+      "este",
+      "proviene",
+      "latín",
+      "\"intendere\"",
+      "significa",
+      "\"dirigir",
+      "atención",
+      "hacia\"",
+      "evolucionando",
+      "través",
+      "tiempo",
+      "hasta",
+      "forma"
     ],
     "vocabulario": {
       "1969": 1,
@@ -64,7 +92,33 @@
       "símbolos": 1,
       "icónicos": 1,
       "cultura": 1,
-      "japonesa": 1
+      "japonesa": 1,
+      "entendi": 1,
+      "\"entendí\"": 1,
+      "primera": 1,
+      "persona": 1,
+      "pretérito": 1,
+      "indefinido": 1,
+      "verbo": 1,
+      "\"entender\"": 1,
+      "expresar": 1,
+      "comprendió": 1,
+      "algo": 1,
+      "momento": 1,
+      "específico": 1,
+      "este": 1,
+      "proviene": 1,
+      "latín": 1,
+      "\"intendere\"": 1,
+      "significa": 1,
+      "\"dirigir": 1,
+      "atención": 1,
+      "hacia\"": 1,
+      "evolucionando": 1,
+      "través": 1,
+      "tiempo": 1,
+      "hasta": 1,
+      "forma": 1
     },
     "patrones": [
       {
@@ -127,6 +181,33 @@
           }
         ],
         "fecha": "2025-12-29T05:32:54.392Z"
+      },
+      {
+        "texto": "eh no entendi",
+        "tokens": [
+          "eh",
+          "no",
+          "entendi"
+        ],
+        "estructura": "Media",
+        "palabrasClave": [
+          "entendi"
+        ],
+        "tagged": [
+          {
+            "word": "eh",
+            "tag": "DESCONOCIDO"
+          },
+          {
+            "word": "no",
+            "tag": "DESCONOCIDO"
+          },
+          {
+            "word": "entendi",
+            "tag": "SUSTANTIVO"
+          }
+        ],
+        "fecha": "2025-12-29T05:33:17.168Z"
       }
     ],
     "contextos": [],
@@ -143,11 +224,19 @@
           "El personaje fue creado por el mangaka Fujiko F. Fujio y debuted en 1969, convirtiéndose en uno de los símbolos más icónicos de la cultura pop japonesa."
         ],
         "fecha": "2025-12-29T05:32:59.860Z"
+      },
+      {
+        "query": "entendi",
+        "resultados": [
+          "1. \"Entendí\" es la primera persona del pretérito indefinido del verbo \"entender\", y se usa para expresar que se comprendió algo en un momento específico del pasado.",
+          "2. Este verbo proviene del latín \"intendere\", que significa \"dirigir la atención hacia\", evolucionando a través del tiempo hasta su forma"
+        ],
+        "fecha": "2025-12-29T05:33:22.592Z"
       }
     ],
-    "entrenamientos": 2,
-    "totalBusquedas": 2,
-    "precision": 45.8,
-    "ultimaActualizacion": 1766986379861
+    "entrenamientos": 3,
+    "totalBusquedas": 3,
+    "precision": 46.2,
+    "ultimaActualizacion": 1766986402593
   }
 }
