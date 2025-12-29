@@ -50,7 +50,26 @@
       "veo",
       "que",
       "inteligente",
-      "bb"
+      "bb",
+      "jiji",
+      "oki",
+      "mejores",
+      "aun",
+      "mas",
+      "puedo",
+      "proporcionar",
+      "datos",
+      "específicos",
+      "sobre",
+      "\"jiji",
+      "mejores\"",
+      "porque",
+      "término",
+      "ambiguo",
+      "tengo",
+      "contexto",
+      "suficiente",
+      "identificar"
     ],
     "vocabulario": {
       "1969": 1,
@@ -96,7 +115,23 @@
       "series": 1,
       "anime": 1,
       "películas": 1,
-      "inteligente": 1
+      "inteligente": 1,
+      "jiji": 1,
+      "mejores": 1,
+      "puedo": 1,
+      "proporcionar": 1,
+      "datos": 1,
+      "específicos": 1,
+      "sobre": 1,
+      "\"jiji": 1,
+      "mejores\"": 1,
+      "porque": 1,
+      "término": 1,
+      "ambiguo": 1,
+      "tengo": 1,
+      "contexto": 1,
+      "suficiente": 1,
+      "identificar": 1
     },
     "patrones": [
       {
@@ -168,6 +203,54 @@
           }
         ],
         "fecha": "2025-12-29T05:37:49.276Z"
+      },
+      {
+        "texto": "jiji oki que mejores aun mas bro",
+        "tokens": [
+          "jiji",
+          "oki",
+          "que",
+          "mejores",
+          "aun",
+          "mas",
+          "bro"
+        ],
+        "estructura": "Compleja",
+        "palabrasClave": [
+          "jiji",
+          "mejores"
+        ],
+        "tagged": [
+          {
+            "word": "jiji",
+            "tag": "SUSTANTIVO"
+          },
+          {
+            "word": "oki",
+            "tag": "DESCONOCIDO"
+          },
+          {
+            "word": "que",
+            "tag": "DESCONOCIDO"
+          },
+          {
+            "word": "mejores",
+            "tag": "SUSTANTIVO"
+          },
+          {
+            "word": "aun",
+            "tag": "DESCONOCIDO"
+          },
+          {
+            "word": "mas",
+            "tag": "DESCONOCIDO"
+          },
+          {
+            "word": "bro",
+            "tag": "DESCONOCIDO"
+          }
+        ],
+        "fecha": "2025-12-29T05:38:25.435Z"
       }
     ],
     "contextos": [],
@@ -185,11 +268,18 @@
         "query": "inteligente",
         "resultados": [],
         "fecha": "2025-12-29T05:37:55.138Z"
+      },
+      {
+        "query": "jiji mejores",
+        "resultados": [
+          "No puedo proporcionar datos específicos sobre \"jiji mejores\" porque el término es ambiguo y no tengo contexto suficiente para identificar"
+        ],
+        "fecha": "2025-12-29T05:38:30.813Z"
       }
     ],
-    "entrenamientos": 2,
-    "totalBusquedas": 2,
-    "precision": 45.8,
-    "ultimaActualizacion": 1766986675138
+    "entrenamientos": 3,
+    "totalBusquedas": 3,
+    "precision": 46.2,
+    "ultimaActualizacion": 1766986710814
   }
 }
