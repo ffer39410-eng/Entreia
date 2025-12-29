@@ -69,7 +69,13 @@
       "tengo",
       "contexto",
       "suficiente",
-      "identificar"
+      "identificar",
+      "era",
+      "un",
+      "compliado",
+      "nomas",
+      "eso",
+      "jaja"
     ],
     "vocabulario": {
       "1969": 1,
@@ -131,7 +137,10 @@
       "tengo": 1,
       "contexto": 1,
       "suficiente": 1,
-      "identificar": 1
+      "identificar": 1,
+      "compliado": 1,
+      "nomas": 1,
+      "jaja": 1
     },
     "patrones": [
       {
@@ -251,6 +260,55 @@
           }
         ],
         "fecha": "2025-12-29T05:38:25.435Z"
+      },
+      {
+        "texto": "era un compliado  nomas eso bro jaja",
+        "tokens": [
+          "era",
+          "un",
+          "compliado",
+          "nomas",
+          "eso",
+          "bro",
+          "jaja"
+        ],
+        "estructura": "Compleja",
+        "palabrasClave": [
+          "compliado",
+          "nomas",
+          "jaja"
+        ],
+        "tagged": [
+          {
+            "word": "era",
+            "tag": "DESCONOCIDO"
+          },
+          {
+            "word": "un",
+            "tag": "ARTÍCULO"
+          },
+          {
+            "word": "compliado",
+            "tag": "SUSTANTIVO"
+          },
+          {
+            "word": "nomas",
+            "tag": "SUSTANTIVO"
+          },
+          {
+            "word": "eso",
+            "tag": "DESCONOCIDO"
+          },
+          {
+            "word": "bro",
+            "tag": "DESCONOCIDO"
+          },
+          {
+            "word": "jaja",
+            "tag": "SUSTANTIVO"
+          }
+        ],
+        "fecha": "2025-12-29T05:39:08.985Z"
       }
     ],
     "contextos": [],
@@ -275,11 +333,16 @@
           "No puedo proporcionar datos específicos sobre \"jiji mejores\" porque el término es ambiguo y no tengo contexto suficiente para identificar"
         ],
         "fecha": "2025-12-29T05:38:30.813Z"
+      },
+      {
+        "query": "compliado nomas jaja",
+        "resultados": [],
+        "fecha": "2025-12-29T05:39:17.296Z"
       }
     ],
-    "entrenamientos": 3,
-    "totalBusquedas": 3,
-    "precision": 46.2,
-    "ultimaActualizacion": 1766986710814
+    "entrenamientos": 4,
+    "totalBusquedas": 4,
+    "precision": 46.6,
+    "ultimaActualizacion": 1766986757297
   }
 }
