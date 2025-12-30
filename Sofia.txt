@@ -10,14 +10,14 @@
       "inteligencia": 4,
       "artificial": 4,
       "creada": 4,
-      "para": 5,
-      "ayudarte": 5,
+      "para": 6,
+      "ayudarte": 7,
       "necesites": 3,
-      "puedo": 7,
-      "responder": 2,
-      "preguntas": 2,
-      "buscar": 1,
-      "información": 1,
+      "puedo": 8,
+      "responder": 1,
+      "preguntas": 3,
+      "buscar": 3,
+      "información": 3,
       "mantener": 1,
       "conversaciones": 1,
       "sobre": 1,
@@ -30,19 +30,19 @@
       "verte": 2,
       "empezamos": 2,
       "poco": 2,
-      "preguntar": 4,
+      "preguntar": 2,
       "algo": 1,
       "trae": 2,
       "sabes": 2,
       "aser": 2,
       "interesado": 2,
       "hacer": 1,
-      "como": 2,
+      "como": 1,
       "también": 1,
       "contigo": 1,
       "quien": 2,
       "creo": 2,
-      "pues": 2,
+      "pues": 4,
       "sabrias": 2,
       "crear": 9,
       "interrutor": 2,
@@ -73,7 +73,7 @@
       "pueden": 1,
       "interruptor": 2,
       "control": 1,
-      "línea": 1,
+      "línea": 3,
       "algunos": 1,
       "ejemplos": 1,
       "**autohotkey**": 1,
@@ -141,9 +141,13 @@
       "dentro": 2,
       "parámetros": 2,
       "establecidos": 2,
-      "necesidades": 1,
+      "necesidades": 2,
       "manera": 1,
-      "efectiva": 1
+      "efectiva": 1,
+      "tenes": 2,
+      "aceso": 2,
+      "tengo": 2,
+      "acceso": 2
     },
     "relacionesSemanticas": {
       "hola me": 4,
@@ -159,16 +163,16 @@
       "inteligencia artificial": 4,
       "artificial creada": 4,
       "creada para": 4,
-      "para ayudarte": 4,
-      "ayudarte con": 4,
+      "para ayudarte": 6,
+      "ayudarte con": 6,
       "con lo": 4,
       "lo que": 4,
       "que necesites": 4,
       "necesites puedo": 2,
-      "puedo responder": 4,
+      "puedo responder": 2,
       "responder preguntas": 2,
       "preguntas buscar": 2,
-      "buscar información": 2,
+      "buscar información": 4,
       "información mantener": 2,
       "mantener conversaciones": 2,
       "conversaciones sobre": 2,
@@ -304,7 +308,7 @@
       "juego de": 2,
       "de rol": 2,
       "rol en": 2,
-      "en línea": 2,
+      "en línea": 4,
       "línea algunos": 2,
       "algunos ejemplos": 2,
       "ejemplos son": 2,
@@ -446,7 +450,7 @@
       "número 1": 2,
       "1 corresponde": 2,
       "corresponde a": 4,
-      "a la": 4,
+      "a la": 6,
       "letra \"a\"": 2,
       "\"a\" el": 2,
       "número 2": 2,
@@ -489,7 +493,24 @@
       "necesidades de": 2,
       "de manera": 2,
       "manera efectiva": 2,
-      "efectiva en": 2
+      "efectiva en": 2,
+      "y pues": 2,
+      "pues tenes": 2,
+      "tenes aceso": 2,
+      "aceso ala": 2,
+      "ala web": 2,
+      "sí tengo": 2,
+      "tengo acceso": 2,
+      "acceso a": 2,
+      "la web": 2,
+      "web y": 2,
+      "puedo buscar": 2,
+      "información en": 2,
+      "línea para": 2,
+      "con tus": 2,
+      "preguntas o": 2,
+      "o necesidades": 2,
+      "necesidades en": 2
     },
     "patronesPregunta": {
       "afirmacion_general": 4,
@@ -499,9 +520,12 @@
     },
     "patronesRespuesta": {
       "general": {
-        "respuesta_media": 3,
+        "respuesta_media": 2,
         "respuesta_corta": 1,
         "respuesta_muy_larga": 2
+      },
+      "tecnología": {
+        "respuesta_media": 1
       }
     },
     "temasAprendidos": [
@@ -529,7 +553,9 @@
       "preguntar.",
       "necesidades",
       "manera",
-      "efectiva."
+      "efectiva.",
+      "necesidades.",
+      "tecnología"
     ],
     "contextosImportantes": [
       "general: sabes aser",
@@ -546,7 +572,8 @@
       "comando_busqueda:pues_sabrias_crear": 1,
       "afirmacion_general:amigo": 1,
       "afirmacion_general:posrias_generar_codeg": 1,
-      "afirmacion_general:algorimo": 1
+      "afirmacion_general:algorimo": 1,
+      "afirmacion_general:pues_tenes_aceso": 1
     },
     "aprendizajeAutomatico": [
       {
@@ -1217,10 +1244,352 @@
         "ia_usada": "Groq",
         "puntuacion": 45,
         "platform": "discord"
+      },
+      {
+        "pregunta": "hola",
+        "respuesta": "Hola! Me alegra saber que estás aquí. Soy Sofía, una inteligencia artificial creada para ayudarte co",
+        "palabras_clave": [
+          "hola"
+        ],
+        "timestamp": 1767113982035,
+        "ia_usada": "Groq",
+        "puntuacion": 60,
+        "platform": "web"
+      },
+      {
+        "pregunta": "hola",
+        "respuesta": "Hola! Me alegra saber que estás aquí. Soy Sofía, una inteligencia artificial creada para ayudarte co",
+        "palabras_clave": [
+          "hola"
+        ],
+        "timestamp": 1767113982035,
+        "ia_usada": "Groq",
+        "puntuacion": 60,
+        "platform": "web"
+      },
+      {
+        "pregunta": "ey",
+        "respuesta": "Hola, me alegra verte aquí. Qué tal si empezamos a charlar un poco? Estás aquí para preguntar algo o",
+        "palabras_clave": [],
+        "timestamp": 1767114179840,
+        "ia_usada": "Groq",
+        "puntuacion": 45,
+        "platform": "discord"
+      },
+      {
+        "pregunta": "hola",
+        "respuesta": "Hola! Me alegra saber que estás aquí. Soy Sofía, una inteligencia artificial creada para ayudarte co",
+        "palabras_clave": [
+          "hola"
+        ],
+        "timestamp": 1767113982035,
+        "ia_usada": "Groq",
+        "puntuacion": 60,
+        "platform": "web"
+      },
+      {
+        "pregunta": "xd",
+        "respuesta": "Hola, me alegra verte aquí. Qué te trae hoy?",
+        "palabras_clave": [],
+        "timestamp": 1767114196690,
+        "ia_usada": "Groq",
+        "puntuacion": 20,
+        "platform": "discord"
+      },
+      {
+        "pregunta": "hola",
+        "respuesta": "Hola! Me alegra saber que estás aquí. Soy Sofía, una inteligencia artificial creada para ayudarte co",
+        "palabras_clave": [
+          "hola"
+        ],
+        "timestamp": 1767113982035,
+        "ia_usada": "Groq",
+        "puntuacion": 60,
+        "platform": "web"
+      },
+      {
+        "pregunta": "que sabes aser ?",
+        "respuesta": "Me alegra saber que estás interesado en saber qué puedo hacer. Como una inteligencia artificial crea",
+        "palabras_clave": [
+          "sabes",
+          "aser"
+        ],
+        "timestamp": 1767114217062,
+        "ia_usada": "Groq",
+        "puntuacion": 50,
+        "platform": "discord"
+      },
+      {
+        "pregunta": "quien te creo?",
+        "respuesta": "Fui creada por Fer.",
+        "palabras_clave": [
+          "quien",
+          "creo"
+        ],
+        "timestamp": 1767114252671,
+        "ia_usada": "Groq",
+        "puntuacion": 5,
+        "platform": "web"
+      },
+      {
+        "pregunta": "hola",
+        "respuesta": "Hola! Me alegra saber que estás aquí. Soy Sofía, una inteligencia artificial creada para ayudarte co",
+        "palabras_clave": [
+          "hola"
+        ],
+        "timestamp": 1767113982035,
+        "ia_usada": "Groq",
+        "puntuacion": 60,
+        "platform": "web"
+      },
+      {
+        "pregunta": "pues  quien te creo c:",
+        "respuesta": "Fue Fer.",
+        "palabras_clave": [
+          "pues",
+          "quien",
+          "creo"
+        ],
+        "timestamp": 1767114268806,
+        "ia_usada": "Groq",
+        "puntuacion": 0,
+        "platform": "discord"
+      },
+      {
+        "pregunta": "hola",
+        "respuesta": "Hola! Me alegra saber que estás aquí. Soy Sofía, una inteligencia artificial creada para ayudarte co",
+        "palabras_clave": [
+          "hola"
+        ],
+        "timestamp": 1767113982035,
+        "ia_usada": "Groq",
+        "puntuacion": 60,
+        "platform": "web"
+      },
+      {
+        "pregunta": "ya pues sabrias crear un interrutor de tp  mientras navegas buscando  boss nuevos que no esten en la lista precipal?",
+        "respuesta": "Entiendo que estás hablando de un juego y quieres crear un sistema de automatización para controlar ",
+        "palabras_clave": [
+          "pues",
+          "sabrias",
+          "crear",
+          "interrutor",
+          "mientras"
+        ],
+        "timestamp": 1767114327614,
+        "ia_usada": "Groq",
+        "puntuacion": 111,
+        "platform": "discord"
+      },
+      {
+        "pregunta": "hola",
+        "respuesta": "Hola! Me alegra saber que estás aquí. Soy Sofía, una inteligencia artificial creada para ayudarte co",
+        "palabras_clave": [
+          "hola"
+        ],
+        "timestamp": 1767113982035,
+        "ia_usada": "Groq",
+        "puntuacion": 60,
+        "platform": "web"
+      },
+      {
+        "pregunta": "lua amigo",
+        "respuesta": "Hola, me alegra verte aquí. Soy Sofía, una inteligencia artificial creada para ayudarte con lo que n",
+        "palabras_clave": [
+          "amigo"
+        ],
+        "timestamp": 1767114381603,
+        "ia_usada": "Groq",
+        "puntuacion": 45,
+        "platform": "discord"
+      },
+      {
+        "pregunta": "hola",
+        "respuesta": "Hola! Me alegra saber que estás aquí. Soy Sofía, una inteligencia artificial creada para ayudarte co",
+        "palabras_clave": [
+          "hola"
+        ],
+        "timestamp": 1767113982035,
+        "ia_usada": "Groq",
+        "puntuacion": 60,
+        "platform": "web"
+      },
+      {
+        "pregunta": "hola",
+        "respuesta": "Hola! Me alegra saber que estás aquí. Soy Sofía, una inteligencia artificial creada para ayudarte co",
+        "palabras_clave": [
+          "hola"
+        ],
+        "timestamp": 1767113982035,
+        "ia_usada": "Groq",
+        "puntuacion": 60,
+        "platform": "web"
+      },
+      {
+        "pregunta": "ey",
+        "respuesta": "Hola, me alegra verte aquí. Qué tal si empezamos a charlar un poco? Estás aquí para preguntar algo o",
+        "palabras_clave": [],
+        "timestamp": 1767114179840,
+        "ia_usada": "Groq",
+        "puntuacion": 45,
+        "platform": "discord"
+      },
+      {
+        "pregunta": "hola",
+        "respuesta": "Hola! Me alegra saber que estás aquí. Soy Sofía, una inteligencia artificial creada para ayudarte co",
+        "palabras_clave": [
+          "hola"
+        ],
+        "timestamp": 1767113982035,
+        "ia_usada": "Groq",
+        "puntuacion": 60,
+        "platform": "web"
+      },
+      {
+        "pregunta": "xd",
+        "respuesta": "Hola, me alegra verte aquí. Qué te trae hoy?",
+        "palabras_clave": [],
+        "timestamp": 1767114196690,
+        "ia_usada": "Groq",
+        "puntuacion": 20,
+        "platform": "discord"
+      },
+      {
+        "pregunta": "hola",
+        "respuesta": "Hola! Me alegra saber que estás aquí. Soy Sofía, una inteligencia artificial creada para ayudarte co",
+        "palabras_clave": [
+          "hola"
+        ],
+        "timestamp": 1767113982035,
+        "ia_usada": "Groq",
+        "puntuacion": 60,
+        "platform": "web"
+      },
+      {
+        "pregunta": "que sabes aser ?",
+        "respuesta": "Me alegra saber que estás interesado en saber qué puedo hacer. Como una inteligencia artificial crea",
+        "palabras_clave": [
+          "sabes",
+          "aser"
+        ],
+        "timestamp": 1767114217062,
+        "ia_usada": "Groq",
+        "puntuacion": 50,
+        "platform": "discord"
+      },
+      {
+        "pregunta": "quien te creo?",
+        "respuesta": "Fui creada por Fer.",
+        "palabras_clave": [
+          "quien",
+          "creo"
+        ],
+        "timestamp": 1767114252671,
+        "ia_usada": "Groq",
+        "puntuacion": 5,
+        "platform": "web"
+      },
+      {
+        "pregunta": "hola",
+        "respuesta": "Hola! Me alegra saber que estás aquí. Soy Sofía, una inteligencia artificial creada para ayudarte co",
+        "palabras_clave": [
+          "hola"
+        ],
+        "timestamp": 1767113982035,
+        "ia_usada": "Groq",
+        "puntuacion": 60,
+        "platform": "web"
+      },
+      {
+        "pregunta": "pues  quien te creo c:",
+        "respuesta": "Fue Fer.",
+        "palabras_clave": [
+          "pues",
+          "quien",
+          "creo"
+        ],
+        "timestamp": 1767114268806,
+        "ia_usada": "Groq",
+        "puntuacion": 0,
+        "platform": "discord"
+      },
+      {
+        "pregunta": "hola",
+        "respuesta": "Hola! Me alegra saber que estás aquí. Soy Sofía, una inteligencia artificial creada para ayudarte co",
+        "palabras_clave": [
+          "hola"
+        ],
+        "timestamp": 1767113982035,
+        "ia_usada": "Groq",
+        "puntuacion": 60,
+        "platform": "web"
+      },
+      {
+        "pregunta": "ya pues sabrias crear un interrutor de tp  mientras navegas buscando  boss nuevos que no esten en la lista precipal?",
+        "respuesta": "Entiendo que estás hablando de un juego y quieres crear un sistema de automatización para controlar ",
+        "palabras_clave": [
+          "pues",
+          "sabrias",
+          "crear",
+          "interrutor",
+          "mientras"
+        ],
+        "timestamp": 1767114327614,
+        "ia_usada": "Groq",
+        "puntuacion": 111,
+        "platform": "discord"
+      },
+      {
+        "pregunta": "hola",
+        "respuesta": "Hola! Me alegra saber que estás aquí. Soy Sofía, una inteligencia artificial creada para ayudarte co",
+        "palabras_clave": [
+          "hola"
+        ],
+        "timestamp": 1767113982035,
+        "ia_usada": "Groq",
+        "puntuacion": 60,
+        "platform": "web"
+      },
+      {
+        "pregunta": "lua amigo",
+        "respuesta": "Hola, me alegra verte aquí. Soy Sofía, una inteligencia artificial creada para ayudarte con lo que n",
+        "palabras_clave": [
+          "amigo"
+        ],
+        "timestamp": 1767114381603,
+        "ia_usada": "Groq",
+        "puntuacion": 45,
+        "platform": "discord"
+      },
+      {
+        "pregunta": "posrias generar un codeg ?",
+        "respuesta": "Claro que sí! Un Codeg (acrónimo de \"Código\" en francés) es un tipo de código secreto que se utiliza",
+        "palabras_clave": [
+          "posrias",
+          "generar",
+          "codeg"
+        ],
+        "timestamp": 1767114420694,
+        "ia_usada": "Groq",
+        "puntuacion": 81,
+        "platform": "web"
+      },
+      {
+        "pregunta": "y pues tenes aceso ala web?",
+        "respuesta": "Sí, tengo acceso a la web y puedo buscar información en línea para ayudarte con tus preguntas o nece",
+        "palabras_clave": [
+          "pues",
+          "tenes",
+          "aceso"
+        ],
+        "timestamp": 1767114807164,
+        "ia_usada": "Groq",
+        "puntuacion": 40,
+        "platform": "discord"
       }
     ],
-    "entrenamientos": 10,
-    "totalBusquedas": 16,
-    "precision": 62
+    "entrenamientos": 11,
+    "totalBusquedas": 24,
+    "precision": 62.2
   }
 }
