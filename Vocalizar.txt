@@ -588,7 +588,18 @@
       "ejemplo,",
       "sucesivamente.",
       "intentarlo?",
-      "solución?"
+      "solución?",
+      "algorimo",
+      "algoritmo",
+      "funcionando",
+      "dentro",
+      "parámetros",
+      "establecidos",
+      "manera",
+      "efectiva",
+      "bien,",
+      "preguntar.",
+      "efectiva."
     ],
     "frasesUtiles": [
       "¿Quién eres",
@@ -675,7 +686,8 @@
       "Sin embargo, puedo generar un código simple para ti",
       "Por ejemplo, el número 1 corresponde a la letra \"A\", el número 2 corresponde a la letra \"B\", y así sucesivamente",
       "Quieres intentarlo",
-      "O prefieres que te dé la solución"
+      "O prefieres que te dé la solución",
+      "Mi algoritmo va bien, gracias por preguntar"
     ],
     "patronesGramaticales": {},
     "conjugaciones": {
