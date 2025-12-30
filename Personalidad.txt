@@ -6,7 +6,8 @@
       "puedes buscar pornito ?": 1,
       "busca en la web pues algo quien es goku": 1,
       "quien es shizuka minamoto": 1,
-      "es muy sexy verdad ?": 1
+      "es muy sexy verdad ?": 1,
+      "pues cual fue el.chat anterior ?": 1
     },
     "chistes_usados": [],
     "temas_recurrentes": {
@@ -27,12 +28,14 @@
       "web_user_default": {
         "preguntas_frecuentes": {
           "holi": 1,
-          "es muy sexy verdad ?": 1
+          "pues cual fue el.chat anterior ?": 1
         },
         "temas_favoritos": [
           "holi",
-          "sexy",
-          "verdad"
+          "pues",
+          "cual",
+          "elchat",
+          "anterior"
         ],
         "total_mensajes": 2,
         "primera_interaccion": 1767056607683,
