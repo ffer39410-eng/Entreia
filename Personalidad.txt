@@ -2,21 +2,21 @@
   "personalidad": {
     "patrones_repeticion": {
       "holi": 1,
-      "hola": 1
+      "hola": 2
     },
     "chistes_usados": [],
     "temas_recurrentes": {
-      "general": 1
+      "general": 2
     },
     "comportamiento_usuario": {
       "user_default": {
         "preguntas_frecuentes": {
-          "hola": 1
+          "hola": 2
         },
         "temas_favoritos": [
           "hola"
         ],
-        "total_mensajes": 1,
+        "total_mensajes": 2,
         "primera_interaccion": 1767055510775
       }
     },
