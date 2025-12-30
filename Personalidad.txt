@@ -3,11 +3,13 @@
     "patrones_repeticion": {
       "holi": 2,
       "hola": 2,
-      "puedes buscar pornito ?": 1
+      "puedes buscar pornito ?": 1,
+      "busca en la web pues algo quien es goku": 1
     },
     "chistes_usados": [],
     "temas_recurrentes": {
-      "general": 4
+      "general": 3,
+      "tecnología": 1
     },
     "comportamiento_usuario": {
       "user_default": {
@@ -23,13 +25,15 @@
       "web_user_default": {
         "preguntas_frecuentes": {
           "holi": 1,
-          "puedes buscar pornito ?": 1
+          "busca en la web pues algo quien es goku": 1
         },
         "temas_favoritos": [
           "holi",
-          "puedes",
-          "buscar",
-          "pornito"
+          "busca",
+          "pues",
+          "algo",
+          "quien",
+          "goku"
         ],
         "total_mensajes": 2,
         "primera_interaccion": 1767056607683,
