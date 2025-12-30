@@ -2,30 +2,30 @@
   "nlp": {
     "vocabulario": {
       "hola": 4,
-      "alegra": 4,
-      "saber": 6,
-      "estás": 4,
+      "alegra": 2,
+      "saber": 2,
+      "estás": 2,
       "aquí": 2,
       "sofía": 2,
-      "inteligencia": 4,
-      "artificial": 4,
+      "inteligencia": 2,
+      "artificial": 2,
       "creada": 2,
-      "para": 2,
-      "ayudarte": 4,
+      "para": 1,
+      "ayudarte": 2,
       "necesites": 1,
-      "puedo": 7,
-      "responder": 2,
-      "preguntas": 2,
-      "buscar": 2,
-      "información": 2,
-      "mantener": 2,
-      "conversaciones": 2,
-      "sobre": 2,
-      "diversos": 2,
-      "temas": 2,
-      "simplemente": 2,
-      "charlar": 2,
-      "prefieres": 2,
+      "puedo": 2,
+      "responder": 1,
+      "preguntas": 1,
+      "buscar": 1,
+      "información": 1,
+      "mantener": 1,
+      "conversaciones": 1,
+      "sobre": 1,
+      "diversos": 1,
+      "temas": 1,
+      "simplemente": 1,
+      "charlar": 1,
+      "prefieres": 1,
       "asistirte": 1,
       "verte": 2,
       "empezamos": 2,
@@ -41,46 +41,47 @@
       "también": 1,
       "contigo": 1,
       "quien": 2,
-      "creo": 2
+      "creo": 2,
+      "pues": 2
     },
     "relacionesSemanticas": {
       "hola me": 2,
-      "me alegra": 4,
-      "alegra saber": 4,
-      "saber que": 4,
-      "que estás": 4,
+      "me alegra": 2,
+      "alegra saber": 2,
+      "saber que": 2,
+      "que estás": 2,
       "estás aquí": 2,
       "aquí soy": 2,
       "soy sofía": 2,
       "sofía una": 2,
-      "una inteligencia": 4,
-      "inteligencia artificial": 4,
-      "artificial creada": 4,
-      "creada para": 4,
-      "para ayudarte": 4,
+      "una inteligencia": 2,
+      "inteligencia artificial": 2,
+      "artificial creada": 2,
+      "creada para": 2,
+      "para ayudarte": 2,
       "ayudarte con": 2,
       "con lo": 2,
       "lo que": 2,
       "que necesites": 2,
       "necesites puedo": 2,
-      "puedo responder": 4,
-      "responder preguntas": 4,
-      "preguntas buscar": 4,
-      "buscar información": 4,
+      "puedo responder": 2,
+      "responder preguntas": 2,
+      "preguntas buscar": 2,
+      "buscar información": 2,
       "información mantener": 2,
-      "mantener conversaciones": 4,
-      "conversaciones sobre": 4,
-      "sobre diversos": 4,
-      "diversos temas": 4,
+      "mantener conversaciones": 2,
+      "conversaciones sobre": 2,
+      "sobre diversos": 2,
+      "diversos temas": 2,
       "temas o": 2,
       "o simplemente": 2,
       "simplemente charlar": 2,
       "charlar si": 2,
-      "si lo": 4,
-      "lo prefieres": 4,
+      "si lo": 2,
+      "lo prefieres": 2,
       "prefieres en": 2,
-      "en qué": 4,
-      "qué puedo": 6,
+      "en qué": 2,
+      "qué puedo": 2,
       "puedo asistirte": 2,
       "asistirte hoy": 2,
       "alegra verte": 2,
@@ -128,16 +129,19 @@
       "te creo": 2,
       "fui creada": 2,
       "creada por": 2,
-      "por fer": 2
+      "por fer": 2,
+      "pues quien": 2,
+      "creo c": 2,
+      "fue fer": 2
     },
     "patronesPregunta": {
-      "afirmacion_general": 1,
+      "afirmacion_general": 2,
       "pregunta_que": 1,
       "pregunta_quien": 1
     },
     "patronesRespuesta": {
       "general": {
-        "respuesta_media": 2,
+        "respuesta_media": 1,
         "respuesta_corta": 1
       }
     },
@@ -156,13 +160,15 @@
     ],
     "contextosImportantes": [
       "general: sabes aser",
-      "general: quien creo"
+      "general: quien creo",
+      "general: pues quien creo"
     ],
     "patronesContexto": {
       "afirmacion_general:hola": 1,
       "afirmacion_general:": 1,
       "pregunta_que:sabes_aser": 1,
-      "pregunta_quien:quien_creo": 1
+      "pregunta_quien:quien_creo": 1,
+      "afirmacion_general:pues_quien_creo": 1
     },
     "aprendizajeAutomatico": [
       {
@@ -250,10 +256,34 @@
         "ia_usada": "Groq",
         "puntuacion": 5,
         "platform": "web"
+      },
+      {
+        "pregunta": "hola",
+        "respuesta": "Hola! Me alegra saber que estás aquí. Soy Sofía, una inteligencia artificial creada para ayudarte co",
+        "palabras_clave": [
+          "hola"
+        ],
+        "timestamp": 1767113982035,
+        "ia_usada": "Groq",
+        "puntuacion": 60,
+        "platform": "web"
+      },
+      {
+        "pregunta": "pues  quien te creo c:",
+        "respuesta": "Fue Fer.",
+        "palabras_clave": [
+          "pues",
+          "quien",
+          "creo"
+        ],
+        "timestamp": 1767114268806,
+        "ia_usada": "Groq",
+        "puntuacion": 0,
+        "platform": "discord"
       }
     ],
-    "entrenamientos": 5,
-    "totalBusquedas": 2,
-    "precision": 61
+    "entrenamientos": 6,
+    "totalBusquedas": 3,
+    "precision": 61.2
   }
 }
