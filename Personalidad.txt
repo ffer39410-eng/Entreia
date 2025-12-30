@@ -6,7 +6,8 @@
       "xd": 1,
       "que sabes aser ?": 1,
       "quien te creo?": 1,
-      "pues  quien te creo c:": 1
+      "pues  quien te creo c:": 1,
+      "ya pues sabrias crear un interrutor de tp  mientras navegas buscando  boss nuevos que no esten en la lista precipal?": 1
     },
     "chistes_usados": [],
     "temas_recurrentes": {
@@ -26,15 +27,22 @@
       },
       "discord_user_discord_user_1136891312805781505": {
         "preguntas_frecuentes": {
-          "pues  quien te creo c:": 1
+          "ya pues sabrias crear un interrutor de tp  mientras navegas buscando  boss nuevos que no esten en la lista precipal?": 1
         },
         "temas_favoritos": [
           "pues",
-          "quien",
-          "creo"
+          "sabrias",
+          "crear",
+          "interrutor",
+          "mientras",
+          "navegas",
+          "buscando",
+          "boss",
+          "nuevos",
+          "esten"
         ],
         "total_mensajes": 1,
-        "primera_interaccion": 1767114268152,
+        "primera_interaccion": 1767114326652,
         "platform": "discord"
       }
     },
