@@ -229,7 +229,9 @@
       "charlar.",
       "ayude",
       "particular",
-      "particular?"
+      "particular?",
+      "cómo",
+      "estás?"
     ],
     "frasesUtiles": [
       "¿Quién eres",
@@ -274,11 +276,11 @@
     "conjugaciones": {
       "eres": 1,
       "soy": 3,
-      "puedo": 5,
+      "puedo": 4,
       "estoy": 1,
       "tienes": 1,
       "tiene": 1,
-      "estás": 4,
+      "estás": 5,
       "digo": 1
     },
     "expresionesNaturales": [
