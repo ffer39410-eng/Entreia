@@ -315,8 +315,8 @@
     "patronesGramaticales": {},
     "conjugaciones": {
       "eres": 1,
-      "soy": 4,
-      "puedo": 7,
+      "soy": 5,
+      "puedo": 9,
       "estoy": 1,
       "tienes": 1,
       "tiene": 1,
