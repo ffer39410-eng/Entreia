@@ -1,32 +1,32 @@
 {
   "nlp": {
     "vocabulario": {
-      "hola": 4,
-      "alegra": 3,
-      "saber": 3,
-      "estás": 8,
-      "aquí": 2,
-      "sofía": 2,
-      "inteligencia": 2,
-      "artificial": 2,
-      "creada": 2,
-      "para": 6,
-      "ayudarte": 3,
-      "necesites": 1,
-      "puedo": 2,
+      "hola": 6,
+      "alegra": 4,
+      "saber": 2,
+      "estás": 2,
+      "aquí": 4,
+      "sofía": 4,
+      "inteligencia": 4,
+      "artificial": 4,
+      "creada": 4,
+      "para": 2,
+      "ayudarte": 4,
+      "necesites": 3,
+      "puedo": 3,
       "responder": 1,
       "preguntas": 1,
       "buscar": 1,
-      "información": 2,
+      "información": 1,
       "mantener": 1,
       "conversaciones": 1,
-      "sobre": 3,
+      "sobre": 1,
       "diversos": 1,
       "temas": 1,
       "simplemente": 1,
       "charlar": 1,
       "prefieres": 1,
-      "asistirte": 1,
+      "asistirte": 2,
       "verte": 2,
       "empezamos": 2,
       "poco": 2,
@@ -102,27 +102,28 @@
       "proporcionarme": 1,
       "detalles": 1,
       "tratando": 1,
-      "lograr": 1
+      "lograr": 1,
+      "amigo": 2
     },
     "relacionesSemanticas": {
-      "hola me": 2,
+      "hola me": 4,
       "me alegra": 4,
-      "alegra saber": 4,
-      "saber que": 4,
-      "que estás": 10,
+      "alegra saber": 2,
+      "saber que": 2,
+      "que estás": 2,
       "estás aquí": 2,
-      "aquí soy": 2,
-      "soy sofía": 2,
-      "sofía una": 2,
-      "una inteligencia": 2,
-      "inteligencia artificial": 2,
-      "artificial creada": 2,
-      "creada para": 2,
-      "para ayudarte": 2,
-      "ayudarte con": 2,
-      "con lo": 2,
+      "aquí soy": 4,
+      "soy sofía": 4,
+      "sofía una": 4,
+      "una inteligencia": 4,
+      "inteligencia artificial": 4,
+      "artificial creada": 4,
+      "creada para": 4,
+      "para ayudarte": 4,
+      "ayudarte con": 4,
+      "con lo": 4,
       "lo que": 4,
-      "que necesites": 2,
+      "que necesites": 4,
       "necesites puedo": 2,
       "puedo responder": 2,
       "responder preguntas": 2,
@@ -140,10 +141,10 @@
       "si lo": 2,
       "lo prefieres": 2,
       "prefieres en": 2,
-      "en qué": 2,
-      "qué puedo": 2,
-      "puedo asistirte": 2,
-      "asistirte hoy": 2,
+      "en qué": 4,
+      "qué puedo": 4,
+      "puedo asistirte": 4,
+      "asistirte hoy": 4,
       "alegra verte": 2,
       "verte aquí": 2,
       "aquí qué": 2,
@@ -329,17 +330,19 @@
       "y lo": 2,
       "estás tratando": 2,
       "tratando de": 2,
-      "de lograr": 2
+      "de lograr": 2,
+      "lua amigo": 2,
+      "necesites en": 2
     },
     "patronesPregunta": {
-      "afirmacion_general": 1,
+      "afirmacion_general": 2,
       "pregunta_que": 1,
       "pregunta_quien": 1,
       "comando_busqueda": 1
     },
     "patronesRespuesta": {
       "general": {
-        "respuesta_media": 1,
+        "respuesta_media": 2,
         "respuesta_corta": 1,
         "respuesta_muy_larga": 1
       }
@@ -374,7 +377,8 @@
       "pregunta_que:sabes_aser": 1,
       "pregunta_quien:quien_creo": 1,
       "afirmacion_general:pues_quien_creo": 1,
-      "comando_busqueda:pues_sabrias_crear": 1
+      "comando_busqueda:pues_sabrias_crear": 1,
+      "afirmacion_general:amigo": 1
     },
     "aprendizajeAutomatico": [
       {
@@ -512,10 +516,32 @@
         "ia_usada": "Groq",
         "puntuacion": 111,
         "platform": "discord"
+      },
+      {
+        "pregunta": "hola",
+        "respuesta": "Hola! Me alegra saber que estás aquí. Soy Sofía, una inteligencia artificial creada para ayudarte co",
+        "palabras_clave": [
+          "hola"
+        ],
+        "timestamp": 1767113982035,
+        "ia_usada": "Groq",
+        "puntuacion": 60,
+        "platform": "web"
+      },
+      {
+        "pregunta": "lua amigo",
+        "respuesta": "Hola, me alegra verte aquí. Soy Sofía, una inteligencia artificial creada para ayudarte con lo que n",
+        "palabras_clave": [
+          "amigo"
+        ],
+        "timestamp": 1767114381603,
+        "ia_usada": "Groq",
+        "puntuacion": 45,
+        "platform": "discord"
       }
     ],
-    "entrenamientos": 7,
+    "entrenamientos": 8,
     "totalBusquedas": 4,
-    "precision": 61.4
+    "precision": 61.6
   }
 }
