@@ -553,7 +553,42 @@
       "juego.",
       "embargo,",
       "específica.",
-      "lograr?"
+      "lograr?",
+      "posrias",
+      "generar",
+      "codeg",
+      "claro",
+      "(acrónimo",
+      "\"código\"",
+      "francés)",
+      "código",
+      "secreto",
+      "utiliza",
+      "acertijos",
+      "desafíos",
+      "simple",
+      "dejo",
+      "descifrar",
+      "debes",
+      "reemplazar",
+      "cada",
+      "número",
+      "letra",
+      "correspondiente",
+      "posición",
+      "alfabeto",
+      "ejemplo",
+      "corresponde",
+      "sucesivamente",
+      "intentarlo",
+      "desafíos.",
+      "simple:",
+      "código,",
+      "alfabeto.",
+      "ejemplo,",
+      "sucesivamente.",
+      "intentarlo?",
+      "solución?"
     ],
     "frasesUtiles": [
       "¿Quién eres",
@@ -636,7 +671,11 @@
       "Algunos ejemplos son: * **AutoHotkey**: un script que te permite crear macros y automatizar tareas en Windows",
       "* **AutoIt**: otro script que te permite crear macros y automatizar tareas en Windows",
       "* **Python**: un lenguaje de programación que puedes utilizar para crear scripts y automatizar tareas en tu juego",
-      "Podrías proporcionarme más detalles sobre el juego y lo que estás tratando de lograr"
+      "Podrías proporcionarme más detalles sobre el juego y lo que estás tratando de lograr",
+      "Sin embargo, puedo generar un código simple para ti",
+      "Por ejemplo, el número 1 corresponde a la letra \"A\", el número 2 corresponde a la letra \"B\", y así sucesivamente",
+      "Quieres intentarlo",
+      "O prefieres que te dé la solución"
     ],
     "patronesGramaticales": {},
     "conjugaciones": {
@@ -658,7 +697,8 @@
       "también",
       "gracias a",
       "en realidad",
-      "sin embargo"
+      "sin embargo",
+      "por ejemplo"
     ]
   }
 }
