@@ -261,13 +261,15 @@
       "Si me decís de qué trata la conversación o qué tema les interesa, te puedo ayudar mejor",
       "Qué necesitás confirmar o qué dato estás buscando",
       "Soy Sofía, una inteligencia artificial aquí para ayudarte con lo que necesites",
-      "Puedo responder preguntas, buscar información, mantener conversaciones o simplemente charlar"
+      "Puedo responder preguntas, buscar información, mantener conversaciones o simplemente charlar",
+      "Soy Sofía, una inteligencia artificial creada para ayudarte con lo que necesites",
+      "Puedo responder preguntas, buscar información, mantener conversaciones sobre diversos temas o simplemente charlar si lo prefieres"
     ],
     "patronesGramaticales": {},
     "conjugaciones": {
       "eres": 1,
-      "soy": 2,
-      "puedo": 3,
+      "soy": 3,
+      "puedo": 5,
       "estoy": 1,
       "tienes": 1,
       "tiene": 1,
