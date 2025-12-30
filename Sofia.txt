@@ -1,96 +1,109 @@
 {
-  "conversaciones": [
-    {
-      "pregunta": "hola",
-      "timestamp": 1767112942486
+  "nlp": {
+    "vocabulario": {
+      "hola": 4,
+      "alegra": 2,
+      "saber": 2,
+      "estás": 2,
+      "aquí": 2,
+      "sofía": 2,
+      "inteligencia": 2,
+      "artificial": 2,
+      "creada": 2,
+      "para": 1,
+      "ayudarte": 2,
+      "necesites": 1,
+      "puedo": 2,
+      "responder": 1,
+      "preguntas": 1,
+      "buscar": 1,
+      "información": 1,
+      "mantener": 1,
+      "conversaciones": 1,
+      "sobre": 1,
+      "diversos": 1,
+      "temas": 1,
+      "simplemente": 1,
+      "charlar": 1,
+      "prefieres": 1,
+      "asistirte": 1
     },
-    {
-      "pregunta": "que puedes aser ?",
-      "timestamp": 1767112952510
+    "relacionesSemanticas": {
+      "hola me": 2,
+      "me alegra": 2,
+      "alegra saber": 2,
+      "saber que": 2,
+      "que estás": 2,
+      "estás aquí": 2,
+      "aquí soy": 2,
+      "soy sofía": 2,
+      "sofía una": 2,
+      "una inteligencia": 2,
+      "inteligencia artificial": 2,
+      "artificial creada": 2,
+      "creada para": 2,
+      "para ayudarte": 2,
+      "ayudarte con": 2,
+      "con lo": 2,
+      "lo que": 2,
+      "que necesites": 2,
+      "necesites puedo": 2,
+      "puedo responder": 2,
+      "responder preguntas": 2,
+      "preguntas buscar": 2,
+      "buscar información": 2,
+      "información mantener": 2,
+      "mantener conversaciones": 2,
+      "conversaciones sobre": 2,
+      "sobre diversos": 2,
+      "diversos temas": 2,
+      "temas o": 2,
+      "o simplemente": 2,
+      "simplemente charlar": 2,
+      "charlar si": 2,
+      "si lo": 2,
+      "lo prefieres": 2,
+      "prefieres en": 2,
+      "en qué": 2,
+      "qué puedo": 2,
+      "puedo asistirte": 2,
+      "asistirte hoy": 2
     },
-    {
-      "pregunta": "hola",
-      "timestamp": 1767113554613
+    "patronesPregunta": {
+      "afirmacion_general": 1
     },
-    {
-      "pregunta": "jaja que ?",
-      "timestamp": 1767113562974
+    "patronesRespuesta": {
+      "general": {
+        "respuesta_media": 1
+      }
     },
-    {
-      "pregunta": "hola jaja",
-      "timestamp": 1767113572028
+    "temasAprendidos": [
+      "sofía,",
+      "necesites.",
+      "responder",
+      "preguntas,",
+      "buscar",
+      "general"
+    ],
+    "contextosImportantes": [],
+    "patronesContexto": {
+      "afirmacion_general:hola": 1
     },
-    {
-      "pregunta": "Muy bien y tu?",
-      "timestamp": 1767113585579
-    },
-    {
-      "pregunta": "ya te dije que tambien estoy xd",
-      "timestamp": 1767113605882
-    }
-  ],
-  "palabras_frecuentes": {
-    "hola": 3,
-    "puedes": 1,
-    "aser": 1,
-    "jaja": 2,
-    "bien": 1,
-    "dije": 1,
-    "tambien": 1,
-    "estoy": 1
-  },
-  "respuestas_exitosas": [
-    {
-      "pregunta": "hola",
-      "respuesta": "Â¡Hola! Â¿En quÃ© puedo ayudarte hoy?",
-      "timestamp": 1767112943503
-    },
-    {
-      "pregunta": "que puedes aser ?",
-      "respuesta": "Entiendo que me preguntas sobre puedes. TodavÃ­a estoy aprendiendo sobre ese tema. Â¿PodrÃ­as darme mÃ¡s detalles?",
-      "timestamp": 1767112953519
-    },
-    {
-      "pregunta": "hola",
-      "respuesta": "Â¡Hola! Â¿En quÃ© puedo ayudarte hoy?",
-      "timestamp": 1767113556036
-    },
-    {
-      "pregunta": "jaja que ?",
-      "respuesta": "Entiendo que me preguntas sobre jaja. Todavía estoy aprendiendo sobre ese tema. Activa el modo entrenamiento para que aprenda mejor.",
-      "timestamp": 1767113564386
-    },
-    {
-      "pregunta": "hola jaja",
-      "respuesta": "Hola, ¿cómo estás?",
-      "timestamp": 1767113577331
-    },
-    {
-      "pregunta": "Muy bien y tu?",
-      "respuesta": "Bien también, ¿y tú?",
-      "timestamp": 1767113591614
-    },
-    {
-      "pregunta": "ya te dije que tambien estoy xd",
-      "respuesta": "Eso es cierto, lo recuerdo.",
-      "timestamp": 1767113608595
-    }
-  ],
-  "entrenamiento": [
-    {
-      "pregunta": "hola jaja",
-      "respuesta_elegida": "Hola, ¿cómo estás?",
-      "timestamp": 1767113577331
-    },
-    {
-      "pregunta": "Muy bien y tu?",
-      "respuesta_elegida": "Bien también, ¿y tú?",
-      "timestamp": 1767113591614
-    },
-    {
-      "pregunta": "ya te dije que tambien estoy xd",
-      "respuesta_elegida": "Eso es cierto, lo recuerdo.",
-      "timestamp": 1767113608595
-    }
-  ]
+    "aprendizajeAutomatico": [
+      {
+        "pregunta": "hola",
+        "respuesta": "Hola! Me alegra saber que estás aquí. Soy Sofía, una inteligencia artificial creada para ayudarte co",
+        "palabras_clave": [
+          "hola"
+        ],
+        "timestamp": 1767113982035,
+        "ia_usada": "Groq",
+        "puntuacion": 60,
+        "platform": "web"
+      }
+    ],
+    "entrenamientos": 1,
+    "totalBusquedas": 0,
+    "precision": 60.2
+  }
 }
