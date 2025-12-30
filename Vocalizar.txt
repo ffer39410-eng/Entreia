@@ -263,14 +263,15 @@
       "Soy Sofía, una inteligencia artificial aquí para ayudarte con lo que necesites",
       "Puedo responder preguntas, buscar información, mantener conversaciones o simplemente charlar",
       "Soy Sofía, una inteligencia artificial creada para ayudarte con lo que necesites",
-      "Puedo responder preguntas, buscar información, mantener conversaciones sobre diversos temas o simplemente charlar si lo prefieres"
+      "Puedo responder preguntas, buscar información, mantener conversaciones sobre diversos temas o simplemente charlar si lo prefieres",
+      "Estoy aquí para ayudarte con lo que necesites"
     ],
     "patronesGramaticales": {},
     "conjugaciones": {
       "eres": 1,
-      "soy": 3,
-      "puedo": 5,
-      "estoy": 1,
+      "soy": 4,
+      "puedo": 6,
+      "estoy": 2,
       "tienes": 1,
       "tiene": 1,
       "estás": 4,
