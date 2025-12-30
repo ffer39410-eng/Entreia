@@ -2,11 +2,12 @@
   "personalidad": {
     "patrones_repeticion": {
       "holi": 2,
-      "hola": 2
+      "hola": 2,
+      "puedes buscar pornito ?": 1
     },
     "chistes_usados": [],
     "temas_recurrentes": {
-      "general": 3
+      "general": 4
     },
     "comportamiento_usuario": {
       "user_default": {
@@ -21,12 +22,16 @@
       },
       "web_user_default": {
         "preguntas_frecuentes": {
-          "holi": 1
+          "holi": 1,
+          "puedes buscar pornito ?": 1
         },
         "temas_favoritos": [
-          "holi"
+          "holi",
+          "puedes",
+          "buscar",
+          "pornito"
         ],
-        "total_mensajes": 1,
+        "total_mensajes": 2,
         "primera_interaccion": 1767056607683,
         "platform": "web"
       }
