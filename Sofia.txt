@@ -9,7 +9,7 @@
       "sofía": 2,
       "inteligencia": 4,
       "artificial": 4,
-      "creada": 4,
+      "creada": 2,
       "para": 2,
       "ayudarte": 4,
       "necesites": 1,
@@ -39,7 +39,9 @@
       "hacer": 2,
       "como": 1,
       "también": 1,
-      "contigo": 1
+      "contigo": 1,
+      "quien": 2,
+      "creo": 2
     },
     "relacionesSemanticas": {
       "hola me": 2,
@@ -121,11 +123,17 @@
       "prefieres simplemente": 2,
       "simplemente en": 2,
       "puedo ayudarte": 2,
-      "ayudarte hoy": 2
+      "ayudarte hoy": 2,
+      "quien te": 2,
+      "te creo": 2,
+      "fui creada": 2,
+      "creada por": 2,
+      "por fer": 2
     },
     "patronesPregunta": {
       "afirmacion_general": 1,
-      "pregunta_que": 1
+      "pregunta_que": 1,
+      "pregunta_quien": 1
     },
     "patronesRespuesta": {
       "general": {
@@ -147,12 +155,14 @@
       "también"
     ],
     "contextosImportantes": [
-      "general: sabes aser"
+      "general: sabes aser",
+      "general: quien creo"
     ],
     "patronesContexto": {
       "afirmacion_general:hola": 1,
       "afirmacion_general:": 1,
-      "pregunta_que:sabes_aser": 1
+      "pregunta_que:sabes_aser": 1,
+      "pregunta_quien:quien_creo": 1
     },
     "aprendizajeAutomatico": [
       {
@@ -228,10 +238,22 @@
         "ia_usada": "Groq",
         "puntuacion": 50,
         "platform": "discord"
+      },
+      {
+        "pregunta": "quien te creo?",
+        "respuesta": "Fui creada por Fer.",
+        "palabras_clave": [
+          "quien",
+          "creo"
+        ],
+        "timestamp": 1767114252671,
+        "ia_usada": "Groq",
+        "puntuacion": 5,
+        "platform": "web"
       }
     ],
-    "entrenamientos": 4,
-    "totalBusquedas": 1,
-    "precision": 60.8
+    "entrenamientos": 5,
+    "totalBusquedas": 2,
+    "precision": 61
   }
 }
