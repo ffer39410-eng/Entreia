@@ -411,7 +411,28 @@
       "serie,",
       "especial.",
       "valiente.",
-      "general?"
+      "general?",
+      "sexy",
+      "verdad",
+      "podría",
+      "especificás",
+      "referís",
+      "exactamente",
+      "sexy\"",
+      "hablando",
+      "persona",
+      "imagen",
+      "tenemos",
+      "contexto",
+      "previo",
+      "sexy\".",
+      "persona,",
+      "personaje,",
+      "imagen,",
+      "conversación,",
+      "referís.",
+      "específico,",
+      "tema,"
     ],
     "frasesUtiles": [
       "¿Quién eres",
@@ -473,7 +494,10 @@
       "Tiene el cabello corto y usa lentes",
       "En el futuro de la serie, se convierte en la esposa de Nobita, aunque en el presente mantienen una amistad especial",
       "Es el personaje femenino principal de la historia y suele ser quien inspira a Nobita a mejorar y ser más valiente",
-      "Te interesa saber algo más específico sobre ella o sobre Doraemon en general"
+      "Te interesa saber algo más específico sobre ella o sobre Doraemon en general",
+      "Podría ayudarte mejor si me especificás a qué te referís exactamente con \"es muy sexy\"",
+      "Estás hablando de alguna persona, personaje, imagen, o algo en particular",
+      "Como no tenemos contexto previo en esta conversación, no sé a qué te referís"
     ],
     "patronesGramaticales": {},
     "conjugaciones": {
