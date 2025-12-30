@@ -4,13 +4,13 @@
       "hola": 6,
       "alegra": 4,
       "saber": 2,
-      "estás": 4,
-      "aquí": 6,
+      "estás": 2,
+      "aquí": 4,
       "sofía": 2,
       "inteligencia": 2,
       "artificial": 2,
       "creada": 2,
-      "para": 3,
+      "para": 1,
       "ayudarte": 2,
       "necesites": 1,
       "puedo": 2,
@@ -23,15 +23,16 @@
       "sobre": 1,
       "diversos": 1,
       "temas": 1,
-      "simplemente": 2,
-      "charlar": 4,
+      "simplemente": 1,
+      "charlar": 1,
       "prefieres": 1,
       "asistirte": 1,
       "verte": 2,
       "empezamos": 2,
       "poco": 2,
       "preguntar": 2,
-      "algo": 1
+      "algo": 1,
+      "trae": 2
     },
     "relacionesSemanticas": {
       "hola me": 4,
@@ -39,7 +40,7 @@
       "alegra saber": 2,
       "saber que": 2,
       "que estás": 2,
-      "estás aquí": 4,
+      "estás aquí": 2,
       "aquí soy": 2,
       "soy sofía": 2,
       "sofía una": 2,
@@ -63,7 +64,7 @@
       "sobre diversos": 2,
       "diversos temas": 2,
       "temas o": 2,
-      "o simplemente": 4,
+      "o simplemente": 2,
       "simplemente charlar": 2,
       "charlar si": 2,
       "si lo": 2,
@@ -89,14 +90,18 @@
       "preguntar algo": 2,
       "algo o": 2,
       "simplemente para": 2,
-      "para charlar": 2
+      "para charlar": 2,
+      "qué te": 2,
+      "te trae": 2,
+      "trae hoy": 2
     },
     "patronesPregunta": {
       "afirmacion_general": 2
     },
     "patronesRespuesta": {
       "general": {
-        "respuesta_media": 2
+        "respuesta_media": 1,
+        "respuesta_corta": 1
       }
     },
     "temasAprendidos": [
@@ -144,10 +149,30 @@
         "ia_usada": "Groq",
         "puntuacion": 45,
         "platform": "discord"
+      },
+      {
+        "pregunta": "hola",
+        "respuesta": "Hola! Me alegra saber que estás aquí. Soy Sofía, una inteligencia artificial creada para ayudarte co",
+        "palabras_clave": [
+          "hola"
+        ],
+        "timestamp": 1767113982035,
+        "ia_usada": "Groq",
+        "puntuacion": 60,
+        "platform": "web"
+      },
+      {
+        "pregunta": "xd",
+        "respuesta": "Hola, me alegra verte aquí. Qué te trae hoy?",
+        "palabras_clave": [],
+        "timestamp": 1767114196690,
+        "ia_usada": "Groq",
+        "puntuacion": 20,
+        "platform": "discord"
       }
     ],
-    "entrenamientos": 2,
+    "entrenamientos": 3,
     "totalBusquedas": 0,
-    "precision": 60.4
+    "precision": 60.6
   }
 }
