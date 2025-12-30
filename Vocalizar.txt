@@ -264,7 +264,8 @@
       "descríbeme",
       "ayudo",
       "haga,",
-      "puedo:"
+      "puedo:",
+      "holi"
     ],
     "frasesUtiles": [
       "¿Quién eres",
@@ -314,8 +315,8 @@
     "patronesGramaticales": {},
     "conjugaciones": {
       "eres": 1,
-      "soy": 3,
-      "puedo": 5,
+      "soy": 4,
+      "puedo": 7,
       "estoy": 1,
       "tienes": 1,
       "tiene": 1,
