@@ -8,33 +8,39 @@
       "quien te creo?": 1,
       "pues  quien te creo c:": 1,
       "ya pues sabrias crear un interrutor de tp  mientras navegas buscando  boss nuevos que no esten en la lista precipal?": 1,
-      "lua amigo": 1
+      "lua amigo": 1,
+      "posrias generar un codeg ?": 1
     },
     "chistes_usados": [],
     "temas_recurrentes": {
-      "general": 2
+      "general": 3
     },
     "comportamiento_usuario": {
       "web_user_user_1767113976457_l4ch47g75": {
         "preguntas_frecuentes": {
-          "hola": 1
+          "hola": 1,
+          "posrias generar un codeg ?": 1
         },
         "temas_favoritos": [
-          "hola"
+          "hola",
+          "posrias",
+          "generar",
+          "codeg"
         ],
-        "total_mensajes": 1,
+        "total_mensajes": 2,
         "primera_interaccion": 1767113980986,
         "platform": "web"
       },
       "discord_user_discord_user_1136891312805781505": {
         "preguntas_frecuentes": {
-          "lua amigo": 1
+          "que sabes aser ?": 1
         },
         "temas_favoritos": [
-          "amigo"
+          "sabes",
+          "aser"
         ],
         "total_mensajes": 1,
-        "primera_interaccion": 1767114381349,
+        "primera_interaccion": 1767114216245,
         "platform": "discord"
       }
     },
