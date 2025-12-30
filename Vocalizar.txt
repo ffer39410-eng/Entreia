@@ -633,7 +633,25 @@
       "internet,",
       "foros,",
       "específico.",
-      "interesa."
+      "interesa.",
+      "\"shizuka",
+      "minamoto\"",
+      "español",
+      "históricos",
+      "japoneses",
+      "posible",
+      "estés",
+      "gozen",
+      "dama",
+      "corte",
+      "yoshitsune",
+      "período",
+      "kamakura",
+      "español.",
+      "japoneses,",
+      "gozen,",
+      "kamakura.",
+      "ella?"
     ],
     "frasesUtiles": [
       "¿Quién eres",
@@ -727,7 +745,9 @@
       "Podrías proporcionarme más contexto o detalles sobre qué te gustaría saber sobre esta expresión",
       "No encontré información específica sobre el término \"buscate otra cosa pegue gana\"",
       "Sin embargo, puedo proporcionar información sobre el contexto en el que se utiliza esta frase",
-      "Puedo ayudarte a encontrar información sobre temas específicos si me dices qué te interesa"
+      "Puedo ayudarte a encontrar información sobre temas específicos si me dices qué te interesa",
+      "Lo siento, pero no encontré información sobre \"Shizuka Minamoto\" en español",
+      "Te gustaría saber más sobre ella"
     ],
     "patronesGramaticales": {},
     "conjugaciones": {
