@@ -254,7 +254,17 @@
       "educación,",
       "tecnología,",
       "cultura,",
-      "asistiré."
+      "asistiré.",
+      "solo",
+      "aslo",
+      "entiendo",
+      "quieres",
+      "haga",
+      "conversar",
+      "descríbeme",
+      "ayudo",
+      "haga,",
+      "puedo:"
     ],
     "frasesUtiles": [
       "¿Quién eres",
@@ -297,7 +307,9 @@
       "Buscame alguna cosa porno bb",
       "Lo siento, pero no puedo ayudarte a buscar contenido para adultos ni pornográfico",
       "Es algo que simplemente no hago",
-      "Hay algo más en lo que pueda ayudarte"
+      "Hay algo más en lo que pueda ayudarte",
+      "solo aslo bro",
+      "No entiendo muy bien qué quieres que haga, jeje Hay algo específico en lo que pueda ayudarte"
     ],
     "patronesGramaticales": {},
     "conjugaciones": {
@@ -305,11 +317,12 @@
       "soy": 3,
       "puedo": 5,
       "estoy": 1,
-      "tienes": 2,
+      "tienes": 1,
       "tiene": 1,
       "estás": 5,
       "digo": 1,
-      "hago": 1
+      "hago": 1,
+      "quieres": 1
     },
     "expresionesNaturales": [
       "sobre",
