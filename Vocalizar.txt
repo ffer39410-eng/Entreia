@@ -222,7 +222,11 @@
       "tratando?",
       "interesa,",
       "mejor.",
-      "buscando?"
+      "buscando?",
+      "hoka",
+      "hola",
+      "hola!",
+      "charlar."
     ],
     "frasesUtiles": [
       "¿Quién eres",
@@ -255,13 +259,15 @@
       "Pero necesito que me aclares un poco más: - Estás preguntando sobre información de conversaciones anteriores que pueda tener almacenada",
       "- O estás consultando sobre algún tema específico que estemos tratando",
       "Si me decís de qué trata la conversación o qué tema les interesa, te puedo ayudar mejor",
-      "Qué necesitás confirmar o qué dato estás buscando"
+      "Qué necesitás confirmar o qué dato estás buscando",
+      "Soy Sofía, una inteligencia artificial aquí para ayudarte con lo que necesites",
+      "Puedo responder preguntas, buscar información, mantener conversaciones o simplemente charlar"
     ],
     "patronesGramaticales": {},
     "conjugaciones": {
       "eres": 1,
-      "soy": 1,
-      "puedo": 1,
+      "soy": 2,
+      "puedo": 3,
       "estoy": 1,
       "tienes": 1,
       "tiene": 1,
