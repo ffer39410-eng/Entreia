@@ -1,1 +1,29 @@
-
+{
+  "conversaciones": [
+    {
+      "pregunta": "hola",
+      "timestamp": 1767112942486
+    },
+    {
+      "pregunta": "que puedes aser ?",
+      "timestamp": 1767112952510
+    }
+  ],
+  "palabras_frecuentes": {
+    "hola": 1,
+    "puedes": 1,
+    "aser": 1
+  },
+  "respuestas_exitosas": [
+    {
+      "pregunta": "hola",
+      "respuesta": "¡Hola! ¿En qué puedo ayudarte hoy?",
+      "timestamp": 1767112943503
+    },
+    {
+      "pregunta": "que puedes aser ?",
+      "respuesta": "Entiendo que me preguntas sobre puedes. Todavía estoy aprendiendo sobre ese tema. ¿Podrías darme más detalles?",
+      "timestamp": 1767112953519
+    }
+  ]
+}
