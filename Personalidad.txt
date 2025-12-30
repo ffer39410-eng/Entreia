@@ -1,0 +1,27 @@
+{
+  "personalidad": {
+    "patrones_repeticion": {
+      "hola": 1
+    },
+    "chistes_usados": [],
+    "temas_recurrentes": {
+      "general": 1
+    },
+    "comportamiento_usuario": {
+      "web_user_user_1767113976457_l4ch47g75": {
+        "preguntas_frecuentes": {
+          "hola": 1
+        },
+        "temas_favoritos": [
+          "hola"
+        ],
+        "total_mensajes": 1,
+        "primera_interaccion": 1767113980986,
+        "platform": "web"
+      }
+    },
+    "momento_oportuno_humor": [],
+    "frases_graciosas": [],
+    "contextos_humor": {}
+  }
+}
