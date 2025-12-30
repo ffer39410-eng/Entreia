@@ -272,7 +272,26 @@
       "cualquier",
       "aquí.",
       "requieras,",
-      "cosa."
+      "cosa.",
+      "puedes",
+      "pornito",
+      "llamado",
+      "\"pornito\"",
+      "importante",
+      "aclarar",
+      "diferentes",
+      "referencias",
+      "este",
+      "término",
+      "refieres",
+      "canal",
+      "youtube",
+      "centra",
+      "humor",
+      "hola,",
+      "\"pornito\",",
+      "término.",
+      "humor,"
     ],
     "frasesUtiles": [
       "¿Quién eres",
@@ -320,7 +339,9 @@
       "No entiendo muy bien qué quieres que haga, jeje Hay algo específico en lo que pueda ayudarte",
       "Me alegra verte aquí",
       "Estoy aquí para lo que requieras, así que no dudes en preguntarme cualquier cosa",
-      "En qué puedo ayudarte hoy"
+      "En qué puedo ayudarte hoy",
+      "Hola, en qué puedo ayudarte",
+      "Te refieres al canal de YouTube \"Pornito\" que se centra en contenido de entretenimiento y humor, o a algo más"
     ],
     "patronesGramaticales": {},
     "conjugaciones": {
