@@ -733,8 +733,8 @@
       "general: solo aslo -> hola no entiendo",
       "general: holi -> hola soy sofía"
     ],
-    "entrenamientos": 15,
-    "totalBusquedas": 846,
-    "precision": 63
+    "entrenamientos": 16,
+    "totalBusquedas": 1128,
+    "precision": 63.2
   }
 }
