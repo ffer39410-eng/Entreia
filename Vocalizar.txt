@@ -602,7 +602,13 @@
       "efectiva.",
       "aceso",
       "acceso",
-      "necesidades."
+      "necesidades.",
+      "buscate",
+      "polnito",
+      "\"buscate",
+      "polnito\"",
+      "polnito\".",
+      "expresión?"
     ],
     "frasesUtiles": [
       "¿Quién eres",
@@ -691,7 +697,9 @@
       "Quieres intentarlo",
       "O prefieres que te dé la solución",
       "Mi algoritmo va bien, gracias por preguntar",
-      "Sí, tengo acceso a la web y puedo buscar información en línea para ayudarte con tus preguntas o necesidades"
+      "Sí, tengo acceso a la web y puedo buscar información en línea para ayudarte con tus preguntas o necesidades",
+      "Lo siento, pero no encontré información específica sobre \"buscate Polnito\"",
+      "Podrías proporcionarme más contexto o detalles sobre qué te gustaría saber sobre esta expresión"
     ],
     "patronesGramaticales": {},
     "conjugaciones": {
