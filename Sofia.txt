@@ -5,15 +5,15 @@
       "alegra": 4,
       "saber": 2,
       "estás": 2,
-      "aquí": 4,
+      "aquí": 5,
       "sofía": 4,
       "inteligencia": 4,
       "artificial": 4,
       "creada": 4,
-      "para": 2,
+      "para": 5,
       "ayudarte": 4,
       "necesites": 3,
-      "puedo": 3,
+      "puedo": 4,
       "responder": 1,
       "preguntas": 1,
       "buscar": 1,
@@ -25,7 +25,7 @@
       "temas": 1,
       "simplemente": 1,
       "charlar": 1,
-      "prefieres": 1,
+      "prefieres": 2,
       "asistirte": 2,
       "verte": 2,
       "empezamos": 2,
@@ -57,14 +57,14 @@
       "entiendo": 2,
       "hablando": 2,
       "juego": 7,
-      "quieres": 2,
+      "quieres": 3,
       "sistema": 3,
       "automatización": 2,
       "controlar": 2,
       "personajes": 2,
       "buscas": 1,
       "jefes": 1,
-      "solución": 1,
+      "solución": 2,
       "fácil": 1,
       "realidad": 1,
       "varios": 1,
@@ -91,10 +91,10 @@
       "puedes": 1,
       "utilizar": 1,
       "scripts": 1,
-      "embargo": 1,
+      "embargo": 2,
       "necesitaría": 1,
       "jugando": 1,
-      "tipo": 1,
+      "tipo": 3,
       "darte": 1,
       "respuesta": 1,
       "específica": 1,
@@ -103,7 +103,35 @@
       "detalles": 1,
       "tratando": 1,
       "lograr": 1,
-      "amigo": 2
+      "amigo": 2,
+      "posrias": 2,
+      "generar": 3,
+      "codeg": 5,
+      "claro": 2,
+      "(acrónimo": 2,
+      "\"código\"": 2,
+      "francés)": 2,
+      "código": 4,
+      "secreto": 2,
+      "utiliza": 2,
+      "resolver": 2,
+      "acertijos": 1,
+      "desafíos": 1,
+      "simple": 2,
+      "dejo": 1,
+      "descifrar": 1,
+      "debes": 1,
+      "reemplazar": 1,
+      "cada": 1,
+      "número": 3,
+      "letra": 3,
+      "correspondiente": 1,
+      "posición": 1,
+      "alfabeto": 1,
+      "ejemplo": 1,
+      "corresponde": 2,
+      "sucesivamente": 1,
+      "intentarlo": 1
     },
     "relacionesSemanticas": {
       "hola me": 4,
@@ -273,7 +301,7 @@
       "**autohotkey** un": 2,
       "un script": 2,
       "script que": 4,
-      "que te": 4,
+      "que te": 6,
       "te permite": 4,
       "permite crear": 4,
       "crear macros": 4,
@@ -300,7 +328,7 @@
       "scripts y": 2,
       "en tu": 2,
       "juego sin": 2,
-      "sin embargo": 2,
+      "sin embargo": 4,
       "embargo necesitaría": 2,
       "necesitaría más": 2,
       "más información": 2,
@@ -312,7 +340,7 @@
       "jugando y": 2,
       "y qué": 2,
       "qué tipo": 2,
-      "tipo de": 2,
+      "tipo de": 4,
       "de interruptor": 2,
       "interruptor estás": 2,
       "buscando crear": 2,
@@ -332,10 +360,100 @@
       "tratando de": 2,
       "de lograr": 2,
       "lua amigo": 2,
-      "necesites en": 2
+      "necesites en": 2,
+      "posrias generar": 2,
+      "generar un": 4,
+      "un codeg": 6,
+      "claro que": 2,
+      "que sí": 2,
+      "sí un": 2,
+      "codeg (acrónimo": 2,
+      "(acrónimo de": 2,
+      "de \"código\"": 2,
+      "\"código\" en": 2,
+      "en francés)": 2,
+      "francés) es": 2,
+      "es un": 2,
+      "un tipo": 2,
+      "de código": 2,
+      "código secreto": 2,
+      "secreto que": 2,
+      "que se": 2,
+      "se utiliza": 2,
+      "utiliza para": 2,
+      "para resolver": 2,
+      "resolver acertijos": 2,
+      "acertijos o": 2,
+      "o desafíos": 2,
+      "desafíos sin": 2,
+      "embargo puedo": 2,
+      "puedo generar": 2,
+      "un código": 2,
+      "código simple": 2,
+      "simple para": 2,
+      "para ti": 2,
+      "ti aquí": 2,
+      "aquí te": 2,
+      "te dejo": 2,
+      "dejo un": 2,
+      "codeg simple": 2,
+      "simple ```": 2,
+      "``` 3": 2,
+      "3 1": 2,
+      "1 14": 2,
+      "14 7": 2,
+      "7 5": 2,
+      "5 20": 2,
+      "20 15": 2,
+      "15 22": 2,
+      "22 8": 2,
+      "8 4": 2,
+      "4 ```": 2,
+      "``` para": 2,
+      "para descifrar": 2,
+      "descifrar el": 2,
+      "el código": 2,
+      "código debes": 2,
+      "debes reemplazar": 2,
+      "reemplazar cada": 2,
+      "cada número": 2,
+      "número con": 2,
+      "con la": 2,
+      "la letra": 6,
+      "letra correspondiente": 2,
+      "correspondiente a": 2,
+      "a su": 2,
+      "su posición": 2,
+      "posición en": 2,
+      "en el": 2,
+      "el alfabeto": 2,
+      "alfabeto por": 2,
+      "por ejemplo": 2,
+      "ejemplo el": 2,
+      "el número": 4,
+      "número 1": 2,
+      "1 corresponde": 2,
+      "corresponde a": 4,
+      "a la": 4,
+      "letra \"a\"": 2,
+      "\"a\" el": 2,
+      "número 2": 2,
+      "2 corresponde": 2,
+      "letra \"b\"": 2,
+      "\"b\" y": 2,
+      "y así": 2,
+      "así sucesivamente": 2,
+      "sucesivamente quieres": 2,
+      "quieres intentarlo": 2,
+      "intentarlo o": 2,
+      "o prefieres": 2,
+      "prefieres que": 2,
+      "te dé": 2,
+      "dé la": 2,
+      "la solución": 2
     },
     "patronesPregunta": {
-      "afirmacion_general": 2,
+      "afirmacion_general": 3,
       "pregunta_que": 1,
       "pregunta_quien": 1,
       "comando_busqueda": 1
@@ -344,7 +462,7 @@
       "general": {
         "respuesta_media": 2,
         "respuesta_corta": 1,
-        "respuesta_muy_larga": 1
+        "respuesta_muy_larga": 2
       }
     },
     "temasAprendidos": [
@@ -363,7 +481,12 @@
       "jefes.",
       "solución",
       "fácil.",
-      "realidad,"
+      "realidad,",
+      "acertijos",
+      "desafíos.",
+      "embargo,",
+      "simple:",
+      "descifrar"
     ],
     "contextosImportantes": [
       "general: sabes aser",
@@ -378,7 +501,8 @@
       "pregunta_quien:quien_creo": 1,
       "afirmacion_general:pues_quien_creo": 1,
       "comando_busqueda:pues_sabrias_crear": 1,
-      "afirmacion_general:amigo": 1
+      "afirmacion_general:amigo": 1,
+      "afirmacion_general:posrias_generar_codeg": 1
     },
     "aprendizajeAutomatico": [
       {
@@ -538,10 +662,181 @@
         "ia_usada": "Groq",
         "puntuacion": 45,
         "platform": "discord"
+      },
+      {
+        "pregunta": "hola",
+        "respuesta": "Hola! Me alegra saber que estás aquí. Soy Sofía, una inteligencia artificial creada para ayudarte co",
+        "palabras_clave": [
+          "hola"
+        ],
+        "timestamp": 1767113982035,
+        "ia_usada": "Groq",
+        "puntuacion": 60,
+        "platform": "web"
+      },
+      {
+        "pregunta": "hola",
+        "respuesta": "Hola! Me alegra saber que estás aquí. Soy Sofía, una inteligencia artificial creada para ayudarte co",
+        "palabras_clave": [
+          "hola"
+        ],
+        "timestamp": 1767113982035,
+        "ia_usada": "Groq",
+        "puntuacion": 60,
+        "platform": "web"
+      },
+      {
+        "pregunta": "ey",
+        "respuesta": "Hola, me alegra verte aquí. Qué tal si empezamos a charlar un poco? Estás aquí para preguntar algo o",
+        "palabras_clave": [],
+        "timestamp": 1767114179840,
+        "ia_usada": "Groq",
+        "puntuacion": 45,
+        "platform": "discord"
+      },
+      {
+        "pregunta": "hola",
+        "respuesta": "Hola! Me alegra saber que estás aquí. Soy Sofía, una inteligencia artificial creada para ayudarte co",
+        "palabras_clave": [
+          "hola"
+        ],
+        "timestamp": 1767113982035,
+        "ia_usada": "Groq",
+        "puntuacion": 60,
+        "platform": "web"
+      },
+      {
+        "pregunta": "xd",
+        "respuesta": "Hola, me alegra verte aquí. Qué te trae hoy?",
+        "palabras_clave": [],
+        "timestamp": 1767114196690,
+        "ia_usada": "Groq",
+        "puntuacion": 20,
+        "platform": "discord"
+      },
+      {
+        "pregunta": "hola",
+        "respuesta": "Hola! Me alegra saber que estás aquí. Soy Sofía, una inteligencia artificial creada para ayudarte co",
+        "palabras_clave": [
+          "hola"
+        ],
+        "timestamp": 1767113982035,
+        "ia_usada": "Groq",
+        "puntuacion": 60,
+        "platform": "web"
+      },
+      {
+        "pregunta": "que sabes aser ?",
+        "respuesta": "Me alegra saber que estás interesado en saber qué puedo hacer. Como una inteligencia artificial crea",
+        "palabras_clave": [
+          "sabes",
+          "aser"
+        ],
+        "timestamp": 1767114217062,
+        "ia_usada": "Groq",
+        "puntuacion": 50,
+        "platform": "discord"
+      },
+      {
+        "pregunta": "quien te creo?",
+        "respuesta": "Fui creada por Fer.",
+        "palabras_clave": [
+          "quien",
+          "creo"
+        ],
+        "timestamp": 1767114252671,
+        "ia_usada": "Groq",
+        "puntuacion": 5,
+        "platform": "web"
+      },
+      {
+        "pregunta": "hola",
+        "respuesta": "Hola! Me alegra saber que estás aquí. Soy Sofía, una inteligencia artificial creada para ayudarte co",
+        "palabras_clave": [
+          "hola"
+        ],
+        "timestamp": 1767113982035,
+        "ia_usada": "Groq",
+        "puntuacion": 60,
+        "platform": "web"
+      },
+      {
+        "pregunta": "pues  quien te creo c:",
+        "respuesta": "Fue Fer.",
+        "palabras_clave": [
+          "pues",
+          "quien",
+          "creo"
+        ],
+        "timestamp": 1767114268806,
+        "ia_usada": "Groq",
+        "puntuacion": 0,
+        "platform": "discord"
+      },
+      {
+        "pregunta": "hola",
+        "respuesta": "Hola! Me alegra saber que estás aquí. Soy Sofía, una inteligencia artificial creada para ayudarte co",
+        "palabras_clave": [
+          "hola"
+        ],
+        "timestamp": 1767113982035,
+        "ia_usada": "Groq",
+        "puntuacion": 60,
+        "platform": "web"
+      },
+      {
+        "pregunta": "ya pues sabrias crear un interrutor de tp  mientras navegas buscando  boss nuevos que no esten en la lista precipal?",
+        "respuesta": "Entiendo que estás hablando de un juego y quieres crear un sistema de automatización para controlar ",
+        "palabras_clave": [
+          "pues",
+          "sabrias",
+          "crear",
+          "interrutor",
+          "mientras"
+        ],
+        "timestamp": 1767114327614,
+        "ia_usada": "Groq",
+        "puntuacion": 111,
+        "platform": "discord"
+      },
+      {
+        "pregunta": "hola",
+        "respuesta": "Hola! Me alegra saber que estás aquí. Soy Sofía, una inteligencia artificial creada para ayudarte co",
+        "palabras_clave": [
+          "hola"
+        ],
+        "timestamp": 1767113982035,
+        "ia_usada": "Groq",
+        "puntuacion": 60,
+        "platform": "web"
+      },
+      {
+        "pregunta": "lua amigo",
+        "respuesta": "Hola, me alegra verte aquí. Soy Sofía, una inteligencia artificial creada para ayudarte con lo que n",
+        "palabras_clave": [
+          "amigo"
+        ],
+        "timestamp": 1767114381603,
+        "ia_usada": "Groq",
+        "puntuacion": 45,
+        "platform": "discord"
+      },
+      {
+        "pregunta": "posrias generar un codeg ?",
+        "respuesta": "Claro que sí! Un Codeg (acrónimo de \"Código\" en francés) es un tipo de código secreto que se utiliza",
+        "palabras_clave": [
+          "posrias",
+          "generar",
+          "codeg"
+        ],
+        "timestamp": 1767114420694,
+        "ia_usada": "Groq",
+        "puntuacion": 81,
+        "platform": "web"
       }
     ],
-    "entrenamientos": 8,
-    "totalBusquedas": 4,
-    "precision": 61.6
+    "entrenamientos": 9,
+    "totalBusquedas": 8,
+    "precision": 61.8
   }
 }
