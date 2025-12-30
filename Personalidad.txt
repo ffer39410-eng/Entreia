@@ -3,7 +3,8 @@
     "patrones_repeticion": {
       "hola": 1,
       "ey": 1,
-      "xd": 1
+      "xd": 1,
+      "que sabes aser ?": 1
     },
     "chistes_usados": [],
     "temas_recurrentes": {
@@ -23,11 +24,14 @@
       },
       "discord_user_discord_user_1136891312805781505": {
         "preguntas_frecuentes": {
-          "xd": 1
+          "que sabes aser ?": 1
         },
-        "temas_favoritos": [],
+        "temas_favoritos": [
+          "sabes",
+          "aser"
+        ],
         "total_mensajes": 1,
-        "primera_interaccion": 1767114196398,
+        "primera_interaccion": 1767114216245,
         "platform": "discord"
       }
     },
