@@ -12,11 +12,12 @@
       "posrias generar un codeg ?": 1,
       "tu algorimo como va ya?": 1,
       "y pues tenes aceso ala web?": 1,
-      "buscate polnito": 1
+      "buscate polnito": 1,
+      "buscate otra cosa en la web lo que se te pegue la gana bro": 1
     },
     "chistes_usados": [],
     "temas_recurrentes": {
-      "general": 4,
+      "general": 3,
       "tecnología": 1
     },
     "comportamiento_usuario": {
@@ -38,13 +39,16 @@
       "discord_user_discord_user_1136891312805781505": {
         "preguntas_frecuentes": {
           "que sabes aser ?": 1,
-          "buscate polnito": 1
+          "buscate otra cosa en la web lo que se te pegue la gana bro": 1
         },
         "temas_favoritos": [
           "sabes",
           "aser",
           "buscate",
-          "polnito"
+          "otra",
+          "cosa",
+          "pegue",
+          "gana"
         ],
         "total_mensajes": 2,
         "primera_interaccion": 1767114216245,
