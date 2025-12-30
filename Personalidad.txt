@@ -4,21 +4,25 @@
       "hola": 1,
       "ey": 1,
       "xd": 1,
-      "que sabes aser ?": 1
+      "que sabes aser ?": 1,
+      "quien te creo?": 1
     },
     "chistes_usados": [],
     "temas_recurrentes": {
-      "general": 2
+      "general": 3
     },
     "comportamiento_usuario": {
       "web_user_user_1767113976457_l4ch47g75": {
         "preguntas_frecuentes": {
-          "hola": 1
+          "hola": 1,
+          "quien te creo?": 1
         },
         "temas_favoritos": [
-          "hola"
+          "hola",
+          "quien",
+          "creo"
         ],
-        "total_mensajes": 1,
+        "total_mensajes": 2,
         "primera_interaccion": 1767113980986,
         "platform": "web"
       },
