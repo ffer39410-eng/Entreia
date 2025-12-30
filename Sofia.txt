@@ -1,16 +1,16 @@
 {
   "nlp": {
     "vocabulario": {
-      "hola": 4,
-      "alegra": 2,
+      "hola": 6,
+      "alegra": 4,
       "saber": 2,
-      "estás": 2,
-      "aquí": 2,
+      "estás": 4,
+      "aquí": 6,
       "sofía": 2,
       "inteligencia": 2,
       "artificial": 2,
       "creada": 2,
-      "para": 1,
+      "para": 3,
       "ayudarte": 2,
       "necesites": 1,
       "puedo": 2,
@@ -23,18 +23,23 @@
       "sobre": 1,
       "diversos": 1,
       "temas": 1,
-      "simplemente": 1,
-      "charlar": 1,
+      "simplemente": 2,
+      "charlar": 4,
       "prefieres": 1,
-      "asistirte": 1
+      "asistirte": 1,
+      "verte": 2,
+      "empezamos": 2,
+      "poco": 2,
+      "preguntar": 2,
+      "algo": 1
     },
     "relacionesSemanticas": {
-      "hola me": 2,
-      "me alegra": 2,
+      "hola me": 4,
+      "me alegra": 4,
       "alegra saber": 2,
       "saber que": 2,
       "que estás": 2,
-      "estás aquí": 2,
+      "estás aquí": 4,
       "aquí soy": 2,
       "soy sofía": 2,
       "sofía una": 2,
@@ -58,7 +63,7 @@
       "sobre diversos": 2,
       "diversos temas": 2,
       "temas o": 2,
-      "o simplemente": 2,
+      "o simplemente": 4,
       "simplemente charlar": 2,
       "charlar si": 2,
       "si lo": 2,
@@ -67,14 +72,31 @@
       "en qué": 2,
       "qué puedo": 2,
       "puedo asistirte": 2,
-      "asistirte hoy": 2
+      "asistirte hoy": 2,
+      "alegra verte": 2,
+      "verte aquí": 2,
+      "aquí qué": 2,
+      "qué tal": 2,
+      "tal si": 2,
+      "si empezamos": 2,
+      "empezamos a": 2,
+      "a charlar": 2,
+      "charlar un": 2,
+      "un poco": 2,
+      "poco estás": 2,
+      "aquí para": 2,
+      "para preguntar": 2,
+      "preguntar algo": 2,
+      "algo o": 2,
+      "simplemente para": 2,
+      "para charlar": 2
     },
     "patronesPregunta": {
-      "afirmacion_general": 1
+      "afirmacion_general": 2
     },
     "patronesRespuesta": {
       "general": {
-        "respuesta_media": 1
+        "respuesta_media": 2
       }
     },
     "temasAprendidos": [
@@ -83,11 +105,13 @@
       "responder",
       "preguntas,",
       "buscar",
-      "general"
+      "general",
+      "charlar?"
     ],
     "contextosImportantes": [],
     "patronesContexto": {
-      "afirmacion_general:hola": 1
+      "afirmacion_general:hola": 1,
+      "afirmacion_general:": 1
     },
     "aprendizajeAutomatico": [
       {
@@ -100,10 +124,30 @@
         "ia_usada": "Groq",
         "puntuacion": 60,
         "platform": "web"
+      },
+      {
+        "pregunta": "hola",
+        "respuesta": "Hola! Me alegra saber que estás aquí. Soy Sofía, una inteligencia artificial creada para ayudarte co",
+        "palabras_clave": [
+          "hola"
+        ],
+        "timestamp": 1767113982035,
+        "ia_usada": "Groq",
+        "puntuacion": 60,
+        "platform": "web"
+      },
+      {
+        "pregunta": "ey",
+        "respuesta": "Hola, me alegra verte aquí. Qué tal si empezamos a charlar un poco? Estás aquí para preguntar algo o",
+        "palabras_clave": [],
+        "timestamp": 1767114179840,
+        "ia_usada": "Groq",
+        "puntuacion": 45,
+        "platform": "discord"
       }
     ],
-    "entrenamientos": 1,
+    "entrenamientos": 2,
     "totalBusquedas": 0,
-    "precision": 60.2
+    "precision": 60.4
   }
 }
