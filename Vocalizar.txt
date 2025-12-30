@@ -265,7 +265,14 @@
       "ayudo",
       "haga,",
       "puedo:",
-      "holi"
+      "holi",
+      "verte",
+      "dudes",
+      "preguntarme",
+      "cualquier",
+      "aquí.",
+      "requieras,",
+      "cosa."
     ],
     "frasesUtiles": [
       "¿Quién eres",
@@ -310,7 +317,10 @@
       "Es algo que simplemente no hago",
       "Hay algo más en lo que pueda ayudarte",
       "solo aslo bro",
-      "No entiendo muy bien qué quieres que haga, jeje Hay algo específico en lo que pueda ayudarte"
+      "No entiendo muy bien qué quieres que haga, jeje Hay algo específico en lo que pueda ayudarte",
+      "Me alegra verte aquí",
+      "Estoy aquí para lo que requieras, así que no dudes en preguntarme cualquier cosa",
+      "En qué puedo ayudarte hoy"
     ],
     "patronesGramaticales": {},
     "conjugaciones": {
@@ -327,7 +337,8 @@
     },
     "expresionesNaturales": [
       "sobre",
-      "como"
+      "como",
+      "así que"
     ]
   }
 }
