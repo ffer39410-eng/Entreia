@@ -5,7 +5,8 @@
       "hola": 2,
       "puedes buscar pornito ?": 1,
       "busca en la web pues algo quien es goku": 1,
-      "quien es shizuka minamoto": 1
+      "quien es shizuka minamoto": 1,
+      "es muy sexy verdad ?": 1
     },
     "chistes_usados": [],
     "temas_recurrentes": {
@@ -26,13 +27,12 @@
       "web_user_default": {
         "preguntas_frecuentes": {
           "holi": 1,
-          "quien es shizuka minamoto": 1
+          "es muy sexy verdad ?": 1
         },
         "temas_favoritos": [
           "holi",
-          "quien",
-          "shizuka",
-          "minamoto"
+          "sexy",
+          "verdad"
         ],
         "total_mensajes": 2,
         "primera_interaccion": 1767056607683,
