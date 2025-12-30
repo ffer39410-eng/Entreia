@@ -1,12 +1,12 @@
 {
   "personalidad": {
     "patrones_repeticion": {
-      "holi": 1,
+      "holi": 2,
       "hola": 2
     },
     "chistes_usados": [],
     "temas_recurrentes": {
-      "general": 2
+      "general": 3
     },
     "comportamiento_usuario": {
       "user_default": {
@@ -18,6 +18,17 @@
         ],
         "total_mensajes": 2,
         "primera_interaccion": 1767055510775
+      },
+      "web_user_default": {
+        "preguntas_frecuentes": {
+          "holi": 1
+        },
+        "temas_favoritos": [
+          "holi"
+        ],
+        "total_mensajes": 1,
+        "primera_interaccion": 1767056607683,
+        "platform": "web"
       }
     },
     "momento_oportuno_humor": [],
