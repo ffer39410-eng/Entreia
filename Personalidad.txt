@@ -5,37 +5,36 @@
       "ey": 1,
       "xd": 1,
       "que sabes aser ?": 1,
-      "quien te creo?": 1
+      "quien te creo?": 1,
+      "pues  quien te creo c:": 1
     },
     "chistes_usados": [],
     "temas_recurrentes": {
-      "general": 3
+      "general": 2
     },
     "comportamiento_usuario": {
       "web_user_user_1767113976457_l4ch47g75": {
         "preguntas_frecuentes": {
-          "hola": 1,
-          "quien te creo?": 1
+          "hola": 1
         },
         "temas_favoritos": [
-          "hola",
-          "quien",
-          "creo"
+          "hola"
         ],
-        "total_mensajes": 2,
+        "total_mensajes": 1,
         "primera_interaccion": 1767113980986,
         "platform": "web"
       },
       "discord_user_discord_user_1136891312805781505": {
         "preguntas_frecuentes": {
-          "que sabes aser ?": 1
+          "pues  quien te creo c:": 1
         },
         "temas_favoritos": [
-          "sabes",
-          "aser"
+          "pues",
+          "quien",
+          "creo"
         ],
         "total_mensajes": 1,
-        "primera_interaccion": 1767114216245,
+        "primera_interaccion": 1767114268152,
         "platform": "discord"
       }
     },
