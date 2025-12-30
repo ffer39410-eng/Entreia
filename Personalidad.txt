@@ -13,11 +13,12 @@
       "tu algorimo como va ya?": 1,
       "y pues tenes aceso ala web?": 1,
       "buscate polnito": 1,
-      "buscate otra cosa en la web lo que se te pegue la gana bro": 1
+      "buscate otra cosa en la web lo que se te pegue la gana bro": 1,
+      "solo buscate quien es shizuka minamoto ?": 1
     },
     "chistes_usados": [],
     "temas_recurrentes": {
-      "general": 3,
+      "general": 4,
       "tecnología": 1
     },
     "comportamiento_usuario": {
@@ -39,16 +40,16 @@
       "discord_user_discord_user_1136891312805781505": {
         "preguntas_frecuentes": {
           "que sabes aser ?": 1,
-          "buscate otra cosa en la web lo que se te pegue la gana bro": 1
+          "solo buscate quien es shizuka minamoto ?": 1
         },
         "temas_favoritos": [
           "sabes",
           "aser",
+          "solo",
           "buscate",
-          "otra",
-          "cosa",
-          "pegue",
-          "gana"
+          "quien",
+          "shizuka",
+          "minamoto"
         ],
         "total_mensajes": 2,
         "primera_interaccion": 1767114216245,
