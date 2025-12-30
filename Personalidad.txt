@@ -17,7 +17,7 @@
           "hola"
         ],
         "total_mensajes": 1,
-        "primera_interaccion": 1767055500764
+        "primera_interaccion": 1767055510775
       }
     },
     "momento_oportuno_humor": [],
