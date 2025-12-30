@@ -7,23 +7,90 @@
     {
       "pregunta": "que puedes aser ?",
       "timestamp": 1767112952510
+    },
+    {
+      "pregunta": "hola",
+      "timestamp": 1767113554613
+    },
+    {
+      "pregunta": "jaja que ?",
+      "timestamp": 1767113562974
+    },
+    {
+      "pregunta": "hola jaja",
+      "timestamp": 1767113572028
+    },
+    {
+      "pregunta": "Muy bien y tu?",
+      "timestamp": 1767113585579
+    },
+    {
+      "pregunta": "ya te dije que tambien estoy xd",
+      "timestamp": 1767113605882
     }
   ],
   "palabras_frecuentes": {
-    "hola": 1,
+    "hola": 3,
     "puedes": 1,
-    "aser": 1
+    "aser": 1,
+    "jaja": 2,
+    "bien": 1,
+    "dije": 1,
+    "tambien": 1,
+    "estoy": 1
   },
   "respuestas_exitosas": [
     {
       "pregunta": "hola",
-      "respuesta": "¡Hola! ¿En qué puedo ayudarte hoy?",
+      "respuesta": "Â¡Hola! Â¿En quÃ© puedo ayudarte hoy?",
       "timestamp": 1767112943503
     },
     {
       "pregunta": "que puedes aser ?",
-      "respuesta": "Entiendo que me preguntas sobre puedes. Todavía estoy aprendiendo sobre ese tema. ¿Podrías darme más detalles?",
+      "respuesta": "Entiendo que me preguntas sobre puedes. TodavÃ­a estoy aprendiendo sobre ese tema. Â¿PodrÃ­as darme mÃ¡s detalles?",
       "timestamp": 1767112953519
+    },
+    {
+      "pregunta": "hola",
+      "respuesta": "Â¡Hola! Â¿En quÃ© puedo ayudarte hoy?",
+      "timestamp": 1767113556036
+    },
+    {
+      "pregunta": "jaja que ?",
+      "respuesta": "Entiendo que me preguntas sobre jaja. Todavía estoy aprendiendo sobre ese tema. Activa el modo entrenamiento para que aprenda mejor.",
+      "timestamp": 1767113564386
+    },
+    {
+      "pregunta": "hola jaja",
+      "respuesta": "Hola, ¿cómo estás?",
+      "timestamp": 1767113577331
+    },
+    {
+      "pregunta": "Muy bien y tu?",
+      "respuesta": "Bien también, ¿y tú?",
+      "timestamp": 1767113591614
+    },
+    {
+      "pregunta": "ya te dije que tambien estoy xd",
+      "respuesta": "Eso es cierto, lo recuerdo.",
+      "timestamp": 1767113608595
+    }
+  ],
+  "entrenamiento": [
+    {
+      "pregunta": "hola jaja",
+      "respuesta_elegida": "Hola, ¿cómo estás?",
+      "timestamp": 1767113577331
+    },
+    {
+      "pregunta": "Muy bien y tu?",
+      "respuesta_elegida": "Bien también, ¿y tú?",
+      "timestamp": 1767113591614
+    },
+    {
+      "pregunta": "ya te dije que tambien estoy xd",
+      "respuesta_elegida": "Eso es cierto, lo recuerdo.",
+      "timestamp": 1767113608595
     }
   ]
 }
