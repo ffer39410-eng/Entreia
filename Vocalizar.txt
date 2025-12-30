@@ -481,7 +481,11 @@
       "archivos.",
       "antes...",
       "preocupes!",
-      "mismo."
+      "mismo.",
+      "empezamos",
+      "preguntar",
+      "poco?",
+      "charlar?"
     ],
     "frasesUtiles": [
       "¿Quién eres",
@@ -554,7 +558,10 @@
       "Tiene versiones para Android e iOS",
       "Pero si estabas pensando en una conversación que tuvimos antes",
       "Puedo ayudarte con lo que necesites ahora mismo",
-      "Me alegra saber que estás aquí"
+      "Me alegra saber que estás aquí",
+      "Hola, me alegra verte aquí",
+      "Qué tal si empezamos a charlar un poco",
+      "Estás aquí para preguntar algo o simplemente para charlar"
     ],
     "patronesGramaticales": {},
     "conjugaciones": {
