@@ -9,11 +9,12 @@
       "pues  quien te creo c:": 1,
       "ya pues sabrias crear un interrutor de tp  mientras navegas buscando  boss nuevos que no esten en la lista precipal?": 1,
       "lua amigo": 1,
-      "posrias generar un codeg ?": 1
+      "posrias generar un codeg ?": 1,
+      "tu algorimo como va ya?": 1
     },
     "chistes_usados": [],
     "temas_recurrentes": {
-      "general": 3
+      "general": 4
     },
     "comportamiento_usuario": {
       "web_user_user_1767113976457_l4ch47g75": {
@@ -33,13 +34,15 @@
       },
       "discord_user_discord_user_1136891312805781505": {
         "preguntas_frecuentes": {
-          "que sabes aser ?": 1
+          "que sabes aser ?": 1,
+          "tu algorimo como va ya?": 1
         },
         "temas_favoritos": [
           "sabes",
-          "aser"
+          "aser",
+          "algorimo"
         ],
-        "total_mensajes": 1,
+        "total_mensajes": 2,
         "primera_interaccion": 1767114216245,
         "platform": "discord"
       }
