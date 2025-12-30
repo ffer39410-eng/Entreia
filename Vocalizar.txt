@@ -599,7 +599,10 @@
       "efectiva",
       "bien,",
       "preguntar.",
-      "efectiva."
+      "efectiva.",
+      "aceso",
+      "acceso",
+      "necesidades."
     ],
     "frasesUtiles": [
       "¿Quién eres",
@@ -687,7 +690,8 @@
       "Por ejemplo, el número 1 corresponde a la letra \"A\", el número 2 corresponde a la letra \"B\", y así sucesivamente",
       "Quieres intentarlo",
       "O prefieres que te dé la solución",
-      "Mi algoritmo va bien, gracias por preguntar"
+      "Mi algoritmo va bien, gracias por preguntar",
+      "Sí, tengo acceso a la web y puedo buscar información en línea para ayudarte con tus preguntas o necesidades"
     ],
     "patronesGramaticales": {},
     "conjugaciones": {
