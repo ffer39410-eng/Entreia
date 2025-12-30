@@ -1,0 +1,26 @@
+{
+  "personalidad": {
+    "patrones_repeticion": {
+      "holi": 1
+    },
+    "chistes_usados": [],
+    "temas_recurrentes": {
+      "general": 1
+    },
+    "comportamiento_usuario": {
+      "user_default": {
+        "preguntas_frecuentes": {
+          "holi": 1
+        },
+        "temas_favoritos": [
+          "holi"
+        ],
+        "total_mensajes": 1,
+        "primera_interaccion": 1767055458662
+      }
+    },
+    "momento_oportuno_humor": [],
+    "frases_graciosas": [],
+    "contextos_humor": {}
+  }
+}
