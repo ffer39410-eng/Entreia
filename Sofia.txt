@@ -1,1 +1,9 @@
-
+{
+  "patrones": {
+    "cuantas": {
+      "frecuencia": 1
+    }
+  },
+  "palabras": {},
+  "correcciones": {}
+}
