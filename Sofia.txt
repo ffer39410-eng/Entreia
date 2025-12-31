@@ -1,1 +1,14 @@
-
+{
+  "patrones": {
+    "podrias": {
+      "frecuencia": 1,
+      "ultimoUso": "2025-12-31T00:39:07.811Z"
+    },
+    "ayudar": {
+      "frecuencia": 1,
+      "ultimoUso": "2025-12-31T00:39:07.812Z"
+    }
+  },
+  "palabras": {},
+  "correcciones": {}
+}
