@@ -5,6 +5,15 @@
     },
     "quien": {
       "frecuencia": 1
+    },
+    "tenes": {
+      "frecuencia": 1
+    },
+    "guardado": {
+      "frecuencia": 1
+    },
+    "datos": {
+      "frecuencia": 1
     }
   },
   "palabras": {},
