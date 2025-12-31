@@ -20,5 +20,97 @@
     }
   },
   "palabras": {},
-  "correcciones": {}
+  "correcciones": {},
+  "infoWeb": {
+    "buscate": {
+      "info": [
+        {
+          "titulo": "Buenas! Estamos iniciándonos en la aventura de recorrer nuestra ...",
+          "snippet": "Apr 30, 2022 ... No tengo mucho presupuesto (o sea, no voy a una O km pero tampoco algo que me deje en la cima del uritorco) Gracias por las sugerencias !",
+          "link": "https://www.facebook.com/groups/892031294219807/posts/5038417429581152/"
+        },
+        {
+          "titulo": "#TipsdeMosaico \"Búscate un amante\" Jorge Bucay",
+          "snippet": "Así que mi recomendación es ponerse de novia con el Mosaico… Tomar ... Aunque resulte creerlo si hay algo que me cuesta entender es la 'teoría del color'.",
+          "link": "http://inivieramosaicart.blogspot.com/2023/08/tipsdemosaico-buscate-un-amante-jorge.html"
+        },
+        {
+          "titulo": "Buenas noches cual de estos dos peperoni me recomiendan",
+          "snippet": "Feb 14, 2025 ... Los dos se ven altamente procesados, con saborizantes artificiales... El Galicia hasta tiene carne de pollo... qué asco. Búscate algo más ...",
+          "link": "https://www.facebook.com/groups/203508101095035/posts/1358030278976139/"
+        },
+        {
+          "titulo": "Las mejores fotos del Buscate del 2024 Esto es un poco de lo que ...",
+          "snippet": "Dec 29, 2024 ... Buscate del 2024 Esto es un poco de lo que capture con mi ... algo de este año es el cariño del hincha de #Independiente fecha tras ...",
+          "link": "https://www.instagram.com/p/DELohQkxJNJ/"
+        },
+        {
+          "titulo": "Se busca: Juegos Multijugador (Sugerencias/Ayuda) : r/esGaming",
+          "snippet": "Dec 16, 2025 ... Buscate el apoyo de un clan que tooooodo el tema de el upgrade ... algo tenga un techo muy alto, te recomiendo The Finals. Es gratis y ...",
+          "link": "https://www.reddit.com/r/esGaming/comments/1pnrkag/se_busca_juegos_multijugador_sugerenciasayuda/"
+        }
+      ],
+      "timestamp": 1767143702171
+    },
+    "algo": {
+      "info": [
+        {
+          "titulo": "Buenas! Estamos iniciándonos en la aventura de recorrer nuestra ...",
+          "snippet": "Apr 30, 2022 ... No tengo mucho presupuesto (o sea, no voy a una O km pero tampoco algo que me deje en la cima del uritorco) Gracias por las sugerencias !",
+          "link": "https://www.facebook.com/groups/892031294219807/posts/5038417429581152/"
+        },
+        {
+          "titulo": "#TipsdeMosaico \"Búscate un amante\" Jorge Bucay",
+          "snippet": "Así que mi recomendación es ponerse de novia con el Mosaico… Tomar ... Aunque resulte creerlo si hay algo que me cuesta entender es la 'teoría del color'.",
+          "link": "http://inivieramosaicart.blogspot.com/2023/08/tipsdemosaico-buscate-un-amante-jorge.html"
+        },
+        {
+          "titulo": "Buenas noches cual de estos dos peperoni me recomiendan",
+          "snippet": "Feb 14, 2025 ... Los dos se ven altamente procesados, con saborizantes artificiales... El Galicia hasta tiene carne de pollo... qué asco. Búscate algo más ...",
+          "link": "https://www.facebook.com/groups/203508101095035/posts/1358030278976139/"
+        },
+        {
+          "titulo": "Las mejores fotos del Buscate del 2024 Esto es un poco de lo que ...",
+          "snippet": "Dec 29, 2024 ... Buscate del 2024 Esto es un poco de lo que capture con mi ... algo de este año es el cariño del hincha de #Independiente fecha tras ...",
+          "link": "https://www.instagram.com/p/DELohQkxJNJ/"
+        },
+        {
+          "titulo": "Se busca: Juegos Multijugador (Sugerencias/Ayuda) : r/esGaming",
+          "snippet": "Dec 16, 2025 ... Buscate el apoyo de un clan que tooooodo el tema de el upgrade ... algo tenga un techo muy alto, te recomiendo The Finals. Es gratis y ...",
+          "link": "https://www.reddit.com/r/esGaming/comments/1pnrkag/se_busca_juegos_multijugador_sugerenciasayuda/"
+        }
+      ],
+      "timestamp": 1767143702171
+    },
+    "recomiendas?": {
+      "info": [
+        {
+          "titulo": "Buenas! Estamos iniciándonos en la aventura de recorrer nuestra ...",
+          "snippet": "Apr 30, 2022 ... No tengo mucho presupuesto (o sea, no voy a una O km pero tampoco algo que me deje en la cima del uritorco) Gracias por las sugerencias !",
+          "link": "https://www.facebook.com/groups/892031294219807/posts/5038417429581152/"
+        },
+        {
+          "titulo": "#TipsdeMosaico \"Búscate un amante\" Jorge Bucay",
+          "snippet": "Así que mi recomendación es ponerse de novia con el Mosaico… Tomar ... Aunque resulte creerlo si hay algo que me cuesta entender es la 'teoría del color'.",
+          "link": "http://inivieramosaicart.blogspot.com/2023/08/tipsdemosaico-buscate-un-amante-jorge.html"
+        },
+        {
+          "titulo": "Buenas noches cual de estos dos peperoni me recomiendan",
+          "snippet": "Feb 14, 2025 ... Los dos se ven altamente procesados, con saborizantes artificiales... El Galicia hasta tiene carne de pollo... qué asco. Búscate algo más ...",
+          "link": "https://www.facebook.com/groups/203508101095035/posts/1358030278976139/"
+        },
+        {
+          "titulo": "Las mejores fotos del Buscate del 2024 Esto es un poco de lo que ...",
+          "snippet": "Dec 29, 2024 ... Buscate del 2024 Esto es un poco de lo que capture con mi ... algo de este año es el cariño del hincha de #Independiente fecha tras ...",
+          "link": "https://www.instagram.com/p/DELohQkxJNJ/"
+        },
+        {
+          "titulo": "Se busca: Juegos Multijugador (Sugerencias/Ayuda) : r/esGaming",
+          "snippet": "Dec 16, 2025 ... Buscate el apoyo de un clan que tooooodo el tema de el upgrade ... algo tenga un techo muy alto, te recomiendo The Finals. Es gratis y ...",
+          "link": "https://www.reddit.com/r/esGaming/comments/1pnrkag/se_busca_juegos_multijugador_sugerenciasayuda/"
+        }
+      ],
+      "timestamp": 1767143702171
+    }
+  }
 }
