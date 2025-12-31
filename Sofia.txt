@@ -7,12 +7,15 @@
       "frecuencia": 1
     },
     "tenes": {
-      "frecuencia": 1
+      "frecuencia": 2
     },
     "guardado": {
       "frecuencia": 1
     },
     "datos": {
+      "frecuencia": 1
+    },
+    "aceso": {
       "frecuencia": 1
     }
   },
