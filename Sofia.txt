@@ -2,6 +2,9 @@
   "patrones": {
     "cuantas": {
       "frecuencia": 1
+    },
+    "quien": {
+      "frecuencia": 1
     }
   },
   "palabras": {},
