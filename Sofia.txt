@@ -111,6 +111,126 @@
         }
       ],
       "timestamp": 1767143702171
+    },
+    "busca": {
+      "info": [
+        {
+          "titulo": "La mamá de Shizuka(Michiko Minamoto), se ve que hacen ...",
+          "snippet": "Sep 17, 2024 ... Busco ayuda para un fandub del episodio 10 de Doraemon 1979 Hola a todos,estoy buscando quien quiera darle voz a estos personajes para el ...",
+          "link": "https://www.facebook.com/groups/1693734077570603/posts/3787536738190316/"
+        },
+        {
+          "titulo": "Hoy es el Día Internacional de la Mujer, así que intenté dibujar a ...",
+          "snippet": "Mar 8, 2023 ... Skip to main content Hoy es el Día Internacional de la Mujer, así que intenté dibujar a Shizuka Minamoto. : r/Doraemon. Cerrar búsqueda. r/ ...",
+          "link": "https://www.reddit.com/r/Doraemon/comments/11m4twy/today_is_international_womens_day_so_i_attempted/?tl=es-419"
+        },
+        {
+          "titulo": "Atención, esta es mi primera publicación, mucho texto, y es solo mi ...",
+          "snippet": "May 17, 2024 ... Busco ayuda para un fandub del episodio 10 de Doraemon 1979 Hola a todos,estoy buscando quien quiera darle voz a estos personajes para el ...",
+          "link": "https://www.facebook.com/groups/1693734077570603/posts/3692110211066303/"
+        },
+        {
+          "titulo": "Hoy es el Día Internacional de la Mujer, así que intenté dibujar a ...",
+          "snippet": "Mar 8, 2023 ... Hoy es el Día Internacional de la Mujer, así que intenté dibujar a Shizuka Minamoto. ... Buscando películas de naturaleza similar a Tampopo y ...",
+          "link": "https://www.reddit.com/r/Doraemon/comments/11m4twy/today_is_international_womens_day_so_i_attempted/?tl=es-es"
+        },
+        {
+          "titulo": "The Seeking Hand | Doraemon Wiki | Fandom",
+          "snippet": "... Shizuka kissed Nobita in the episodes once in the cheek. Names in Other Languages. Languages, Title, Meaning. Spanish, La Mano Que Busca, The Seeking Hand ...",
+          "link": "https://doraemon.fandom.com/wiki/The_Seeking_Hand"
+        }
+      ],
+      "timestamp": 1767149887451
+    },
+    "quien": {
+      "info": [
+        {
+          "titulo": "La mamá de Shizuka(Michiko Minamoto), se ve que hacen ...",
+          "snippet": "Sep 17, 2024 ... Busco ayuda para un fandub del episodio 10 de Doraemon 1979 Hola a todos,estoy buscando quien quiera darle voz a estos personajes para el ...",
+          "link": "https://www.facebook.com/groups/1693734077570603/posts/3787536738190316/"
+        },
+        {
+          "titulo": "Hoy es el Día Internacional de la Mujer, así que intenté dibujar a ...",
+          "snippet": "Mar 8, 2023 ... Skip to main content Hoy es el Día Internacional de la Mujer, así que intenté dibujar a Shizuka Minamoto. : r/Doraemon. Cerrar búsqueda. r/ ...",
+          "link": "https://www.reddit.com/r/Doraemon/comments/11m4twy/today_is_international_womens_day_so_i_attempted/?tl=es-419"
+        },
+        {
+          "titulo": "Atención, esta es mi primera publicación, mucho texto, y es solo mi ...",
+          "snippet": "May 17, 2024 ... Busco ayuda para un fandub del episodio 10 de Doraemon 1979 Hola a todos,estoy buscando quien quiera darle voz a estos personajes para el ...",
+          "link": "https://www.facebook.com/groups/1693734077570603/posts/3692110211066303/"
+        },
+        {
+          "titulo": "Hoy es el Día Internacional de la Mujer, así que intenté dibujar a ...",
+          "snippet": "Mar 8, 2023 ... Hoy es el Día Internacional de la Mujer, así que intenté dibujar a Shizuka Minamoto. ... Buscando películas de naturaleza similar a Tampopo y ...",
+          "link": "https://www.reddit.com/r/Doraemon/comments/11m4twy/today_is_international_womens_day_so_i_attempted/?tl=es-es"
+        },
+        {
+          "titulo": "The Seeking Hand | Doraemon Wiki | Fandom",
+          "snippet": "... Shizuka kissed Nobita in the episodes once in the cheek. Names in Other Languages. Languages, Title, Meaning. Spanish, La Mano Que Busca, The Seeking Hand ...",
+          "link": "https://doraemon.fandom.com/wiki/The_Seeking_Hand"
+        }
+      ],
+      "timestamp": 1767149887451
+    },
+    "shizuka": {
+      "info": [
+        {
+          "titulo": "La mamá de Shizuka(Michiko Minamoto), se ve que hacen ...",
+          "snippet": "Sep 17, 2024 ... Busco ayuda para un fandub del episodio 10 de Doraemon 1979 Hola a todos,estoy buscando quien quiera darle voz a estos personajes para el ...",
+          "link": "https://www.facebook.com/groups/1693734077570603/posts/3787536738190316/"
+        },
+        {
+          "titulo": "Hoy es el Día Internacional de la Mujer, así que intenté dibujar a ...",
+          "snippet": "Mar 8, 2023 ... Skip to main content Hoy es el Día Internacional de la Mujer, así que intenté dibujar a Shizuka Minamoto. : r/Doraemon. Cerrar búsqueda. r/ ...",
+          "link": "https://www.reddit.com/r/Doraemon/comments/11m4twy/today_is_international_womens_day_so_i_attempted/?tl=es-419"
+        },
+        {
+          "titulo": "Atención, esta es mi primera publicación, mucho texto, y es solo mi ...",
+          "snippet": "May 17, 2024 ... Busco ayuda para un fandub del episodio 10 de Doraemon 1979 Hola a todos,estoy buscando quien quiera darle voz a estos personajes para el ...",
+          "link": "https://www.facebook.com/groups/1693734077570603/posts/3692110211066303/"
+        },
+        {
+          "titulo": "Hoy es el Día Internacional de la Mujer, así que intenté dibujar a ...",
+          "snippet": "Mar 8, 2023 ... Hoy es el Día Internacional de la Mujer, así que intenté dibujar a Shizuka Minamoto. ... Buscando películas de naturaleza similar a Tampopo y ...",
+          "link": "https://www.reddit.com/r/Doraemon/comments/11m4twy/today_is_international_womens_day_so_i_attempted/?tl=es-es"
+        },
+        {
+          "titulo": "The Seeking Hand | Doraemon Wiki | Fandom",
+          "snippet": "... Shizuka kissed Nobita in the episodes once in the cheek. Names in Other Languages. Languages, Title, Meaning. Spanish, La Mano Que Busca, The Seeking Hand ...",
+          "link": "https://doraemon.fandom.com/wiki/The_Seeking_Hand"
+        }
+      ],
+      "timestamp": 1767149887451
+    },
+    "minamoto": {
+      "info": [
+        {
+          "titulo": "La mamá de Shizuka(Michiko Minamoto), se ve que hacen ...",
+          "snippet": "Sep 17, 2024 ... Busco ayuda para un fandub del episodio 10 de Doraemon 1979 Hola a todos,estoy buscando quien quiera darle voz a estos personajes para el ...",
+          "link": "https://www.facebook.com/groups/1693734077570603/posts/3787536738190316/"
+        },
+        {
+          "titulo": "Hoy es el Día Internacional de la Mujer, así que intenté dibujar a ...",
+          "snippet": "Mar 8, 2023 ... Skip to main content Hoy es el Día Internacional de la Mujer, así que intenté dibujar a Shizuka Minamoto. : r/Doraemon. Cerrar búsqueda. r/ ...",
+          "link": "https://www.reddit.com/r/Doraemon/comments/11m4twy/today_is_international_womens_day_so_i_attempted/?tl=es-419"
+        },
+        {
+          "titulo": "Atención, esta es mi primera publicación, mucho texto, y es solo mi ...",
+          "snippet": "May 17, 2024 ... Busco ayuda para un fandub del episodio 10 de Doraemon 1979 Hola a todos,estoy buscando quien quiera darle voz a estos personajes para el ...",
+          "link": "https://www.facebook.com/groups/1693734077570603/posts/3692110211066303/"
+        },
+        {
+          "titulo": "Hoy es el Día Internacional de la Mujer, así que intenté dibujar a ...",
+          "snippet": "Mar 8, 2023 ... Hoy es el Día Internacional de la Mujer, así que intenté dibujar a Shizuka Minamoto. ... Buscando películas de naturaleza similar a Tampopo y ...",
+          "link": "https://www.reddit.com/r/Doraemon/comments/11m4twy/today_is_international_womens_day_so_i_attempted/?tl=es-es"
+        },
+        {
+          "titulo": "The Seeking Hand | Doraemon Wiki | Fandom",
+          "snippet": "... Shizuka kissed Nobita in the episodes once in the cheek. Names in Other Languages. Languages, Title, Meaning. Spanish, La Mano Que Busca, The Seeking Hand ...",
+          "link": "https://doraemon.fandom.com/wiki/The_Seeking_Hand"
+        }
+      ],
+      "timestamp": 1767149887451
     }
   }
 }
